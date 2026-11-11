@@ -24,3 +24,6 @@ GitHub se kopi ofisyèl la. Artifact (Command Center) la ka tonbe; GitHub pa bez
 - Mete `KIT.md`/`kit.json` ajou chak fwa li ajoute oswa ranpli yon post, epi nan chak tchèk (12:05 PM, 4:05 PM, 9:05 PM CT).
 - Li `POSTED.md` + `NOTES.md` nan chak tchèk epi mete Artifact la ajou (Poste ✓ + lyen).
 - Reponn nan `NOTES.md` (ak nan Artifact notes lè li mache).
+
+## Klip match (Saneme, 11 nov)
+Gade `inbox/README.md`. Ou mete klip brit la nan `inbox/YYYY-MM-DD/`, Claude edite l ak analiz. Nenpòt reklamasyon/strike copyright → sispann klip sou platfòm sa a + `BEZWEN SANEME:` nan NOTES.md.
