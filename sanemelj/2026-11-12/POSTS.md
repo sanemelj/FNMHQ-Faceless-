@@ -1,25 +1,21 @@
 # Sanemelj · 2026-11-12
 
-Posts in time order (US Central time). Each post lists its files, then each platform with time, caption, pinned comment and the AI-use answer.
-
-Reels are SILENT on purpose: add a trending sound inside Instagram/TikTok when posting. Do not write "AI generated" in any caption.
+Posts in time order (US Central time). Reels have no sound: add a trending sound when posting.
 
 
-## 6:00 AM · Reel 1: 60-second fix: "Your bio has one job"
+## 6:00 AM · Reel 1
 
 **Files:** `Reel_1_Nov_12.mp4`, `Cover_Reel_1_Nov_12.jpg`
 
-**Note:** Trial Reel · Videyo a SAN SON: ajoute yon son trending nan IG/TikTok lè w ap poste · Li fèt pou l replay an bouk · AI use: No toupatou (vrè videyo Pexels) · Seri 60-second fix (concept)
 
-
-### Instagram · 7:00 AM · AI use: No
+### Instagram · 7:00 AM
 
 ```
 60-second fix: your bio ↓
 
 Your bio has one job: tell a stranger what you sell, who it's for and how to buy. In three short lines.
 
-Concept example, Your Candle Shop:
+Example, Your Candle Shop:
 Before: ✨ Living my best life ✨ DM me
 After:
 Hand-poured soy candles
@@ -28,7 +24,6 @@ Order below ↓
 
 Read yours like a stranger would. If she can't answer all three, rewrite one line tonight.
 
-(Your Candle Shop is a concept example, not a real business.)
 Which line is missing from yours? 👇
 #smallbusinesstips #instagrambio #smallbusinessowner #momentrepreneur #womeninbusiness
 ```
@@ -36,14 +31,14 @@ Which line is missing from yours? 👇
 **Pinned comment:** Which line is missing from your bio right now?
 
 
-### Facebook · 7:00 AM · AI use: No
+### Facebook · 7:00 AM
 
 ```
 60-second fix: your bio ↓
 
 Your bio has one job: tell a stranger what you sell, who it's for and how to buy. In three short lines.
 
-Concept example, Your Candle Shop:
+Example, Your Candle Shop:
 Before: ✨ Living my best life ✨ DM me
 After:
 Hand-poured soy candles
@@ -52,13 +47,12 @@ Order below ↓
 
 Read yours like a stranger would. If she can't answer all three, rewrite one line tonight.
 
-(Your Candle Shop is a concept example, not a real business.)
 Which line is missing from yours? 👇
 #smallbusinesstips #instagrambio #smallbusinessowner #momentrepreneur #womeninbusiness
 ```
 
 
-### TikTok · 6:00 AM · AI use: No
+### TikTok · 6:00 AM
 
 ```
 60-second fix: your bio has one job. say what you sell, who it's for, and how to buy. which line is missing from yours? 👇
@@ -66,7 +60,7 @@ Which line is missing from yours? 👇
 ```
 
 
-### YouTube Shorts · 6:00 AM · AI use: No
+### YouTube Shorts · 6:00 AM
 
 **Title:** Your bio has one job #shorts
 
@@ -76,14 +70,12 @@ Say what you sell, who it's for and how to buy, in three short lines.
 ```
 
 
-## 8:00 AM · Carousel 1: Karousèl: "Your first quiet hour. Here's what to do with it."
+## 8:00 AM · Carousel 1
 
 **Files:** `Carousel_1_Nov_12_slide1.jpg`, `Carousel_1_Nov_12_slide2.jpg`, `Carousel_1_Nov_12_slide3.jpg`, `Carousel_1_Nov_12_slide4.jpg`, `Carousel_1_Nov_12_slide5.jpg`
 
-**Note:** Etap itil · AI use: No
 
-
-### Instagram · 8:00 AM · AI use: No
+### Instagram · 8:00 AM
 
 ```
 Your first quiet hour. Here's what to do with it ↓
@@ -104,7 +96,7 @@ Which step are you on? 👇
 **Pinned comment:** Which step feels hardest for you?
 
 
-### Facebook · 8:00 AM · AI use: No
+### Facebook · 8:00 AM
 
 ```
 Your first quiet hour. Here's what to do with it ↓
@@ -123,27 +115,23 @@ Which step are you on? 👇
 ```
 
 
-## 8:15 AM · Story 1: Story: "Which step feels hardest?"
+## 8:15 AM · Story 1
 
 **Files:** `Story_1_Nov_12.jpg`
-
-**Note:** Poste l apre karousèl la (8 AM)
 
 
 ### Instagram · 8:15 AM
 
-**What to add:** Sticker SONDAJ oswa QUIZ: One person / The questions / One platform / One post
+**Sticker:** Sticker SONDAJ oswa QUIZ: One person / The questions / One platform / One post
 Apre sa: pataje karousèl la (8 AM) nan story ou.
 
 
-## 9:00 AM · Reel 2: "What I'm building this week"
+## 9:00 AM · Reel 2
 
 **Files:** `Reel_2_Nov_12.mp4`, `Cover_Reel_2_Nov_12.jpg`
 
-**Note:** Trial Reel · Videyo a SAN SON: ajoute yon son trending nan IG/TikTok lè w ap poste · Li fèt pou l replay an bouk · AI use: No toupatou (vrè videyo Pexels)
 
-
-### Instagram · 9:00 AM · AI use: No
+### Instagram · 9:00 AM
 
 ```
 What I'm building this week ↓
@@ -164,7 +152,7 @@ What are you building this week? Tell me below 👇
 **Pinned comment:** What are you building this week?
 
 
-### Facebook · 9:00 AM · AI use: No
+### Facebook · 9:00 AM
 
 ```
 What I'm building this week ↓
@@ -183,7 +171,7 @@ What are you building this week? Tell me below 👇
 ```
 
 
-### TikTok · 1:00 PM · AI use: No
+### TikTok · 1:00 PM
 
 ```
 what i'm building this week: a quiet little corner of the internet for women who want something of their own. what are you building? 👇
@@ -191,7 +179,7 @@ what i'm building this week: a quiet little corner of the internet for women who
 ```
 
 
-### YouTube Shorts · 1:00 PM · AI use: No
+### YouTube Shorts · 1:00 PM
 
 **Title:** What I'm building this week #shorts
 
@@ -201,14 +189,12 @@ A quiet little corner of the internet for women who want something of their own.
 ```
 
 
-## 9:15 AM · Story 2: Story: kesyon "What are you building this week?"
+## 9:15 AM · Story 2
 
 **Files:** `Story_2_Nov_12.jpg`
-
-**Note:** Mete sticker KESYON an nan mitan
 
 
 ### Instagram · 9:15 AM
 
-**What to add:** Sticker KESYON: "I'm building…"
+**Sticker:** Sticker KESYON: "I'm building…"
 Apre sa: pataje Reel "What I'm building this week" la (9 AM) nan story ou.

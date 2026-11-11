@@ -1,18 +1,14 @@
 # Sanemelj · 2026-11-11
 
-Posts in time order (US Central time). Each post lists its files, then each platform with time, caption, pinned comment and the AI-use answer.
-
-Reels are SILENT on purpose: add a trending sound inside Instagram/TikTok when posting. Do not write "AI generated" in any caption.
+Posts in time order (US Central time). Reels have no sound: add a trending sound when posting.
 
 
-## 6:00 AM · Reel 1: "For the woman building something of her own"
+## 6:00 AM · Reel 1
 
 **Files:** `Reel_1_Nov_11.mp4`, `Cover_Reel_1_Nov_11.jpg`
 
-**Note:** Trial Reel · Videyo a SAN SON: ajoute yon son trending nan IG/TikTok lè w ap poste · Li fèt pou l replay an bouk · AI use: No toupatou (vrè videyo Pexels)
 
-
-### Instagram · 12:00 PM · AI use: No
+### Instagram · 12:00 PM
 
 ```
 For the woman building something of her own, one quiet hour at a time.
@@ -31,7 +27,7 @@ What's your quiet hour for right now? 👇
 **Pinned comment:** What are you building in your quiet hour?
 
 
-### Facebook · 12:00 PM · AI use: No
+### Facebook · 12:00 PM
 
 ```
 For the woman building something of her own, one quiet hour at a time.
@@ -48,7 +44,7 @@ What's your quiet hour for right now? 👇
 ```
 
 
-### TikTok · 6:00 AM · AI use: No
+### TikTok · 6:00 AM
 
 ```
 for the woman building something of her own, one quiet hour at a time. it still counts 🕯️ what's your quiet hour for? 👇
@@ -56,7 +52,7 @@ for the woman building something of her own, one quiet hour at a time. it still 
 ```
 
 
-### YouTube Shorts · 6:00 AM · AI use: No
+### YouTube Shorts · 6:00 AM
 
 **Title:** For the woman building something of her own #shorts
 
@@ -66,17 +62,15 @@ One quiet hour a day is seven hours a week of something that's yours. It still c
 ```
 
 
-## 8:00 AM · Carousel 1: Karousèl Glow-up: "Same bakery. Same menu. A different first impression."
+## 8:00 AM · Carousel 1
 
 **Files:** `Carousel_1_Nov_11_slide1.jpg`, `Carousel_1_Nov_11_slide2.jpg`, `Carousel_1_Nov_11_slide3.jpg`, `Carousel_1_Nov_11_slide4.jpg`, `Carousel_1_Nov_11_slide5.jpg`
 
-**Note:** Seri Glow-up #1 · concept
 
-
-### Instagram · 8:00 AM · AI use: No
+### Instagram · 8:00 AM
 
 ```
-Concept glow-up: the same home bakery menu, rewritten so a new customer can decide in seconds.
+The same home bakery menu, rewritten so a new customer can decide in seconds.
 One font, real prices, the best seller first, one way to order.
 What should I glow up next: a price list, a homepage or an Instagram bio? 👇
 #smallbusinesstips #womeninbusiness #smallbusinessowner #branding #homebakery
@@ -85,50 +79,44 @@ What should I glow up next: a price list, a homepage or an Instagram bio? 👇
 **Pinned comment:** Price list, homepage or bio: vote below and I'll make the next one.
 
 
-### Facebook · 8:00 AM · AI use: No
+### Facebook · 8:00 AM
 
 ```
-Concept glow-up: the same home bakery menu, rewritten so a new customer can decide in seconds.
+The same home bakery menu, rewritten so a new customer can decide in seconds.
 One font, real prices, the best seller first, one way to order.
 What should I glow up next: a price list, a homepage or an Instagram bio? 👇
 #smallbusinesstips #womeninbusiness #smallbusinessowner #branding #homebakery
 ```
 
 
-## 8:15 AM · Story 1: Story: "What should the next glow-up fix?"
+## 8:15 AM · Story 1
 
 **Files:** `Story_1_Nov_11.jpg`
-
-**Note:** Poste l apre karousèl Glow-up la (8 AM)
 
 
 ### Instagram · 8:15 AM
 
-**What to add:** Sticker SONDAJ (3 chwa ak sticker QUIZ oswa 2 sondaj): Price list / Homepage / Bio
+**Sticker:** Sticker SONDAJ (3 chwa ak sticker QUIZ oswa 2 sondaj): Price list / Homepage / Bio
 Apre sa: pataje karousèl Glow-up #1 (8 AM) la nan story ou.
 
 
-## 12:15 PM · Story 2: Story: kesyon "One quiet hour a day"
+## 12:15 PM · Story 2
 
 **Files:** `Story_2_Nov_11.jpg`
-
-**Note:** Mete sticker KESYON an nan mitan
 
 
 ### Instagram · 12:15 PM
 
-**What to add:** Sticker KESYON: "Your answer…"
+**Sticker:** Sticker KESYON: "Your answer…"
 Pa ajoute anyen ankò; kite moun yo reponn.
 
 
-## 6:00 PM · Reel 2: "Start with one person, not ten ideas"
+## 6:00 PM · Reel 2
 
 **Files:** `Reel_2_Nov_11.mp4`, `Cover_Reel_2_Nov_11.jpg`
 
-**Note:** Trial Reel · Videyo a SAN SON: ajoute yon son trending nan IG/TikTok lè w ap poste · Li fèt pou l replay an bouk · AI use: No toupatou (vrè videyo Pexels)
 
-
-### Instagram · 6:00 PM · AI use: No
+### Instagram · 6:00 PM
 
 ```
 Want something of your own online? Start smaller than you think ↓
@@ -150,7 +138,7 @@ Which step are you on? 👇
 **Pinned comment:** Who's the one person you want to help?
 
 
-### Facebook · 6:00 PM · AI use: No
+### Facebook · 6:00 PM
 
 ```
 Want something of your own online? Start smaller than you think ↓
@@ -170,7 +158,7 @@ Which step are you on? 👇
 ```
 
 
-### TikTok · 9:00 PM · AI use: No
+### TikTok · 9:00 PM
 
 ```
 want something of your own online? 1. pick one person 2. write 10 things she asks 3. post 14 days before you judge. which step are you on? 👇
@@ -178,7 +166,7 @@ want something of your own online? 1. pick one person 2. write 10 things she ask
 ```
 
 
-### YouTube Shorts · 9:00 PM · AI use: No
+### YouTube Shorts · 9:00 PM
 
 **Title:** Start with one person, not ten ideas #shorts
 
@@ -188,13 +176,11 @@ Pick one person. Write 10 things she asks. Post for 14 days before you judge it.
 ```
 
 
-## 6:15 PM · Story 3: Story: sondaj "Morning or after bedtime"
+## 6:15 PM · Story 3
 
 **Files:** `Story_3_Nov_11.jpg`
-
-**Note:** Mete sticker SONDAJ la nan mitan
 
 
 ### Instagram · 6:15 PM
 
-**What to add:** Sticker SONDAJ: Early morning ☀️ / After bedtime 🌙
+**Sticker:** Sticker SONDAJ: Early morning ☀️ / After bedtime 🌙

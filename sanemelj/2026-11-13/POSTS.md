@@ -1,18 +1,14 @@
 # Sanemelj · 2026-11-13
 
-Posts in time order (US Central time). Each post lists its files, then each platform with time, caption, pinned comment and the AI-use answer.
-
-Reels are SILENT on purpose: add a trending sound inside Instagram/TikTok when posting. Do not write "AI generated" in any caption.
+Posts in time order (US Central time). Reels have no sound: add a trending sound when posting.
 
 
-## 6:00 PM · Reel 1: "Some seasons are for building quietly"
+## 6:00 PM · Reel 1
 
 **Files:** `Reel_1_Nov_13.mp4`, `Cover_Reel_1_Nov_13.jpg`
 
-**Note:** Trial Reel · Videyo a SAN SON: ajoute yon son trending nan IG/TikTok lè w ap poste · Li fèt pou l replay an bouk · AI use: No toupatou (vrè videyo Pexels)
 
-
-### Instagram · 9:00 PM · AI use: No
+### Instagram · 9:00 PM
 
 ```
 Some seasons are for building quietly.
@@ -31,7 +27,7 @@ What are you building in this season? 👇
 **Pinned comment:** What are you building in this season?
 
 
-### Facebook · 9:00 PM · AI use: No
+### Facebook · 9:00 PM
 
 ```
 Some seasons are for building quietly.
@@ -48,7 +44,7 @@ What are you building in this season? 👇
 ```
 
 
-### TikTok · 6:00 PM · AI use: No
+### TikTok · 6:00 PM
 
 ```
 some seasons are for building quietly. no announcement, no audience yet. just you, showing up anyway. what are you building? 👇
@@ -56,7 +52,7 @@ some seasons are for building quietly. no announcement, no audience yet. just yo
 ```
 
 
-### YouTube Shorts · 6:00 PM · AI use: No
+### YouTube Shorts · 6:00 PM
 
 **Title:** Some seasons are for building quietly #shorts
 
