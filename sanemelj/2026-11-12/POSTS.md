@@ -15,7 +15,7 @@ Posts in time order (US Central time). Reels have no sound: add a trending sound
 
 Your bio has one job: tell a stranger what you sell, who it's for and how to buy. In three short lines.
 
-Example, Your Candle Shop:
+Your Candle Shop, before and after:
 Before: ✨ Living my best life ✨ DM me
 After:
 Hand-poured soy candles
@@ -38,7 +38,7 @@ Which line is missing from yours? 👇
 
 Your bio has one job: tell a stranger what you sell, who it's for and how to buy. In three short lines.
 
-Example, Your Candle Shop:
+Your Candle Shop, before and after:
 Before: ✨ Living my best life ✨ DM me
 After:
 Hand-poured soy candles
