@@ -1,5 +1,7 @@
 # Sanemelj posts
 
+> ⛔ **PA POSTE — pwodiksyon Sanemelj kanpe (Saneme, 12 nov 2026).** Kai pa bezwen poste anyen nan dosye sa a jiskaske Saneme di rekòmanse.
+
 Ready-to-post files for the **@sanemelj** page. Kept separate from the FNMHQ football files in the rest of this repo.
 
 - One folder per posting day: `sanemelj/YYYY-MM-DD/`.

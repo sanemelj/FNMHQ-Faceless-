@@ -1,5 +1,7 @@
 # Sanemelj · 2026-11-12
 
+> ⛔ **PA POSTE — pwodiksyon Sanemelj kanpe (Saneme, 12 nov 2026).** Kai pa bezwen poste anyen nan dosye sa a jiskaske Saneme di rekòmanse.
+
 Posts in time order (US Central time). Reels have no sound: add a trending sound when posting.
 
 

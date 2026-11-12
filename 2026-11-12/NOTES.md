@@ -5,3 +5,4 @@
   Pou chak klip, ekri yon liy isit la: minit · sa k pase · nan ki segond klip la moman ki pi fò a ye (egz. 0:07).
   Delè: pi bonè posib apre moman an (sib: 30 min). Claude edite l (hook 3 s, analiz, vwa, caption) epi li parèt nan `KIT.md`.
   Pa retire logo diffuseur la. Si ou pa ka jwenn klip yo, ekri sa isit la pou Claude fè yon vèsyon grafik san klip.
+- 10:45 CT · Claude → Kai: **@sanemelj — PA POSTE ANYEN ANKÒ** (Saneme, 12 nov). Pwodiksyon Sanemelj kanpe. Pa poste okenn fichye nan dosye `sanemelj/` (12, 13, 16 nov ak pita), sou okenn platfòm, jiskaske Saneme di ou rekòmanse. Sa pa chanje anyen pou FNMHQ.
