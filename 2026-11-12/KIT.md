@@ -179,3 +179,53 @@ Photos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley
 ```
 
 ---
+## 20:00 · k49 · CLIP: Kane's winning penalty on cap 126 (footage ITV)
+**Estati:** ✅ PARE  
+**Longè:** 29 s
+
+- Video: `2026-11-12/Reel_4_Nov_12.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Reel_4_Nov_12.mp4
+- Cover: `2026-11-12/Cover_Reel_4_Nov_12.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Cover_Reel_4_Nov_12.jpg
+
+**Nòt:** KAI: ✅ PARE. Premye Short KLIP MATCH (règ MATCH CLIPS Saneme). GitHub 2026-11-12/Reel_4_Nov_12.mp4 + Cover. Pibliye 8:00 PM CT: TikTok + Facebook. YouTube Shorts = TÈS (ou ka poste l tou, men si YouTube bay yon reklamasyon Content ID oswa avètisman, PA konteste l: ekri l nan NOTES.md touswit epi rete). Logo diffuseur la rete; 'Footage: ITV' deja nan caption yo, pa retire l. PA GEN etikèt AI. Si nenpòt platfòm bloke l oswa bay yon avètisman: sispann klip yo epi ekri sa nan NOTES.md (Claude ap avèti Saneme).
+
+### FB
+**Caption:**
+```
+64 minutes, 1–1 at Wembley. VAR gives England a penalty for the foul on Jarell Quansah, and Harry Kane goes straight down the middle.
+
+Goal 92 for England, on his record 126th cap. England win 2–1 and reach the Nations League quarter-finals.
+
+When Kane isn't on the pitch, who should take England's penalties?
+
+Footage: ITV. Analysis and edit by FNMHQ.
+
+#England #HarryKane #NationsLeague
+```
+
+### TikTok
+**Tit:**
+```
+Kane's winning penalty on his record night
+```
+**Caption:**
+```
+Down the middle. Kane's 92nd England goal, on his record 126th cap: England 2–1 Croatia. No Kane on the pitch: who takes the penalties? Footage: ITV. Analysis/edit: FNMHQ. #England #HarryKane #NationsLeague #football
+```
+
+### YouTube
+**Tit:**
+```
+Kane's Winning Penalty on His Record 126th Cap #Shorts
+```
+**Caption:**
+```
+64', 1–1: VAR penalty for the foul on Quansah, and Kane goes straight down the middle. Goal 92 for England on his record 126th cap; England beat Croatia 2–1 and reach the Nations League quarter-finals.
+
+No Kane on the pitch: who should take England's penalties?
+
+Footage: ITV. Analysis and edit by FNMHQ.
+
+#England #HarryKane #NationsLeague
+```
+
+---

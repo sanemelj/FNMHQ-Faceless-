@@ -117,7 +117,7 @@
   "fb": {
    "caption": "England 2–1 Croatia at Wembley. Morgan Rogers scored first (24'), Petar Sučić levelled (59'), and Harry Kane won it from the penalty spot (64').\n\nIt was Kane's 92nd England goal, on his record 126th cap: he is now England's most-capped men's player, one ahead of Peter Shilton. England are into the Nations League quarter-finals, with Spain away next.\n\nWho was England's best player tonight?\n\nPhotos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley by Arne Müseler (CC BY-SA 3.0 DE); cropped and colour-graded by FNMHQ.\n\n#England #HarryKane #NationsLeague"
   },
-  "fbDone": false,
+  "fbDone": true,
   "file": "Reel 3, Nov 12.mp4",
   "files": "Reel 3, Nov 12.mp4 · Cover Reel 3, Nov 12.jpg",
   "img": "/_blob/608c9a258129e8449485631f0532888b",
@@ -132,11 +132,52 @@
    "caption": "England 2–1 Croatia: Rogers 24', Sučić 59', Kane pen 64'. Goal 92 on record cap 126. Who was England's best player? Photos: Bryan Berlin, Arne Müseler, Wikimedia Commons (CC BY-SA), edited. #England #HarryKane #NationsLeague #football",
    "title": "Kane wins it on his record night"
   },
-  "ttDone": false,
+  "ttDone": true,
   "yt": {
    "caption": "England 2–1 Croatia at Wembley: Rogers 24', Sučić 59', Kane penalty 64'. Kane's 92nd England goal, on his record 126th cap. England reach the Nations League quarter-finals; Spain away next.\n\nWho was England's best player tonight? Tell us below.\n\nPhotos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley by Arne Müseler (CC BY-SA 3.0 DE). Changes: cropped, colour-graded.\n\n#England #HarryKane #NationsLeague",
    "title": "England 2-1 Croatia: Kane Wins It on His Record 126th Cap #Shorts"
   },
-  "ytDone": false
+  "ytDone": true
+ },
+ "k49": {
+  "ai": false,
+  "code": "4 · Nov 12",
+  "day": "2026-11-12",
+  "dl": [
+   {
+    "gh": "2026-11-12/Reel_4_Nov_12.mp4",
+    "label": "Video",
+    "name": "Reel 4, Nov 12.mp4",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Reel_4_Nov_12.mp4"
+   },
+   {
+    "gh": "2026-11-12/Cover_Reel_4_Nov_12.jpg",
+    "id": "b242e66977dda3c076853649b2f20dc4",
+    "label": "Cover",
+    "name": "Cover Reel 4, Nov 12.jpg",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Cover_Reel_4_Nov_12.jpg"
+   }
+  ],
+  "fb": {
+   "caption": "64 minutes, 1–1 at Wembley. VAR gives England a penalty for the foul on Jarell Quansah, and Harry Kane goes straight down the middle.\n\nGoal 92 for England, on his record 126th cap. England win 2–1 and reach the Nations League quarter-finals.\n\nWhen Kane isn't on the pitch, who should take England's penalties?\n\nFootage: ITV. Analysis and edit by FNMHQ.\n\n#England #HarryKane #NationsLeague"
+  },
+  "file": "Reel 4, Nov 12.mp4",
+  "files": "Reel 4, Nov 12.mp4 · Cover Reel 4, Nov 12.jpg",
+  "img": "/_blob/b242e66977dda3c076853649b2f20dc4",
+  "kind": "video",
+  "length": "29 s",
+  "note": "KAI: ✅ PARE. Premye Short KLIP MATCH (règ MATCH CLIPS Saneme). GitHub 2026-11-12/Reel_4_Nov_12.mp4 + Cover. Pibliye 8:00 PM CT: TikTok + Facebook. YouTube Shorts = TÈS (ou ka poste l tou, men si YouTube bay yon reklamasyon Content ID oswa avètisman, PA konteste l: ekri l nan NOTES.md touswit epi rete). Logo diffuseur la rete; 'Footage: ITV' deja nan caption yo, pa retire l. PA GEN etikèt AI. Si nenpòt platfòm bloke l oswa bay yon avètisman: sispann klip yo epi ekri sa nan NOTES.md (Claude ap avèti Saneme).",
+  "ready": true,
+  "readyBy": "17:00",
+  "time": "20:00",
+  "title": "CLIP: Kane's winning penalty on cap 126 (footage ITV)",
+  "tt": {
+   "caption": "Down the middle. Kane's 92nd England goal, on his record 126th cap: England 2–1 Croatia. No Kane on the pitch: who takes the penalties? Footage: ITV. Analysis/edit: FNMHQ. #England #HarryKane #NationsLeague #football",
+   "title": "Kane's winning penalty on his record night"
+  },
+  "yt": {
+   "caption": "64', 1–1: VAR penalty for the foul on Quansah, and Kane goes straight down the middle. Goal 92 for England on his record 126th cap; England beat Croatia 2–1 and reach the Nations League quarter-finals.\n\nNo Kane on the pitch: who should take England's penalties?\n\nFootage: ITV. Analysis and edit by FNMHQ.\n\n#England #HarryKane #NationsLeague",
+   "title": "Kane's Winning Penalty on His Record 126th Cap #Shorts"
+  }
  }
 }
