@@ -1,0 +1,101 @@
+{
+ "k46": {
+  "ai": false,
+  "code": "1 · Nov 12",
+  "day": "2026-11-12",
+  "dl": [
+   {
+    "gh": "2026-11-12/Reel_1_Nov_12.mp4",
+    "id": "236afe31698ca6e1077f20673b5c1c85",
+    "label": "Video",
+    "name": "Reel 1, Nov 12.mp4",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Reel_1_Nov_12.mp4"
+   },
+   {
+    "gh": "2026-11-12/Cover_Reel_1_Nov_12.jpg",
+    "id": "b19f8704ae577bcec566ac913fb86efb",
+    "label": "Cover",
+    "name": "Cover Reel 1, Nov 12.jpg",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Cover_Reel_1_Nov_12.jpg"
+   }
+  ],
+  "fb": {
+   "caption": "Tonight at Wembley, Harry Kane shows the Ballon d'Or to England fans. Last month he became the first Englishman in 25 years to win it.\n\nThomas Tuchel has confirmed he starts against Croatia: cap 126, a new England record, one clear of Peter Shilton. A point sends England into the Nations League quarter-finals.\n\nWhat's the bigger moment for Kane: the trophy or the record?\n\nPhotos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley by Arne Müseler (CC BY-SA 3.0 DE); cropped and colour-graded by FNMHQ.\n\n#England #HarryKane #BallonDor"
+  },
+  "fbDone": false,
+  "file": "Reel 1, Nov 12.mp4",
+  "files": "Reel 1, Nov 12.mp4 · Cover Reel 1, Nov 12.jpg",
+  "img": "/_blob/b19f8704ae577bcec566ac913fb86efb",
+  "kind": "video",
+  "length": "29 s",
+  "note": "KAI: ✅ PARE. GitHub 2026-11-12/Reel_1_Nov_12.mp4 + Cover. Pibliye 7:00 AM CT (FB + TikTok + YouTube Shorts), yon sèl fwa pa platfòm, caption platfòm nan. PA GEN etikèt AI. Ekspire 1:30 PM jodi a (match la kòmanse 1:45 PM).",
+  "ready": true,
+  "readyBy": "06:55",
+  "time": "07:00",
+  "title": "Kane: Ballon d'Or at Wembley + record night",
+  "tt": {
+   "caption": "Ballon d'Or at Wembley + cap 126 for Kane tonight v Croatia. Trophy or record: what's bigger? Photos: Bryan Berlin, Arne Müseler, Wikimedia Commons (CC BY-SA), edited. #England #HarryKane #BallonDor #football",
+   "title": "Kane brings the Ballon d'Or to Wembley tonight"
+  },
+  "ttDone": false,
+  "yt": {
+   "caption": "Tonight at Wembley, Harry Kane shows the Ballon d'Or to England fans, the first English winner in 25 years. Tuchel confirmed he starts against Croatia: cap 126, a new England record. A point sends England into the Nations League quarter-finals.\n\nTrophy or record: what's the bigger moment? Tell us below.\n\nPhotos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley by Arne Müseler (CC BY-SA 3.0 DE). Changes: cropped, colour-graded.\n\n#England #HarryKane #BallonDor",
+   "title": "Harry Kane's Ballon d'Or Night: Cap 126 vs Croatia #Shorts"
+  },
+  "ytDone": false
+ },
+ "k47": {
+  "ai": false,
+  "code": "LF · Nov 12",
+  "day": "2026-11-12",
+  "fb": {
+   "caption": "(ap vini)"
+  },
+  "fbDone": false,
+  "file": "LF_kane_record.mp4",
+  "files": "(ap vini)",
+  "kind": "long",
+  "note": "KAI: PA PARE. Videyo long YouTube sèlman (pa FB/TikTok). Claude ap mete l vè 11:15 AM.",
+  "ready": false,
+  "readyBy": "11:15",
+  "time": "12:00",
+  "title": "⏳ LONG-FORM (Kai pibliye l sou YouTube): Harry Kane's record night",
+  "tt": {
+   "caption": "(ap vini)",
+   "title": "(ap vini)"
+  },
+  "ttDone": false,
+  "yt": {
+   "caption": "(ap vini)",
+   "title": "(ap vini)"
+  },
+  "ytDone": false
+ },
+ "k48": {
+  "ai": false,
+  "code": "2 · Nov 12",
+  "day": "2026-11-12",
+  "fb": {
+   "caption": "(ap vini)"
+  },
+  "fbDone": false,
+  "file": "Reel 2, Nov 12.mp4",
+  "files": "(ap vini)",
+  "kind": "video",
+  "note": "KAI: PA PARE. Short apre match la (oswa klip ou mete nan inbox/2026-11-12/). Claude ap mete l vè 4:30 PM.",
+  "ready": false,
+  "readyBy": "16:30",
+  "time": "17:00",
+  "title": "⏳ England v Croatia: full time",
+  "tt": {
+   "caption": "(ap vini)",
+   "title": "(ap vini)"
+  },
+  "ttDone": false,
+  "yt": {
+   "caption": "(ap vini)",
+   "title": "(ap vini)"
+  },
+  "ytDone": false
+ }
+}
