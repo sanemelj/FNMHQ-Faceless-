@@ -69,6 +69,7 @@
     "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/LF_kane_record_youtube.txt"
    }
   ],
+  "expired": true,
   "fb": {
    "caption": "(YouTube sèlman — pa poste sou FB)"
   },
@@ -78,7 +79,7 @@
   "img": "/_blob/4f78b4867ea30916a554b8694d908d70",
   "kind": "long",
   "length": "2:54",
-  "note": "KAI: ✅ PARE. YouTube SÈLMAN (videyo long, pa FB/TikTok). GitHub 2026-11-12/LF_kane_record.mp4 + LF_kane_record_thumb.jpg. Pibliye 12:00 PM CT (anvan match la 1:45 PM). Tit, deskripsyon, chapit, tags: LF_kane_record_youtube.txt. Studio: Category Sports · Language English · Altered or synthetic content: NO · Playlist: Trending Explainers · Custom thumbnail = LF_kane_record_thumb.jpg · End screen 2:46→fen: 1 videyo 'Best for viewer' (bwat gòch) + Subscribe (bwat dwat). Pin komantè: \"Score prediction for England v Croatia? 👇\". Apre: ekri lyen an nan POSTED.md.",
+  "note": "⛔ EKSPIRE — videyo anvan match la, pa t poste anvan 1:45 PM. PA PIBLIYE L. (Claude ap fè yon videyo long apre match pou Vandredi/Samdi.)",
   "ready": true,
   "readyBy": "11:15",
   "time": "12:00",
@@ -96,28 +97,45 @@
  },
  "k48": {
   "ai": false,
-  "code": "2 · Nov 12",
+  "code": "3 · Nov 12",
   "day": "2026-11-12",
+  "dl": [
+   {
+    "gh": "2026-11-12/Reel_3_Nov_12.mp4",
+    "label": "Video",
+    "name": "Reel 3, Nov 12.mp4",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Reel_3_Nov_12.mp4"
+   },
+   {
+    "gh": "2026-11-12/Cover_Reel_3_Nov_12.jpg",
+    "id": "608c9a258129e8449485631f0532888b",
+    "label": "Cover",
+    "name": "Cover Reel 3, Nov 12.jpg",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Cover_Reel_3_Nov_12.jpg"
+   }
+  ],
   "fb": {
-   "caption": "(ap vini)"
+   "caption": "England 2–1 Croatia at Wembley. Morgan Rogers scored first (24'), Petar Sučić levelled (59'), and Harry Kane won it from the penalty spot (64').\n\nIt was Kane's 92nd England goal, on his record 126th cap: he is now England's most-capped men's player, one ahead of Peter Shilton. England are into the Nations League quarter-finals, with Spain away next.\n\nWho was England's best player tonight?\n\nPhotos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley by Arne Müseler (CC BY-SA 3.0 DE); cropped and colour-graded by FNMHQ.\n\n#England #HarryKane #NationsLeague"
   },
   "fbDone": false,
-  "file": "Reel 2, Nov 12.mp4",
-  "files": "(ap vini)",
+  "file": "Reel 3, Nov 12.mp4",
+  "files": "Reel 3, Nov 12.mp4 · Cover Reel 3, Nov 12.jpg",
+  "img": "/_blob/608c9a258129e8449485631f0532888b",
   "kind": "video",
-  "note": "KAI: PA PARE. Short apre match la (oswa klip ou mete nan inbox/2026-11-12/). Claude ap mete l vè 4:30 PM.",
-  "ready": false,
+  "length": "30 s",
+  "note": "KAI: ✅ PARE. GitHub 2026-11-12/Reel_3_Nov_12.mp4 + Cover. Pibliye 5:00 PM CT (FB + TikTok + YouTube Shorts), yon sèl fwa pa platfòm, caption platfòm nan. PA GEN etikèt AI. YouTube Related video: kite l vid (videyo long Kane la pa t poste). Apre: lyen yo nan POSTED.md.",
+  "ready": true,
   "readyBy": "16:30",
   "time": "17:00",
-  "title": "⏳ England v Croatia: full time",
+  "title": "FT: England 2–1 Croatia, Kane wins it on cap 126",
   "tt": {
-   "caption": "(ap vini)",
-   "title": "(ap vini)"
+   "caption": "England 2–1 Croatia: Rogers 24', Sučić 59', Kane pen 64'. Goal 92 on record cap 126. Who was England's best player? Photos: Bryan Berlin, Arne Müseler, Wikimedia Commons (CC BY-SA), edited. #England #HarryKane #NationsLeague #football",
+   "title": "Kane wins it on his record night"
   },
   "ttDone": false,
   "yt": {
-   "caption": "(ap vini)",
-   "title": "(ap vini)"
+   "caption": "England 2–1 Croatia at Wembley: Rogers 24', Sučić 59', Kane penalty 64'. Kane's 92nd England goal, on his record 126th cap. England reach the Nations League quarter-finals; Spain away next.\n\nWho was England's best player tonight? Tell us below.\n\nPhotos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley by Arne Müseler (CC BY-SA 3.0 DE). Changes: cropped, colour-graded.\n\n#England #HarryKane #NationsLeague",
+   "title": "England 2-1 Croatia: Kane Wins It on His Record 126th Cap #Shorts"
   },
   "ytDone": false
  }

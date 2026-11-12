@@ -53,14 +53,14 @@ Photos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley
 
 ---
 ## 12:00 · k47 · LONG-FORM (YouTube sèlman): Harry Kane's Record Night
-**Estati:** ✅ PARE  
+**Estati:** ⛔ EKSPIRE — pa pibliye  
 **Longè:** 2:54
 
 - Video: `2026-11-12/LF_kane_record.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/LF_kane_record.mp4
 - Thumbnail: `2026-11-12/LF_kane_record_thumb.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/LF_kane_record_thumb.jpg
 - YouTube text: `2026-11-12/LF_kane_record_youtube.txt` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/LF_kane_record_youtube.txt
 
-**Nòt:** KAI: ✅ PARE. YouTube SÈLMAN (videyo long, pa FB/TikTok). GitHub 2026-11-12/LF_kane_record.mp4 + LF_kane_record_thumb.jpg. Pibliye 12:00 PM CT (anvan match la 1:45 PM). Tit, deskripsyon, chapit, tags: LF_kane_record_youtube.txt. Studio: Category Sports · Language English · Altered or synthetic content: NO · Playlist: Trending Explainers · Custom thumbnail = LF_kane_record_thumb.jpg · End screen 2:46→fen: 1 videyo 'Best for viewer' (bwat gòch) + Subscribe (bwat dwat). Pin komantè: "Score prediction for England v Croatia? 👇". Apre: ekri lyen an nan POSTED.md.
+**Nòt:** ⛔ EKSPIRE — videyo anvan match la, pa t poste anvan 1:45 PM. PA PIBLIYE L. (Claude ap fè yon videyo long apre match pou Vandredi/Samdi.)
 
 ### FB
 **Caption:**
@@ -129,37 +129,53 @@ Tags: Harry Kane, Harry Kane record, England most caps, Peter Shilton record, Ka
 ```
 
 ---
-## 17:00 · k48 · England v Croatia: full time
-**Estati:** ⏳ PA PARE (Claude ap mete l vè 16:30)  
-**Longè:** ?
+## 17:00 · k48 · FT: England 2–1 Croatia, Kane wins it on cap 126
+**Estati:** ✅ PARE  
+**Longè:** 30 s
 
+- Video: `2026-11-12/Reel_3_Nov_12.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Reel_3_Nov_12.mp4
+- Cover: `2026-11-12/Cover_Reel_3_Nov_12.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Cover_Reel_3_Nov_12.jpg
 
-**Nòt:** KAI: PA PARE. Short apre match la (oswa klip ou mete nan inbox/2026-11-12/). Claude ap mete l vè 4:30 PM.
+**Nòt:** KAI: ✅ PARE. GitHub 2026-11-12/Reel_3_Nov_12.mp4 + Cover. Pibliye 5:00 PM CT (FB + TikTok + YouTube Shorts), yon sèl fwa pa platfòm, caption platfòm nan. PA GEN etikèt AI. YouTube Related video: kite l vid (videyo long Kane la pa t poste). Apre: lyen yo nan POSTED.md.
 
 ### FB
 **Caption:**
 ```
-(ap vini)
+England 2–1 Croatia at Wembley. Morgan Rogers scored first (24'), Petar Sučić levelled (59'), and Harry Kane won it from the penalty spot (64').
+
+It was Kane's 92nd England goal, on his record 126th cap: he is now England's most-capped men's player, one ahead of Peter Shilton. England are into the Nations League quarter-finals, with Spain away next.
+
+Who was England's best player tonight?
+
+Photos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley by Arne Müseler (CC BY-SA 3.0 DE); cropped and colour-graded by FNMHQ.
+
+#England #HarryKane #NationsLeague
 ```
 
 ### TikTok
 **Tit:**
 ```
-(ap vini)
+Kane wins it on his record night
 ```
 **Caption:**
 ```
-(ap vini)
+England 2–1 Croatia: Rogers 24', Sučić 59', Kane pen 64'. Goal 92 on record cap 126. Who was England's best player? Photos: Bryan Berlin, Arne Müseler, Wikimedia Commons (CC BY-SA), edited. #England #HarryKane #NationsLeague #football
 ```
 
 ### YouTube
 **Tit:**
 ```
-(ap vini)
+England 2-1 Croatia: Kane Wins It on His Record 126th Cap #Shorts
 ```
 **Caption:**
 ```
-(ap vini)
+England 2–1 Croatia at Wembley: Rogers 24', Sučić 59', Kane penalty 64'. Kane's 92nd England goal, on his record 126th cap. England reach the Nations League quarter-finals; Spain away next.
+
+Who was England's best player tonight? Tell us below.
+
+Photos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley by Arne Müseler (CC BY-SA 3.0 DE). Changes: cropped, colour-graded.
+
+#England #HarryKane #NationsLeague
 ```
 
 ---
