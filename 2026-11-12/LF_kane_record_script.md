@@ -1,0 +1,36 @@
+# LF script — Harry Kane's Record Night (12 Nov 2026)
+Compliance log: script written by FNMHQ (Claude), facts checked with 2 sources each (see LF_kane_record_youtube.txt). Voice: Kokoro bm_george. Visuals: original motion graphics + Wikimedia Commons photos (credited).
+
+- [0:00] **h1** Tonight, Wembley gets a night it has waited 25 years for.
+- [0:05] **h2** Harry Kane brings the Ballon d'Or home, and shows it to England's fans.
+- [0:09] **h3** Then he plays his 126th game for England. No England man has ever played more.
+- [0:16] **h4** So why is this night historic, and what is really at stake against Croatia? Let's break it down.
+- [0:23] **ch1** Chapter one. The trophy.
+- [0:25] **a1** Last month, Harry Kane won the Ballon d'Or, the award for the best player in the world.
+- [0:30] **a2** He is the first Englishman to win it in 25 years. The last was Michael Owen, in 2001.
+- [0:38] **a3** Tonight, he presents the trophy to the fans at Wembley.
+- [0:42] **a4** Thomas Tuchel called it a beautiful occasion.
+- [0:46] **ch2** Chapter two. The record.
+- [0:48] **b1** For decades, England's appearance record belonged to a goalkeeper. Peter Shilton, with 125 caps.
+- [0:56] **b1b** Kane's first cap came in March 2015, against Lithuania. He came off the bench, and scored within two minutes.
+- [1:04] **b2** Last month, against Czechia, Kane drew level.
+- [1:07] **b3** Now Tuchel has confirmed it. Kane starts tonight, as captain. Cap 126. The record is his alone.
+- [1:16] **b4** And he is still scoring. Kane is already England's all-time top scorer.
+- [1:20] **q1** Quick question. How many goals has he scored for England in 2026? Pause, and guess.
+- [1:29] **b5** 13. Only one man has scored more for England in a single year. Kane himself, with 16, in 2021.
+- [1:38] **ch3** Chapter three. Croatia.
+- [1:40] **c1** Last month, in Croatia, England won 7–0.
+- [1:44] **c2** It was the heaviest defeat in Croatia's history.
+- [1:48] **c3** Since then, Croatia have lost three games in a row.
+- [1:51] **c4** But Tuchel is not relaxed. His message: expect a reaction, and start from scratch.
+- [1:58] **ch4** Chapter four. Team news.
+- [2:00] **d1** Two centre-backs are missing. Marc Guehi has a hip injury, and Ezri Konsa is out.
+- [2:06] **d2** Dan Burn comes in for Guehi.
+- [2:09] **d3** And there are new faces. James Hill has his first senior call-up, and so does Jobe Bellingham.
+- [2:15] **d4** Bukayo Saka is injured, and not in the squad.
+- [2:19] **ch5** Chapter five. What's at stake.
+- [2:22] **e1** England are second in their Nations League group, three points behind Spain.
+- [2:27] **e2** A point tonight secures a place in the quarter-finals.
+- [2:30] **e3** Then on Monday, England go to Spain, and the group could still be theirs.
+- [2:36] **o1** So, here's our question. Does Kane mark his record night with a goal? Give us your score prediction in the comments.
+- [2:43] **o2** Subscribe, for every big moment, explained fast.
