@@ -161,6 +161,7 @@
   "fb": {
    "caption": "64 minutes, 1–1 at Wembley. VAR gives England a penalty for the foul on Jarell Quansah, and Harry Kane goes straight down the middle.\n\nGoal 92 for England, on his record 126th cap. England win 2–1 and reach the Nations League quarter-finals.\n\nWhen Kane isn't on the pitch, who should take England's penalties?\n\nFootage: ITV. Analysis and edit by FNMHQ.\n\n#England #HarryKane #NationsLeague"
   },
+  "fbDone": true,
   "file": "Reel 4, Nov 12.mp4",
   "files": "Reel 4, Nov 12.mp4 · Cover Reel 4, Nov 12.jpg",
   "img": "/_blob/b242e66977dda3c076853649b2f20dc4",
@@ -175,9 +176,52 @@
    "caption": "Down the middle. Kane's 92nd England goal, on his record 126th cap: England 2–1 Croatia. No Kane on the pitch: who takes the penalties? Footage: ITV. Analysis/edit: FNMHQ. #England #HarryKane #NationsLeague #football",
    "title": "Kane's winning penalty on his record night"
   },
+  "ttDone": true,
   "yt": {
    "caption": "64', 1–1: VAR penalty for the foul on Quansah, and Kane goes straight down the middle. Goal 92 for England on his record 126th cap; England beat Croatia 2–1 and reach the Nations League quarter-finals.\n\nNo Kane on the pitch: who should take England's penalties?\n\nFootage: ITV. Analysis and edit by FNMHQ.\n\n#England #HarryKane #NationsLeague",
    "title": "Kane's Winning Penalty on His Record 126th Cap #Shorts"
+  },
+  "ytDone": true
+ },
+ "k50": {
+  "ai": false,
+  "code": "5 · Nov 12",
+  "day": "2026-11-12",
+  "dl": [
+   {
+    "gh": "2026-11-12/Reel_5_Nov_12.mp4",
+    "label": "Video",
+    "name": "Reel 5, Nov 12.mp4",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Reel_5_Nov_12.mp4"
+   },
+   {
+    "gh": "2026-11-12/Cover_Reel_5_Nov_12.jpg",
+    "id": "72d04bc1ac7e5175a265ba4d745d52a3",
+    "label": "Cover",
+    "name": "Cover Reel 5, Nov 12.jpg",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Cover_Reel_5_Nov_12.jpg"
+   }
+  ],
+  "fb": {
+   "caption": "24 minutes at Wembley: England work it into the box and Morgan Rogers finishes it. 1–0.\n\nCroatia levelled through Petar Sučić on 59 minutes, then Harry Kane's penalty won it 2–1 on his record 126th cap.\n\nMan of the match: Rogers or Kane?\n\nFootage: Ziggo Sport (clip via @TalkFootX). Analysis and edit by FNMHQ.\n\n#England #NationsLeague #MorganRogers"
+  },
+  "file": "Reel 5, Nov 12.mp4",
+  "files": "Reel 5, Nov 12.mp4 · Cover Reel 5, Nov 12.jpg",
+  "img": "/_blob/72d04bc1ac7e5175a265ba4d745d52a3",
+  "kind": "video",
+  "length": "25 s",
+  "note": "KAI: ✅ PARE. GitHub 2026-11-12/Reel_5_Nov_12.mp4 + Cover. Pibliye 8:00 PM CT: TikTok + Facebook (YouTube Shorts = tès). Si gen reklamasyon/avètisman: pa konteste, ekri l nan NOTES.md touswit. PA GEN etikèt AI. Nòt: klip Sučić la PA itilize (se yon edit lòt paj, san logo diffuseur). k49 deja poste (5:25 PM): PA retire l, PA repoze l san Saneme di wi.",
+  "ready": true,
+  "readyBy": "19:00",
+  "time": "20:00",
+  "title": "CLIP: Rogers opens the scoring (footage Ziggo Sport)",
+  "tt": {
+   "caption": "Rogers 24', Sučić 59', Kane pen 64': England 2–1 Croatia. Man of the match: Rogers or Kane? Footage: Ziggo Sport (clip via @TalkFootX). Analysis/edit: FNMHQ. #England #NationsLeague #MorganRogers #football",
+   "title": "Rogers opens the scoring at Wembley"
+  },
+  "yt": {
+   "caption": "24': England work it into the box and Morgan Rogers finishes it. Croatia levelled through Sučić (59'), then Kane's penalty (64') won it 2–1.\n\nMan of the match: Rogers or Kane?\n\nFootage: Ziggo Sport (clip via @TalkFootX). Analysis and edit by FNMHQ.\n\n#England #NationsLeague #MorganRogers",
+   "title": "Morgan Rogers Opens the Scoring: England 2-1 Croatia #Shorts"
   }
  }
 }

@@ -229,3 +229,53 @@ Footage: ITV. Analysis and edit by FNMHQ.
 ```
 
 ---
+## 20:00 · k50 · CLIP: Rogers opens the scoring (footage Ziggo Sport)
+**Estati:** ✅ PARE  
+**Longè:** 25 s
+
+- Video: `2026-11-12/Reel_5_Nov_12.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Reel_5_Nov_12.mp4
+- Cover: `2026-11-12/Cover_Reel_5_Nov_12.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/Cover_Reel_5_Nov_12.jpg
+
+**Nòt:** KAI: ✅ PARE. GitHub 2026-11-12/Reel_5_Nov_12.mp4 + Cover. Pibliye 8:00 PM CT: TikTok + Facebook (YouTube Shorts = tès). Si gen reklamasyon/avètisman: pa konteste, ekri l nan NOTES.md touswit. PA GEN etikèt AI. Nòt: klip Sučić la PA itilize (se yon edit lòt paj, san logo diffuseur). k49 deja poste (5:25 PM): PA retire l, PA repoze l san Saneme di wi.
+
+### FB
+**Caption:**
+```
+24 minutes at Wembley: England work it into the box and Morgan Rogers finishes it. 1–0.
+
+Croatia levelled through Petar Sučić on 59 minutes, then Harry Kane's penalty won it 2–1 on his record 126th cap.
+
+Man of the match: Rogers or Kane?
+
+Footage: Ziggo Sport (clip via @TalkFootX). Analysis and edit by FNMHQ.
+
+#England #NationsLeague #MorganRogers
+```
+
+### TikTok
+**Tit:**
+```
+Rogers opens the scoring at Wembley
+```
+**Caption:**
+```
+Rogers 24', Sučić 59', Kane pen 64': England 2–1 Croatia. Man of the match: Rogers or Kane? Footage: Ziggo Sport (clip via @TalkFootX). Analysis/edit: FNMHQ. #England #NationsLeague #MorganRogers #football
+```
+
+### YouTube
+**Tit:**
+```
+Morgan Rogers Opens the Scoring: England 2-1 Croatia #Shorts
+```
+**Caption:**
+```
+24': England work it into the box and Morgan Rogers finishes it. Croatia levelled through Sučić (59'), then Kane's penalty (64') won it 2–1.
+
+Man of the match: Rogers or Kane?
+
+Footage: Ziggo Sport (clip via @TalkFootX). Analysis and edit by FNMHQ.
+
+#England #NationsLeague #MorganRogers
+```
+
+---
