@@ -69,7 +69,6 @@
     "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/LF_kane_record_youtube.txt"
    }
   ],
-  "expired": true,
   "fb": {
    "caption": "(YouTube sèlman — pa poste sou FB)"
   },
@@ -79,7 +78,7 @@
   "img": "/_blob/4f78b4867ea30916a554b8694d908d70",
   "kind": "long",
   "length": "2:54",
-  "note": "⛔ EKSPIRE — videyo anvan match la, pa t poste anvan 1:45 PM. PA PIBLIYE L. (Claude ap fè yon videyo long apre match pou Vandredi/Samdi.)",
+  "note": "✅ POSTE sou YouTube 7:36 PM CT (lòd Saneme): https://www.youtube.com/watch?v=OaJ0zo9y-A8",
   "ready": true,
   "readyBy": "11:15",
   "time": "12:00",
@@ -93,7 +92,8 @@
    "caption": "Tonight at Wembley, Harry Kane shows the Ballon d'Or to England's fans, the first English winner in 25 years, and then plays his 126th game for England. No England man has ever played more. Peter Shilton held the record with 125 caps for decades; Thomas Tuchel has confirmed Kane starts as captain against Croatia.\n\nWhat's at stake: England beat Croatia 7–0 last month, Croatia's heaviest defeat ever. A point tonight secures a Nations League quarter-final place, and England still go to Spain on Monday with the group in play. Team news: Marc Guehi (hip) and Ezri Konsa are out, Dan Burn comes in, James Hill and Jobe Bellingham have their first senior call-ups, and Bukayo Saka is injured.\n\nDoes Kane mark his record night with a goal? Give us your score prediction in the comments.\n\nCHAPTERS\n0:00 Tonight at Wembley\n0:23 Ch. 1: The trophy\n0:46 Ch. 2: The record\n1:38 Ch. 3: Croatia\n1:58 Ch. 4: Team news\n2:19 Ch. 5: What's at stake\n2:36 Your score prediction\n\nSubscribe to FNMHQ for every big moment, explained fast.\n\nSources (checked 12 Nov 2026):\n- Kane starts as captain, cap 126, Ballon d'Or shown to fans at Wembley: England Football (englandfootball.com, 11 Nov 2026); beIN Sports (11 Nov 2026)\n- Ballon d'Or, first English winner in 25 years: Irish News; Sports Illustrated; Capital FM (Oct 2026)\n- Kane level with Shilton v Czechia: Irish News; 101 Great Goals (Oct 2026)\n- 13 England goals in 2026, record 16 in 2021: beIN Sports; The Hard Tackle (11 Nov 2026)\n- 7–0, Croatia's heaviest defeat; a draw enough for the quarter-finals: Sports Mole (11 Nov 2026); beIN Sports\n- Croatia's three straight defeats: The Hard Tackle; Sports Mole\n- Team news (Guehi, Konsa, Burn, Hill, Jobe Bellingham, Saka): Yahoo Sports; Sports Mole; The Hard Tackle; beIN Sports\n- England three points behind Spain, Spain away on Monday: Yahoo Sports; beIN Sports\n- Tuchel quotes (\"beautiful occasion\", \"expect a reaction\", \"start from scratch\"): beIN Sports; England Football\n\nVisuals: original FNMHQ motion graphics. No match footage.\nPhotos via Wikimedia Commons (licences as listed). Changes by FNMHQ: cropped, colour-graded; thumbnail cut-out.\nLicence texts: creativecommons.org/licenses/by-sa/4.0 · /by-sa/3.0 · /by-sa/3.0/de · /by/2.0\n- Harry Kane, England v Ghana, 23 June 2026 (-067, -139, -220) and Harry Kane portrait: Bryan Berlin (CC BY-SA 4.0)\n- Thomas Tuchel, England v Ghana, 23 June 2026 (-081): Bryan Berlin (CC BY-SA 4.0)\n- Luka Modric, Croatia v Portugal, 2 July 2026 (-177): Bryan Berlin (CC BY-SA 4.0)\n- Peter Shilton: Joebloggsy (CC BY-SA 3.0)\n- Wembley Stadium: Arne Müseler (CC BY-SA 3.0 DE)\n- Fans at Wembley, England v Ghana: philosophyfootball (CC BY 2.0)\n\n#England #HarryKane #BallonDor\n\nTags: Harry Kane, Harry Kane record, England most caps, Peter Shilton record, Kane 126 caps, Ballon d'Or 2026, England vs Croatia, Nations League, Thomas Tuchel, England team news",
    "title": "Harry Kane's Record Night: Cap 126 + Ballon d'Or at Wembley (England v Croatia)"
   },
-  "ytDone": false
+  "ytDone": true,
+  "ytLink": "https://www.youtube.com/watch?v=OaJ0zo9y-A8"
  },
  "k48": {
   "ai": false,
@@ -205,6 +205,7 @@
   "fb": {
    "caption": "24 minutes at Wembley: England work it into the box and Morgan Rogers finishes it. 1–0.\n\nCroatia levelled through Petar Sučić on 59 minutes, then Harry Kane's penalty won it 2–1 on his record 126th cap.\n\nMan of the match: Rogers or Kane?\n\nFootage: Ziggo Sport (clip via @TalkFootX). Analysis and edit by FNMHQ.\n\n#England #NationsLeague #MorganRogers"
   },
+  "fbDone": true,
   "file": "Reel 5, Nov 12.mp4",
   "files": "Reel 5, Nov 12.mp4 · Cover Reel 5, Nov 12.jpg",
   "img": "/_blob/72d04bc1ac7e5175a265ba4d745d52a3",
@@ -219,9 +220,11 @@
    "caption": "Rogers 24', Sučić 59', Kane pen 64': England 2–1 Croatia. Man of the match: Rogers or Kane? Footage: Ziggo Sport (clip via @TalkFootX). Analysis/edit: FNMHQ. #England #NationsLeague #MorganRogers #football",
    "title": "Rogers opens the scoring at Wembley"
   },
+  "ttDone": true,
   "yt": {
    "caption": "24': England work it into the box and Morgan Rogers finishes it. Croatia levelled through Sučić (59'), then Kane's penalty (64') won it 2–1.\n\nMan of the match: Rogers or Kane?\n\nFootage: Ziggo Sport (clip via @TalkFootX). Analysis and edit by FNMHQ.\n\n#England #NationsLeague #MorganRogers",
    "title": "Morgan Rogers Opens the Scoring: England 2-1 Croatia #Shorts"
-  }
+  },
+  "ytDone": true
  }
 }

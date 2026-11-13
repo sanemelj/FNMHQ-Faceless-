@@ -53,14 +53,14 @@ Photos via Wikimedia Commons: Harry Kane by Bryan Berlin (CC BY-SA 4.0), Wembley
 
 ---
 ## 12:00 · k47 · LONG-FORM (YouTube sèlman): Harry Kane's Record Night
-**Estati:** ⛔ EKSPIRE — pa pibliye  
+**Estati:** ✅ PARE  
 **Longè:** 2:54
 
 - Video: `2026-11-12/LF_kane_record.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/LF_kane_record.mp4
 - Thumbnail: `2026-11-12/LF_kane_record_thumb.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/LF_kane_record_thumb.jpg
 - YouTube text: `2026-11-12/LF_kane_record_youtube.txt` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-12/LF_kane_record_youtube.txt
 
-**Nòt:** ⛔ EKSPIRE — videyo anvan match la, pa t poste anvan 1:45 PM. PA PIBLIYE L. (Claude ap fè yon videyo long apre match pou Vandredi/Samdi.)
+**Nòt:** ✅ POSTE sou YouTube 7:36 PM CT (lòd Saneme): https://www.youtube.com/watch?v=OaJ0zo9y-A8
 
 ### FB
 **Caption:**
