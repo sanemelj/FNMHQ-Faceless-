@@ -80,3 +80,78 @@ Sources: Nayib Bukele (Nov. 12); Haitian National Police via AFP; HaitiLibre (No
 ```
 haiti, haiti news, bukele haiti, robot dogs, armed robot dogs, haiti national stadium, stade sylvio cator, port-au-prince, el salvador haiti, bukele, nayib bukele, haiti gangs, salvadoran soldiers, haiti news today, haiti brief, haitian news, robot dog army, military robot dog
 ```
+
+## 3:00 PM ET (2:00 PM CT) · hb-S2 · SHORT
+**Estati:** ✅ PARE · **Longè:** 30 s · 1080×1920 · poste **APRE** hb-L1
+
+- Video: `haiti-brief/2026-11-14/Short_2_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/Short_2_Nov_14.mp4
+- Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/Cover_Short_2_Nov_14.jpg
+- **Related video:** hb-L1 (long-form jodi a)
+
+**Tit:**
+```
+Bukele's Warning to Haiti's Gangs #Haiti #Bukele #Shorts
+```
+**Deskripsyon:**
+```
+On Oct. 18, four Salvadoran aviation technicians serving with the UN-backed Gang Suppression Force went missing after a gang ambush near Port-au-Prince. Then Nayib Bukele answered on X.
+
+Full story on Haiti Brief.
+
+Sources: AP via Al Jazeera (Oct. 22); Nayib Bukele on X.
+#HaitiNews #HaitiBrief #ElSalvador #PortAuPrince #HaitiGangs
+```
+**Tags:**
+```
+bukele haiti, bukele warning haiti gangs, haiti gangs, el salvador haiti, salvadoran soldiers missing haiti, gang suppression force, croix-des-bouquets, nayib bukele, haiti news, haiti news today, haiti brief, haitian news
+```
+
+## 6:00 PM ET (5:00 PM CT) · hb-S3 · SHORT
+**Estati:** ✅ PARE · **Longè:** 50 s · 1080×1920 · poste **APRE** hb-L1
+
+- Video: `haiti-brief/2026-11-14/Short_3_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/Short_3_Nov_14.mp4
+- Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/Cover_Short_3_Nov_14.jpg
+- **Related video:** hb-L1 (long-form jodi a)
+
+**Tit:**
+```
+"Where Is This House?" Bukele's Promise, Then the Strike #Haiti #Bukele #Shorts
+```
+**Deskripsyon:**
+```
+Someone on X asked Nayib Bukele to destroy a house linked to the leader of the 400 Mawozo gang. Two days later, it was hit. What we know, and what is still not confirmed.
+
+Full story on Haiti Brief.
+
+Sources: Miami Herald; The Haitian Times; Al Jazeera; Nayib Bukele on X (Nov. 10).
+#HaitiNews #HaitiBrief #ElSalvador #400Mawozo #HaitiGangs
+```
+**Tags:**
+```
+bukele haiti, el salvador haiti helicopter, 400 mawozo, lanmo sanjou, wilson joseph, bukele house haiti, haiti gangs, el salvador haiti, nayib bukele, haiti news, haiti news today, haiti brief
+```
+
+## 9:00 PM ET (8:00 PM CT) · hb-S4 · SHORT
+**Estati:** ✅ PARE · **Longè:** 32 s · 1080×1920 · poste **APRE** hb-L1
+
+- Video: `haiti-brief/2026-11-14/Short_4_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/Short_4_Nov_14.mp4
+- Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/Cover_Short_4_Nov_14.jpg
+- **Related video:** hb-L1 (long-form jodi a)
+
+**Tit:**
+```
+Why Is Bukele Fighting Haiti's Gangs? #Haiti #Bukele #Shorts
+```
+**Deskripsyon:**
+```
+El Salvador says it is paying for the Haiti operation itself, and Nayib Bukele faces an election in February. What analysts told the AP.
+
+Full story on Haiti Brief.
+
+Sources: AP (Nov. 12); ACLED.
+#HaitiNews #HaitiBrief #ElSalvador #Bukele #HaitiGangs
+```
+**Tags:**
+```
+why is bukele in haiti, bukele haiti, el salvador haiti, bukele election, haiti gangs, nayib bukele, bukele approval, haiti news, haiti news today, haiti brief, haitian news, el salvador troops haiti
+```
