@@ -32,7 +32,7 @@ Non fichye: `HaitiBrief_EP01_<segman>.mp4` → `haiti-brief/anchor/2026-11-15_ep
 **Jès:** men yo poze sou biwo a; yon ti bese tèt sou "This is Haiti Brief."
 > Four weeks ago, / El Salvador's president made a **promise** to Haiti's gangs. //
 > This week, / his soldiers took Haiti's **national stadium**. //
-> I'm Claire Bastien, / and this is Haiti Brief. // Marc Valcourt [Mark Val-koor] has where things stand.
+> Here's where things stand. / This is Haiti Brief.
 
 ## A02 — CORRESPONDENT · kijan sa te kòmanse (~30 s)
 **Ton:** rakonte tankou yon istwa, pozé, klè. Sou sitasyon Bukele a, li pa imite l: li li l tankou yon sitasyon, yon ti kras pi dousman.

@@ -47,3 +47,6 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 ## YouTube rule
 Saneme sets the AI label himself when posting (YouTube Studio: **Altered or synthetic content = Yes**).
 Claude does **not** write anything about AI in the title, description or tags.
+
+## Kredi Kai (Saneme, Nov. 14)
+Kai's generation credits are limited. Claude asks for a redo ONLY for a factual/script error or a defect the edit cannot hide. Minor issues (map labels, small face drift, a stutter) are fixed in the edit: cover with footage, no zoom on the face, blur/mask, trim.
