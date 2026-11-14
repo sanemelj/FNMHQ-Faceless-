@@ -30,3 +30,6 @@ Si w wè yon nouvèl sou X/Facebook/Telegram, mete l nan repo **DSKOVA-TV**, bra
 ## Ritm
 - 1 long-form 2-3 fwa pa semèn.
 - **3-5 Shorts pa jou**: 9 AM, 12 PM, 3 PM, 6 PM, 9 PM ET (lè ki nan KIT.md la genyen).
+
+## Pa gen tripotay (Sam, 14 nov)
+Pa voye tip sou TikToker, enfliyansè, selebrite oswa lavi prive moun (egz. Djouly Jean). Sa pa skoop pou Haiti Brief. Fokis: gang yo, operasyon Bukele/PNH/Task Force, sekirite, leta, pwosè Jovenel.
