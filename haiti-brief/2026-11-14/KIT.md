@@ -4,8 +4,9 @@
 
 Kai: chanèl **@haitibrief** sèlman. Lè yo an **ET (lè Ayiti)**. Règ: `haiti-brief/KAI_HAITI_BRIEF.md`. Apre post → lyen nan `POSTED.md`.
 
-## 12:00 PM ET (11:00 CT) · hb-L1 · LONG-FORM
-**Estati:** ✅ PARE · **Longè:** 4:01 · 1920×1080
+## hb-L1 · LONG-FORM — ⛔ PA POSTE: SANEME DEJA POSTE L (Nov. 13)
+**Estati:** ⛔ DEJA POSTE pa Saneme sou @haitibrief, tit "Nayib Bukele vs Haiti's Gangs: Every Move El Salvador Has Made So Far". **Pa poste l ankò.** Kat la rete la pou referans sèlman.
+**Ansyen estati:** ✅ PARE · **Longè:** 4:01 · 1920×1080
 
 - Video: `haiti-brief/2026-11-14/HaitiBrief_Long_1_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Long_1_Nov_14.mp4
 - Thumbnail: `HaitiBrief_Thumb_Long_1_Nov_14_A.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Thumb_Long_1_Nov_14_A.jpg (B pou tès: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Thumb_Long_1_Nov_14_B.jpg)
@@ -59,11 +60,11 @@ bukele haiti, bukele vs haiti gangs, el salvador haiti, nayib bukele, haiti news
 ```
 
 ## 1:00 PM ET (12:00 CT) · hb-S1 · SHORT
-**Estati:** ✅ PARE · **Longè:** 35 s · 1080×1920 · poste **APRE** hb-L1
+**Estati:** ✅ PARE · **Longè:** 35 s · 1080×1920 · long-form lan deja sou chanèl la
 
 - Video: `haiti-brief/2026-11-14/HaitiBrief_Short_1_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Short_1_Nov_14.mp4
 - Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Cover_Short_1_Nov_14.jpg
-- **Related video:** hb-L1 (long-form jodi a)
+- **Related video:** "Nayib Bukele vs Haiti's Gangs: Every Move El Salvador Has Made So Far" (deja poste sou @haitibrief)
 
 **Tit:**
 ```
@@ -84,11 +85,11 @@ haiti, haiti news, bukele haiti, robot dogs, armed robot dogs, haiti national st
 ```
 
 ## 3:00 PM ET (2:00 PM CT) · hb-S2 · SHORT
-**Estati:** ✅ PARE · **Longè:** 35 s · 1080×1920 · poste **APRE** hb-L1
+**Estati:** ✅ PARE · **Longè:** 35 s · 1080×1920 · long-form lan deja sou chanèl la
 
 - Video: `haiti-brief/2026-11-14/HaitiBrief_Short_2_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Short_2_Nov_14.mp4
 - Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Cover_Short_2_Nov_14.jpg
-- **Related video:** hb-L1 (long-form jodi a)
+- **Related video:** "Nayib Bukele vs Haiti's Gangs: Every Move El Salvador Has Made So Far" (deja poste sou @haitibrief)
 
 **Tit:**
 ```
@@ -109,11 +110,11 @@ bukele haiti, bukele warning haiti gangs, haiti gangs, el salvador haiti, salvad
 ```
 
 ## 6:00 PM ET (5:00 PM CT) · hb-S3 · SHORT
-**Estati:** ✅ PARE · **Longè:** 41 s · 1080×1920 · poste **APRE** hb-L1
+**Estati:** ✅ PARE · **Longè:** 41 s · 1080×1920 · long-form lan deja sou chanèl la
 
 - Video: `haiti-brief/2026-11-14/HaitiBrief_Short_3_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Short_3_Nov_14.mp4
 - Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Cover_Short_3_Nov_14.jpg
-- **Related video:** hb-L1 (long-form jodi a)
+- **Related video:** "Nayib Bukele vs Haiti's Gangs: Every Move El Salvador Has Made So Far" (deja poste sou @haitibrief)
 
 **Tit:**
 ```
@@ -134,11 +135,11 @@ bukele haiti, el salvador haiti helicopter, 400 mawozo, lanmo sanjou, wilson jos
 ```
 
 ## 9:00 PM ET (8:00 PM CT) · hb-S4 · SHORT
-**Estati:** ✅ PARE · **Longè:** 41 s · 1080×1920 · poste **APRE** hb-L1
+**Estati:** ✅ PARE · **Longè:** 41 s · 1080×1920 · long-form lan deja sou chanèl la
 
 - Video: `haiti-brief/2026-11-14/HaitiBrief_Short_4_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Short_4_Nov_14.mp4
 - Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Cover_Short_4_Nov_14.jpg
-- **Related video:** hb-L1 (long-form jodi a)
+- **Related video:** "Nayib Bukele vs Haiti's Gangs: Every Move El Salvador Has Made So Far" (deja poste sou @haitibrief)
 
 **Tit:**
 ```

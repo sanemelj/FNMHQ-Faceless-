@@ -2,7 +2,7 @@
 
 Kai: ranplase "—" ak lyen YouTube la apre ou fin poste. Pa chanje lòt bagay.
 
-hb-L1 | 12:00 ET | YouTube: —
+hb-L1 | Nov. 13 | YouTube: ✅ (Saneme poste l li menm — pa poste ankò)
 hb-S1 | 13:00 ET | YouTube: —
 hb-S2 | 3:00 PM ET | YouTube: —
 hb-S3 | 6:00 PM ET | YouTube: —
