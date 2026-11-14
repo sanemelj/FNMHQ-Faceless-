@@ -13,7 +13,7 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 
 ## Second presenter: the correspondent (man) — new, Saneme Nov. 14
 - Black man, about 42, deep brown skin, black cropped fade, short trimmed beard, dark brown eyes. Charcoal-gray suit, white shirt, deep-red tie (locked from Kai's reference sheet v1, Nov. 14).
-- **Sits at the desk, LEFT seat, next to the anchor (RIGHT seat)**: layout from Saneme's image `HaitiBrief_two_anchor_layout_ref.webp` (Nov. 14). Each has a desk microphone and papers. Use the **studio v2 fixes** (pin on Port-au-Prince, no fake numbers, desk text "HAITI BRIEF" only, no "Haiti Reports" line), not the screens of that image.
+- **Sits at the desk, LEFT seat, next to the anchor (RIGHT seat)**: layout from Saneme's image `HaitiBrief_two_anchor_layout_ref.webp` (Nov. 14). Each has a desk microphone and papers. Use the **studio v2 fixes** (pin on Port-au-Prince, no fake numbers; desk "HAITI BRIEF" + "Haiti Reports | English" is fine), not the screens of that image.
 - Voice: TV correspondent style, same broadcast rules as the anchor, a little more energy when explaining.
 - Role: explains the story. Kai generates all his lines on camera (with one consistent voice); in the edit Claude covers most of them with real footage, so he is seen 1-2 times per episode.
 - Name: none for now (Saneme decides).
@@ -27,7 +27,7 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 2. **No invented numbers on the side screens** (28°C, "Infrastructure 42%", "Remittances 35%", "+1.2%", the pie chart).
    A news channel cannot show fake data. Use plain panels: HAITI BRIEF logo, "Haiti · Diaspora", or leave them dark.
 3. The city behind her is not Port-au-Prince. Use a neutral night skyline with no recognisable city, or a soft blur.
-4. Desk text: "HAITI BRIEF" only, or "HAITI BRIEF · Haiti news in English". Drop "Haiti Reports" (too close to "James Reports").
+4. Desk text: "HAITI BRIEF" with the line "Haiti Reports | English" under it: the YouTube channel is named **"Haiti Brief | Haiti Reports"** (Saneme, Nov. 14). The "Haiti Reports" line is OK.
 5. Keep the right third of the wall plain: Claude puts maps and footage there in the edit.
 
 ## Motion and lip-sync (Saneme, Nov. 14)

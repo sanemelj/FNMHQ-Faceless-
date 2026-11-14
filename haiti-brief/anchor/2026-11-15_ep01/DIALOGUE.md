@@ -8,7 +8,7 @@ Claude ap deside nan montaj la ki moman pou l kouvri vwa a ak videyo reyèl. Ou 
 Pa gen mouvman ki pa natirèl (men ki chanje fòm, dwèt an plis, figi ki deplase, bouch ki pa swiv mo yo). Si yon klip gen youn nan pwoblèm sa yo, refè l.
 
 **2 pèsonaj** (detay nan ANCHOR_BIBLE.md):
-- **Plasman (Saneme):** 2 pèsonaj yo **chita ansanm nan biwo a**: CORRESPONDENT a gòch, ANCHOR a dwat (gade `HaitiBrief_two_anchor_layout_ref.webp`), men ak estidyo v2 a (pin sou Pòtoprens, pa gen fo chif, "HAITI BRIEF" sèlman sou biwo a).
+- **Plasman (Saneme):** 2 pèsonaj yo **chita ansanm nan biwo a**: CORRESPONDENT a gòch, ANCHOR a dwat (gade `HaitiBrief_two_anchor_layout_ref.webp`), men ak estidyo v2 a (pin sou Pòtoprens, pa gen fo chif; sou biwo a "HAITI BRIEF" ak "Haiti Reports | English" anba l, jan non chanèl la ye).
 - Pou chak segman, fè **plan mwayen sou moun k ap pale a** (li gade kamera a). Pou **A01** ak **A09**, fè yon **plan laj ak toude** nan biwo a.
 - Lè youn ap pale, lòt la koute: li gade l, li bat je, li fè ti tèt dakò (pa jele).
 - Nan kòmansman A02, ANCHOR a vire tèt li bò CORRESPONDENT a tankou l ap pase l lapawòl; nan kòmansman A06, CORRESPONDENT a vire gade ANCHOR a.
