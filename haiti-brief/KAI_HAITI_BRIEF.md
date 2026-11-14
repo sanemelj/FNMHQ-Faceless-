@@ -1,6 +1,6 @@
 # Kai — Haiti Brief (règ Saneme, 14 nov 2026)
 
-**Haiti Brief se yon LÒT chanèl YouTube: @haitibrief.** Pa janm poste videyo Haiti Brief sou FNMHQ, ni sou Facebook/TikTok FNMHQ.
+**Haiti Brief se yon LÒT chanèl YouTube: @haitibrief.** Tout fichye li kòmanse ak `HaitiBrief_` epi yo rete nan dosye `haiti-brief/` sèlman. Pa janm poste videyo Haiti Brief sou FNMHQ, ni sou Facebook/TikTok FNMHQ.
 Chanèl: nouvèl sou Ayiti ak dyaspora a, an anglè. Lè yo ekri an **lè Ayiti (ET)**. CT = ET − 1 è.
 
 ## Kote pou w jwenn sa pou poste
@@ -8,8 +8,8 @@ Chanèl: nouvèl sou Ayiti ak dyaspora a, an anglè. Lè yo ekri an **lè Ayiti 
 | Fichye | Kiyès | Sa li ye |
 |---|---|---|
 | `KIT.md` | Claude | Chak videyo: lè, estati ✅/⏳/⛔, fichye, **tit, deskripsyon, tags, thumbnail, Related video, playlist** |
-| `Long_N_*.mp4` + `Thumb_Long_N_*_A.jpg` (+ `_B`) | Claude | Videyo long + thumbnail (B = pou "Test & compare" si li disponib) |
-| `Short_N_*.mp4` + `Cover_Short_N_*.jpg` | Claude | Short yo |
+| `HaitiBrief_Long_N_*.mp4` + `HaitiBrief_Thumb_Long_N_*_A.jpg` (+ `_B`) | Claude | Videyo long + thumbnail (B = pou "Test & compare" si li disponib) |
+| `HaitiBrief_Short_N_*.mp4` + `HaitiBrief_Cover_Short_N_*.jpg` | Claude | Short yo |
 | `POSTED.md` | **Kai** | Ranplase `—` ak lyen YouTube la apre chak post |
 | `NOTES.md` | Kai + Claude | Nòt, pwoblèm, chif |
 
