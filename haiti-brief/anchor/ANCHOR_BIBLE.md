@@ -13,8 +13,7 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 ## Second presenter: the correspondent (man) — new, Saneme Nov. 14
 - Black man, about 40, dark brown skin, short hair, short neat beard. Charcoal suit, light-blue shirt, no tie.
 - **Stands** at the large map wall on the left of the studio (not at the desk). Explains with small hand gestures toward the map.
-- Role: explains the story. Mostly **voice-over** (Claude makes his voice and audio files); on camera only 1-2 times per episode.
-- On-camera clips: Claude sends the audio file `HaitiBrief_EPxx_Cxx.wav`; Kai lip-syncs the correspondent to that exact audio.
+- Role: explains the story. Kai generates all his lines on camera (with one consistent voice); in the edit Claude covers most of them with real footage, so he is seen 1-2 times per episode.
 - Name: none for now (Saneme decides).
 
 ## Who says what
