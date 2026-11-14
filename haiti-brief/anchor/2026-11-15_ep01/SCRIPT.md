@@ -1,6 +1,7 @@
 # EP01 — "Bukele in Haiti, Week 4: Where Things Stand" (target 4-5 min)
 
-For Kai: generate each **A** segment as one anchor clip (text word for word, phonetics in brackets).
+Roles: **A01, A06, A09 = anchor (woman) on camera**, Kai generates them. **A02-A05, A07, A08 = correspondent (man)**, mostly voice-over made by Claude; on camera at the map wall for the first sentence of A03 and of A08 (Claude sends the audio, Kai lip-syncs).
+For Kai: generate each anchor segment as one clip (text word for word, phonetics in brackets).
 For Claude: **[B-ROLL]** = what covers the anchor's voice in the edit. Facts and sources from Haiti Brief packages (Nov. 13-14).
 Status: ⏳ waiting for Saneme's OK on the script, then Kai's clips.
 

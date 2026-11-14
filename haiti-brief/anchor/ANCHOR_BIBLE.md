@@ -10,6 +10,17 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 - Sits centered behind the curved desk; hands rest on the desk; small natural head moves only.
 - Name: **none for now** (Saneme decides). She never says her own name.
 
+## Second presenter: the correspondent (man) — new, Saneme Nov. 14
+- Black man, about 40, dark brown skin, short hair, short neat beard. Charcoal suit, light-blue shirt, no tie.
+- **Stands** at the large map wall on the left of the studio (not at the desk). Explains with small hand gestures toward the map.
+- Role: explains the story. Mostly **voice-over** (Claude makes his voice and audio files); on camera only 1-2 times per episode.
+- On-camera clips: Claude sends the audio file `HaitiBrief_EPxx_Cxx.wav`; Kai lip-syncs the correspondent to that exact audio.
+- Name: none for now (Saneme decides).
+
+## Who says what
+- **Anchor (woman, desk):** cold open, transitions, segments with no footage, sign-off. ~25% of the episode.
+- **Correspondent (man):** the explanation, over real footage. ~75%.
+
 ## Studio: fixes before the next renders
 1. The map pin must be **on Haiti** (Hispaniola, western half). In v1 it sits on Central America.
 2. **No invented numbers on the side screens** (28°C, "Infrastructure 42%", "Remittances 35%", "+1.2%", the pie chart).
