@@ -4,6 +4,56 @@
 
 Kai: chanèl **@haitibrief** sèlman. Lè yo an **ET (lè Ayiti)**. Règ: `haiti-brief/KAI_HAITI_BRIEF.md`. Apre post → lyen nan `POSTED.md`.
 
+## 9:00 AM ET (8:00 AM CT) · hb-S5 · SHORT
+**Estati:** ✅ PARE · **Longè:** 44 s · 1080×1920
+
+- Video: `haiti-brief/2026-11-14/HaitiBrief_Short_5_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Short_5_Nov_14.mp4
+- Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Cover_Short_5_Nov_14.jpg
+- **Related video:** "Nayib Bukele vs Haiti's Gangs: Every Move El Salvador Has Made So Far" (deja poste sou @haitibrief)
+
+**Tit:**
+```
+The U.S. Pushed Back on El Salvador's Troops in Haiti #Haiti #Bukele #Shorts
+```
+**Deskripsyon:**
+```
+About 2,000 Salvadoran soldiers are in Haiti under a separate deal with Haiti's government. In early November, Washington raised concerns. Here's what each side said.
+
+Full story on Haiti Brief.
+
+Sources: The Haitian Times citing Axios (Nov. 11); AP (Nov. 12); AFP; Al Jazeera. Video: Nayib Bukele.
+#HaitiNews #HaitiBrief #ElSalvador #Bukele #USA
+```
+**Tags:**
+```
+el salvador haiti, bukele haiti, us embassy haiti, us el salvador haiti, salvadoran troops haiti, marco rubio haiti, haiti gangs, nayib bukele, haiti news, haiti news today, haiti brief, el salvador haiti update
+```
+
+## 12:00 PM ET (11:00 AM CT) · hb-S6 · SHORT
+**Estati:** ✅ PARE · **Longè:** 30 s · 1080×1920
+
+- Video: `haiti-brief/2026-11-14/HaitiBrief_Short_6_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Short_6_Nov_14.mp4
+- Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Cover_Short_6_Nov_14.jpg
+- **Related video:** "Nayib Bukele vs Haiti's Gangs: Every Move El Salvador Has Made So Far" (deja poste sou @haitibrief)
+
+**Tit:**
+```
+Why Haitians Are Cheering Bukele's Troops #Haiti #Bukele #Shorts
+```
+**Deskripsyon:**
+```
+Crowds in Haiti have rallied for Nayib Bukele and his troops. The UN's latest numbers show why, and what they also show about security operations.
+
+Full story on Haiti Brief.
+
+Sources: The Haitian Times (Nov. 7); BINUH report via UN News (Nov. 12); Amnesty International (Nov. 10). Video: Nayib Bukele.
+#HaitiNews #HaitiBrief #Bukele #ElSalvador #HaitiGangs
+```
+**Tags:**
+```
+haiti bukele, haitians cheer bukele, haiti gangs, haiti un report, haiti killings 2026, el salvador haiti, bukele haiti, nayib bukele, haiti news, haiti news today, haiti brief, haitian news
+```
+
 ## hb-L1 · LONG-FORM — ⛔ PA POSTE: SANEME DEJA POSTE L (Nov. 13)
 **Estati:** ⛔ DEJA POSTE pa Saneme sou @haitibrief, tit "Nayib Bukele vs Haiti's Gangs: Every Move El Salvador Has Made So Far". **Pa poste l ankò.** Kat la rete la pou referans sèlman.
 **Ansyen estati:** ✅ PARE · **Longè:** 4:01 · 1920×1080

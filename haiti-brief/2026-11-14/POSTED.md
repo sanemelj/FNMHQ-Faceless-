@@ -7,3 +7,5 @@ hb-S1 | — | YouTube: ✅ (Saneme poste l li menm — pa poste ankò)
 hb-S2 | 3:00 PM ET | YouTube: —
 hb-S3 | 6:00 PM ET | YouTube: —
 hb-S4 | 9:00 PM ET | YouTube: —
+hb-S5 | 9:00 AM ET | YouTube: —
+hb-S6 | 12:00 PM ET | YouTube: —
