@@ -28,6 +28,14 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 4. Desk text: "HAITI BRIEF" only, or "HAITI BRIEF · Haiti news in English". Drop "Haiti Reports" (too close to "James Reports").
 5. Keep the right third of the wall plain: Claude puts maps and footage there in the edit.
 
+## Motion and lip-sync (Saneme, Nov. 14)
+- Every clip is generated **with its audio** (voice made together with the video), so lips, face and gestures match the words.
+- Both presenters move like real people: breathing, blinks, head and shoulder moves, expressions that follow the meaning.
+  Correspondent: hand gestures, turns to the map and back, 1-2 steps. Anchor: seated, leans in on key lines, small hand moves.
+- Redo any clip with lip-sync drift, warped hands, extra fingers or a face that shifts.
+- Claude's edit: whenever a presenter's face is on screen, the audio is that clip's own audio (never re-timed or swapped),
+  so the lips always match. Footage covers the voice in between; cutting back to the presenter keeps the same audio track.
+
 ## Delivery to Claude (per episode)
 - One clip per segment: `HaitiBrief_EPxx_Axx.mp4`, **1920x1080 (or 4K), 30 fps**, the anchor centered so Claude can crop a 9:16 Short.
 - Read the script **word for word**. If a name is hard, use the phonetic spelling given in brackets.

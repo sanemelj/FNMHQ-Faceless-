@@ -3,6 +3,10 @@
 **Kai: jenere CHAK segman kòm yon klip videyo kote pèsonaj la ap pale devan kamera**, menm segman korespondan yo.
 Claude ap deside nan montaj la ki moman pou l kouvri vwa a ak videyo reyèl. Ou pa bezwen fè anyen ak videyo nouvèl yo.
 
+**VIDEYO + ODYO ANSANM (Saneme):** jenere chak klip **ak odyo a ladan l** (vwa a fèt an menm tan ak videyo a), pou **bouch yo (lip-sync), vizaj yo ak jès yo swiv egzakteman sa y ap di a**. Pa fè videyo san son epi mete vwa apre.
+**Yo dwe bouje tankou moun vivan, pa tankou foto:** respire, bat je, ti mouvman tèt ak zepòl, ekspresyon vizaj ki chanje ak sa y ap di (pi grav sou move nouvèl, ti souri sou fèmti). Korespondan an fè jès ak men l lè l ap eksplike, li vire tèt li gade kat la epi li retounen gade kamera a; li ka fè 1-2 pa sou kote devan miray la. Prezantatè a rete chita men li pa jele: li panche yon ti kras pi devan sou fraz enpòtan yo, men l ka leve yon ti kras sou biwo a.
+Pa gen mouvman ki pa natirèl (men ki chanje fòm, dwèt an plis, figi ki deplase, bouch ki pa swiv mo yo). Si yon klip gen youn nan pwoblèm sa yo, refè l.
+
 **2 pèsonaj** (detay nan ANCHOR_BIBLE.md):
 - **ANCHOR** = prezantatè fanm, chita nan biwo a, plan mwayen (medium shot), li gade kamera a.
 - **CORRESPONDENT** = korespondan gason, kanpe devan miray kat la (kat Ayiti), plan mwayen-laj, li gade kamera a; men li ka montre kat la de tan zan tan.
