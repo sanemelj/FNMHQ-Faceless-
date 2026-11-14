@@ -9,3 +9,4 @@ hb-S3 | 6:00 PM ET | YouTube: https://youtube.com/shorts/rsdQx4mhIZQ (Scheduled 
 hb-S4 | 9:00 PM ET | YouTube: https://youtube.com/shorts/SGlIKhOmMb0 (Scheduled 9:00 PM ET)
 hb-S5 | 9:00 AM ET | YouTube: https://youtube.com/shorts/AYXOxBNsLgY
 hb-S6 | 12:00 PM ET | YouTube: https://youtube.com/shorts/3sCAbhqzR9w
+hb-L2 | aswè a (ASAP) | YouTube: —

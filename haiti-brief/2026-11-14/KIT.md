@@ -209,3 +209,52 @@ Sources: AP (Nov. 12); ACLED.
 ```
 why is bukele in haiti, bukele haiti, el salvador haiti, bukele election, haiti gangs, nayib bukele, bukele approval, haiti news, haiti news today, haiti brief, haitian news, el salvador troops haiti
 ```
+
+---
+
+## ⚡ POSTE KOUNYA (aswè a) · hb-L2 · LONG-FORM · EP01 estidyo
+**Estati:** ✅ PARE · **Longè:** 2:43 · 1920×1080 · Saneme ap aktive etikèt "Altered or synthetic content" li menm lè l ap poste.
+
+- Video: `haiti-brief/2026-11-14/HaitiBrief_Long_2_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Long_2_Nov_14.mp4
+- Thumbnail A: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Thumb_Long_2_Nov_14_A.jpg (B pou tès: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Thumb_Long_2_Nov_14_B.jpg)
+- Playlist: **"Haiti Explained"**
+- Apre li poste: mete hb-L2 kòm **Related video** sou Short ki poko poste yo (S3 6 PM, S4 9 PM) si YouTube kite w chanje l.
+
+**Tit:**
+```
+El Salvador's Troops in Haiti: Where Things Stand
+```
+**Deskripsyon:**
+```
+Four weeks after Nayib Bukele's warning to Haiti's gangs, Salvadoran forces have struck a gang leader's compound by helicopter and helped retake Haiti's national stadium. Here is where things stand, what is confirmed, and what we still don't know.
+
+Chapters
+0:00 Intro
+0:13 How it started: the Oct. 18 ambush
+0:37 Salvadoran troops arrive
+1:00 The Nov. 10 helicopter operation
+1:22 Sylvio Cator stadium retaken
+1:46 Friday night: explosions in Port-au-Prince
+1:58 The toll
+2:20 What comes next
+
+What Bukele says (not independently verified): that his forces destroyed the house of Wilson Joseph ("Lanmò San Jou") and the 400 Mawozo headquarters, and that human remains were found inside the stadium. We do not show images of human remains. There is no official toll yet for the Nov. 13 explosions in Martissant.
+
+Sources
+- AP via Al Jazeera, the Oct. 18 ambush and Bukele's warning (Oct. 22): https://aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers
+- The Haitian Times, the house (Nov. 10): https://haitiantimes.com/2026/11/10/mansion-linked-haiti-gang-leader-reportedly-destroyed/
+- The Haitian Times, U.S. concerns (citing Axios) and the prime minister's thanks (Nov. 11): https://haitiantimes.com/2026/11/11/bukele-defends-haiti-gang-operations-amid-pressure/
+- France 24 with AFP, the stadium (Nov. 13): https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years
+- The Haitian Times, the stadium (Nov. 12): https://haitiantimes.com/2026/11/12/haiti-el-salvador-forces-retake-sylvio-cator-stadium/
+- HaitiLibre, the robot dogs (Nov. 13): https://www.haitilibre.com/en/news-48884-haiti-flash-el-salvador-s-army-uses-combat-robot-dogs-equipped-with-assault-rifles.html
+- Journal l'Observatoire, Martissant (Nov. 14): https://www.lobservatoire.info/drones-helicopteres-et-operations-policieres-la-pression-monte-sur-les-gangs-de-port-au-prince/
+- UN News, BINUH quarterly report (Nov. 12): https://news.un.org/en/story/2026/11/1168789
+- El Mundo (El Salvador), the prime minister's Nov. 16-17 visit: https://diario.elmundo.sv/politica/primer-ministro-haitiano-visitara-el-salvador-para-discutir-futuro-de-las-tropas
+- Video: Nayib Bukele on X (Nov. 10 and Nov. 13)
+
+#Haiti #ElSalvador #Bukele
+```
+**Tags:**
+```
+Haiti, Haiti news, Bukele, Nayib Bukele, El Salvador, Bukele Haiti, Haiti gangs, Salvadoran troops Haiti, Sylvio Cator, Port-au-Prince, 400 Mawozo, Lanmo San Jou, Martissant, Gang Suppression Force, Fils-Aime, Haiti Brief
+```
