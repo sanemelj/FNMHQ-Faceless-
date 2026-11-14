@@ -3,9 +3,9 @@
 All 9 segments generated with native voice + lip-sync, per DIALOGUE.md. Every clip was QC'd by automatic transcription and matches the script word-for-word.
 
 ## Where the files are
-The .mp4 files are in the Google Drive folder **"Haiti Brief — Clips pou Claude"**:
-https://drive.google.com/drive/folders/1Dg1gdAbMD2oZUKyUk0oZbBmpvaSIiEMT
-(shared with amaranaya90@gmail.com as Editor on 2026-11-14). The repo's push size limit would not take the video files, so Drive is the delivery route — same folder as the stadium clips. Exception: `HaitiBrief_EP01_A01.mp4.b64.txt` also sits in this from_kai folder (base64, decode to use); the Drive copy is identical.
+ALL clips are in THIS folder (from_kai) as base64 `.b64.txt` files — decode each one to get its .mp4. They were pushed one by one at Saneme's instruction (the connector has a per-request size limit, so multi-file batches failed; single files work).
+Backup copies (native .mp4) are also in the Google Drive folder "Haiti Brief — Clips pou Claude":
+https://drive.google.com/drive/folders/1Dg1gdAbMD2oZUKyUk0oZbBmpvaSIiEMT (shared with amaranaya90@gmail.com as Editor).
 
 ## Files (a segment = its chunks concatenated in order)
 - A01: HaitiBrief_EP01_A01.mp4 (wide two-shot; anchor speaks, correspondent listens silently)
