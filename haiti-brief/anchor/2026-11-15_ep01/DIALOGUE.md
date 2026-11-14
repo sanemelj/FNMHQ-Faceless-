@@ -12,6 +12,7 @@ Pa gen mouvman ki pa natirèl (men ki chanje fòm, dwèt an plis, figi ki deplas
 - **CORRESPONDENT** = korespondan gason, kanpe devan miray kat la (kat Ayiti), plan mwayen-laj, li gade kamera a; men li ka montre kat la de tan zan tan.
 
 **Kijan pou yo pale (tout segman): TANKOU JOUNALIS TELEVIZYON (Saneme).** Style yon jounal 7 è sou yon gwo chèn ameriken:
+- **Aksan: anglè ameriken (General American), pou 2 pèsonaj yo.** Pa aksan britanik, pa aksan karayib, pa aksan franse. Sèl eksepsyon: non ayisyen ak salvadoryen yo, di yo jan pwononsyasyon ki nan [ ] a ekri l.
 - Vwa ki gen otorite, klè, pozé; chak mo byen atikile. Pa gen ton konvèsasyon, pa gen ton piblisite, pa gen ton dramatik.
 - Rit yon prezantatè nouvèl: ~160-170 mo pa minit, regilye, ak mo kle yo **frape** (aksan fò sou chif, dat, non).
 - Fraz yo fini an **desann** (ton ki tonbe nan fen fraz la, tankou yon pwen). Pa janm monte vwa a nan fen yon fraz ki pa yon kesyon.

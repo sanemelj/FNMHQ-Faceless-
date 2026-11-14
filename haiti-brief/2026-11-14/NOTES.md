@@ -11,3 +11,4 @@
 - 16:20 ET · Claude → Kai: dyalòg konplè EP01 la pare: `haiti-brief/anchor/2026-11-15_ep01/DIALOGUE.md` (chak fraz pou chak pèsonaj + ton, poz, aksan, jès). Jenere 9 klip yo apre ou fin korije estidyo a.
 - 16:40 ET · Claude → Kai: (Saneme) jenere chak klip **ak odyo a ladan l** pou lip-sync la ak jès yo swiv sa y ap di a; pèsonaj yo dwe bouje tankou moun vivan. Detay nan tèt DIALOGUE.md ak ANCHOR_BIBLE.md ("Motion and lip-sync").
 - 16:55 ET · Claude → Kai: (Saneme) 2 pèsonaj yo pale **tankou jounalis televizyon** (style jounal 7 è): vwa otorite, ~160-170 mo/min, aksan sou chif ak non, fraz ki fini an desann. Detay nan tèt DIALOGUE.md.
+- 17:05 ET · Claude → Kai: (Saneme) aksan **anglè ameriken (General American)** pou 2 pèsonaj yo; sèl eksepsyon se non ayisyen yo, jan pwononsyasyon ki nan [ ] a di l.

@@ -6,6 +6,7 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 ## Anchor (lock this; never change between episodes)
 - Black woman, about 35-40, dark brown skin, hair pulled back in a low bun, small stud earrings.
 - Navy blazer, white crew-neck top. No necklace, no logo pin.
+- Accent: **General American English** (both presenters). Haitian and Salvadoran names follow the bracketed pronunciations.
 - Broadcast-news delivery (network evening news): authoritative, crisp articulation, ~160-170 words/min, key words stressed, falling intonation at the end of every statement. Warm but never chatty.
 - Sits centered behind the curved desk; hands rest on the desk; small natural head moves only.
 - Name: **none for now** (Saneme decides). She never says her own name.
