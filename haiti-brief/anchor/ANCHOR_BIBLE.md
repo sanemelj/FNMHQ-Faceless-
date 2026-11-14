@@ -25,5 +25,5 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 - Put the clips in `haiti-brief/anchor/<episode folder>/from_kai/` and commit to `main`.
 
 ## YouTube rule
-A realistic AI presenter must be disclosed: in YouTube Studio set **Altered or synthetic content = Yes**, and the description
-says "Presenter: AI-generated avatar." Footage, facts and sources are real and credited.
+Saneme sets the AI label himself when posting (YouTube Studio: **Altered or synthetic content = Yes**).
+Claude does **not** write anything about AI in the title, description or tags.

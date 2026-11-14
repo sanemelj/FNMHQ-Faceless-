@@ -17,7 +17,7 @@ Chanèl: nouvèl sou Ayiti ak dyaspora a, an anglè. Lè yo ekri an **lè Ayiti 
 1. Poste sèlman kat ki make **✅ PARE**, a lè ki ekri a (oswa pwograme l nan YouTube Studio pou lè sa a).
 2. **Lòd la enpòtan:** long-form lan an premye. Short yo apre, epi nan chak Short mete **Related video = long-form jounen an** (YouTube Studio → Short la → Details → Related video).
 3. Kopye tit, deskripsyon, tags egzakteman jan yo ye nan `KIT.md`. Pa ajoute etikèt "AI" (pa gen imaj AI; vwa a sentetik men li deja di nan deskripsyon an).
-4. Long-form: Visibility Public, Category **News & Politics**, Language English, Made for kids **No**, Altered content **No**. Thumbnail = `Thumb_..._A.jpg`.
+4. Long-form: Visibility Public, Category **News & Politics**, Language English, Made for kids **No**. Altered or synthetic content: **Yes** for any video with the avatar presenters (Saneme's rule); **No** otherwise. Thumbnail = `Thumb_..._A.jpg`.
 5. Yon sèl fwa. Tcheke `POSTED.md` anvan.
 6. Apre post: mete lyen an nan liy kat la nan `POSTED.md`, commit sou `main`.
 7. Nòt nan `NOTES.md`: `- HH:MM ET · Kai: …`. Si ou bezwen Saneme: `BEZWEN SANEME:`.
