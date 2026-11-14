@@ -13,7 +13,7 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 
 ## Second presenter: the correspondent (man) — new, Saneme Nov. 14
 - Black man, about 42, deep brown skin, black cropped fade, short trimmed beard, dark brown eyes. Charcoal-gray suit, white shirt, deep-red tie (locked from Kai's reference sheet v1, Nov. 14).
-- **Stands** at the large map wall on the left of the studio (not at the desk). Explains with small hand gestures toward the map.
+- **Sits at the desk, LEFT seat, next to the anchor (RIGHT seat)**: layout from Saneme's image `HaitiBrief_two_anchor_layout_ref.webp` (Nov. 14). Each has a desk microphone and papers. Use the **studio v2 fixes** (pin on Port-au-Prince, no fake numbers, desk text "HAITI BRIEF" only, no "Haiti Reports" line), not the screens of that image.
 - Voice: TV correspondent style, same broadcast rules as the anchor, a little more energy when explaining.
 - Role: explains the story. Kai generates all his lines on camera (with one consistent voice); in the edit Claude covers most of them with real footage, so he is seen 1-2 times per episode.
 - Name: none for now (Saneme decides).

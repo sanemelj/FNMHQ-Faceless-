@@ -8,8 +8,10 @@ Claude ap deside nan montaj la ki moman pou l kouvri vwa a ak videyo reyèl. Ou 
 Pa gen mouvman ki pa natirèl (men ki chanje fòm, dwèt an plis, figi ki deplase, bouch ki pa swiv mo yo). Si yon klip gen youn nan pwoblèm sa yo, refè l.
 
 **2 pèsonaj** (detay nan ANCHOR_BIBLE.md):
-- **ANCHOR** = prezantatè fanm, chita nan biwo a, plan mwayen (medium shot), li gade kamera a.
-- **CORRESPONDENT** = korespondan gason, kanpe devan miray kat la (kat Ayiti), plan mwayen-laj, li gade kamera a; men li ka montre kat la de tan zan tan.
+- **Plasman (Saneme):** 2 pèsonaj yo **chita ansanm nan biwo a**: CORRESPONDENT a gòch, ANCHOR a dwat (gade `HaitiBrief_two_anchor_layout_ref.webp`), men ak estidyo v2 a (pin sou Pòtoprens, pa gen fo chif, "HAITI BRIEF" sèlman sou biwo a).
+- Pou chak segman, fè **plan mwayen sou moun k ap pale a** (li gade kamera a). Pou **A01** ak **A09**, fè yon **plan laj ak toude** nan biwo a.
+- Lè youn ap pale, lòt la koute: li gade l, li bat je, li fè ti tèt dakò (pa jele).
+- Nan kòmansman A02, ANCHOR a vire tèt li bò CORRESPONDENT a tankou l ap pase l lapawòl; nan kòmansman A06, CORRESPONDENT a vire gade ANCHOR a.
 
 **Kijan pou yo pale (tout segman): TANKOU JOUNALIS TELEVIZYON (Saneme).** Style yon jounal 7 è sou yon gwo chèn ameriken:
 - **Aksan: anglè ameriken (General American), pou 2 pèsonaj yo.** Pa aksan britanik, pa aksan karayib, pa aksan franse. Sèl eksepsyon: non ayisyen ak salvadoryen yo, di yo jan pwononsyasyon ki nan [ ] a ekri l.
@@ -34,7 +36,7 @@ Non fichye: `HaitiBrief_EP01_<segman>.mp4` → `haiti-brief/anchor/2026-11-15_ep
 
 ## A02 — CORRESPONDENT · kijan sa te kòmanse (~30 s)
 **Ton:** rakonte tankou yon istwa, pozé, klè. Sou sitasyon Bukele a, li pa imite l: li li l tankou yon sitasyon, yon ti kras pi dousman.
-**Jès:** li montre zòn Pòtoprens sou kat la nan fraz 1.
+**Jès:** men l sou biwo a, ti jès ak men dwat li sou dat la.
 > It started on **October eighteenth**. / Gangs ambushed an armored vehicle near Port-au-Prince [Port-oh-Prince]. //
 > Inside were **four** Salvadoran aviation technicians, / serving with the UN-backed Gang Suppression Force. //
 > They have been **missing** ever since. //
@@ -42,7 +44,7 @@ Non fichye: `HaitiBrief_EP01_<segman>.mp4` → `haiti-brief/anchor/2026-11-15_ep
 
 ## A03 — CORRESPONDENT · fòs yo rive (~28 s)
 **Ton:** enfòmatif, fèm. Pi serye sou "Washington".
-**Jès:** li vire de twa ka sou kat la sou fraz 1, epi li retounen gade kamera a.
+**Jès:** li panche yon ti kras pi devan sou "separate deal".
 > Then the troops came. / **More than two thousand** Salvadoran soldiers, / with armored vehicles and helicopters. //
 > Most of them are **not** part of the UN-backed force. / They are here under a **separate deal** between the two governments. //
 > Washington raised concerns, / and asked for operations to be coordinated.
@@ -56,7 +58,7 @@ Non fichye: `HaitiBrief_EP01_<segman>.mp4` → `haiti-brief/anchor/2026-11-15_ep
 
 ## A05 — CORRESPONDENT · estad la (~33 s)
 **Ton:** fraz 1-2 enfòmatif; fraz "robot dogs" yon ti kras sipriz men kontwole; fraz "human remains" grav, pi dousman, pa dramatik.
-**Jès:** li montre sant Pòtoprens sou kat la sou "national stadium".
+**Jès:** ti jès ak men l sou "national stadium"; pi grav sou "human remains".
 > Two days later, / Haitian police and Salvadoran forces took back Sylvio Cator [Sil-vee-oh Ka-tor], / the **national stadium**. / Gangs had held it since **twenty twenty-four**. //
 > Bukele's video shows **armed robot dogs** / on the pitch. //
 > He says his forces found **human remains** inside, // and that the stadium is now a **base**, / to push into gang territory.
