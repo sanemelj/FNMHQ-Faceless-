@@ -59,8 +59,9 @@ Maps: Natural Earth (public domain). Voice: synthetic (Kokoro). Music and sound:
 bukele haiti, bukele vs haiti gangs, el salvador haiti, nayib bukele, haiti news, haiti gangs, salvadoran troops haiti, bukele troops, haiti news today, 400 mawozo, haiti national stadium, port-au-prince, gang suppression force, haiti crisis, haiti news in english, haiti brief, haitian news, bukele gangs, haiti explained
 ```
 
-## 1:00 PM ET (12:00 CT) · hb-S1 · SHORT
-**Estati:** ✅ PARE · **Longè:** 35 s · 1080×1920 · long-form lan deja sou chanèl la
+## hb-S1 · SHORT — ⛔ PA POSTE: SANEME DEJA POSTE L
+**Estati:** ⛔ DEJA POSTE pa Saneme sou @haitibrief. **Pa poste l ankò.**
+**Ansyen estati:** ✅ PARE · **Longè:** 35 s · 1080×1920 · long-form lan deja sou chanèl la
 
 - Video: `haiti-brief/2026-11-14/HaitiBrief_Short_1_Nov_14.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Short_1_Nov_14.mp4
 - Cover: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-14/HaitiBrief_Cover_Short_1_Nov_14.jpg

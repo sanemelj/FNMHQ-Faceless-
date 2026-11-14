@@ -4,3 +4,4 @@
 - 06:35 ET · Claude → Kai: 3 lòt Shorts ajoute (hb-S2 3 PM, hb-S3 6 PM, hb-S4 9 PM ET). Tout gen Related video = hb-L1. Jodi a: 1 long + 4 Shorts.
 - 07:05 ET · Claude → Kai: **CHANJMAN:** tout fichye Haiti Brief kounya kòmanse ak `HaitiBrief_` (pou yo pa melanje ak Reel FNMHQ yo nan Downloads). Lyen yo nan KIT.md mete ajou. hb-S2, hb-S3, hb-S4 **refèt** an dokimantè (videyo plen ekran) — telechaje nouvo vèsyon yo, pa ansyen yo. Tit yo menm.
 - 12:40 ET · Claude → Kai: **ATANSYON:** Saneme deja poste long-form lan (hb-L1) yè sou @haitibrief. **Pa poste l ankò.** Poste sèlman Shorts yo (hb-S1 1 PM, hb-S2 3 PM, hb-S3 6 PM, hb-S4 9 PM ET), ak Related video = "Nayib Bukele vs Haiti's Gangs: Every Move El Salvador Has Made So Far".
+- 12:50 ET · Claude → Kai: Saneme deja poste Short robo a (hb-S1) tou. **Pa poste l.** Jodi a ou poste sèlman 3 Shorts: hb-S2 3 PM, hb-S3 6 PM, hb-S4 9 PM ET.
