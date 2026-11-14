@@ -6,13 +6,14 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 ## Anchor (lock this; never change between episodes)
 - Black woman, about 35-40, dark brown skin, hair pulled back in a low bun, small stud earrings.
 - Navy blazer, white crew-neck top. No necklace, no logo pin.
-- Calm, serious, warm. American English, neutral accent, measured pace (~150 words/min).
+- Broadcast-news delivery (network evening news): authoritative, crisp articulation, ~160-170 words/min, key words stressed, falling intonation at the end of every statement. Warm but never chatty.
 - Sits centered behind the curved desk; hands rest on the desk; small natural head moves only.
 - Name: **none for now** (Saneme decides). She never says her own name.
 
 ## Second presenter: the correspondent (man) — new, Saneme Nov. 14
 - Black man, about 40, dark brown skin, short hair, short neat beard. Charcoal suit, light-blue shirt, no tie.
 - **Stands** at the large map wall on the left of the studio (not at the desk). Explains with small hand gestures toward the map.
+- Voice: TV correspondent style, same broadcast rules as the anchor, a little more energy when explaining.
 - Role: explains the story. Kai generates all his lines on camera (with one consistent voice); in the edit Claude covers most of them with real footage, so he is seen 1-2 times per episode.
 - Name: none for now (Saneme decides).
 

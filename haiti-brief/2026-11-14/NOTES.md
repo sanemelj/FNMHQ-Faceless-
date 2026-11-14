@@ -10,3 +10,4 @@
 - 16:00 ET · Claude → Kai: **LI `haiti-brief/anchor/MESSAGE_FOR_KAI.md` KOUNYA.** (1) Poste Shorts jodi a ki poko poste (S2 3 PM, S3 6 PM, S4 9 PM, epi S5 + S6). (2) Nouvo fòma estidyo ak 2 prezantatè. (3) Korije estidyo a, kreye korespondan gason an, jenere A01/A06/A09 pou EP01.
 - 16:20 ET · Claude → Kai: dyalòg konplè EP01 la pare: `haiti-brief/anchor/2026-11-15_ep01/DIALOGUE.md` (chak fraz pou chak pèsonaj + ton, poz, aksan, jès). Jenere 9 klip yo apre ou fin korije estidyo a.
 - 16:40 ET · Claude → Kai: (Saneme) jenere chak klip **ak odyo a ladan l** pou lip-sync la ak jès yo swiv sa y ap di a; pèsonaj yo dwe bouje tankou moun vivan. Detay nan tèt DIALOGUE.md ak ANCHOR_BIBLE.md ("Motion and lip-sync").
+- 16:55 ET · Claude → Kai: (Saneme) 2 pèsonaj yo pale **tankou jounalis televizyon** (style jounal 7 è): vwa otorite, ~160-170 mo/min, aksan sou chif ak non, fraz ki fini an desann. Detay nan tèt DIALOGUE.md.

@@ -11,8 +11,13 @@ Pa gen mouvman ki pa natirèl (men ki chanje fòm, dwèt an plis, figi ki deplas
 - **ANCHOR** = prezantatè fanm, chita nan biwo a, plan mwayen (medium shot), li gade kamera a.
 - **CORRESPONDENT** = korespondan gason, kanpe devan miray kat la (kat Ayiti), plan mwayen-laj, li gade kamera a; men li ka montre kat la de tan zan tan.
 
-**Kijan pou yo pale (tout segman):** anglè ameriken natirèl, ton jounalis serye men cho, pa dramatik, pa vann anyen.
-Vitès: ~150 mo pa minit. `/` = ti poz (0.3 s) · `//` = poz pi long (0.7 s) · mo an **gra** = mete aksan sou li.
+**Kijan pou yo pale (tout segman): TANKOU JOUNALIS TELEVIZYON (Saneme).** Style yon jounal 7 è sou yon gwo chèn ameriken:
+- Vwa ki gen otorite, klè, pozé; chak mo byen atikile. Pa gen ton konvèsasyon, pa gen ton piblisite, pa gen ton dramatik.
+- Rit yon prezantatè nouvèl: ~160-170 mo pa minit, regilye, ak mo kle yo **frape** (aksan fò sou chif, dat, non).
+- Fraz yo fini an **desann** (ton ki tonbe nan fen fraz la, tankou yon pwen). Pa janm monte vwa a nan fen yon fraz ki pa yon kesyon.
+- Ti poz kout anvan yon chif oswa yon enfòmasyon enpòtan, pou l frape pi fò.
+- **Prezantatè a:** ton "anchor" nan biwo: fèm, cho, kredib. **Korespondan an:** ton "reporter" k ap eksplike yon dosye: pi vivan, men toujou pwofesyonèl.
+`/` = ti poz (0.3 s) · `//` = poz pi long (0.6 s) · mo an **gra** = mete aksan sou li.
 Mo ki nan [ ] se pwononsyasyon an: di l jan l ekri a, pa di parantèz yo. Pa ajoute ni retire okenn mo.
 Chak klip: 1920x1080, 30 fps, 1 segonn silans anvan ak apre, pa gen tèks sou ekran, pa gen mizik.
 Non fichye: `HaitiBrief_EP01_<segman>.mp4` → `haiti-brief/anchor/2026-11-15_ep01/from_kai/`
