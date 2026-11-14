@@ -2,6 +2,6 @@
 
 Kai: ranplase "—" ak lyen post la (oswa ✅) apre ou fin poste. Pa chanje lòt bagay.
 
-k51 | 07:00 | FB: ✅ (artifact) | TikTok: ✅ (artifact) | YouTube: —
-k52 | 12:00 | FB: — | TikTok: ✅ (artifact) | YouTube: —
-k53 | 17:00 | FB: ✅ (artifact) | TikTok: — | YouTube: —
+k51 | 07:00 | FB: ✅ | TikTok: ✅ | YouTube: https://youtube.com/shorts/uXLcbRCaMM8
+k52 | 12:00 | FB: ✅ | TikTok: ✅ | YouTube: https://youtube.com/shorts/7HgNwtjrWgE
+k53 | 17:00 | FB: ✅ | TikTok: ✅ | YouTube: https://youtube.com/shorts/WA3u2ESbgK4
