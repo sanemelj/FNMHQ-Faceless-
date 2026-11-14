@@ -9,14 +9,14 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 - Accent: **General American English** (both presenters). Haitian and Salvadoran names follow the bracketed pronunciations.
 - Broadcast-news delivery (network evening news): authoritative, crisp articulation, ~160-170 words/min, key words stressed, falling intonation at the end of every statement. Warm but never chatty.
 - Sits centered behind the curved desk; hands rest on the desk; small natural head moves only.
-- Name: **none for now** (Saneme decides). She never says her own name.
+- Name: **Claire Bastien** (Saneme, Nov. 14). Lower third: CLAIRE BASTIEN · Anchor.
 
 ## Second presenter: the correspondent (man) — new, Saneme Nov. 14
 - Black man, about 42, deep brown skin, black cropped fade, short trimmed beard, dark brown eyes. Charcoal-gray suit, white shirt, deep-red tie (locked from Kai's reference sheet v1, Nov. 14).
 - **Sits at the desk, LEFT seat, next to the anchor (RIGHT seat)**: layout from Saneme's image `HaitiBrief_two_anchor_layout_ref.webp` (Nov. 14). Each has a desk microphone and papers. Use the **studio v2 fixes** (pin on Port-au-Prince, no fake numbers; desk "HAITI BRIEF" + "Haiti Reports | English" is fine), not the screens of that image.
 - Voice: TV correspondent style, same broadcast rules as the anchor, a little more energy when explaining.
 - Role: explains the story. Kai generates all his lines on camera (with one consistent voice); in the edit Claude covers most of them with real footage, so he is seen 1-2 times per episode.
-- Name: none for now (Saneme decides).
+- Name: **Marc Valcourt** (Saneme, Nov. 14). Lower third: MARC VALCOURT · Correspondent.
 
 ## Who says what
 - **Anchor (woman, desk):** cold open, transitions, segments with no footage, sign-off. ~25% of the episode.
