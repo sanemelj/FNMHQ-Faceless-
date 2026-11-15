@@ -2,7 +2,7 @@
 
 Chak blòk anba a se yon prompt konplè. Kopye tout blòk la nan Gemini. Pa bliye mete foto referans lan kòm imaj depa: `haiti-brief/anchor/refs/` (claire, marc oswa wide).
 
-Si Gemini bay sèlman 8 s, koupe fraz la kote ki gen **✂** a epi jenere 2 klip.
+Si Gemini bay sèlman 8 s pa klip, gade kote ki make ✂ nan `HaitiBrief_EP1_GeminiClips.md` pou w konnen ki kote pou w koupe fraz la an 2 klip.
 
 
 ## C1 (CLAIRE)
