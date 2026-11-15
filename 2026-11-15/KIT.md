@@ -102,37 +102,55 @@ Photos via Wikimedia Commons: Etihad Stadium by Hassocks5489 (CC0); Villa Park b
 ```
 
 ---
-## 17:00 · k60 · COUCH FT: Mo & Kev react to Spain v England
-**Estati:** ⏳ PA PARE (Claude ap mete l vè 16:45)  
-**Longè:** ~30 s
+## 17:00 · k60 · COUCH FT: Spain 2–3 England — Mo was right
+**Estati:** ✅ PARE  
+**Longè:** 28 s
 
+- Video: `2026-11-15/Reel_3_Nov_15.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-15/Reel_3_Nov_15.mp4
+- Cover: `2026-11-15/Cover_Reel_3_Nov_15.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-15/Cover_Reel_3_Nov_15.jpg
 
-**Nòt:** KAI: ⏳ PA PARE. Reyaksyon Mo & Kev apre Spain v England. Claude ap fè l apre match la (FT ~3:40 PM CT). Pare ~4:45 PM pou 5:00 PM CT, 3 platfòm. Pa pibliye anyen anvan kat la make ✅ PARE.
+**Nòt:** KAI: ✅ PARE. Reyaksyon Mo & Kev apre Spain 2–3 England. GitHub 2026-11-15/Reel_3_Nov_15.mp4 + Cover. Pibliye 5:00 PM CT (oswa kounya si 5 PM pase): FB + TikTok + YouTube Shorts. Pa gen klip match. PA GEN etikèt AI.
 
 ### FB
 **Caption:**
 ```
-(ap vini apre match la)
+ENGLAND WIN IN MADRID 😂 Mo was right.
+
+Spain 2–3 England. Kane (pen), Konsa and Ben White made it 3–0, then England went down to 10 men and Spain came back to 3–2. England hold on and top the group, and Spain's long unbeaten run is over.
+
+Best England win under Tuchel? Tell us 👇
+
+Photo via Wikimedia Commons: Estadio Metropolitano by Cabeza2000 (CC BY-SA 4.0). Cropped by FNMHQ.
+
+#England #Spain #NationsLeague #FNMHQCouch
 ```
 
 ### TikTok
 **Tit:**
 ```
-(ap vini)
+Mo v Kev: England win in Madrid
 ```
 **Caption:**
 ```
-(ap vini)
+ENGLAND WIN IN MADRID 😂 Spain 2–3 England: Kane (pen), Konsa, Ben White, then 10 men and a nervy finish. England top the group. Best win under Tuchel? Photo: Wikimedia Commons (CC BY-SA). #England #Spain #NationsLeague #FNMHQCouch
 ```
 
 ### YouTube
 **Tit:**
 ```
-(ap vini)
+England Win in Madrid! Spain 2–3 England — Mo v Kev React 😂 #Shorts
 ```
 **Caption:**
 ```
-(ap vini)
+England win in Madrid, and Mo was right.
+
+Spain 2–3 England: Kane (pen), Konsa and Ben White made it 3–0, then England went down to 10 men and Spain came back to 3–2. England hold on and top the group, and Spain's long unbeaten run is over.
+
+Best England win under Thomas Tuchel? Tell us in the comments.
+
+Photo via Wikimedia Commons: Estadio Metropolitano by Cabeza2000 (CC BY-SA 4.0). Changes: cropped.
+
+#England #Spain #NationsLeague
 ```
 
 ---

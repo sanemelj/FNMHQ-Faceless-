@@ -85,27 +85,41 @@
   "ai": false,
   "code": "3 · Nov 15",
   "day": "2026-11-15",
-  "dl": [],
+  "dl": [
+   {
+    "gh": "2026-11-15/Reel_3_Nov_15.mp4",
+    "label": "Video",
+    "name": "Reel 3, Nov 15.mp4",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-15/Reel_3_Nov_15.mp4"
+   },
+   {
+    "gh": "2026-11-15/Cover_Reel_3_Nov_15.jpg",
+    "id": "d957d411e6872c89a0d99c78eff67c13",
+    "label": "Cover",
+    "name": "Cover Reel 3, Nov 15.jpg",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-15/Cover_Reel_3_Nov_15.jpg"
+   }
+  ],
   "fb": {
-   "caption": "(ap vini apre match la)"
+   "caption": "ENGLAND WIN IN MADRID 😂 Mo was right.\n\nSpain 2–3 England. Kane (pen), Konsa and Ben White made it 3–0, then England went down to 10 men and Spain came back to 3–2. England hold on and top the group, and Spain's long unbeaten run is over.\n\nBest England win under Tuchel? Tell us 👇\n\nPhoto via Wikimedia Commons: Estadio Metropolitano by Cabeza2000 (CC BY-SA 4.0). Cropped by FNMHQ.\n\n#England #Spain #NationsLeague #FNMHQCouch"
   },
   "file": "Reel 3, Nov 15.mp4",
   "files": "Reel 3, Nov 15.mp4 · Cover Reel 3, Nov 15.jpg",
-  "img": "",
+  "img": "/_blob/d957d411e6872c89a0d99c78eff67c13",
   "kind": "video",
-  "length": "~30 s",
-  "note": "KAI: ⏳ PA PARE. Reyaksyon Mo & Kev apre Spain v England. Claude ap fè l apre match la (FT ~3:40 PM CT). Pare ~4:45 PM pou 5:00 PM CT, 3 platfòm. Pa pibliye anyen anvan kat la make ✅ PARE.",
-  "ready": false,
+  "length": "28 s",
+  "note": "KAI: ✅ PARE. Reyaksyon Mo & Kev apre Spain 2–3 England. GitHub 2026-11-15/Reel_3_Nov_15.mp4 + Cover. Pibliye 5:00 PM CT (oswa kounya si 5 PM pase): FB + TikTok + YouTube Shorts. Pa gen klip match. PA GEN etikèt AI.",
+  "ready": true,
   "readyBy": "16:45",
   "time": "17:00",
-  "title": "COUCH FT: Mo & Kev react to Spain v England",
+  "title": "COUCH FT: Spain 2–3 England — Mo was right",
   "tt": {
-   "caption": "(ap vini)",
-   "title": "(ap vini)"
+   "caption": "ENGLAND WIN IN MADRID 😂 Spain 2–3 England: Kane (pen), Konsa, Ben White, then 10 men and a nervy finish. England top the group. Best win under Tuchel? Photo: Wikimedia Commons (CC BY-SA). #England #Spain #NationsLeague #FNMHQCouch",
+   "title": "Mo v Kev: England win in Madrid"
   },
   "yt": {
-   "caption": "(ap vini)",
-   "title": "(ap vini)"
+   "caption": "England win in Madrid, and Mo was right.\n\nSpain 2–3 England: Kane (pen), Konsa and Ben White made it 3–0, then England went down to 10 men and Spain came back to 3–2. England hold on and top the group, and Spain's long unbeaten run is over.\n\nBest England win under Thomas Tuchel? Tell us in the comments.\n\nPhoto via Wikimedia Commons: Estadio Metropolitano by Cabeza2000 (CC BY-SA 4.0). Changes: cropped.\n\n#England #Spain #NationsLeague",
+   "title": "England Win in Madrid! Spain 2–3 England — Mo v Kev React 😂 #Shorts"
   }
  }
 }
