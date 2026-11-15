@@ -1,5 +1,8 @@
 # hb-L4 "One Signature Away" — dyalòg avatar pou Kai (6 klip, ~75 s an tout)
 
+**AKSAN (Saneme, 15 nov) — OBLIGATWA NAN CHAK PROMPT:** "Speak in a neutral **General American (U.S.) English** accent, like a U.S. network evening-news anchor: rhotic r's, American flap t ("matter" = MAD-er, "city" = SID-ee, "water" = WAH-der), American vowels. **No British, Caribbean, African or French accent.**" Nan hb-L4, "matter" te soti "mata": sa pa dwe rive ankò.
+
+
 **Saneme (15 nov): avatar yo dwe prezante chak long-form**, menm lè gen narasyon apre. **PRIYORITE #1: fè yo KOUNYA.** Si w pa kapab (kredi, zouti, nenpòt rezon), ekri `BEZWEN CLAUDE:` ak rezon an.
 - Menm règ ak EP01 (ANCHOR_BIBLE.md): videyo + odyo ansanm, lip-sync, anglè ameriken, ton jounal 7 è.
 - Claire ak Marc chita **ansanm** nan menm biwo a (Marc a gòch, Claire a dwat); moun k ap koute a gade lòt la epi fè ti tèt dakò. Referans: `haiti-brief/anchor/refs/HaitiBrief_ref_twoshot.jpg`. Kat sou ekran an pa gen okenn non.

@@ -48,6 +48,9 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 Saneme sets the AI label himself when posting (YouTube Studio: **Altered or synthetic content = Yes**).
 Claude does **not** write anything about AI in the title, description or tags.
 
+## Aksan anglè ameriken (Saneme, Nov. 15)
+**AKSAN (Saneme, 15 nov) — OBLIGATWA NAN CHAK PROMPT:** "Speak in a neutral **General American (U.S.) English** accent, like a U.S. network evening-news anchor: rhotic r's, American flap t ("matter" = MAD-er, "city" = SID-ee, "water" = WAH-der), American vowels. **No British, Caribbean, African or French accent.**" Nan hb-L4, "matter" te soti "mata": sa pa dwe rive ankò.
+
 ## Toujou ansanm (Saneme, Nov. 15)
 Claire ak Marc toujou chita **ansanm nan menm biwo a** (Marc a gòch, Claire a dwat), nan chak klip, menm lè se youn sèl k ap pale. Pa gen klip kote yon prezantatè pou kont li. Foto referans: `refs/HaitiBrief_ref_twoshot.jpg`.
 

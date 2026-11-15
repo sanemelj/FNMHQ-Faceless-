@@ -1,5 +1,8 @@
 # EP01 — "Bukele in Haiti, Week 4: Where Things Stand" — dyalòg pou Kai (≈4:30)
 
+**AKSAN (Saneme, 15 nov) — OBLIGATWA NAN CHAK PROMPT:** "Speak in a neutral **General American (U.S.) English** accent, like a U.S. network evening-news anchor: rhotic r's, American flap t ("matter" = MAD-er, "city" = SID-ee, "water" = WAH-der), American vowels. **No British, Caribbean, African or French accent.**" Nan hb-L4, "matter" te soti "mata": sa pa dwe rive ankò.
+
+
 **Kai: jenere CHAK segman kòm yon klip videyo kote pèsonaj la ap pale devan kamera**, menm segman korespondan yo.
 Claude ap deside nan montaj la ki moman pou l kouvri vwa a ak videyo reyèl. Ou pa bezwen fè anyen ak videyo nouvèl yo.
 
