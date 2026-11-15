@@ -4,8 +4,8 @@ Kai: poste chak kat ✅ PARE nan lè ki make a (ET). Mete lyen an nan POSTED.md.
 
 ---
 
-## ⏰ JODI A, DIMANCH 15 NOV, 8:00 PM ET (7:00 PM CT) · hb-L4 · LONG-FORM 8:12 (Saneme: poste l jodi a) · "One Signature Away"
-**Estati:** ✅ PARE (vèsyon AK avatar yo, A1–A5) · **Longè:** 8:12 · 1920×1080 · 6 chapit (mid-roll posib). **Altered content: Yes** (avatar yo prezante; Saneme mete etikèt la).
+## ⏸ AN ATANT · hb-L4 · LONG-FORM (Claude ap refè montaj la — PA POSTE ANKÒ) · "One Signature Away"
+**Estati:** ⏸ PA POSTE — Saneme mande yon montaj ki pi rapid (tèks pa rete lontan sou ekran an). Claude ap mete nouvo fichye a + nouvo lè a isit la. · **Longè:** 8:12 · 1920×1080 · 6 chapit (mid-roll posib). **Altered content: Yes** (avatar yo prezante; Saneme mete etikèt la).
 **Anvan ou poste (7:30 PM ET):** tcheke lis House Clerk la: https://clerk.house.gov/DischargePetition/2026072025 . Si li **pa 217 ankò** (218 oswa yon chanjman), PA POSTE: ekri `BEZWEN CLAUDE:` touswit, m ap korije videyo a.
 
 - Video: `haiti-brief/2026-11-16/HaitiBrief_Long_4_Nov_16.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Long_4_Nov_16.mp4
