@@ -48,5 +48,8 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 Saneme sets the AI label himself when posting (YouTube Studio: **Altered or synthetic content = Yes**).
 Claude does **not** write anything about AI in the title, description or tags.
 
+## Ka Jovenel Moïse (Saneme, Nov. 15)
+Pa gen footage tribinal; se jounalis ki pale, e nou pa itilize imaj yo. Pou videyo sou pwosè Miami yo, **avatar yo pale plis** (Claire prezante, Marc rakonte temwayaj yo ak sous la), ak imaj kontèks ofisyèl oswa domèn piblik. Pa janm fè sanble yon akize koupab anvan vèdik.
+
 ## Kredi Kai (Saneme, Nov. 14)
 Kai's generation credits are limited. Claude asks for a redo ONLY for a factual/script error or a defect the edit cannot hide. Minor issues (map labels, small face drift, a stutter) are fixed in the edit: cover with footage, no zoom on the face, blur/mask, trim.
