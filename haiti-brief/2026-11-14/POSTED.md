@@ -10,3 +10,10 @@ hb-S4 | 9:00 PM ET | YouTube: https://youtube.com/shorts/SGlIKhOmMb0 (Scheduled 
 hb-S5 | 9:00 AM ET | YouTube: https://youtube.com/shorts/AYXOxBNsLgY
 hb-S6 | 12:00 PM ET | YouTube: https://youtube.com/shorts/3sCAbhqzR9w
 hb-L2 | aswè a (ASAP) | YouTube: https://www.youtube.com/watch?v=bofJfCWYnco
+
+## Facebook — Paj "Haiti Brief" (page_id 1406337205904899) — Shorts yo pwograme dimanch 15 nov (lè ET)
+hb-S2 | 9:00 AM ET | Facebook Reel: SCHEDULED (state: scheduled)
+hb-S3 | 12:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled)
+hb-S4 | 3:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled)
+hb-S5 | 6:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled)
+hb-S6 | 9:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled)
