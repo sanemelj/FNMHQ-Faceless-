@@ -53,7 +53,8 @@ Lis sijè nou deja kouvri yo nan DSKOVA-TV `scoops/COVERED.md` (branch lakay-rep
 - **Orè fiks (Saneme, Nov. 15) — lè yo PA chanje, sof pou yon skoop ijan (`BREAKING — POSTE KOUNYA`):**
   - **Shorts nouvèl:** 9:00 AM · 12:00 PM · 3:00 PM · 6:00 PM · 9:00 PM ET (chak jou, youn pa plas).
   - **Long-form nouvèl:** **11:00 AM ET** chak jou; **4:00 PM ET** sèlman jou ki gen gwo nouvèl.
-  - **Seri "Who Killed President Jovenel Moïse?":** **mèkredi ak dimanch, 8:00 PM ET.** Premye epizòd: mèkredi 18 nov, 8 PM ET.
+  - **Seri "Who Killed President Jovenel Moïse?":** **chak jou 8:00 PM ET** jiskaske nou rive nan pwosè Sanon an (5 epizòd). Premye epizòd la soti kou klip C1–C8 yo rive (sib: madi 17 nov).
+  - **Short "Trial Day" (pwosè Sanon):** chak jou tribinal la chita, **6:00 PM ET**. Claude ekri 2 klip avatar vè 3 PM ET; ou jenere yo touswit.
   - Lòt jou yo, 8:00 PM ET rete pou yon twazyèm long-form nouvèl sèlman si gen gwo nouvèl.
 - **Yon sèl videyo pa plas.** Omwen **1 è** ant 2 piblikasyon (3 è ant 2 Shorts).
 - **Si w an reta** e lè a pase: pa poste 2 an menm tan. Mete l nan **pwochen plas ki lib** nan grill la epi ekri nouvo lè a nan POSTED.md.
