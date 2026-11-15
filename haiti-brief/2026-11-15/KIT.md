@@ -82,7 +82,7 @@ The petition to force a House vote on the American Dream and Promise Act has 217
 ```
 Haitian TPS, Dream and Promise Act, discharge petition, green card, Haitian immigrants, Haiti news, Haiti Brief
 ```
-**Facebook (Reel, menm lè 9:00 PM ET):**
+**Facebook (Reel): DEMEN LENDI 16 NOV 9:00 AM ET** (paske hb-S6 deja pwograme sou Facebook a 9 PM aswè a):
 ```
 One signature from a House vote that could open a path to green cards for people who had TPS. Where things stand for Haitians.
 #Haiti #HaitiNews #TPS
