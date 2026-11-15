@@ -48,6 +48,9 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 Saneme sets the AI label himself when posting (YouTube Studio: **Altered or synthetic content = Yes**).
 Claude does **not** write anything about AI in the title, description or tags.
 
+## Toujou ansanm (Saneme, Nov. 15)
+Claire ak Marc toujou chita **ansanm nan menm biwo a** (Marc a gòch, Claire a dwat), nan chak klip, menm lè se youn sèl k ap pale. Pa gen klip kote yon prezantatè pou kont li. Foto referans: `refs/HaitiBrief_ref_twoshot.jpg`.
+
 ## Ka Jovenel Moïse (Saneme, Nov. 15)
 Pa gen footage tribinal; se jounalis ki pale, e nou pa itilize imaj yo. Pou videyo sou pwosè Miami yo, **avatar yo pale plis** (Claire prezante, Marc rakonte temwayaj yo ak sous la), ak imaj kontèks ofisyèl oswa domèn piblik. Pa janm fè sanble yon akize koupab anvan vèdik.
 

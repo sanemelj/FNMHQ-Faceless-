@@ -4,7 +4,7 @@
 - **Tout 8 klip yo pare** (C6 ak C7 verifye 15 nov, ak `facts_ep01.md`).
 
 **Konsèy pou figi yo pa chanje:** chak fwa, voye foto referans lan bay Gemini kòm imaj depa (*image-to-video*):
-- `haiti-brief/anchor/refs/HaitiBrief_ref_claire.jpg` (Claire, plan mwayen);
+- `haiti-brief/anchor/refs/HaitiBrief_ref_twoshot.jpg` (toude ansanm, pou tout klip yo);
 - `HaitiBrief_ref_marc.jpg` (Marc, plas gòch);
 - `HaitiBrief_ref_wide.jpg` (toude).
 
