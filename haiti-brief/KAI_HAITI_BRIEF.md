@@ -59,6 +59,10 @@ Lis sijè nou deja kouvri yo nan DSKOVA-TV `scoops/COVERED.md` (branch lakay-rep
 24 è apre chak long-form soti, ekri rapò a nan `haiti-brief/reports/` (modèl: `reports/README.md`), ak screenshot Overview, Reach ak **Audience retention**. Claude sèvi ak li pou chwazi pwochen sijè yo, ouvèti yo ak longè yo.
 Prochen rapò: **hb-L2** (soti Nov. 14 ~7 PM ET → rapò Nov. 15 ~7 PM ET) · **hb-L3** (soti Nov. 14 ~10:50 PM ET → rapò Nov. 15 ~11 PM ET).
 
+## Priyorite ak pozisyon (Saneme, Nov. 15)
+- **Sijè yo, nan lòd:** (1) ensekirite Ayiti; (2) ka Jovenel Moïse (pwosè + seri a); (3) **imigrasyon pou Ayisyen Ozetazini ak Kanada** (TPS, parole, depòtasyon, azil, pwogram Kanada/Kebèk). Apre sa: lòt gwo nouvèl (match Grenadye yo, elatriye). Voye tip sou 3 premye yo an premye.
+- **Nou pou Ayiti.** Chanèl la an anglè, men se pou Ayisyen. Nou di verite a ak respè pou pèp la: nou kritike gang, lidè ak enstitisyon, pa pèp ayisyen an. Pa gen mo ki rabese peyi a.
+
 ## Facebook (Saneme, Nov. 15)
 Saneme kreye yon paj Facebook Haiti Brief. **Chak Short poste sou YouTube poste tou sou paj Facebook la kòm Reel**, menm fichye a.
 - Lè: menm lè ak YouTube nan kat KIT la (oswa jiska 1 è apre), youn pa plas, pa tout ansanm.
