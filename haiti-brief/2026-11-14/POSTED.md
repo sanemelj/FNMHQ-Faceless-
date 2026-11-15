@@ -16,5 +16,5 @@ hb-S1 | dimanch 15 nov ~2:00 AM ET | Facebook Reel: PUBLISHED https://facebook.c
 hb-S2 | 9:00 AM ET | Facebook Reel: PUBLISHED https://facebook.com/reel/2233726147357400/ | FB AI label: No
 hb-S3 | 12:00 PM ET | Facebook Reel: PUBLISHED https://facebook.com/reel/1798833191385507/ | FB AI label: No
 hb-S4 | 3:00 PM ET | Facebook Reel: PUBLISHED https://facebook.com/reel/1402598508612153/ | FB AI label: No
-hb-S5 | 6:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled) | FB AI label: No
+hb-S5 | 6:00 PM ET | Facebook Reel: PUBLISHED https://facebook.com/reel/1337701999436404/ | FB AI label: No
 hb-S6 | 9:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled) | FB AI label: No
