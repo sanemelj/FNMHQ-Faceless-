@@ -1,8 +1,7 @@
 # "Who Killed President Jovenel Moïse?", Epizòd 1: "The Night of July 7" — klip avatar pou Gemini
 
 **Pou Saneme.** 8 klip, 10–15 s chak.
-- **Pare pou jenere kounya:** C1, C2, C3, C4, C5, C8.
-- **⚠ Pa jenere C6 ak C7 kounya:** m ap konfime chif yo ak dat yo avan (rechèch la ap fini).
+- **Tout 8 klip yo pare** (C6 ak C7 verifye 15 nov, ak `facts_ep01.md`).
 
 **Konsèy pou figi yo pa chanje:** chak fwa, voye foto referans lan bay Gemini kòm imaj depa (*image-to-video*):
 - `haiti-brief/anchor/refs/HaitiBrief_ref_claire.jpg` (Claire, plan mwayen);
@@ -27,8 +26,8 @@ Mete klip yo nan `haiti-brief/anchor/2026-11-16_series_ep1/from_sam/` ak non `Ha
 Pwononsyasyon: Moïse = "mo-EEZ"; Jovenel = "zho-veh-NEL"; Port-au-Prince = "port-oh-PRINCE".
 
 ## C2 — MARC · (~13 s) · plan mwayen sou Marc, ton reporter, ti jès ak men dwat
-> Marc says: "His wife, Martine, is badly wounded. Within hours, police are hunting the attackers. ✂ Most of them turn out to be former soldiers from Colombia — men who had crossed into Haiti weeks before."
-⚠ "weeks before" — m ap konfime l; si m pa ka konfime l, m ap koupe 4 dènye mo yo nan montaj la. Pou rès la, ou ka jenere l.
+> Marc says: "His wife, Martine, is badly wounded. Within hours, police are hunting the attackers. ✂ Most of them turn out to be former soldiers from Colombia, flown in through the Dominican Republic."
+(Si w te deja jenere C2 ak ansyen fen an "— men who had crossed into Haiti weeks before", pa refè l: m ap koupe fen an nan montaj la.)
 
 ## C3 — CLAIRE · kesyon yo (~11 s) · plan mwayen, li panche yon ti kras pi devan
 > Claire says: "But soldiers for hire do not hire themselves. ✂ Who paid them? Who planned it? And who wanted Haiti's president dead?"
@@ -40,13 +39,12 @@ Pwononsyasyon: Moïse = "mo-EEZ"; Jovenel = "zho-veh-NEL"; Port-au-Prince = "por
 > Marc says: "To understand that night, start with the house. ✂ It sits in Pèlerin Five, in the hills above Pétion-Ville. It was the president's private home, not the National Palace."
 Pwononsyasyon: Pèlerin = "pel-RAN"; Pétion-Ville = "pay-tee-ON-veel".
 
-## C6 — MARC · ⚠ TANN VERIFIKASYON (~14 s)
-> Marc says: "In the days that followed, Haitian police arrested [NONB] Colombians and two Haitian-Americans. ✂ [NONB] were killed. But the people at the top were nowhere in sight."
-(M ap ranplase [NONB] ak chif ki konfime yo.)
+## C6 — MARC · tali polis la (~14 s) · plan mwayen sou Marc, grav
+> Marc says: "Within four days, police said they had arrested eighteen Colombians and two Haitian-Americans. Three Colombians were dead. ✂ The police chief said they had the men who did it. Now they were looking for the people who sent them."
 
-## C7 — CLAIRE · sispans (cliffhanger) · ⚠ TANN VERIFIKASYON (~14 s) · plan mwayen, poz anvan non an
-> Claire says: "Then, on July eleventh, police named a new suspect: a Haitian-born pastor from Florida who called himself a doctor. ✂ His name: Christian Emmanuel Sanon. Today, he tells a Miami jury he never wanted anyone killed."
-Pwononsyasyon: Sanon = "sah-NOHN". (Sanon plede pa koupab; pwosè l ap kontinye. Nou pa di li koupab.)
+## C7 — CLAIRE · sispans (cliffhanger) (~13 s) · plan mwayen, poz anvan non an
+> Claire says: "On July eleventh, police named a new suspect: a Haitian-born pastor from Florida. ✂ His name: Christian Emmanuel Sanon. Five years later, he is on trial in Miami. He has pleaded not guilty."
+Pwononsyasyon: Sanon = "sah-NOHN"; Christian Emmanuel = "KRIS-chun ee-MAN-yoo-el".
 
 ## C8 — CLAIRE · fèmti (~10 s) · plan laj, ti bese tèt sou dènye fraz la
 > Claire says: "Next time: before that night, there was a fight over how long a president could stay. ✂ I'm Claire Bastien. This is Haiti Brief."
