@@ -14,7 +14,7 @@ hb-L2 | aswè a (ASAP) | YouTube: https://www.youtube.com/watch?v=bofJfCWYnco
 ## Facebook — Paj "Haiti Brief" (page_id 1406337205904899) — Shorts yo pwograme dimanch 15 nov (lè ET)
 hb-S1 | dimanch 15 nov ~2:00 AM ET | Facebook Reel: PUBLISHED https://facebook.com/reel/1146476507904459/ (pwogramasyon lendi 9 AM ET a te anile anvan piblikasyon an — menm post la, pa yon kopi; zewo doub) | FB AI label: No
 hb-S2 | 9:00 AM ET | Facebook Reel: PUBLISHED https://facebook.com/reel/2233726147357400/ | FB AI label: No
-hb-S3 | 12:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled) | FB AI label: No
+hb-S3 | 12:00 PM ET | Facebook Reel: PUBLISHED https://facebook.com/reel/1798833191385507/ | FB AI label: No
 hb-S4 | 3:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled) | FB AI label: No
 hb-S5 | 6:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled) | FB AI label: No
 hb-S6 | 9:00 PM ET | Facebook Reel: SCHEDULED (state: scheduled) | FB AI label: No
