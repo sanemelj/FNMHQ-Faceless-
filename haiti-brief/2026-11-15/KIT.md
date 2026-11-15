@@ -61,3 +61,29 @@ Images: VOA (public domain); U.S. Navy (public domain); U.S. Air Force (public d
 ```
 Haiti, Haiti news, Bukele, Nayib Bukele, El Salvador, Bukele Haiti, Haiti gangs, Viv Ansanm, 400 Mawozo, Lanmo San Jou, CECOT, Gang Suppression Force, Sylvio Cator, Port-au-Prince, Jovenel Moise, Haiti explained, Haiti Brief
 ```
+
+---
+
+## 9:00 PM ET (8:00 PM CT) · JODI A 15 NOV · hb-S7 · SHORT 0:30 · "One Signature Away"
+**Estati:** ✅ PARE · 1080×1920 · 30 s. **Altered content: Yes** (avatar yo) → **Facebook: aktive etikèt AI (Yes)**.
+- Video: `haiti-brief/2026-11-15/HaitiBrief_Short_7_Nov_15.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-15/HaitiBrief_Short_7_Nov_15.mp4
+- **Related video:** hb-L4 (lyen 8 PM ET aswè a). Kòmantè pin: `Full story (8 min): <lyen hb-L4>`.
+
+**Tit:**
+```
+217 of 218: One Signature From a Vote for Haitian TPS Holders #Shorts
+```
+**Deskripsyon:**
+```
+The petition to force a House vote on the American Dream and Promise Act has 217 of the 218 signatures it needs (House Clerk list, Nov. 15, 2026). Not legal advice; the bill is not law. Full story on our channel.
+#Haiti #HaitianTPS #DreamAndPromiseAct
+```
+**Tags:**
+```
+Haitian TPS, Dream and Promise Act, discharge petition, green card, Haitian immigrants, Haiti news, Haiti Brief
+```
+**Facebook (Reel, menm lè 9:00 PM ET):**
+```
+One signature from a House vote that could open a path to green cards for people who had TPS. Where things stand for Haitians.
+#Haiti #HaitiNews #TPS
+```
