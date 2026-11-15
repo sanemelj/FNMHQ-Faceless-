@@ -1,4 +1,4 @@
-# "The Killing of Jovenel Moïse", Epizòd 1: "The Night of July 7" — klip avatar pou Gemini
+# "Who Killed President Jovenel Moïse?", Epizòd 1: "The Night of July 7" — klip avatar pou Gemini
 
 **Pou Saneme.** 8 klip, 10–15 s chak.
 - **Pare pou jenere kounya:** C1, C2, C3, C4, C5, C8.
@@ -34,7 +34,7 @@ Pwononsyasyon: Moïse = "mo-EEZ"; Jovenel = "zho-veh-NEL"; Port-au-Prince = "por
 > Claire says: "But soldiers for hire do not hire themselves. ✂ Who paid them? Who planned it? And who wanted Haiti's president dead?"
 
 ## C4 — CLAIRE · tit seri a (~13 s) · plan laj, toude nan biwo a, Marc gade Claire
-> Claire says: "Five years later, a federal court in Miami is still hearing the case. ✂ This is Haiti Brief. And this is 'The Killing of Jovenel Moïse.' Episode one: The Night of July Seventh."
+> Claire says: "Five years later, a federal court in Miami is still hearing the case. ✂ This is Haiti Brief. And this is 'Who Killed President Jovenel Moïse?' Episode one: The Night of July Seventh."
 
 ## C5 — MARC · kote sa te pase (~12 s) · plan mwayen sou Marc, li vire tèt li gade kat la epi li retounen gade kamera a
 > Marc says: "To understand that night, start with the house. ✂ It sits in Pèlerin Five, in the hills above Pétion-Ville. It was the president's private home, not the National Palace."
