@@ -50,7 +50,11 @@ Lis sijè nou deja kouvri yo nan DSKOVA-TV `scoops/COVERED.md` (branch lakay-rep
 
 ## Lè pou poste (Saneme, Nov. 15) — PA POSTE TOUT ANSANM
 - **Chak videyo gen lè pa l** nan kat KIT la (lè ET). Poste l **egzakteman lè sa a**, oswa **pwograme l** nan YouTube Studio (Visibility → Schedule) pou lè sa a.
-- **Grill chak jou (ET):** Shorts **9:00 AM · 12:00 PM · 3:00 PM · 6:00 PM · 9:00 PM** · Long-form **11:00 AM · 4:00 PM · 8:00 PM** (Saneme, Nov. 15: se yon chanèl nouvèl, jou ki gen nouvèl nou ka gen 2-3 long-form). **BREAKING:** si kat la di `BREAKING — POSTE KOUNYA`, poste l touswit (omwen 1 è apre dènye piblikasyon an).
+- **Orè fiks (Saneme, Nov. 15) — lè yo PA chanje, sof pou yon skoop ijan (`BREAKING — POSTE KOUNYA`):**
+  - **Shorts nouvèl:** 9:00 AM · 12:00 PM · 3:00 PM · 6:00 PM · 9:00 PM ET (chak jou, youn pa plas).
+  - **Long-form nouvèl:** **11:00 AM ET** chak jou; **4:00 PM ET** sèlman jou ki gen gwo nouvèl.
+  - **Seri "Who Killed President Jovenel Moïse?":** **mèkredi ak dimanch, 8:00 PM ET.** Premye epizòd: mèkredi 18 nov, 8 PM ET.
+  - Lòt jou yo, 8:00 PM ET rete pou yon twazyèm long-form nouvèl sèlman si gen gwo nouvèl.
 - **Yon sèl videyo pa plas.** Omwen **1 è** ant 2 piblikasyon (3 è ant 2 Shorts).
 - **Si w an reta** e lè a pase: pa poste 2 an menm tan. Mete l nan **pwochen plas ki lib** nan grill la epi ekri nouvo lè a nan POSTED.md.
 - Nan POSTED.md, ekri lè ou **pwograme** l la: `hb-S7 | 9:00 AM ET | YouTube: <lyen> (Scheduled 9:00 AM ET)`.
