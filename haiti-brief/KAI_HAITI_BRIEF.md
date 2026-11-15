@@ -54,3 +54,15 @@ Lis sijè nou deja kouvri yo nan DSKOVA-TV `scoops/COVERED.md` (branch lakay-rep
 - **Yon sèl videyo pa plas.** Omwen **1 è** ant 2 piblikasyon (3 è ant 2 Shorts).
 - **Si w an reta** e lè a pase: pa poste 2 an menm tan. Mete l nan **pwochen plas ki lib** nan grill la epi ekri nouvo lè a nan POSTED.md.
 - Nan POSTED.md, ekri lè ou **pwograme** l la: `hb-S7 | 9:00 AM ET | YouTube: <lyen> (Scheduled 9:00 AM ET)`.
+
+## Rapò 24 è pou chak long-form (Saneme, Nov. 15)
+24 è apre chak long-form soti, ekri rapò a nan `haiti-brief/reports/` (modèl: `reports/README.md`), ak screenshot Overview, Reach ak **Audience retention**. Claude sèvi ak li pou chwazi pwochen sijè yo, ouvèti yo ak longè yo.
+Prochen rapò: **hb-L2** (soti Nov. 14 ~7 PM ET → rapò Nov. 15 ~7 PM ET) · **hb-L3** (soti Nov. 14 ~10:50 PM ET → rapò Nov. 15 ~11 PM ET).
+
+## Facebook (Saneme, Nov. 15)
+Saneme kreye yon paj Facebook Haiti Brief. **Chak Short poste sou YouTube poste tou sou paj Facebook la kòm Reel**, menm fichye a.
+- Lè: menm lè ak YouTube nan kat KIT la (oswa jiska 1 è apre), youn pa plas, pa tout ansanm.
+- Tèks: sèvi ak blòk **"Facebook"** nan kat KIT la (pi kout, pa gen #Shorts). Si kat la pa gen blòk Facebook, pran premye fraz deskripsyon YouTube la + 3 hashtag: #Haiti #HaitiNews #Bukele.
+- Pa ekri anyen sou AI. Etikèt yo (YouTube ak Meta) se Saneme ki jere yo.
+- Nan POSTED.md ajoute lyen Facebook la sou menm liy lan: `hb-S7 | 9:00 AM ET | YouTube: <lyen> | FB: <lyen>`.
+- Long-form yo: rete sou YouTube sèlman pou kounya (sof si Saneme di lòt bagay).
