@@ -6,9 +6,10 @@ Same pipeline as Haiti Brief: Claude writes word-for-word dialogue → Kai gener
 Claude edits (real Commons photos, score cards, captions, music, end card).
 
 ## Characters (the same Mo & Kev as the 2D Couch, now live-action; fictional, never real people)
-- **Mo** — man ~30, warm brown skin, short black beard, red beanie with a black band, red-and-white knitted scarf,
+- Look (Saneme, Nov. 15): both presenters are **white British/American-looking men**. Keep them identical in every clip.
+- **Mo** — white British man ~30, fair skin with a little colour, short dark-brown beard, brown eyes, red beanie with a black band, red-and-white knitted scarf,
   black hoodie. Man United fan, loud optimist, laughs easily, big hand gestures. Sits LEFT.
-- **Kev** — man ~32, light skin, short brown hair, thin black-rimmed glasses, light-blue hoodie. Man City fan,
+- **Kev** — white British man ~32, pale skin, light freckles, short light-brown hair, blue-grey eyes, thin black-rimmed glasses, light-blue hoodie. Man City fan,
   stats nerd, dry deadpan humour, adjusts his glasses before a stat. Sits RIGHT.
 - Always together on the same grey fabric sofa, in every clip, even when only one speaks; the listener reacts (smiles,
   eye-rolls, laughs, shakes head). Never a solo shot.
