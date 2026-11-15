@@ -2,4 +2,4 @@
 
 Kai: ranplase "—" ak lyen YouTube la apre ou fin poste.
 
-hb-L4 | 11:00 AM ET | YouTube: —
+hb-L4 | Nov. 15 · 8:00 PM ET | YouTube: —
