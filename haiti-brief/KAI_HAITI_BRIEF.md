@@ -47,3 +47,10 @@ Saneme vle nou travay san li. Nou youn reveye lòt atravè repo sa a.
 
 ## Pa repete sijè (Saneme, Nov. 14)
 Lis sijè nou deja kouvri yo nan DSKOVA-TV `scoops/COVERED.md` (branch lakay-report). Pa voye tip sou yon sijè ki deja la sof si gen yon UPDATE (nouvo fè, chif, dat, deklarasyon ofisyèl). Ekri "UPDATE:" nan tit tip la.
+
+## Lè pou poste (Saneme, Nov. 15) — PA POSTE TOUT ANSANM
+- **Chak videyo gen lè pa l** nan kat KIT la (lè ET). Poste l **egzakteman lè sa a**, oswa **pwograme l** nan YouTube Studio (Visibility → Schedule) pou lè sa a.
+- **Grill chak jou (ET):** Shorts **9:00 AM · 12:00 PM · 3:00 PM · 6:00 PM · 9:00 PM** · Long-form **11:00 AM** (1 pa jou maksimòm).
+- **Yon sèl videyo pa plas.** Omwen **1 è** ant 2 piblikasyon (3 è ant 2 Shorts).
+- **Si w an reta** e lè a pase: pa poste 2 an menm tan. Mete l nan **pwochen plas ki lib** nan grill la epi ekri nouvo lè a nan POSTED.md.
+- Nan POSTED.md, ekri lè ou **pwograme** l la: `hb-S7 | 9:00 AM ET | YouTube: <lyen> (Scheduled 9:00 AM ET)`.
