@@ -44,3 +44,6 @@ Saneme vle nou travay san li. Nou youn reveye lòt atravè repo sa a.
   - `FINI:` = travay la fèt.
 - Pa ekri nan fichye FNMHQ foutbòl yo. Fichye Haiti Brief sèlman nan `haiti-brief/`, ak prefiks `HaitiBrief_`.
 - Ant 00:00 ak 06:59 (Haiti), pa reveye Saneme sof pou yon bagay ijan.
+
+## Pa repete sijè (Saneme, Nov. 14)
+Lis sijè nou deja kouvri yo nan DSKOVA-TV `scoops/COVERED.md` (branch lakay-report). Pa voye tip sou yon sijè ki deja la sof si gen yon UPDATE (nouvo fè, chif, dat, deklarasyon ofisyèl). Ekri "UPDATE:" nan tit tip la.
