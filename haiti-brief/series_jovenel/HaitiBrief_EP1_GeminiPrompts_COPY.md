@@ -1,3 +1,8 @@
+# ⚠ PA ITILIZE FICHYE SA A ANKÒ (15 nov)
+Gemini refize: *"I can't make videos that could cause reputational risk or misrepresent current events."* Nou respekte desizyon an, nou p ap eseye kontoune l. **Klip k ap pale yo → Kai** (`haiti-brief/anchor/2026-11-16_series_ep1/DIALOGUE.md`). **Gemini → sèlman klip san pawòl** (`HaitiBrief_EP1_Gemini_Cutaways.md`).
+
+---
+
 # Who Killed President Jovenel Moïse? — Epizòd 1: prompt pou Gemini, v3 (karaktè fiktif)
 
 **Poukisa v3:** Gemini te kwè Claire ak Marc se moun ki egziste tout bon. Kounya prompt la di klèman yo se **karaktè fiktif** ke chanèl la envante, e foto referans lan se yon imaj ki fèt sou òdinatè. Se vre: Kai te kreye yo.
