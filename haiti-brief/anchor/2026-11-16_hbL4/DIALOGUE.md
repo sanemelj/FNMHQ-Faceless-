@@ -1,11 +1,10 @@
 # hb-L4 "One Signature Away" — dyalòg avatar pou Kai (6 klip, ~75 s an tout)
 
-**Saneme (15 nov): avatar yo dwe prezante chak long-form**, menm lè gen narasyon apre. **PRIYORITE #1 demen maten** apre kredi w renouvle (anvan klip S1E1 yo).
+**Saneme (15 nov): avatar yo dwe prezante chak long-form**, menm lè gen narasyon apre. **PRIYORITE #1: fè yo KOUNYA.** Si w pa kapab (kredi, zouti, nenpòt rezon), ekri `BEZWEN CLAUDE:` ak rezon an.
 - Menm règ ak EP01 (ANCHOR_BIBLE.md): videyo + odyo ansanm, lip-sync, anglè ameriken, ton jounal 7 è.
 - Claire ak Marc chita **ansanm** nan menm biwo a (Marc a gòch, Claire a dwat); moun k ap koute a gade lòt la epi fè ti tèt dakò. Referans: `haiti-brief/anchor/refs/HaitiBrief_ref_twoshot.jpg`. Kat sou ekran an pa gen okenn non.
 - Li script la mo pou mo. Yon sèl pran pa klip.
 - Non fichye: `HaitiBrief_L4_A1.mp4` … A6 → `haiti-brief/anchor/2026-11-16_hbL4/from_kai/`. Ekri `FINI:` nan NOTES lè yo la.
-- **Si klip yo pa la anvan 10:00 AM ET**, nou deplase piblikasyon an a 4:00 PM ET.
 
 ## A1 — CLAIRE · ouvèti (~12 s) · li gade kamera a, grav
 > "Two hundred and seventeen. That is how many members of the U.S. House have signed a petition to force a vote on the American Dream and Promise Act. It needs two hundred and eighteen."
