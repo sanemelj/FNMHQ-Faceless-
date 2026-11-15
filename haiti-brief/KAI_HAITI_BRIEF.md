@@ -63,6 +63,7 @@ Prochen rapò: **hb-L2** (soti Nov. 14 ~7 PM ET → rapò Nov. 15 ~7 PM ET) · *
 Saneme kreye yon paj Facebook Haiti Brief. **Chak Short poste sou YouTube poste tou sou paj Facebook la kòm Reel**, menm fichye a.
 - Lè: menm lè ak YouTube nan kat KIT la (oswa jiska 1 è apre), youn pa plas, pa tout ansanm.
 - Tèks: sèvi ak blòk **"Facebook"** nan kat KIT la (pi kout, pa gen #Shorts). Si kat la pa gen blòk Facebook, pran premye fraz deskripsyon YouTube la + 3 hashtag: #Haiti #HaitiNews #Bukele.
-- Pa ekri anyen sou AI. Etikèt yo (YouTube ak Meta) se Saneme ki jere yo.
+- Pa ekri anyen sou AI nan tèks la (tit, deskripsyon, hashtag).
+- **Etikèt AI sou Facebook = menm jan ak YouTube (Saneme, Nov. 15).** Pou chak Reel, gade videyo a nan YouTube Studio: si **Altered or synthetic content = Yes** sou YouTube, aktive etikèt AI Meta a (**AI info / "Made with AI"**, nan paramèt avanse Reel la nan Meta Business Suite) sou Facebook. Si se **No** sou YouTube, pa mete l. Fè l tou pou Reel ki deja pwograme oswa pibliye yo (edit post la). Si Meta pa kite w chanje l sou yon post, ekri `BEZWEN SANEME:` ak lyen an.
 - Nan POSTED.md ajoute lyen Facebook la sou menm liy lan: `hb-S7 | 9:00 AM ET | YouTube: <lyen> | FB: <lyen>`.
 - Long-form yo: rete sou YouTube sèlman pou kounya (sof si Saneme di lòt bagay).
