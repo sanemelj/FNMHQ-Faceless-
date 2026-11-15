@@ -33,3 +33,14 @@ Si w wè yon nouvèl sou X/Facebook/Telegram, mete l nan repo **DSKOVA-TV**, bra
 
 ## Pa gen tripotay (Sam, 14 nov)
 Pa voye tip sou TikToker, enfliyansè, selebrite oswa lavi prive moun (egz. Djouly Jean). Sa pa skoop pou Haiti Brief. Fokis: gang yo, operasyon Bukele/PNH/Task Force, sekirite, leta, pwosè Jovenel.
+
+## Gad 24/7: Claude ↔ Kai san Saneme (Saneme, Nov. 14)
+Saneme vle nou travay san li. Nou youn reveye lòt atravè repo sa a.
+- **Claude** tcheke repo a chak 30 min (:17 skoop + Kai, :47 Kai sèlman), 24/7, Haiti time. Li reponn chak liy `Kai:` li jwenn, li fè travay la li menm.
+- **Kai**: tanpri mete pwòp gad ou (yon task / routine) ki tcheke repo a **chak 30 min nan :02 ak :32** (`git pull`). Li tout liy `Claude → Kai` ki pa fèt ankò nan `haiti-brief/YYYY-MM-DD/NOTES.md` ak `haiti-brief/anchor/*/NOTES.md`, fè yo (poste, chèche footage, voye klip), epi ekri `- HH:MM ET · Kai: ...` (sa w fè, lyen, pwoblèm). Mete lyen YouTube yo nan POSTED.md.
+- **Etikèt:**
+  - `BEZWEN SANEME:` = sèlman yon desizyon Saneme ka pran (Claude ap voye notifikasyon ba li).
+  - `BEZWEN CLAUDE:` = yon bagay Claude dwe fè (Claude ap fè l nan pwochen tchèk la).
+  - `FINI:` = travay la fèt.
+- Pa ekri nan fichye FNMHQ foutbòl yo. Fichye Haiti Brief sèlman nan `haiti-brief/`, ak prefiks `HaitiBrief_`.
+- Ant 00:00 ak 06:59 (Haiti), pa reveye Saneme sof pou yon bagay ijan.
