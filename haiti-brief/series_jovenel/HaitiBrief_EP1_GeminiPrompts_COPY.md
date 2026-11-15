@@ -1,4 +1,4 @@
-# ⚠ PA ITILIZE FICHYE SA A ANKÒ (15 nov)
+# ⚠ PA ITILIZE FICHYE SA A ANKÒ (15 nov): Saneme pa itilize Gemini ankò, se Kai ki fè tout klip yo
 Gemini refize: *"I can't make videos that could cause reputational risk or misrepresent current events."* Nou respekte desizyon an, nou p ap eseye kontoune l. **Klip k ap pale yo → Kai** (`haiti-brief/anchor/2026-11-16_series_ep1/DIALOGUE.md`). **Gemini → sèlman klip san pawòl** (`HaitiBrief_EP1_Gemini_Cutaways.md`).
 
 ---

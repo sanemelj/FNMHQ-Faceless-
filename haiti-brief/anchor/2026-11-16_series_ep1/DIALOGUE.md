@@ -39,3 +39,11 @@ Pwononsyasyon: Sanon = "sah-NOHN"; Christian Emmanuel = "KRIS-chun ee-MAN-yoo-el
 ## C8 — CLAIRE · fèmti (~10 s) · plan laj, ti bese tèt sou dènye fraz la
 > Claire says: "Next time: before that night, there was a fight over how long a president could stay. I'm Claire Bastien. This is Haiti Brief."
 
+
+---
+## Klip SAN PAWÒL (cutaway, 8 s chak) — Kai fè yo tou (Saneme, 15 nov)
+Menm estidyo, Claire ak Marc chita ansanm, plan ak referans `HaitiBrief_ref_twoshot.jpg`. **Pa gen pawòl**: sèlman ti son estidyo, pa gen mizik. Non fichye: `HaitiBrief_S1E1_K1.mp4` … K4.
+- **K1:** Toude ap li papye yo an silans; Claire tounen yon paj, Marc leve je l gade kamera a epi li bese l ankò.
+- **K2:** Toude vire tèt yo gade gwo ekran ki dèyè yo, epi yo retounen gade youn lòt, figi yo grav.
+- **K3:** Marc ap koute pandan Claire ap gade nòt li yo, l ap reflechi; yo bat je natirèlman, yo respire, yo pa pale.
+- **K4:** Kamera a avanse dousman sou biwo a; toude chita san bouje, yo gade kamera a, kalm e grav, yo pa pale.

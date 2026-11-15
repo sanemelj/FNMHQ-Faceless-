@@ -1,4 +1,4 @@
-# S1E1 — klip SAN PAWÒL pou Gemini (cutaway)
+# ⚠ PA ITILIZE: Saneme pa itilize Gemini ankò (15 nov). Kai fè K1–K4 yo (gade anchor/2026-11-16_series_ep1/DIALOGUE.md).
 
 Gemini refize fè prezantatè ki pale sou yon evènman reyèl. Nou respekte desizyon sa a: **pa eseye kontoune l.** Se Kai ki ap fè klip k ap pale yo.
 Gemini ka fè **klip san pawòl** pou montaj la (pandan vwa Kokoro ap pale anlè yo): prezantatè yo ap travay nan estidyo a, pa gen pawòl, pa gen sijè nouvèl. Jenere 4 klip 8 s, ak foto `HaitiBrief_ref_twoshot.jpg` kòm imaj depa.
