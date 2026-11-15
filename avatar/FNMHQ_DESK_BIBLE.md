@@ -5,36 +5,41 @@ channel (Saneme, Nov. 15) = ~1 follower per 290 views. FNMHQ faceless: 1 sub per
 Same pipeline as Haiti Brief: Claude writes word-for-word dialogue → Kai generates each clip WITH its audio (lip-sync) →
 Claude edits (real Commons photos, score cards, captions, music, end card).
 
-## Characters (fictional, never real people; Saneme Nov. 15: real-sounding names, not Mo & Kev)
-- Names: **Callum Pryce** ("Cal") and **Jamie Hollis**. Lower thirds: CALLUM PRYCE · United fan | JAMIE HOLLIS · City fan.
-- The 2D cartoon Couch keeps Mo & Kev; the Desk avatars are separate characters with the same roles.
-- Look (Saneme, Nov. 15): both presenters are **white British/American-looking men**. Keep them identical in every clip.
-- **Callum Pryce** — white British man ~30, fair skin with a little colour, short dark-brown beard, brown eyes, red beanie with a black band, red-and-white knitted scarf,
-  black hoodie. Man United fan, loud optimist, laughs easily, big hand gestures. Sits LEFT.
-- **Jamie Hollis** — white British man ~32, pale skin, light freckles, short light-brown hair, blue-grey eyes, thin black-rimmed glasses, light-blue hoodie. Man City fan,
-  stats nerd, dry deadpan humour, adjusts his glasses before a stat. Sits RIGHT.
-- Always together on the same grey fabric sofa, in every clip, even when only one speaks; the listener reacts (smiles,
-  eye-rolls, laughs, shakes head). Never a solo shot.
-- Voice: **natural British English, neutral London/Manchester-light, conversational** (not posh, not exaggerated).
-  Callum higher-energy; Jamie calmer, drier. Keep the same voice per character in every clip.
+## Tone (Saneme, Nov. 15): professional sports journalists, human humour
+- They are **neutral football journalists, not fans**. No club allegiance, no "we", no cheering for a team.
+- People should want to hear their **reporting and analysis**: verified facts first, then a clear take (labelled as opinion).
+- They still joke, the way real presenters do: a dry one-liner, a reaction, a laugh at the situation — never at a
+  group of people, never forced, max 1-2 per clip.
 
-## Set: "FNMHQ Couch" studio
-- Modern small football-podcast studio at night: grey sofa, low coffee table with two mugs, warm practical lamps,
-  a large wall TV behind them (keep the TV screen plain dark blue — Claude puts photos/graphics on it in the edit),
-  small FNMHQ logo sign on the wall (red/white). No real club crests, no league logos, no sponsor logos, no real kits.
+## Characters (fictional, never real people)
+- **Callum Pryce** — host / reporter. White British man ~30, fair skin, short dark-brown beard, brown eyes, neat
+  short dark hair. Navy blazer, white open-collar shirt (no tie). Energetic, clear, confident; delivers the news.
+  Lower third: CALLUM PRYCE · Football reporter. Sits LEFT.
+- **Jamie Hollis** — analyst. White British man ~32, pale skin, light freckles, short light-brown hair, blue-grey eyes,
+  thin black-rimmed glasses. Charcoal blazer, light-blue shirt (no tie). Calm, precise, dry humour; explains why it
+  happened (tactics, numbers). Lower third: JAMIE HOLLIS · Analyst. Sits RIGHT.
+- Always together at the same desk in every clip, even when only one speaks; the listener reacts naturally
+  (nods, small smile, a laugh at a joke). Never a solo shot.
+- Voice: **natural British English (neutral, broadcast)**, conversational, not posh, not exaggerated.
+  Keep the same voice per character in every clip.
+- The 2D cartoon Couch (Mo & Kev, fans, comedy) is a separate format and stays as it is during the test.
+
+## Set: FNMHQ football studio
+- Modern TV football studio at night: curved glass desk, two desk microphones, tablets, a large screen behind them
+  (keep it plain dark blue/graphite — Claude puts photos, tables and score cards on it in the edit), a small FNMHQ logo
+  (red/white) on the desk front. No real club crests, no league logos, no sponsor logos, no real kits, no invented numbers.
 
 ## Clips (delivery)
-- **Vertical 9:16, 1080×1920 (or native vertical), 30 fps (24 OK)**, ~10 s per clip, both on the sofa, framed
-  waist-up, faces in the upper-middle third (captions go lower), 1 s of quiet head/tail.
+- **Vertical 9:16, 1080×1920 (or native vertical), 30 fps (24 OK)**, ~10 s per clip, both at the desk, framed waist-up,
+  faces in the upper-middle third (captions go lower), 1 s of quiet head/tail.
 - Read the dialogue **word for word**; names in brackets are phonetic. One take per clip; redo only for a wrong word,
   lip-sync drift, warped hands/face.
 - File names: `FNMHQ_Desk_<NN>_C1.mp4`, `_C2.mp4` → `avatar/<episode folder>/from_kai/` (base64 `.mp4.b64.txt` OK), then `FINI:` in NOTES.
 
 ## Rules
 - Facts only from Claude's verified script (2 sources). No invented quotes from real people. No match footage.
-- AI label (Saneme confirmed Nov. 15: answer YES when asked): **YouTube Altered or synthetic content = Yes; TikTok AI-generated = ON; Facebook AI info = ON** for any
-  video with these avatars (YouTube auto-labels realistic avatars since May 2026). This applies ONLY to Desk videos;
-  the 2D Couch and graphic Shorts stay "No".
+- AI label (Saneme confirmed Nov. 15: answer YES when asked): **YouTube Altered or synthetic content = Yes; TikTok
+  AI-generated = ON; Facebook AI info = ON** for every Desk video. The 2D Couch and graphic Shorts stay "No".
 - Kai capacity: Haiti Brief first. FNMHQ Desk pilot = 2 clips/day max.
 
 ## Test (7 days from the first post)
