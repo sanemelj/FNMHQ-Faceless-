@@ -51,9 +51,9 @@ Haitian TPS, TPS Haiti, Dream and Promise Act, American Dream and Promise Act, d
 
 ---
 
-## 11:00 AM ET · LENDI 16 NOV · hb-L5 · LONG-FORM BREAKING ~3:45 · "Into Downtown"
-**Estati:** 🟡 ap tann 3 klip avatar Kai yo (B1, B2, B3 — `anchor/2026-11-16_edh/DIALOGUE.md`). ✅ **Vèsyon SAN avatar la PARE (3:05):** `haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16_noav.mp4` — si klip yo pa rive anvan **9:30 AM ET**, poste vèsyon sa a a 11:00 AM ET (Altered content = **No**, FB AI label No). Si klip yo rive, m ap ba w vèsyon final la (`HaitiBrief_Long_5_Nov_16.mp4`, Altered content = Yes). **Altered content: Yes** si avatar yo ladan l, **No** si se vèsyon san avatar la → Facebook menm jan.
-- Video: `haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16.mp4` (m ap mete l isit la)
+## 11:00 AM ET · LENDI 16 NOV · hb-L5 · LONG-FORM BREAKING 3:30 · "Into Downtown"
+**Estati:** ✅ PARE · 3:30 · avatar B1 (vwa sèlman), B2, B3 · tès AI envizib: PASE (etikèt AI 'HAITI BRIEF' sou kat B2 a efase; B1 an vwa sèlman paske cheve Claire pa t menm jan) · **Altered content: Yes** → Facebook AI label: Yes.
+- Video: `haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16.mp4
 - Thumbnail A: `haiti-brief/2026-11-16/HaitiBrief_Thumb_Long_5_Nov_16_A.jpg` (B pou tès)
 - Playlist: "Haiti Explained" · End screen: Subscribe + hb-L3 (https://www.youtube.com/watch?v=6TOir9Xo1S4)
 - Kòmantè pin: `Portail Léogane and the EDH headquarters: what are people seeing on the ground today? Tell us below.`
@@ -64,15 +64,15 @@ Bukele's Troops Take Haiti's Power Company HQ, Next Door to a Gang Stronghold
 ```
 **Deskripsyon:**
 ```
-This weekend, Salvadoran troops working with Haitian soldiers took position at the head office of Électricité d'Haïti (EDH) on the Bicentenaire in downtown Port-au-Prince, right next to Village-de-Dieu. Le Nouvelliste reports they also took back the Portail Léogane police sub-station. How we got here, from the Oct. 18 ambush to the Sylvio Cator stadium, and the questions that remain.
+This weekend, Salvadoran troops working with Haitian soldiers took position at the head office of Électricité d'Haïti (EDH) on the Bicentenaire in downtown Port-au-Prince, right next to Village-de-Dieu. Le Nouvelliste reports they also took back the Portail Léogane police sub-station. How we got here, from the Oct. 18 ambush to the Sylvio Cator stadium, and the questions that remain, as Haiti sends its justice minister, not its prime minister, to San Salvador.
 
 Chapters
-0:00 The power company
-1:02 How we got here
-2:13 What comes next
-(chapit sa yo se pou vèsyon san avatar la; vèsyon ak avatar la ap gen lòt chapit)
+0:00 Breaking
+0:14 The power company
+1:11 How we got here
+2:29 What comes next
 
-Sources: Le Nouvelliste (Nov. 15, 2026); Exclusif.net; AP; France 24 / AFP; El Mundo (El Salvador).
+Sources: Le Nouvelliste (Nov. 15, 2026); Exclusif.net; AP; France 24 / AFP; EFE; Prensa Latina; Rezo Nòdwès.
 Video: Info Scoop Haiti (Portail Léogane); Nayib Bukele on X (archive, Nov. 10 and Nov. 12). Map data © OpenStreetMap contributors.
 
 #Haiti #Bukele #PortAuPrince
