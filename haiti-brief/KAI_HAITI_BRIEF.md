@@ -96,6 +96,6 @@ Nouvèl yo pa konsène Ayisyen sèlman. Lè yon nouvèl konsène tout moun (TPS,
 
 ## Paj Instagram pou swiv (Sam, 15 nov)
 - **Greg Promo LLC** · **Passion Info Plus** · **LSV Media Production** (https://www.instagram.com/lsvmediaproduction — Luckson Saint-Vil, repòtè pwosè Jovenel la ki fyab).
-- Lè yo poste yon skoop: voye l kòm tip (\`scoops/inbox/\`), epi telechaje **fichye orijinal la** (yt-dlp oswa telechajman dirèk) pou pa gen filigràn Instagram sou li.
+- Lè yo poste yon skoop: voye l kòm tip (`scoops/inbox/`), epi telechaje **fichye orijinal la** (yt-dlp oswa telechajman dirèk) pou pa gen filigràn Instagram sou li.
 - Pa efase logo/filigràn medya ki fè videyo a (Info Scoop, elatriye): nou kite l epi nou bay kredi ("Video: <non paj la>"). Mande pèmisyon lè w kapab.
 
