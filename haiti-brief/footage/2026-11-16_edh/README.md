@@ -7,3 +7,12 @@
 | (Kai) DfyNfiDjGFR | Instagram Hit Magazine Haiti https://www.instagram.com/p/DfyNfiDjGFR/?img_index=2 | IG 16 nov 2026 | ? (Instagram bloke telechajman an bò kote m) | Kai: telechaje l, mete l isit la, dekri l. |
 
 **Lisans:** se pa footage ofisyèl. Kredi sou ekran: "Video: Info Scoop Haiti". Kai: ekri Info Scoop Haiti (ak DP News) pou mande pèmisyon/konfime kredi a, epi chache post orijinal Info Scoop Haiti a.
+
+## Karousèl DfyNfiDjGFR — telechaje pa Kai (01:29 ET, 16 nov 2026)
+Sous: Instagram @hitmagazinehaiti, post https://www.instagram.com/p/DfyNfiDjGFR/ (15 nov 2026, ~17:47 ET). Telechaje PWÒP ak yt-dlp (fichye orijinal CDN yo, OKENN filigràn platfòm). Fichye yo isit la se base64 (`.b64.txt`) — dekode pou w jwenn orijinal yo.
+| Fichye (b64) | Gwosè natif | Sa li montre |
+|---|---|---|
+| HaitiBrief_ftg_EDH_carousel1_PIPpost.jpg.b64.txt | 348800 B (1290×1720) | Atik 1 (imaj): kaptire post X Passion Info Plus (@passioninfoplus): solda salvadoryen yo te fè patwouy dimanch 15 nov bò enstalasyon EDH yo, Bicentenaire, epi yo apwoche Village-de-Dieu; baz yo se stad Sylvio Cator. Anba tèks la: 2 foto ayeryen (katye ak twati eten wouye / debri). |
+| HaitiBrief_ftg_EDH_carousel2_drone.mp4.b64.txt | 9291716 B (VP9, 480×640, 44.4 s, san odyo) | Atik 2 (videyo dron): survol yon lari domaje — gwo mi beton koube, debri, machin blende klè (youn sanble APC) sou wout la, yon bilding ak twati metal wouj, fil kouran, vejetasyon. |
+| HaitiBrief_ftg_EDH_carousel3_drone.mp4.b64.txt | 4251998 B (VP9, 480×640, 35.8 s, san odyo) | Atik 3 (videyo dron): survol dousman yon katye dans — ti kay ak twati eten wouj/gri, ri etwat, bilding beton, vejetasyon. |
+Kredi sijere sou ekran: "Video: Hit Magazine Haiti" (dron) — atik 1 an se yon kaptire post Passion Info Plus la li menm.

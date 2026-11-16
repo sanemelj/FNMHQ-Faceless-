@@ -4,6 +4,6 @@ Kai: ranplase "—" ak lyen YouTube la apre ou fin poste.
 
 hb-L4 | Nov. 15 · 7:17 PM ET | YouTube: https://www.youtube.com/watch?v=KasquFVsQ8k (PIBILIYE, apre mete PRIVATE 19:20 ET sou nòt KANPE Claude 19:14 ET a — n ap tann vèsyon korije a)
 hb-L4 vèsyon korije (NOUVO videyo) | Nov. 15 | YouTube: https://www.youtube.com/watch?v=BqdaB5YcFwE (PIBLIK — verifye nan Studio 8:13 PM ET, 8:14, 2 playlist; ansyen KasquFVsQ8k la rete PRIVATE, anyen pa efase)
-hb-L5 | 11:00 AM ET (Nov 16) | YouTube: — | FB: — | FB AI label: Yes
-hb-S8 | 9:00 AM ET (Nov 16) | YouTube: — | FB: — | FB AI label: No
-hb-S9 | 12:00 PM ET (Nov 16) | YouTube: — | FB: — | FB AI label: Yes
+hb-L5 | 11:00 AM ET (Nov 16) | YouTube: https://www.youtube.com/watch?v=d52bewIY-cI (PIBLIK — pwograme pou 11:00 AM ET, verifye Public nan Studio; thumbnail A, playlist Haiti Explained, end screen Subscribe + hb-L3, kòmantè pin an plas; Altered content: Yes) | FB: — (long-form = YouTube sèlman; kesyon 01:29 ET la rete san repons, default la aplike) | FB AI label: Yes
+hb-S8 | 9:00 AM ET (Nov 16) | YouTube: https://youtube.com/shorts/Lg-dE3jgRC4 (PIBLIK; Related video = hb-L5 + kòmantè pin 'Full story (3 min)' an plas) | FB: https://www.facebook.com/122096242911556692 (PIBLIYE 12:00 PM ET — te pwograme 12 PM paske plas 9 AM an te deja pran pa FB hb-S7 la; règ espas ~3 è a) | FB AI label: No
+hb-S9 | 12:00 PM ET (Nov 16) | YouTube: https://youtube.com/shorts/U5U2mzZaQDM (PIBLIK 12:05 PM ET; kòmantè pin an plas; Altered content: Yes) | FB: SCHEDULED 3:00 PM ET, post 122096291355556692, state: scheduled (deplase soti 12 PM paske FB hb-S8 la t ap pibliye 12 PM — règ espas la) | FB AI label: Yes
