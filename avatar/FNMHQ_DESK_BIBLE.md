@@ -20,8 +20,8 @@ Claude edits (real Commons photos, score cards, captions, music, end card).
   happened (tactics, numbers). Lower third: JAMIE HOLLIS · Analyst. Sits RIGHT.
 - Always together at the same desk in every clip, even when only one speaks; the listener reacts naturally
   (nods, small smile, a laugh at a joke). Never a solo shot.
-- Voice: **natural British English (neutral, broadcast)**, conversational, not posh, not exaggerated.
-  Keep the same voice per character in every clip.
+- Voice (same rule as Haiti Brief, Saneme): **neutral General American (U.S.) English**, like a U.S. network sports anchor: rhotic r's,
+  American flap t ("matter" = MAD-er), American vowels. No British accent. Same voice per character in every clip.
 - The 2D cartoon Couch (Mo & Kev, fans, comedy) is a separate format and stays as it is during the test.
 
 ## Set: FNMHQ football studio
@@ -29,9 +29,29 @@ Claude edits (real Commons photos, score cards, captions, music, end card).
   (keep it plain dark blue/graphite — Claude puts photos, tables and score cards on it in the edit), a small FNMHQ logo
   (red/white) on the desk front. No real club crests, no league logos, no sponsor logos, no real kits, no invented numbers.
 
+## Haiti Brief rules applied to FNMHQ (Saneme, Nov. 15: "start the same way as Haiti Brief")
+Model: hb-L2 "El Salvador's Troops in Haiti" (6,153 views in 24 h, CTR 7.8%, 50.8% viewed, 81% from Browse, 71% watched on TV).
+- **Opening (first ~15 s):** (1) WIDE two-shot of both at the desk, cold open by the host in 3 short lines: the hook (the
+  most dramatic fact), the escalation (what just happened), the promise + brand ("Here's what it means. This is FNMHQ.");
+  slow push-in; lower third at ~5 s. (2) ~2.5 s title sting over a real photo: "FNMHQ" + the episode title. (3) Straight into
+  real visuals with a source tag top-left; FNMHQ bug top-right.
+- **Long-forms:** the presenters open, start the key chapters and close (4-6 avatar clips, ~60-80 s total); the narration
+  covers the rest over real images (Commons photos, maps, tables, score cards). Wide two-shot for the first and last clip;
+  medium shot on the speaker otherwise; the listener reacts; a small turn to hand over to the other presenter.
+- **Delivery (TV journalists):** ~160 words/min, key words stressed (**bold** in the script), falling intonation at the end of
+  statements, `/` = 0.3 s pause, `//` = 0.6 s pause, [brackets] = pronunciation (say it, don't read the brackets). Short
+  sentences, contractions, no "let's dive in", no disclaimers. Cite a source once, clearly ("ESPN reports…").
+- **AI invisible:** same face/clothes/set in every clip, natural blinks and breathing, 5 fingers, lips exactly on the words,
+  no AI text in the set. Redo only for a wrong word or a defect the edit can't hide (Kai's credits are limited).
+- **Thumbnail:** 2-4 HUGE words (white + yellow, black outline), an emotional face (real photo), a red pill with a date or
+  number, FNMHQ logo, no emoji; dramatic but true.
+- **Source tags on screen** for every photo/quote ("Photo: Bryan Berlin, Wikimedia Commons"; "ESPN, Nov. 13"); full credits in
+  the description.
+
 ## Clips (delivery)
-- **Vertical 9:16, 1080×1920 (or native vertical), 30 fps (24 OK)**, ~10 s per clip, both at the desk, framed waist-up,
-  faces in the upper-middle third (captions go lower), 1 s of quiet head/tail.
+- **Long-form clips: 16:9, 1920×1080, 30 fps**, speaker framed so a 9:16 crop also works (Claude cuts Shorts from them).
+  Short-only clips: vertical 9:16. One clip per segment, video and audio generated together, 1 s of silence head/tail,
+  no on-screen text, no music.
 - Read the dialogue **word for word**; names in brackets are phonetic. One take per clip; redo only for a wrong word,
   lip-sync drift, warped hands/face.
 - File names: `FNMHQ_Desk_<NN>_C1.mp4`, `_C2.mp4` → `avatar/<episode folder>/from_kai/` (base64 `.mp4.b64.txt` OK), then `FINI:` in NOTES.
