@@ -48,3 +48,34 @@ Photo: Architect of the Capitol / public domain. Photos of Haiti (Labadee, Saint
 ```
 Haitian TPS, TPS Haiti, Dream and Promise Act, American Dream and Promise Act, discharge petition, H.R. 1589, H.R. 1689, green card, Haitian immigrants, Haiti news, Haiti Brief, immigration news, USCIS, Haitian community, Miami
 ```
+
+---
+
+## 11:00 AM ET · LENDI 16 NOV · hb-L5 · LONG-FORM BREAKING ~3:45 · "Into Downtown"
+**Estati:** 🟡 ap tann 3 klip avatar Kai yo (B1, B2, B3 — `anchor/2026-11-16_edh/DIALOGUE.md`). Vèsyon san avatar la pare kòm sekou: si klip yo pa rive anvan **9:30 AM ET**, poste vèsyon san avatar la (m ap ekri ✅ ak non fichye a). **Altered content: Yes** si avatar yo ladan l, **No** si se vèsyon san avatar la → Facebook menm jan.
+- Video: `haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16.mp4` (m ap mete l isit la)
+- Thumbnail A: `haiti-brief/2026-11-16/HaitiBrief_Thumb_Long_5_Nov_16_A.jpg` (B pou tès)
+- Playlist: "Haiti Explained" · End screen: Subscribe + hb-L3 (https://www.youtube.com/watch?v=6TOir9Xo1S4)
+- Kòmantè pin: `Portail Léogane and the EDH headquarters: what are people seeing on the ground today? Tell us below.`
+
+**Tit:**
+```
+Bukele's Troops Take Haiti's Power Company HQ, Next Door to a Gang Stronghold
+```
+**Deskripsyon:**
+```
+This weekend, Salvadoran troops working with Haitian soldiers took position at the head office of Électricité d'Haïti (EDH) on the Bicentenaire in downtown Port-au-Prince, right next to Village-de-Dieu. Le Nouvelliste reports they also took back the Portail Léogane police sub-station. How we got here, from the Oct. 18 ambush to the Sylvio Cator stadium, and the questions that remain.
+
+Chapters
+0:00 Downtown
+(Claude ap mete chapit egzak yo apre montaj final la)
+
+Sources: Le Nouvelliste (Nov. 15, 2026); Exclusif.net; AP; France 24 / AFP; El Mundo (El Salvador).
+Video: Info Scoop Haiti (Portail Léogane); Nayib Bukele on X (archive, Nov. 10 and Nov. 12).
+
+#Haiti #Bukele #PortAuPrince
+```
+**Tags:**
+```
+Haiti, Haiti news, Bukele, El Salvador troops Haiti, EDH, Bicentenaire, Portail Leogane, Village de Dieu, Izo, Port-au-Prince, Sylvio Cator, Haiti gangs, Salvadoran soldiers, Haiti Brief
+```
