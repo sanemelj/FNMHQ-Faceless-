@@ -149,7 +149,7 @@ Martine Moïse, widow of President Jovenel Moïse, is running for president. 33 
 
 ---
 
-## 8:00 PM ET · LENDI 16 NOV · hb-L5 v2 · LONG-FORM 3:26 · "Bukele's Troops Take Haiti's Power Company HQ" (RANPLASE d52bewIY-cI)
+## 🛑 ANILE (Claude 18:22 ET: d52bewIY-cI ap monte, 1,695 vi — PA POSTE v2, PA mete orijinal la Private) · ~~8:00 PM ET · LENDI 16 NOV · hb-L5 v2 · LONG-FORM 3:26~~ · "Bukele's Troops Take Haiti's Power Company HQ" (RANPLASE d52bewIY-cI)
 **Estati:** ✅ PARE · 1920×1080 · Claire OUVRI videyo a sou ekran (B1 v2) · vwa: non yo an fransè ak menm vwa a · plan sal yo retire · **Altered content: Yes** · YouTube sèlman.
 - Video: `haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16_v2.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16_v2.mp4
 - Thumbnail: menm `HaitiBrief_Thumb_Long_5_Nov_16_A.jpg` (B pou Test & compare).
@@ -163,3 +163,31 @@ Martine Moïse, widow of President Jovenel Moïse, is running for president. 33 
 1:05 How we got here
 2:23 What comes next
 ```
+
+## 9:00 PM ET · LENDI 16 NOV · hb-S11 · SHORT 0:32 · "EU Sanctions Four Haitian Gangs"
+**Estati:** ✅ PARE · 0:32 · 1080×1920 · foto Flickr ak lisans CC + kat OpenStreetMap, pa gen avatar · **Altered content: No** → **Facebook AI label: No**.
+- Video: `haiti-brief/2026-11-16/HaitiBrief_Short_11_Nov_16.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Short_11_Nov_16.mp4
+- Related video: hb-L5 (d52bewIY-cI). Kòmantè pin: `Will sanctions from Europe make a difference on the ground? Tell us below.`
+
+**Tit:**
+```
+Europe Just Sanctioned Four of Haiti's Most Violent Gangs #Shorts
+```
+**Deskripsyon:**
+```
+The European Union on Monday added four Haitian gangs to its global human rights sanctions list: 5 Segond, Gran Ravine, 400 Mawozo and Kraze Baryè. Any assets they hold in the EU are frozen, and no one in the EU may make money available to them. The EU cites killings, rape and sexual violence, and the recruitment of children into armed groups. The UN reports more than 1,160 deaths from violence in Haiti between July and September.
+Sources: Council of the European Union (Nov. 16, 2026); Reuters; AFP; Brussels Times; L'Observatoire.
+Photos: DesignRecipe, Eoghan OLionnain (CC BY-SA), corno.fulgur75 on Flickr (CC BY). Map data © OpenStreetMap contributors.
+#Haiti #HaitiNews #EuropeanUnion
+```
+**Tags:**
+```
+Haiti, Haiti news, Haiti gangs, EU sanctions, European Union, 400 Mawozo, 5 Segond, Gran Ravine, Kraze Barye, Port-au-Prince, Haiti Brief
+```
+**Facebook (Reel) 9:00 PM ET:**
+```
+The European Union just sanctioned four of Haiti's most violent gangs: 5 Segond, Gran Ravine, 400 Mawozo and Kraze Baryè. Assets frozen, no funds allowed. The EU cites killings, rape and the recruitment of children.
+#Haiti #HaitiNews #EuropeanUnion
+```
+
+---
