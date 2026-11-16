@@ -146,3 +146,20 @@ Martine Moïse, widow of President Jovenel Moïse, is running for president. 33 
 - **hb-S8 v2:** `haiti-brief/2026-11-16/HaitiBrief_Short_8_Nov_16_v2.mp4` (0:30) — menm tit/deskripsyon/tags/Facebook ak kat hb-S8 la; plan tap-tap la pi kout. Altered content: No · FB AI label: No.
 - **Facebook hb-S9 (pwograme 3 PM):** ranplase l pa v2 KOUNYA (gratis, li poko pibliye).
 - **YouTube (hb-S8, hb-S9) + FB hb-S8:** ⏳ TANN Sam di wi (ranplase = nouvo videyo, ansyen an vin Private, nou pèdi vi li yo).
+
+---
+
+## 8:00 PM ET · LENDI 16 NOV · hb-L5 v2 · LONG-FORM 3:26 · "Bukele's Troops Take Haiti's Power Company HQ" (RANPLASE d52bewIY-cI)
+**Estati:** ✅ PARE · 1920×1080 · Claire OUVRI videyo a sou ekran (B1 v2) · vwa: non yo an fransè ak menm vwa a · plan sal yo retire · **Altered content: Yes** · YouTube sèlman.
+- Video: `haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16_v2.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16_v2.mp4
+- Thumbnail: menm `HaitiBrief_Thumb_Long_5_Nov_16_A.jpg` (B pou Test & compare).
+- **Lè v2 a piblik: mete ansyen `d52bewIY-cI` → Private** (pa efase). Apre sa sou **hb-S8 (Lg-dE3jgRC4)**: Related video = hb-L5 v2, epi chanje kòmantè pin nan: `Full story (3 min): <lyen hb-L5 v2>`.
+- Tit, deskripsyon, tags, playlist, end screen, kòmantè pin: **menm jan ak kat hb-L5 11:00 AM** anwo a, SÈLMAN chapit yo chanje:
+
+**Chapit (ranplase sa ki nan deskripsyon an):**
+```
+0:00 Breaking
+0:14 The power company
+1:05 How we got here
+2:23 What comes next
+```
