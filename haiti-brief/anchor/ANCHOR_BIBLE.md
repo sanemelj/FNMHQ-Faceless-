@@ -70,3 +70,6 @@ Se sèlman etikèt AI a (YouTube "Altered content", Facebook "AI info") ki fè m
 ## Non fransè/kreyòl (Sam, 16 nov)
 Claire ak Marc pale anglè ameriken, men **non fransè ak kreyòl yo pwononse an fransè** (Village-de-Dieu = "vi-LAZH duh DYEU", Portail Léogane = "por-TAI lé-o-GAN", Croix-des-Bouquets = "KWA dé bou-KÉ", Le Nouvelliste = "luh nou-vèl-IST", Fils-Aimé = "fis-è-MÉ"). Bukele an panyòl ("bou-KÉ-lé"). Mete sa nan prompt la lè script la gen non sa yo.
 
+
+## Avatar yo ouvri chak videyo (Sam, 16 nov)
+- Premye klip chak long-form (ak chak Short avatar) = Claire ak/oswa Marc **sou ekran**, k ap bay nouvèl la, nan premye segonn yo. Se klip sa ki pi enpòtan: li dwe pafè (cheve Claire mare, kat san tèks, menm estidyo twoshot la). Si jeneratè a refize l, ekri `BEZWEN CLAUDE:` touswit — pa gen videyo ki ouvri san avatar.

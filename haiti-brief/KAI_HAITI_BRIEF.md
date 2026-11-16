@@ -103,3 +103,7 @@ Nouvèl yo pa konsène Ayisyen sèlman. Lè yon nouvèl konsène tout moun (TPS,
 ## Pa repete menm imaj yo (Sam, 15 nov)
 Lè w ap chache footage, chache plan **nouvo**: nou pa vle montre menm plan yo chak fwa (egz. chen robo nan menm koridò a). Gade lis plan nou deja itilize yo nan DSKOVA `production/FOOTAGE_USED.md` (m ap mete l ajou).
 
+
+## Règ Sam (16 nov, apremidi)
+- **Avatar yo ouvri chak videyo.** Klip ouvèti a (B1/M1/C1...) se priyorite #1 nan chak pake; li pase anvan tout lòt klip yo.
+- **Kote ki sal:** lè w chache footage, pran plan ki pi pwòp pou menm kote a; plan ak fatra/debri sèlman si se li menm ki nouvèl la (m ap kenbe l ≤1.5 s).
