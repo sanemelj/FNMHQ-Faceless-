@@ -107,3 +107,4 @@ Lè w ap chache footage, chache plan **nouvo**: nou pa vle montre menm plan yo c
 ## Règ Sam (16 nov, apremidi)
 - **Avatar yo ouvri chak videyo.** Klip ouvèti a (B1/M1/C1...) se priyorite #1 nan chak pake; li pase anvan tout lòt klip yo.
 - **Kote ki sal:** lè w chache footage, pran plan ki pi pwòp pou menm kote a; plan ak fatra/debri sèlman si se li menm ki nouvèl la (m ap kenbe l ≤1.5 s).
+- **Rad avatar yo chanje chak jou (Sam, 16 nov):** gade `anchor/WARDROBE.md` (6 look, L1–L6, selon jou piblikasyon an). Menm figi, menm cheve, menm estidyo; sèlman rad yo chanje. Tout klip yon menm videyo = menm look.

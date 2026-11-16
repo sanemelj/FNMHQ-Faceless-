@@ -5,14 +5,14 @@ Kai generates the anchor (avatar) and the studio. Claude writes the scripts and 
 
 ## Anchor (lock this; never change between episodes)
 - Black woman, about 35-40, dark brown skin, hair pulled back in a low bun, small stud earrings.
-- Navy blazer, white crew-neck top. No necklace, no logo pin.
+- Clothes change by day of the week: see `WARDROBE.md` (Sam, Nov. 16). Default/Monday L1: navy blazer, white crew-neck top. No necklace, no logo pin.
 - Accent: **General American English** (both presenters). Haitian and Salvadoran names follow the bracketed pronunciations.
 - Broadcast-news delivery (network evening news): authoritative, crisp articulation, ~160-170 words/min, key words stressed, falling intonation at the end of every statement. Warm but never chatty.
 - Sits centered behind the curved desk; hands rest on the desk; small natural head moves only.
 - Name: **Claire Bastien** (Saneme, Nov. 14). Lower third: CLAIRE BASTIEN · Anchor.
 
 ## Second presenter: the correspondent (man) — new, Saneme Nov. 14
-- Black man, about 42, deep brown skin, black cropped fade, short trimmed beard, dark brown eyes. Charcoal-gray suit, white shirt, deep-red tie (locked from Kai's reference sheet v1, Nov. 14).
+- Black man, about 42, deep brown skin, black cropped fade, short trimmed beard, dark brown eyes. Clothes by day of the week (`WARDROBE.md`); Monday L1 = charcoal-gray suit, white shirt, deep-red tie (Kai's reference sheet v1, Nov. 14). Face never changes.
 - **Sits at the desk, LEFT seat, next to the anchor (RIGHT seat)**: layout from Saneme's image `HaitiBrief_two_anchor_layout_ref.webp` (Nov. 14). Each has a desk microphone and papers. Use the **studio v2 fixes** (pin on Port-au-Prince, no fake numbers; desk "HAITI BRIEF" + "Haiti Reports | English" is fine), not the screens of that image.
 - Voice: TV correspondent style, same broadcast rules as the anchor, a little more energy when explaining.
 - Role: explains the story. Kai generates all his lines on camera (with one consistent voice); in the edit Claude covers most of them with real footage, so he is seen 1-2 times per episode.
