@@ -81,3 +81,32 @@ Video: Info Scoop Haiti (Portail Léogane); Nayib Bukele on X (archive, Nov. 10 
 ```
 Haiti, Haiti news, Bukele, El Salvador troops Haiti, EDH, Bicentenaire, Portail Leogane, Village de Dieu, Izo, Port-au-Prince, Sylvio Cator, Haiti gangs, Salvadoran soldiers, Haiti Brief
 ```
+
+---
+
+## 9:00 AM ET · LENDI 16 NOV · hb-S8 · SHORT 0:31 · "Into Downtown" (teaser EDH → long-form 11 AM)
+**Estati:** ✅ PARE · 1080×1920 · videyo reyèl (kat OpenStreetMap + Info Scoop Haiti) · tès AI envizib: PASE · **Altered content: No** → **Facebook AI label: No**.
+- Video: `haiti-brief/2026-11-16/HaitiBrief_Short_8_Nov_16.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Short_8_Nov_16.mp4
+- **Related video:** hb-L5 (lyen an a 11 AM). Kòmantè pin apre 11 AM: `Full story (3 min): <lyen hb-L5>`.
+- (Short Martine Moïse la pase **12:00 PM ET** si klip avatar yo pase QC.)
+
+**Tit:**
+```
+Salvadoran Troops Move Into Downtown Port-au-Prince #Shorts
+```
+**Deskripsyon:**
+```
+This weekend, Salvadoran troops working with Haitian soldiers took back the head office of Haiti's power company, EDH, on the Bicentenaire, right next to Village-de-Dieu. Le Nouvelliste reports they also retook the Portail Léogane police station.
+Sources: Le Nouvelliste (Nov. 15, 2026); Exclusif.net. Video: Info Scoop Haiti. Map data © OpenStreetMap contributors.
+#Haiti #PortAuPrince #Bukele
+```
+**Tags:**
+```
+Haiti, Haiti news, Port-au-Prince, EDH, Bicentenaire, Portail Leogane, Village de Dieu, Salvadoran troops, Bukele Haiti, Haiti gangs, Haiti Brief
+```
+**Facebook (Reel) 9:00 AM ET:**
+```
+Salvadoran troops are now in downtown Port-au-Prince: EDH's head office and the Portail Léogane police station retaken this weekend. Full story on our page at 11.
+#Haiti #HaitiNews #Bukele
+```
+
