@@ -50,3 +50,23 @@ Menm estidyo, Claire ak Marc chita ansanm, plan ak referans `HaitiBrief_ref_twos
 - **K2:** Toude vire tèt yo gade gwo ekran ki dèyè yo, epi yo retounen gade youn lòt, figi yo grav.
 - **K3:** Marc ap koute pandan Claire ap gade nòt li yo, l ap reflechi; yo bat je natirèlman, yo respire, yo pa pale.
 - **K4:** Kamera a avanse dousman sou biwo a; toude chita san bouje, yo gade kamera a, kalm e grav, yo pa pale.
+
+---
+## v2 (16 nov, 1:55 PM ET) — liy ki te refize / tronke yo, REEKRI pou jeneratè a aksepte yo
+**Rad:** klip S1E1 yo rete **L1** (blazè ble maren / kostim gri, kravat wouj) pou tout epizòd la menm jan, menm si li soti madi. Referans: `refs/HaitiBrief_ref_twoshot.jpg`. Kat dèyè a **SAN TÈKS**. Aksan General American.
+**Règ Sam:** avatar yo OUVRI videyo a → **C1 se priyorite #1.**
+
+## C1 v2 — CLAIRE · ouvèti (~10 s) · plan mwayen, grav
+> Claire says: "July seventh, twenty twenty-one. Haiti lost its president. Jovenel Moïse died that night at his private home, in the hills above Port-au-Prince."
+
+## C4 v2 — CLAIRE · tit seri a (~10 s) · plan laj, toude nan biwo a
+> Claire says: "Five years later, a court in Miami is still hearing the case. This is Haiti Brief, and this is episode one of our series on the Jovenel Moïse case."
+
+## C6a — MARC (~7 s)
+> Marc says: "Within four days, police said they had arrested eighteen Colombians and two Haitian-Americans."
+## C6b — MARC (~7 s)
+> Marc says: "Police said they had the men on the ground. Now they wanted to know who sent them."
+
+## C7 v2 — CLAIRE (~10 s) · kalm
+> Claire says: "Days later, police named a pastor from Florida, Christian Sanon. Today he is on trial in Miami, and he has pleaded not guilty."
+(Si C7 refize ankò: pa re-eseye — m ap fè l ak vwa narasyon.)
