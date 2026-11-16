@@ -138,3 +138,11 @@ Haiti, Haiti news, Martine Moise, Jovenel Moise, Haiti election, Haiti president
 Martine Moïse, widow of President Jovenel Moïse, is running for president. 33 candidates, 3 women, Martelly and Privert in the race too. First round: July 2027.
 #Haiti #HaitiNews #HaitiElection
 ```
+
+---
+
+## 🔁 VÈSYON 2 (v2) — nouvo vwa (non yo an fransè ak menm vwa a, règ Sam 16 nov)
+- **hb-S9 v2:** `haiti-brief/2026-11-16/HaitiBrief_Short_9_Nov_16_v2.mp4` (0:32) — menm tit/deskripsyon/tags/Facebook ak kat hb-S9 la. Altered content: Yes · FB AI label: Yes.
+- **hb-S8 v2:** `haiti-brief/2026-11-16/HaitiBrief_Short_8_Nov_16_v2.mp4` (0:30) — menm tit/deskripsyon/tags/Facebook ak kat hb-S8 la; plan tap-tap la pi kout. Altered content: No · FB AI label: No.
+- **Facebook hb-S9 (pwograme 3 PM):** ranplase l pa v2 KOUNYA (gratis, li poko pibliye).
+- **YouTube (hb-S8, hb-S9) + FB hb-S8:** ⏳ TANN Sam di wi (ranplase = nouvo videyo, ansyen an vin Private, nou pèdi vi li yo).
