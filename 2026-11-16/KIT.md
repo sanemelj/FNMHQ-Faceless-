@@ -106,3 +106,55 @@ Photos via Wikimedia Commons: Messi, Álvarez, Mac Allister, Enzo Fernández by 
 ```
 
 ---
+## 20:00 · k65 · COUCH: Portugal 1–4 Denmark, life after Ronaldo
+**Estati:** ✅ PARE  
+**Longè:** 41 s
+
+- Video: `2026-11-16/Reel_4_Nov_16.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-16/Reel_4_Nov_16.mp4
+- Cover: `2026-11-16/Cover_Reel_4_Nov_16.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-16/Cover_Reel_4_Nov_16.jpg
+
+**Nòt:** KAI: ✅ PARE. Couch Mo & Kev — Pòtigal 1–4 Danmak, premye match san Ronaldo (gwo istwa nou pa t kouvri). GitHub 2026-11-16/Reel_4_Nov_16.mp4 + Cover. Pibliye 8:00 PM CT jodi a: FB + TikTok + YouTube Shorts. PA GEN etikèt AI (desen 2D).
+
+### FB
+**Caption:**
+```
+Portugal's first game without Cristiano Ronaldo: 1–4 at home to Denmark 😳
+
+Højbjerg penalty, Højlund twice, Andersen header — Bernardo Silva's goal came in added time at 0–4. Ronaldo left with 234 caps and 146 goals. Next: Wales v Portugal, Tuesday.
+
+Mo says it's a blip. Kev has the numbers. Portugal without Ronaldo: better or worse? 👇
+
+Photos via Wikimedia Commons: Cristiano Ronaldo by Bryan Berlin (CC BY 4.0); Estádio Municipal de Braga by Joseolgon (CC0).
+
+#Ronaldo #Portugal #NationsLeague
+```
+
+### TikTok
+**Tit:**
+```
+Portugal 1–4 without Ronaldo
+```
+**Caption:**
+```
+Portugal's first game without Ronaldo ended 1–4 at home 😳 Better or worse without him? Photos: Wikimedia Commons. #Ronaldo #Portugal #football
+```
+
+### YouTube
+**Tit:**
+```
+Portugal Lose 4–1 in First Game Without Ronaldo #Shorts
+```
+**Caption:**
+```
+Portugal's first game without Cristiano Ronaldo: 1–4 at home to Denmark in Braga.
+
+Højbjerg penalty, Højlund twice, Andersen header — Bernardo Silva scored in added time at 0–4. Ronaldo left international football with 234 caps and 146 goals. Next: Wales v Portugal, Tuesday.
+
+Portugal without Ronaldo: better or worse? Tell us in the comments.
+
+Photos via Wikimedia Commons: Cristiano Ronaldo by Bryan Berlin (CC BY 4.0); Estádio Municipal de Braga by Joseolgon (CC0). Changes: cropped.
+
+#Ronaldo #Portugal #Shorts
+```
+
+---
