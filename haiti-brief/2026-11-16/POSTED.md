@@ -6,3 +6,4 @@ hb-L4 | Nov. 15 · 7:17 PM ET | YouTube: https://www.youtube.com/watch?v=KasquFV
 hb-L4 vèsyon korije (NOUVO videyo) | Nov. 15 | YouTube: https://www.youtube.com/watch?v=BqdaB5YcFwE (PIBLIK — verifye nan Studio 8:13 PM ET, 8:14, 2 playlist; ansyen KasquFVsQ8k la rete PRIVATE, anyen pa efase)
 hb-L5 | 11:00 AM ET (Nov 16) | YouTube: — | FB: — | FB AI label: Yes
 hb-S8 | 9:00 AM ET (Nov 16) | YouTube: — | FB: — | FB AI label: No
+hb-S9 | 12:00 PM ET (Nov 16) | YouTube: — | FB: — | FB AI label: Yes

@@ -113,8 +113,8 @@ Salvadoran troops are now in downtown Port-au-Prince: EDH's head office and the 
 
 ---
 
-## 12:00 PM ET · LENDI 16 NOV · hb-S9 · SHORT ~0:35 · "Martine Moïse Runs for President"
-**Estati:** ⏳ AP RANN (pa poste anvan videyo a la) · 1080×1920 · Claire + Marc (M2 v2, M3 v3, etikèt "JAMAICA" efase sou kat la) + 2 foto ak lisans verifye · **Altered content: Yes** → **Facebook AI label: Yes**.
+## 12:00 PM ET · LENDI 16 NOV · hb-S9 · SHORT 0:33 · "Martine Moïse Runs for President"
+**Estati:** ✅ PARE · 0:33 · 1080×1920 · Claire + Marc (M2 v2, M3 v3, etikèt "JAMAICA" efase sou kat la) + 2 foto ak lisans verifye · **Altered content: Yes** → **Facebook AI label: Yes**.
 - Video: `haiti-brief/2026-11-16/HaitiBrief_Short_9_Nov_16.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Short_9_Nov_16.mp4
 - Pa gen long-form pou li jodi a → pa gen "Related video". Kòmantè pin: `Should the electoral council approve her candidacy? Tell us below.`
 
