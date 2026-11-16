@@ -66,6 +66,7 @@ Prochen rapò: **hb-L2** (soti Nov. 14 ~7 PM ET → rapò Nov. 15 ~7 PM ET) · *
 
 ## Priyorite ak pozisyon (Saneme, Nov. 15)
 - **Sijè yo, nan lòd:** (1) ensekirite Ayiti; (2) ka Jovenel Moïse (pwosè + seri a); (3) **imigrasyon pou Ayisyen Ozetazini ak Kanada** (TPS, parole, depòtasyon, azil, pwogram Kanada/Kebèk). Apre sa: lòt gwo nouvèl (match Grenadye yo, elatriye). Voye tip sou 3 premye yo an premye.
+- **Nouvèl mond ak Etazini/Kanada (Sam, 16 nov):** nou kouvri tou gwo nouvèl mond lan (gè Ikrèn, elatriye) ak gwo nouvèl Etazini/Kanada, paske Ayisyen ki viv la yo konsène. Se sijè #4: li pa janm pran plas yon nouvèl Ayiti. Plas: Shorts 12 PM oswa 3 PM ET lè yo lib, oswa long-form 4 PM ET jou ki pa gen gwo nouvèl Ayiti. Pou imaj: chache videyo ofisyèl ak lisans ki pèmèt li (gouvènman ameriken: DVIDS, White House, State Dept = domèn piblik). Pa gen gosip (wayote, selebrite), pa gen kò. Ou ka voye tip sou yo tou, ak tag `WORLD`.
 - **Imaj Ayiti (Saneme, Nov. 15):** lè w ap chèche foto/videyo Ayiti an jeneral, chèche **bèl kote yo** (plaj, mòn, Sitadèl, Jakmèl, Okap, otèl, bèl kay). Pa voye imaj bidonvil oswa povrete kòm imaj jeneral. Imaj difisil yo sèlman si evènman an te pase la menm.
 - **Nou pou Ayiti.** Chanèl la an anglè, men se pou Ayisyen. Nou di verite a ak respè pou pèp la: nou kritike gang, lidè ak enstitisyon, pa pèp ayisyen an. Pa gen mo ki rabese peyi a.
 
