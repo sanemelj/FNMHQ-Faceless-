@@ -154,3 +154,55 @@ Photo via Wikimedia Commons: Estadio Metropolitano by Cabeza2000 (CC BY-SA 4.0).
 ```
 
 ---
+## 20:00 · k61 · COUCH: Pochettino to Man United (+ Haiti 0–6 USA)
+**Estati:** ✅ PARE  
+**Longè:** 32 s
+
+- Video: `2026-11-16/Reel_1_Nov_16.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-16/Reel_1_Nov_16.mp4
+- Cover: `2026-11-16/Cover_Reel_1_Nov_16.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-16/Cover_Reel_1_Nov_16.jpg
+
+**Nòt:** KAI: ✅ PARE — POSTE JODI A dimanch 15 nov a 8:00 PM CT (nouvèl cho). Couch: Pochettino nan Man United + Ayiti 0–6 USA. GitHub 2026-11-16/Reel_1_Nov_16.mp4 + Cover. FB + TikTok + YouTube Shorts. PA GEN etikèt AI (se desen).
+
+### FB
+**Caption:**
+```
+Pochettino is Man United's new manager 😂 Mo didn't see that coming.
+
+United sacked Michael Carrick and gave Mauricio Pochettino a 2½-year deal. His last game with the USA is Tuesday in Cincinnati: the second leg against Haiti, after the US won 6–0 in Miami (Pulisic scored twice). Then his first United game: Liverpool at Anfield.
+
+Can Pochettino fix United? And can Haiti hit back on Tuesday? 👇
+
+Photos via Wikimedia Commons: Mauricio Pochettino by Bryan Berlin (CC BY-SA 4.0); Old Trafford by Lewis Clarke (CC BY-SA 2.0); Haiti national team training, 2004, by Ana Nascimento/ABr (CC BY 3.0 BR); Anfield by Humphrey Bolton (CC BY-SA 2.0); Cincinnati by Hayden Schiff (CC BY 4.0). Cropped by FNMHQ.
+
+#ManUtd #Pochettino #USMNT #Haiti #FNMHQCouch
+```
+
+### TikTok
+**Tit:**
+```
+Pochettino to Man United
+```
+**Caption:**
+```
+Pochettino is Man United's new manager 😂 Last USA game: Tuesday v Haiti in Cincinnati (USA won the 1st leg 6–0). First United game: at Liverpool. Can he fix United? Photos: Wikimedia Commons. #ManUtd #Pochettino #USMNT #Haiti #FNMHQCouch
+```
+
+### YouTube
+**Tit:**
+```
+Pochettino Is Man United's New Manager 😂 (Mo v Kev) #Shorts
+```
+**Caption:**
+```
+Pochettino is Man United's new manager, and Mo didn't see it coming.
+
+United sacked Michael Carrick and gave Mauricio Pochettino a 2½-year deal. His last game with the USA is Tuesday in Cincinnati: the second leg against Haiti, after the US won 6–0 in Miami (Pulisic scored twice). Then his first United game: Liverpool at Anfield.
+
+Can Pochettino fix United? Tell us in the comments.
+
+Photos via Wikimedia Commons: Mauricio Pochettino by Bryan Berlin (CC BY-SA 4.0); Old Trafford by Lewis Clarke (CC BY-SA 2.0); Haiti national team training, 2004, by Ana Nascimento/ABr (CC BY 3.0 BR); Anfield by Humphrey Bolton (CC BY-SA 2.0); Cincinnati by Hayden Schiff (CC BY 4.0). Changes: cropped.
+
+#ManUtd #Pochettino #USMNT
+```
+
+---
