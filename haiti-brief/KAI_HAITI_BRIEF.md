@@ -84,3 +84,9 @@ Saneme kreye yon paj Facebook Haiti Brief. **Chak Short poste sou YouTube poste 
 - Nou se jounalis: nou bay nouvèl la, moun a moun. Si gen yon fè ki itil moun (egz. "USCIS warns that notarios can't give immigration help"), nou di l kòm nouvèl, ak sous li.
 - Si w wè youn nan yon KIT, retire l epi di m.
 
+## AI envizib (Sam, 15 nov) — RÈG
+Se sèlman etikèt AI a (YouTube "Altered content", Facebook "AI info") ki fè moun konnen. Pandan y ap gade, yo pa dwe menm imajine se AI. Pou chak klip avatar ou fè:
+- Menm figi ak referans twoshot la; je yo bat; dan yo pa chanje; lèv yo swiv vwa a egzakteman; men gen 5 dwèt; menm rad, bijou, dekò ak limyè nan tout klip yo; anyen pa fonn, pa flote, pa chanje fòm; pa gen tèks AI nan dekò a (ekran, kat, papye).
+- Vwa natirèl ak aksan ameriken (General American); respirasyon ak poz nòmal; pa gen ritm wobo.
+- Tcheke klip la anvan w livre l: si gen yon glitch, di m nan NOTES (ki segonn, kisa) olye ou kite l pase.
+- Lè w ap poste: pa janm ajoute avètisman ("not legal advice", elatriye) ni pawòl ki sonnen tankou yon wobo.
