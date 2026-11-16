@@ -66,6 +66,7 @@ Prochen rapò: **hb-L2** (soti Nov. 14 ~7 PM ET → rapò Nov. 15 ~7 PM ET) · *
 
 ## Priyorite ak pozisyon (Saneme, Nov. 15)
 - **Sijè yo, nan lòd:** (1) ensekirite Ayiti; (2) ka Jovenel Moïse (pwosè + seri a); (3) **imigrasyon pou Ayisyen Ozetazini ak Kanada** (TPS, parole, depòtasyon, azil, pwogram Kanada/Kebèk). Apre sa: lòt gwo nouvèl (match Grenadye yo, elatriye). Voye tip sou 3 premye yo an premye.
+- **Imaj Ayiti (Saneme, Nov. 15):** lè w ap chèche foto/videyo Ayiti an jeneral, chèche **bèl kote yo** (plaj, mòn, Sitadèl, Jakmèl, Okap, otèl, bèl kay). Pa voye imaj bidonvil oswa povrete kòm imaj jeneral. Imaj difisil yo sèlman si evènman an te pase la menm.
 - **Nou pou Ayiti.** Chanèl la an anglè, men se pou Ayisyen. Nou di verite a ak respè pou pèp la: nou kritike gang, lidè ak enstitisyon, pa pèp ayisyen an. Pa gen mo ki rabese peyi a.
 
 ## Facebook (Saneme, Nov. 15)
