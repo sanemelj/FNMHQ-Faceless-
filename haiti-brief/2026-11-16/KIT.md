@@ -4,7 +4,7 @@ Kai: poste chak kat ✅ PARE nan lè ki make a (ET). Mete lyen an nan POSTED.md.
 
 ---
 
-## 🔴 POSTE KOUNYA KÒM NOUVO VIDEYO (vèsyon ak bèl imaj Ayiti) · hb-L4 · LONG-FORM 8:13 · "One Signature Away"
+## ✅ POSTE (BqdaB5YcFwE) · 🔧 TRIM 3:15.7–3:25.9 nan Studio Editor (Sam, 15 nov) · hb-L4 · LONG-FORM 8:04 apre trim · "One Signature Away"
 **Estati:** ✅ PARE (nouvo montaj: plan kout, captions, avatar A1–A6) · **Longè:** 8:12 · 1920×1080 · 6 chapit (mid-roll posib). **Altered content: Yes** (avatar yo prezante; Saneme mete etikèt la).
 **Anvan ou poste (touswit):** tcheke lis House Clerk la: https://clerk.house.gov/DischargePetition/2026072025 . Si li **pa 217 ankò** (218 oswa yon chanjman), PA POSTE: ekri `BEZWEN CLAUDE:` touswit, m ap korije videyo a.
 
@@ -26,10 +26,10 @@ Chapters
 0:00 One more signature
 0:25 Chapter 1: One signature away
 1:44 Chapter 2: What the bill would do
-3:25 Chapter 3: Where Haiti's TPS stands
-4:40 Chapter 4: The other bill (H.R. 1689)
-5:46 Chapter 5: What happens next
-7:01 Chapter 6: Protect yourself
+3:15 Chapter 3: Where Haiti's TPS stands
+4:30 Chapter 4: The other bill (H.R. 1689)
+5:36 Chapter 5: What happens next
+6:51 Chapter 6: Protect yourself
 
 Sources
 - Clerk of the U.S. House, Discharge Petition No. 25 (list read Nov. 15, 2026): https://clerk.house.gov/DischargePetition/2026072025
