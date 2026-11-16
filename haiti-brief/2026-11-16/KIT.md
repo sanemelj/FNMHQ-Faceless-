@@ -52,7 +52,7 @@ Haitian TPS, TPS Haiti, Dream and Promise Act, American Dream and Promise Act, d
 ---
 
 ## 11:00 AM ET · LENDI 16 NOV · hb-L5 · LONG-FORM BREAKING ~3:45 · "Into Downtown"
-**Estati:** 🟡 ap tann 3 klip avatar Kai yo (B1, B2, B3 — `anchor/2026-11-16_edh/DIALOGUE.md`). Vèsyon san avatar la pare kòm sekou: si klip yo pa rive anvan **9:30 AM ET**, poste vèsyon san avatar la (m ap ekri ✅ ak non fichye a). **Altered content: Yes** si avatar yo ladan l, **No** si se vèsyon san avatar la → Facebook menm jan.
+**Estati:** 🟡 ap tann 3 klip avatar Kai yo (B1, B2, B3 — `anchor/2026-11-16_edh/DIALOGUE.md`). ✅ **Vèsyon SAN avatar la PARE (3:05):** `haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16_noav.mp4` — si klip yo pa rive anvan **9:30 AM ET**, poste vèsyon sa a a 11:00 AM ET (Altered content = **No**, FB AI label No). Si klip yo rive, m ap ba w vèsyon final la (`HaitiBrief_Long_5_Nov_16.mp4`, Altered content = Yes). **Altered content: Yes** si avatar yo ladan l, **No** si se vèsyon san avatar la → Facebook menm jan.
 - Video: `haiti-brief/2026-11-16/HaitiBrief_Long_5_Nov_16.mp4` (m ap mete l isit la)
 - Thumbnail A: `haiti-brief/2026-11-16/HaitiBrief_Thumb_Long_5_Nov_16_A.jpg` (B pou tès)
 - Playlist: "Haiti Explained" · End screen: Subscribe + hb-L3 (https://www.youtube.com/watch?v=6TOir9Xo1S4)
@@ -67,11 +67,13 @@ Bukele's Troops Take Haiti's Power Company HQ, Next Door to a Gang Stronghold
 This weekend, Salvadoran troops working with Haitian soldiers took position at the head office of Électricité d'Haïti (EDH) on the Bicentenaire in downtown Port-au-Prince, right next to Village-de-Dieu. Le Nouvelliste reports they also took back the Portail Léogane police sub-station. How we got here, from the Oct. 18 ambush to the Sylvio Cator stadium, and the questions that remain.
 
 Chapters
-0:00 Downtown
-(Claude ap mete chapit egzak yo apre montaj final la)
+0:00 The power company
+1:02 How we got here
+2:13 What comes next
+(chapit sa yo se pou vèsyon san avatar la; vèsyon ak avatar la ap gen lòt chapit)
 
 Sources: Le Nouvelliste (Nov. 15, 2026); Exclusif.net; AP; France 24 / AFP; El Mundo (El Salvador).
-Video: Info Scoop Haiti (Portail Léogane); Nayib Bukele on X (archive, Nov. 10 and Nov. 12).
+Video: Info Scoop Haiti (Portail Léogane); Nayib Bukele on X (archive, Nov. 10 and Nov. 12). Map data © OpenStreetMap contributors.
 
 #Haiti #Bukele #PortAuPrince
 ```
