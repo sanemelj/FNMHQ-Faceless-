@@ -78,3 +78,9 @@ Saneme kreye yon paj Facebook Haiti Brief. **Chak Short poste sou YouTube poste 
 - **Etikèt AI sou Facebook = menm jan ak YouTube (Saneme, Nov. 15).** Pou chak Reel, gade videyo a nan YouTube Studio: si **Altered or synthetic content = Yes** sou YouTube, aktive etikèt AI Meta a (**AI info / "Made with AI"**, nan paramèt avanse Reel la nan Meta Business Suite) sou Facebook. Si se **No** sou YouTube, pa mete l. Fè l tou pou Reel ki deja pwograme oswa pibliye yo (edit post la). Si Meta pa kite w chanje l sou yon post, ekri `BEZWEN SANEME:` ak lyen an.
 - Nan POSTED.md ajoute lyen Facebook la sou menm liy lan: `hb-S7 | 9:00 AM ET | YouTube: <lyen> | FB: <lyen>`.
 - Long-form yo: rete sou YouTube sèlman pou kounya (sof si Saneme di lòt bagay).
+
+## Pa gen ton wobo (Sam, 15 nov) — RÈG
+- **Pa janm** mete avètisman tankou "not legal advice", "consult a lawyer/attorney", "this is not financial advice", "for informational purposes only", "do your own research", nan deskripsyon, kòmantè pin, Facebook, oswa nan videyo. Se pawòl ki sonnen tankou yon wobo, e sa fè chanèl la pèdi kredibilite.
+- Nou se jounalis: nou bay nouvèl la, moun a moun. Si gen yon fè ki itil moun (egz. "USCIS warns that notarios can't give immigration help"), nou di l kòm nouvèl, ak sous li.
+- Si w wè youn nan yon KIT, retire l epi di m.
+

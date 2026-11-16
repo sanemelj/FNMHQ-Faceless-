@@ -75,7 +75,7 @@ Haiti, Haiti news, Bukele, Nayib Bukele, El Salvador, Bukele Haiti, Haiti gangs,
 ```
 **Deskripsyon:**
 ```
-The petition to force a House vote on the American Dream and Promise Act has 217 of the 218 signatures it needs (House Clerk list, Nov. 15, 2026). Not legal advice; the bill is not law. Full story on our channel.
+The petition to force a House vote on the American Dream and Promise Act has 217 of the 218 signatures it needs (House Clerk list, Nov. 15, 2026). One more and the House has to vote. Full story on our channel.
 #Haiti #HaitianTPS #DreamAndPromiseAct
 ```
 **Tags:**

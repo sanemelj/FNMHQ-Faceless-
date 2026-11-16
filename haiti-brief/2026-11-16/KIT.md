@@ -12,7 +12,7 @@ Kai: poste chak kat ✅ PARE nan lè ki make a (ET). Mete lyen an nan POSTED.md.
 - Thumbnail A: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Thumb_Long_4_Nov_16_A.jpg (B pou tès: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Thumb_Long_4_Nov_16_B.jpg)
 - Playlist: **"Haiti Explained"** (kreye yon nouvo playlist **"Haitians in the U.S."** epi mete l la tou)
 - End screen (dènye 10 s): bouton Subscribe + hb-L3 (https://www.youtube.com/watch?v=6TOir9Xo1S4).
-- Kòmantè pin: `Not legal advice. None of these bills is law yet. Check uscis.gov and talk to a licensed immigration attorney. We'll update this as soon as the 218th signature arrives.`
+- Kòmantè pin: OKENN (Sam efase ansyen an, 15 nov: pa gen avètisman 'not legal advice' ankò)
 
 **Tit:**
 ```
@@ -21,8 +21,6 @@ One Signature Away: Green Cards for Haitian TPS Holders?
 **Deskripsyon:**
 ```
 217 members of the U.S. House have signed a petition to force a vote on the American Dream and Promise Act. It needs 218. Here is what the bill would do for Haitians who had TPS, where Haiti's TPS stands after the Supreme Court ruling, what happened to H.R. 1689, and what happens next. Plus: how to avoid immigration scams.
-
-This is news, not legal advice. None of these bills is law. Talk to a licensed immigration attorney or a DOJ-accredited representative about your own case.
 
 Chapters
 0:00 One more signature
