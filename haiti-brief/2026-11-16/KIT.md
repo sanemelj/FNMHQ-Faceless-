@@ -4,7 +4,7 @@ Kai: poste chak kat ✅ PARE nan lè ki make a (ET). Mete lyen an nan POSTED.md.
 
 ---
 
-## 🔴 POSTE KOUNYA (Saneme, 15 nov ~7 PM ET) · hb-L4 · LONG-FORM 8:13 · "One Signature Away"
+## 🔴 POSTE KOUNYA KÒM NOUVO VIDEYO (vèsyon ak bèl imaj Ayiti) · hb-L4 · LONG-FORM 8:13 · "One Signature Away"
 **Estati:** ✅ PARE (nouvo montaj: plan kout, captions, avatar A1–A6) · **Longè:** 8:12 · 1920×1080 · 6 chapit (mid-roll posib). **Altered content: Yes** (avatar yo prezante; Saneme mete etikèt la).
 **Anvan ou poste (touswit):** tcheke lis House Clerk la: https://clerk.house.gov/DischargePetition/2026072025 . Si li **pa 217 ankò** (218 oswa yon chanjman), PA POSTE: ekri `BEZWEN CLAUDE:` touswit, m ap korije videyo a.
 
@@ -44,7 +44,7 @@ Sources
 - FTC: How to avoid immigration scams. Report fraud: https://reportfraud.ftc.gov
 - Reporting: Fox News, WLRN, CNA / National Catholic Register, Colorado Politics
 
-Photo: Architect of the Capitol / public domain. Photos of Port-au-Prince: U.S. Navy / public domain.
+Photo: Architect of the Capitol / public domain. Photos of Haiti (Labadee, Saint-Marc, North coast, Kenscoff, Cap-Haïtien): Wikimedia Commons contributors (SpaceEconomist192, Didier Moïse, Hudson-explore, Beasteder.ht, Rémi Kaupp, ChrisEdwardsCE, Thank You (23 Millions+) views), CC BY / CC BY-SA / CC0.
 ```
 **Tags:**
 ```
