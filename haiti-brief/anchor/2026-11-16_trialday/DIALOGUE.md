@@ -9,3 +9,6 @@ Sous: Miami Herald (Jacqueline Charles, 12–14 nov), AP/Spokesman-Review (12 no
 
 ## T2 — MARC (~9 s) · plan mwayen
 > Marc says: "This week, prosecutors get their turn to question him. He has pleaded not guilty. The jury will decide."
+
+## T1 v2 — CLAIRE (~8 s) · SÈLMAN si T1 refize (pa gen mo vyolan)
+> Claire says: "In Miami, Christian Sanon took the stand in his own defense. He told the jury he never wanted harm to come to President Jovenel Moïse."
