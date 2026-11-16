@@ -71,7 +71,7 @@ Haiti, Haiti news, Bukele, Nayib Bukele, El Salvador, Bukele Haiti, Haiti gangs,
 
 **Tit:**
 ```
-217 of 218: One Signature From a Vote for Haitian TPS Holders #Shorts
+217 of 218: One Signature From a Vote for TPS Holders #Shorts
 ```
 **Deskripsyon:**
 ```

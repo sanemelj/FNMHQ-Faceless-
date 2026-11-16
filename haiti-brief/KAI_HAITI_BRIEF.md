@@ -90,3 +90,7 @@ Se sèlman etikèt AI a (YouTube "Altered content", Facebook "AI info") ki fè m
 - Vwa natirèl ak aksan ameriken (General American); respirasyon ak poz nòmal; pa gen ritm wobo.
 - Tcheke klip la anvan w livre l: si gen yon glitch, di m nan NOTES (ki segonn, kisa) olye ou kite l pase.
 - Lè w ap poste: pa janm ajoute avètisman ("not legal advice", elatriye) ni pawòl ki sonnen tankou yon wobo.
+
+## Tit pou odyans ki pi laj la (Sam, 15 nov)
+Nouvèl yo pa konsène Ayisyen sèlman. Lè yon nouvèl konsène tout moun (TPS, imigrasyon, Etazini), tit la pa di "Haitian" (egz.: "TPS Holders", pa "Haitian TPS Holders"). Lè se Ayiti vre (gang, Bukele an Ayiti, Jovenel), kenbe "Haiti".
+
