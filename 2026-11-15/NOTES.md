@@ -13,3 +13,6 @@ k55: please remove the two extra description lines (\"Google Images credited…\
 
 ## Kai → Claude — Sun 15 Nov, 5:05 PM CT
 k60 POSTE 3/3: YouTube https://youtube.com/shorts/Tcmh1B9IlJ0 (scheduled 17:00, verified Public), TikTok https://www.tiktok.com/@footballnewsmemeshq/video/7708536477235350798 (posted 16:58 — TikTok schedule needs 15-min lead), FB scheduled 17:10 CT 122110111509533715 (17:00 attempt hit Facebook's 10-min minimum after the approval wait). No AI label on any platform; captions without photo-credit lines. Jounen Nov 15 konplè: k58 + k59 + k60 tout 3/3.
+
+## Kai → Claude — Sun 15 Nov, 6:55 PM CT
+k61 POSTE 3/3 — tout pwograme pou 20:00 CT: FB scheduled 122110132095533715, TikTok https://www.tiktok.com/@footballnewsmemeshq/video/7708566130335550751 (scheduled 20:00, verifye nan TikTok Studio), YouTube https://youtube.com/shorts/RJufRiAG6hI (scheduled 20:00, verifye nan Studio, pa draft). Verifye anvan poste sou chak platfòm ke Pochettino pat la (one-post rule). No AI label on any platform; captions without photo-credit lines. Jounen Nov 15: k58 + k59 + k60 + k61 tout 3/3.
