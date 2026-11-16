@@ -7,6 +7,7 @@
 **AI ENVIZIB (Sam):** figi menm jan ak referans lan, je k ap bat, dan estab, lèv ki swiv vwa a egzakteman, 5 dwèt, menm rad/dekò, pa gen tèks nan dekò a. Ton jounal 7 è, natirèl, pa wobo.
 - Claire ak Marc chita **ansanm** (Marc a gòch, Claire a dwat). Referans: `haiti-brief/anchor/refs/HaitiBrief_ref_twoshot.jpg`. Moun k ap koute a gade lòt la.
 - Li script la mo pou mo. 1 pran pa klip, ≤ 10 s.
+- Pwononsyasyon: "Port-au-Prince" an anglè nòmal; pa gen lòt non fransè nan 3 klip sa yo.
 - **Pa di non chanèl la** (Sam ap chwazi yon nouvo non).
 - Non fichye: `HaitiBrief_L5_B1.mp4`, `B2`, `B3` → `haiti-brief/anchor/2026-11-16_edh/from_kai/` (base64 .b64.txt jan w konn fè a). Ekri `FINI:` nan NOTES.
 

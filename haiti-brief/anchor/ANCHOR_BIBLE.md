@@ -66,3 +66,7 @@ Se sèlman etikèt AI a (YouTube "Altered content", Facebook "AI info") ki fè m
 - Vwa natirèl ak aksan ameriken (General American); respirasyon ak poz nòmal; pa gen ritm wobo.
 - Tcheke klip la anvan w livre l: si gen yon glitch, di m nan NOTES (ki segonn, kisa) olye ou kite l pase.
 - Lè w ap poste: pa janm ajoute avètisman ("not legal advice", elatriye) ni pawòl ki sonnen tankou yon wobo.
+
+## Non fransè/kreyòl (Sam, 16 nov)
+Claire ak Marc pale anglè ameriken, men **non fransè ak kreyòl yo pwononse an fransè** (Village-de-Dieu = "vi-LAZH duh DYEU", Portail Léogane = "por-TAI lé-o-GAN", Croix-des-Bouquets = "KWA dé bou-KÉ", Le Nouvelliste = "luh nou-vèl-IST", Fils-Aimé = "fis-è-MÉ"). Bukele an panyòl ("bou-KÉ-lé"). Mete sa nan prompt la lè script la gen non sa yo.
+
