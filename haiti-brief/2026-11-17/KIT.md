@@ -65,3 +65,33 @@ Photo: The White House, 2018 (public domain); MichelleWalz (CC BY 2.0). Map data
 ```
 Jovenel Moise, Jovenel Moise assassination, Christian Sanon, CTU Security, Haiti president, PetroCaribe, Michel Martelly, Haiti 2021, Miami trial, Haiti news, Haiti Brief
 ```
+
+## 11:00 AM ET · MADI 17 NOV · hb-L6 · LONG-FORM 3:14 · "El Salvador's Exit Condition"
+**Estati:** ✅ PARE · 3:14 · 1920×1080 · Claire + Marc (A1–A5, rad L2; kat dèyè yo flou) + narasyon · call to action (abòne/notifikasyon 0:30 + kesyon kòmantè nan fen) · **Altered content: Yes** · YouTube sèlman.
+- Video: `haiti-brief/2026-11-17/HaitiBrief_Long_6_Nov_17.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-17/HaitiBrief_Long_6_Nov_17.mp4
+- Thumbnail: `HaitiBrief_Thumb_Long_6_Nov_17_A.jpg`. Playlist: Haiti Explained. End screen: Subscribe + hb-L5 (d52bewIY-cI). Ajoute hb-L6 kòm Related video sou hb-S12 (9TvQtuIPTLo).
+- Kòmantè pin: `Should the Salvadoran troops stay in Haiti once the four are found? Tell us below.`
+
+**Tit:**
+```
+El Salvador Says Its Troops Stay in Haiti Until 4 Missing Soldiers Are Found
+```
+**Deskripsyon:**
+```
+El Salvador's troops will leave Haiti "the day we find our compatriots," Vice President Félix Ulloa said Monday in San Salvador. Four Salvadoran service members have been missing since an ambush on Oct. 18 in Santo, Croix-des-Bouquets. No date, no new information on the four, a mission El Salvador says it pays 90% of, an agreement that has not been made public, and talks in Haiti on extending the deployment.
+
+0:00 El Salvador's condition
+0:29 The condition
+1:08 The four
+1:37 Haiti's side
+2:19 What we don't know
+2:51 Your view
+
+Sources: El Diario de Hoy; EFE; elsalvador.com; El Heraldo; DW; Reuters; AP; France 24 / AFP; Le Nouvelliste; Le Quotidien 509; El País (Nov. 3–16, 2026).
+Photos: Presidencia de El Salvador (CC0); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
+#Haiti #ElSalvador #Bukele
+```
+**Tags:**
+```
+Haiti, El Salvador, Bukele, Salvadoran troops Haiti, Felix Ulloa, missing soldiers, Croix-des-Bouquets, Pelissier, Fils-Aime, Gang Suppression Force, Haiti news, Haiti Brief
+```
