@@ -178,3 +178,12 @@ Christian Sanon, Sanon trial, Jovenel Moise, Jovenel Moise case, Miami trial, Ha
 Trial Day: Christian Sanon's lawyers asked the judge to end the case. The judge said no, according to two Haitian journalists covering the trial. Closing arguments were heard today. The jury could soon get the case.
 #Haiti #JovenelMoise #HaitiNews
 ```
+
+## 7:00 PM ET · MADI 17 NOV · FACEBOOK SÈLMAN · REEL fb-R1 · 1:26 · "The Jovenel Moïse Case — July 7, 2021"
+**Estati:** ✅ PARE · **Paj Facebook Haiti Brief SÈLMAN** (pa YouTube, pa FNMHQ) · 1080×1920 · koupe vètikal Part 1 (premye fwa sou Facebook) · **FB AI label: Yes** · objektif: challenge 1M vi + mennen moun sou Part 2 a 8 PM.
+- Video: `haiti-brief/2026-11-17/HaitiBrief_FB_Reel_S1E1_Nov_17.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-17/HaitiBrief_FB_Reel_S1E1_Nov_17.mp4
+**Facebook caption:**
+```
+July 7, 2021. Before dawn, armed men reached the private home of Haiti's president, Jovenel Moïse. This is how that night began. Part 2 of our series, The President and the Plot, is out tonight at 8 PM ET on Haiti Brief.
+#Haiti #JovenelMoise #HaitiNews
+```
