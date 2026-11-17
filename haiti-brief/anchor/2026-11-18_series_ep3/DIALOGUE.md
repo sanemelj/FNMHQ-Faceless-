@@ -26,3 +26,11 @@ Fè: DSKOVA `stories/series_jovenel/facts_ep03b.md`.
 
 ## Q7 — CLAIRE · fèmti (~8 s) · plan laj
 > Claire says: "Next time: the courtroom in Miami, and what the jury is hearing now. I'm Claire Bastien. This is Haiti Brief."
+
+---
+## 🔔 REZÈV VÈDIK (Sanon) — 2 klip net pou nenpòt rezilta (James Reports: jij la rejte demann defans lan, vèdik la ap vini)
+Fè yo nan menm push la ak Q1–Q7 yo. Yo pa di rezilta a: narasyon an ap di l. Rad L3. Si vèdik la tonbe yon lòt jou, n ap itilize yo kanmenm.
+## V1 — CLAIRE · ouvèti BREAKING (~6 s) · serye
+> Claire says: "There is news tonight from the courtroom in Miami. Here is what we know."
+## V2 — MARC · fèmti (~7 s)
+> Marc says: "We'll keep following this case, step by step. Subscribe so you don't miss what comes next."
