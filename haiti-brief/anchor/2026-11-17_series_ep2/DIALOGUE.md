@@ -37,3 +37,5 @@ Konsèy pwomt: kòmanse ak "A TV news anchor in a studio reads this short script
 ## P4 v2 — MARC (~8 s)
 > Marc says: "Meanwhile, in South Florida, U.S. prosecutors say a small group of men began making plans of their own."
 (P5, P6, P7: menm jan anwo a, pa chanje.)
+## P5 v2 — CLAIRE (~6 s) · kalm (P5 te refize: retire "trial", "arrest warrant")
+> Claire says: "There are two versions of what happened next. Tonight, you'll hear both."
