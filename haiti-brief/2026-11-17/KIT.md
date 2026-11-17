@@ -94,3 +94,31 @@ Photos: Presidencia de El Salvador (CC0); MichelleWalz (CC BY 2.0). Map data © 
 ```
 Haiti, El Salvador, Bukele, Salvadoran troops Haiti, Felix Ulloa, missing soldiers, Croix-des-Bouquets, Pelissier, Fils-Aime, Gang Suppression Force, Haiti news, Haiti Brief
 ```
+
+## 3:00 PM ET · MADI 17 NOV · hb-S15 · SHORT 0:40 · "Village-de-Dieu"
+**Estati:** ✅ PARE · 0:40 · 1080×1920 · Claire + Marc (R1) + narasyon + kat · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-L5 (d52bewIY-cI)**.
+- Video: `haiti-brief/2026-11-17/HaitiBrief_Short_15_Nov_17.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-17/HaitiBrief_Short_15_Nov_17.mp4
+- Kòmantè pin: `Full story on the EDH operation next door: https://youtu.be/d52bewIY-cI`
+
+**Tit:**
+```
+Salvadoran Troops Reportedly Push Into Village-de-Dieu, Izo's Stronghold #Shorts
+```
+**Deskripsyon:**
+```
+Haitian outlets Corvington Matin and O-News 1ère report that Salvadoran troops and Haitian police went into Village-de-Dieu on Monday evening, Nov. 16, after heavy gunfire. Village-de-Dieu is the stronghold of the 5 Segond gang, led by Johnson André, known as Izo. O-News 1ère says they took several sectors, but not the whole neighborhood. There is no official toll yet.
+
+Village-de-Dieu sits right next to the EDH head office the troops took back this weekend. Full story: https://youtu.be/d52bewIY-cI
+
+Sources: Corvington Matin (Nov. 16, 2026); O-News 1ère (Nov. 17, 2026). Map data © OpenStreetMap contributors.
+#Haiti #Bukele #HaitiNews
+```
+**Tags:**
+```
+Haiti, Village-de-Dieu, 5 Segond, Izo, Johnson Andre, Salvadoran troops Haiti, Bukele, Port-au-Prince, EDH, Haiti gangs, Haiti news, Haiti Brief
+```
+**Facebook (Reel, 3:00 PM ET):**
+```
+Haitian media report Salvadoran troops and Haitian police went into Village-de-Dieu on Monday evening. No official toll yet. Full story on our YouTube channel, Haiti Brief.
+#Haiti #Bukele #HaitiNews
+```
