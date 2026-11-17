@@ -152,7 +152,7 @@ New UN numbers: 4,595 people killed in Haiti from January to October. The UN ask
 ```
 
 ## 6:00 PM ET · MADI 17 NOV · TRIAL DAY · SHORT 0:31
-**Estati:** ✅ PARE · 0:31 · 1080×1920 · Claire + Marc (TD1, TD2 — m koupe TD2 apre "get the case": avatar la te di "pause" 2 fwa; m kenbe TD1 apati "Christian Sanon's lawyers…") + narasyon · **Altered content: Yes** · **FB AI label: Yes** · Related video: **Part 1 (Ql-xmqifV7U)**.
+**Estati:** ✅ PARE · 🔁 v2 15:15 ET (0:36, ajoute: defans lan fin prezante, pledwari jodi a) · 1080×1920 · Claire + Marc (TD1, TD2 — m koupe TD2 apre "get the case": avatar la te di "pause" 2 fwa; m kenbe TD1 apati "Christian Sanon's lawyers…") + narasyon · **Altered content: Yes** · **FB AI label: Yes** · Related video: **Part 1 (Ql-xmqifV7U)**.
 - Video: `haiti-brief/2026-11-17/HaitiBrief_Short_TD_Nov_17.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-17/HaitiBrief_Short_TD_Nov_17.mp4
 - Kòmantè pin: `The full story, from the beginning: Part 1 https://youtu.be/Ql-xmqifV7U — Part 2 tonight at 8 PM ET.`
 
@@ -162,11 +162,11 @@ Sanon Trial: Defense Asks Judge to End the Case. The Judge Says No #Shorts
 ```
 **Deskripsyon:**
 ```
-Trial Day, Nov. 17: in Miami federal court, Christian Sanon's lawyers asked the judge to end the case for lack of evidence, and the judge said no, according to Luckson Saint-Vil (LSV Media) and James Reports, two Haitian journalists covering the trial. That means the jury could soon get the case. Sanon, a Florida pastor, is on trial over the plot that ended with President Jovenel Moïse's killing in July 2021. He has pleaded not guilty and is presumed innocent.
+Trial Day, Nov. 17: in Miami federal court, Christian Sanon's lawyers asked the judge to end the case for lack of evidence, and the judge said no, according to Luckson Saint-Vil (LSV Media) and James Reports, two Haitian journalists covering the trial. The defense has rested (Miami Herald), and LSV Media reports that closing arguments were heard today. That means the jury could soon get the case. Sanon, a Florida pastor, is on trial over the plot that ended with President Jovenel Moïse's killing in July 2021. He has pleaded not guilty and is presumed innocent.
 
 Watch the full series: The Jovenel Moïse Case, Part 1: https://youtu.be/Ql-xmqifV7U
 
-Sources: LSV Media (Nov. 17, 2026); James Reports (Nov. 17, 2026). Photo: Wilkie D. Ferguson Jr. U.S. Courthouse, Miami (public domain).
+Sources: LSV Media (Nov. 17, 2026); James Reports (Nov. 17, 2026); Miami Herald. Photo: Wilkie D. Ferguson Jr. U.S. Courthouse, Miami (public domain).
 #Haiti #JovenelMoise #HaitiNews
 ```
 **Tags:**
@@ -175,6 +175,6 @@ Christian Sanon, Sanon trial, Jovenel Moise, Jovenel Moise case, Miami trial, Ha
 ```
 **Facebook (Reel, 6:00 PM ET):**
 ```
-Trial Day: Christian Sanon's lawyers asked the judge to end the case. The judge said no, according to two Haitian journalists in the courtroom. The jury could soon get the case.
+Trial Day: Christian Sanon's lawyers asked the judge to end the case. The judge said no, according to two Haitian journalists covering the trial. Closing arguments were heard today. The jury could soon get the case.
 #Haiti #JovenelMoise #HaitiNews
 ```
