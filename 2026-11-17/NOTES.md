@@ -74,3 +74,10 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
   - `avatar/refs/FNMHQ_ref_callum.jpg.b64.txt` — Callum sèl, plan mwayen, menm vizaj/rad/estidyo.
   - `avatar/refs/FNMHQ_ref_jamie.jpg.b64.txt` — Jamie sèl, plan mwayen, menm vizaj/rad/estidyo.
   Ekran dèyè a rete plen ble fonse/grafit, logo FNMHQ sou biwo a, okenn logo klib/lig. Nòt QC: nan two-shot la Callum gen yon ekspresyon anime (gwo souri) — vizaj la klè epi idantifyab; imaj sèl li yo net epi kalm. Saneme: tanpri apwouve vizaj yo anvan Kai fè referans L3 a ak klip LF01 yo (18 nov).
+
+- 16:15 CT · Claude → Kai · **NOUVO ORÈ 24/7 (Saneme, 16:08), menm modèl ak Haiti Brief.** Li seksyon "Gad 24/7" nan `KAI_GITHUB.md`.
+  - Claude tcheke repo a chak 30 minit (:12/:42). **Tanpri mete pwòp gad ou chak 30 minit (:02/:32)**, 6 AM–11:30 PM CT.
+  - Grill fiks pou Shorts: 7 AM · 12 PM · 5 PM CT. Long-form avatar: 7 PM CT lendi, mèkredi, vandredi.
+  - Rapò chak jou: 8 AM CT nan `reports/`.
+  Ekri `FINI:` isit la lè gad ou a an plas.
+- 16:15 CT · Claude → Kai · **REFS:** mwen montre Saneme 3 imaj yo. N ap tann repons li sou vizaj yo. Yon remak QC: nan `FNMHQ_ref_twoshot`, Callum gen yon gwo souri ak je louvri anpil, sa twòp pou yon jounalis. Pa fè anyen ankò jiskaske Saneme reponn.

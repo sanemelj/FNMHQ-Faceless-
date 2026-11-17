@@ -27,3 +27,49 @@ GitHub se kopi ofisyèl la. Artifact (Command Center) la ka tonbe; GitHub pa bez
 
 ## Klip match (Saneme, 11 nov)
 Gade `inbox/README.md`. Ou mete klip brit la nan `inbox/YYYY-MM-DD/`, Claude edite l ak analiz. Nenpòt reklamasyon/strike copyright → sispann klip sou platfòm sa a + `BEZWEN SANEME:` nan NOTES.md.
+
+## Gad 24/7: Claude ↔ Kai san Saneme (Saneme, 17 nov 2026) — MENM MODÈL AK HAITI BRIEF
+Saneme vle nou travay san li. Nou youn reveye lòt atravè repo sa a. Menm lè l pa la, videyo yo ap prepare epi Kai ap poste.
+
+**Orè tchèk yo (lè CT):**
+- **Claude** tcheke repo a **chak 30 minit nan :12 ak :42**, de 6:12 AM rive 11:42 PM CT, chak jou. Nan chak tchèk li:
+  - li tout liy `Kai:` nan `YYYY-MM-DD/NOTES.md` ak `avatar/*/NOTES.md`, epi li reponn;
+  - li fè travay la li menm;
+  - li mete `KIT.md` ak `POSTED.md` ajou.
+- **Kai:** tanpri mete pwòp gad ou (yon task oswa routine) ki tcheke repo a **chak 30 minit nan :02 ak :32**, de 6:02 AM rive 11:32 PM CT. Nan chak tchèk ou:
+  - fè yon `git pull`;
+  - li tout liy `Claude → Kai` ki poko fèt;
+  - poste kat ki **✅ PARE** yo a lè ki ekri a, oswa pwograme yo pou lè sa a;
+  - ranpli `POSTED.md`;
+  - reponn nan `NOTES.md`.
+
+**Grill piblikasyon fiks (CT).** Lè yo pa chanje, sof pou yon nouvèl ijan (`BREAKING — POSTE KOUNYA`).
+
+| Lè | Kisa | Claude fin prepare l |
+|---|---|---|
+| **7:00 AM** | Short "THE NUMBER": chif jou a, apati nouvèl yè swa | anvan 6:30 AM |
+| **12:00 PM** | Short repòtaj ak analiz: nouvèl jou a | anvan 11:30 AM |
+| **5:00 PM** | Short repòtaj oswa preview pou match aswè a | anvan 4:30 PM |
+| **7:00 PM** | Long-form avatar (Callum ak Jamie), lendi, mèkredi ak vandredi, lè klip yo pare | jou a |
+
+- Yon sèl videyo pa plas. Si ou an reta, mete l nan pwochen plas ki lib epi ekri nouvo lè a nan `POSTED.md`.
+- Etikèt AI: **No** pou Shorts san avatar, **YES** pou videyo avatar yo.
+
+**Rapò chak jou:** Kai, chak maten **8:00 AM CT**, ekri `reports/YYYY-MM-DD_daily.md` ak chif chak post 24 è e 48 è:
+- vi;
+- % ki rete gade;
+- abòne;
+- kòmantè.
+
+Claude sèvi ak rapò sa a pou l deside sa pou l kenbe ak sa pou l kite.
+
+**Skoop (si w gen tan, Haiti Brief an premye):** si w wè yon gwo nouvèl foutbòl (Real, Barça, PSG, Brezil, Ajantin, Premier League, Meksik, USA), mete yon liy ak lyen an nan `inbox/scoops/YYYY-MM-DD.md`. Claude li l nan pwochen tchèk la.
+
+**Etikèt yo:**
+- `BEZWEN SANEME:` = sèlman yon desizyon Saneme ka pran. Claude ap voye notifikasyon ba li.
+- `BEZWEN CLAUDE:` = yon bagay Claude dwe fè. Claude ap fè l nan pwochen tchèk la.
+- `FINI:` = travay la fèt.
+
+**Lannwit:** ant 00:00 ak 05:59 CT, pa reveye Saneme sof pou yon bagay ijan (strike, kont bloke, reklamasyon copyright).
+
+**Priyorite Kai:** Haiti Brief toujou an premye. FNMHQ pran espas lib yo.
