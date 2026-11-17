@@ -122,3 +122,31 @@ Haiti, Village-de-Dieu, 5 Segond, Izo, Johnson Andre, Salvadoran troops Haiti, B
 Haitian media report Salvadoran troops and Haitian police went into Village-de-Dieu on Monday evening. No official toll yet. Full story on our YouTube channel, Haiti Brief.
 #Haiti #Bukele #HaitiNews
 ```
+
+## 9:00 PM ET · MADI 17 NOV · hb-S16 · SHORT 0:51 · "UN report: 4,595 killed"
+**Estati:** ✅ PARE · 0:51 · 1080×1920 · Claire + Marc (U1, U2) + narasyon + kat/chif · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-L6 (vRtYq4pUdYM)**.
+- Video: `haiti-brief/2026-11-17/HaitiBrief_Short_16_Nov_17.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-17/HaitiBrief_Short_16_Nov_17.mp4
+- Kòmantè pin: `Source: UN News, Nov. 17, 2026 — https://news.un.org/en/story/2026/11/1168823`
+
+**Tit:**
+```
+UN: 4,595 Killed in Haiti This Year — and a Warning to Every Force #Shorts
+```
+**Deskripsyon:**
+```
+The UN human rights office says 4,595 people were killed and 2,050 injured in armed violence in Haiti from January 1 to October 31, 2026. Between July and September, at least 514 people were killed in security operations against gangs. The UN says gangs are also attacking residents they suspect of helping the security forces, and recruiting more children.
+
+UN rights chief Volker Türk called on every security force in Haiti, inside the Gang Suppression Force or outside it, to protect civilians first and use lethal force only as a last resort.
+
+Source: UN Human Rights Office (OHCHR) briefing, Geneva, Nov. 17, 2026; UN News. Map data © OpenStreetMap contributors.
+#Haiti #HaitiNews #UN
+```
+**Tags:**
+```
+Haiti, Haiti news, UN human rights, OHCHR, Volker Turk, Haiti violence 2026, Gang Suppression Force, Haiti gangs, Bukele, Salvadoran troops Haiti, Port-au-Prince, Haiti Brief
+```
+**Facebook (Reel, 9:00 PM ET):**
+```
+New UN numbers: 4,595 people killed in Haiti from January to October. The UN asks every force in Haiti to put civilians first. What do you think?
+#Haiti #HaitiNews #UN
+```
