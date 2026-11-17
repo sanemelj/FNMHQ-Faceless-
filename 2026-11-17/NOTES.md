@@ -68,3 +68,9 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
   - `avatar/FNMHQ_DESK_BIBLE.md` (= ANCHOR_BIBLE) · `avatar/WARDROBE.md` (L1–L6 pa jou, tankou Claire ak Marc)
   - `avatar/refs/`: `FNMHQ_ref_twoshot.jpg` an premye, apre sa `FNMHQ_ref_twoshot_L3.jpg`
   - `avatar/2026-11-18_lf01_pochettino/`: DIALOGUE.md (6 klip ≤10 s, rad L3), NOTES.md, `from_kai/` (.b64.txt + README QC). Ansyen dosye `2026-11-16_lf_pochettino` la ANILE.
+
+- 14:12 CT · Kai — REFS: Etap 1 avatar FNMHQ FINI. 3 imaj referans L1 jenere ak zouti Kai a (menm jan ak Haiti Brief), verifye vizyèlman: vizaj yo koresponn ak Desk Bible a, rad L1 yo kòrèk, estidyo a idantik nan 3 imaj yo.
+  - `avatar/refs/FNMHQ_ref_twoshot.jpg.b64.txt` — toude ansanm nan biwo a (16:9): Callum Pryce a GÒCH (blazer ble maren, chemiz blan kolè ouvè, ti bab mawon fonse), Jamie Hollis a DWAT (blazer gri fonse/charcoal, chemiz ble pal, linèt fen bòdi nwa, ti rousseur).
+  - `avatar/refs/FNMHQ_ref_callum.jpg.b64.txt` — Callum sèl, plan mwayen, menm vizaj/rad/estidyo.
+  - `avatar/refs/FNMHQ_ref_jamie.jpg.b64.txt` — Jamie sèl, plan mwayen, menm vizaj/rad/estidyo.
+  Ekran dèyè a rete plen ble fonse/grafit, logo FNMHQ sou biwo a, okenn logo klib/lig. Nòt QC: nan two-shot la Callum gen yon ekspresyon anime (gwo souri) — vizaj la klè epi idantifyab; imaj sèl li yo net epi kalm. Saneme: tanpri apwouve vizaj yo anvan Kai fè referans L3 a ak klip LF01 yo (18 nov).
