@@ -14,3 +14,11 @@ Livre **tout 4 klip yo nan YON push**, kou w kapab: R1+R2 anvan **11:30 AM ET** 
 > Marc says: "In the Artibonite, an international force says it took back a church and a school near Gros-Morne."
 ## T2 — CLAIRE · Atibonit fèmti (~7 s)
 > Claire says: "Officials have not given a full report yet. We'll keep following this story. This is Haiti Brief."
+
+---
+## 🔁 CHANJMAN 12:30 ET — T1/T2 (Atibonit) ANILE → ranplase pa U1/U2 (rapò ONU, Short 9 PM)
+Si w deja fè T1/T2, kenbe yo (n ap sèvi ak yo pita), men pa fè yo si w poko kòmanse. Fè **U1+U2** nan menm push la ak R1+R2. Rad L2. "no on-screen text, no subtitles, plain desk front with no lettering".
+## U1 — CLAIRE · ouvèti (~7 s)
+> Claire says: "The United Nations human rights office has new numbers on the violence in Haiti this year. Here is what they show."
+## U2 — MARC · fèmti (~8 s)
+> Marc says: "The U.N. says every force in Haiti must put civilians first. Tell us what you think in the comments, and subscribe."
