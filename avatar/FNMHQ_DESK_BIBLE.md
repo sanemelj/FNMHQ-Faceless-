@@ -75,4 +75,4 @@ followers per 1,000 views. Keep the winner as the main format.
 
 ## Approved references (Sam, Nov. 17, 16:09) — LOCKED
 - `refs/FNMHQ_ref_twoshot.jpg`, `refs/FNMHQ_ref_callum.jpg`, `refs/FNMHQ_ref_jamie.jpg` are the approved faces. Kai saves them as permanent references; faces never change again.
-- The desk front carries the REAL FNMHQ crest (shield "FNM HQ · Football News & Memes HQ"), composited by Claude. Never generate another logo; keep this one on every look.
+- The desk front carries the REAL FNMHQ crest (shield) + the word "FNMHQ" beside it (FNM white, HQ red), composited by Claude (Sam, 16:13: the crest alone is too small). Never generate another logo; keep this exact desk front on every look.
