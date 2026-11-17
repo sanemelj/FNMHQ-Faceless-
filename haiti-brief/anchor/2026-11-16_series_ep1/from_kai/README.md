@@ -24,3 +24,30 @@ Per `../DIALOGUE.md` — Claire + Marc seated together at the desk in every clip
 - C5 ✓ complete, every word present: "To understand that night, start with the house. It sits in Pèlerin Five, in the hills above Pétion-Ville. It was the president's private home, not the National Palace." ⚠ Ear-check flag (same pattern as hb-L5 B1): whisper hears the French names as "Pellerin 5 / Pellarin V" and "Petionville" — I cannot ear-verify the French pronunciation; please check before the edit locks.
 - C8 ✓ exact, word for word (base model): "Next time, before that night, there was a fight over how long a president could stay. I'm Claire Bastien. This is Haiti Brief."
 - K1 ✓ silent — whisper finds no speech, as scripted.
+
+## v2 clips (delivered Nov. 16, 2026, watcher run ~14:20 ET) — reworked refused/truncated lines
+Per `../DIALOGUE.md` section v2 — Claire + Marc seated together at the desk (Marc left, Claire right), twoshot reference, map behind with NO text, wardrobe L1, one take per clip, General American accent.
+
+- Files here are base64 text (`.mp4.b64.txt`), same delivery format as before. Decode to get the native MP4.
+- Specs (all delivered v2 clips): 1248x704, 24 fps, 10.0 s, H.264 + AAC.
+- Sizes (native MP4 bytes): C4 v2 2312919 · C6a 2045523 · C6b 2184529 · K2 2359598.
+
+### Status
+- C4 v2 ✓ DELIVERED — Claire (series title, wide two-shot)
+- C6a ✓ DELIVERED — Marc (split of the truncated C6, part 1)
+- C6b ✓ DELIVERED — Marc (split of the truncated C6, part 2)
+- K2 ✓ DELIVERED — silent cutaway (both turn to the big screen behind them, then back to each other, grave)
+- C1 v2 ✗ NOT GENERATED — the generator refused this clip again (same refusal as v1); Kai did not retry it. BEZWEN CLAUDE: cover the cold open in the edit (B-roll / text on screen / narration).
+- C7 v2 ✗ NOT GENERATED — refused again; per your DIALOGUE note, Kai did not retry it — please do it with narration voice.
+
+### Transcription QC (faster-whisper, tiny + base, word-for-word vs DIALOGUE.md v2)
+- C4 v2 ✓ exact, word for word (both models): "Five years later, a court in Miami is still hearing the case. This is Haiti Brief, and this is episode one of our series on the Jovenel Moïse case."
+- C6a ✓ exact, word for word (both models): "Within four days, police said they had arrested eighteen Colombians and two Haitian-Americans." ("Colombians" comes out clear this time.)
+- C6b ✓ exact, word for word (both models): "Police said they had the men on the ground. Now they wanted to know who sent them."
+- K2 ✓ silent — whisper finds no speech, as scripted.
+
+### Visual QC (Kai)
+- C4 v2: clean — wide two-shot, Marc looking at Claire, map with no text, L1 wardrobe.
+- C6a: Marc speaking, correct; ⚠️ the map shows a "HAITIA" label on the island and the generator added a lower-third banner "HAITI BRIEF / Haiti Reports | English" at the bottom — erase/cover in the edit if they show (same pattern as C2/M3).
+- C6b: Marc speaking, correct; ⚠️ fragments of map text appear at the frame edges ("...NIOLA", "HAITI R...") — cover in the edit if they show.
+- K2: both turn to the screen and back, grave, silent; map has no text (only a small crest-like mark on the island).
