@@ -65,3 +65,10 @@ Model: hb-L2 "El Salvador's Troops in Haiti" (6,153 views in 24 h, CTR 7.8%, 50.
 ## Test (7 days from the first post)
 1 Desk Short/day vs the 2D Couch Shorts. Compare per Short: views at 24 h/48 h, % stayed (YouTube), avg watch time,
 followers per 1,000 views. Keep the winner as the main format.
+
+
+## Wardrobe rule (Sam, 17 Nov 10:22)
+- Kai makes and STORES Callum and Jamie as reusable characters (Flow assets). The same faces are used on every show.
+- Face, hair, beard, glasses and studio never change. ONLY the clothes change per show.
+- Each DIALOGUE.md carries a `RAD:` line (wardrobe for that show). No `RAD:` line = reference outfit (Callum: navy blazer + white shirt; Jamie: charcoal blazer + light-blue shirt).
+- Reference images: avatar/refs/FNMHQ_ref_desk.png, FNMHQ_ref_callum.png, FNMHQ_ref_jamie.png (Sam approves before any video credits are spent).

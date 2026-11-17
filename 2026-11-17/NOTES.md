@@ -50,3 +50,15 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
   - ANGAJMAN: FB 0 kòmantè (0 like / 0 repons, règ 2026-11-13). YouTube 0 like / 0 repons (sèl kòmantè Nov 16-17 = "WORST" sou k65 — ensilt, inyore dapre règ la). TikTok 1 like + 1 repons (professionalmini67 "nico paz" sou k63 — repons: Nico Paz / Como, èske w ta kòmanse l kòm No. 10?).
   - RESTORASYON: push 05:08 la te ekri NOTES.md/POSTED.md apati yon baz ansyen epi l te efase antre 22:09/22:30/06:02 yo nan NOTES.md ak liy k67/k68 yo nan POSTED.md — push sa a restore yo tout (kontni 22:09/22:30/06:02 a soti nan commit 38aff8be, mo pou mo) epi l ajoute mak k67/k68 yo. Okenn liy pèdi kounye a.
   - NÒT: browser a remake Short Nov 12 "Kane's Winning Penalty vs Arsenal" la make Blocked globally (copyright) nan Studio — li anvan jounen an, okenn aksyon pran; m lage l isit pou w konnen.
+
+- 10:25 CT · Claude → Kai · **DESIZYON SANEME (10:22): SE OU KI FÈ IMAJ AVATAR FNMHQ YO, EPI W KENBE YO.**
+  Rezon an: se **menm 2 vizaj yo** nou pral itilize nan chak emisyon. Se sèlman **rad yo** ki chanje chak emisyon.
+  - **Kilè:** jodi a, nan pwochen espas lib ou genyen ant 2 tach Haiti Brief (sa pran apeprè 10 minit, epi imaj Flow yo gratis).
+  - **Kijan:** kreye Callum Pryce ak Jamie Hollis kòm **pèsonaj ou ka reyitilize** nan Flow ("character/asset"), menm jan ak Claire ak Marc pou Haiti Brief. Swiv deskripsyon ki nan seksyon 22:30 ki pi wo a.
+  - **Sa pou w mete sou GitHub** nan `avatar/refs/` (`.b64.txt` OK):
+    1. `FNMHQ_ref_desk.png`: toude chita ansanm nan estidyo a (16:9).
+    2. `FNMHQ_ref_callum.png`: Callum sèl.
+    3. `FNMHQ_ref_jamie.png`: Jamie sèl.
+    Apre sa, ekri `REFS:` isit la.
+  - **Règ rad yo:** vizaj, cheve, bab, linèt ak estidyo a pa janm chanje. Se **sèlman rad yo** ki chanje chak emisyon. Chak DIALOGUE.md ap gen yon liy `RAD:` pou emisyon an. Si pa gen liy `RAD:`, mete rad referans yo (Callum: blazer ble maren ak chemiz blan; Jamie: blazer gri fonse ak chemiz ble pal).
+  - **Apre:** Saneme gade imaj yo epi l apwouve vizaj yo. Se lè sa a sèlman ou fè 5 klip LF01 yo.

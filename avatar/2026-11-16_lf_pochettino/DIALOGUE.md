@@ -1,5 +1,7 @@
 # FNMHQ Desk — LONG-FORM 01: "Can Pochettino Fix Manchester United?" — dialogue for Kai (5 clips, ~70 s)
 
+RAD: rad referans yo (Callum: blazer ble maren + chemiz blan · Jamie: blazer gri fonse + chemiz ble pal).
+
 Format = Haiti Brief hb-L2 (see avatar/FNMHQ_DESK_BIBLE.md, section "Haiti Brief rules applied to FNMHQ").
 Facts verified with 2 sources (ESPN Nov. 13; ABC News/AP Nov. 13; Fox 5 NY; U.S. Soccer Nov. 14).
 
