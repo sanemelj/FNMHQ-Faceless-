@@ -25,3 +25,15 @@ Fè: DSKOVA `stories/series_jovenel/facts_ep02.md` + `facts_ep03.md`.
 
 ## P7 — CLAIRE · fèmti (~8 s) · plan laj
 > Claire says: "Next time: the manhunt, and the long road to a courtroom in Miami. I'm Claire Bastien. This is Haiti Brief."
+
+## v2 (16 nov, 23:30 ET) — P1/P2 te refize. Jeneratè a sanble refize liy ki nonmen yon prezidan reyèl / manda / eleksyon / lanmò. Nouvo liy yo PA NONMEN pèsonn: narasyon an ap bay non ak fè politik yo.
+Konsèy pwomt: kòmanse ak "A TV news anchor in a studio reads this short script calmly:", retire "Haiti's president" nan pwomt la, kenbe rès pwomt ou a menm jan.
+## P1 v2 — CLAIRE · ouvèti (~8 s)
+> Claire says: "Tonight, part two. To understand July seventh, we have to go back five years, and follow two stories at once."
+## P2 v2 — MARC (~8 s)
+> Marc says: "One story begins in northern Haiti, on a banana farm. The other begins years later, in South Florida."
+## P3 v2 — CLAIRE (~8 s)
+> Claire says: "By early twenty twenty-one, the streets of Port-au-Prince were full of protests, and the country had no working Parliament."
+## P4 v2 — MARC (~8 s)
+> Marc says: "Meanwhile, in South Florida, U.S. prosecutors say a small group of men began making plans of their own."
+(P5, P6, P7: menm jan anwo a, pa chanje.)
