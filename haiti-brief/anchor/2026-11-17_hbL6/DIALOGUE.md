@@ -1,7 +1,7 @@
 # hb-L6 — Madi 17 nov · LONG-FORM 11:00 AM ET · "El Salvador's Exit Condition"
 
-🚨 **CHANJMAN (Sam, 20:58 ET): hb-L6 ap poste AS WÈ A 11:00 PM ET.** Livre anvan **9:50 PM ET** (Lendi): `HaitiBrief_L6_A1.mp4` … `HaitiBrief_L6_A5.mp4` → `from_kai/` (.b64.txt). Ekri `FINI:` nan NOTES. **A1 se priyorite #1** (avatar yo ouvri videyo a sou ekran).
-**Règ:** Claire ak Marc chita ansanm (Marc agoch, Claire adwat), referans `refs/HaitiBrief_ref_twoshot.jpg`, rad **L1 (Lendi)**: Claire blazè ble maren; Marc kostim gri fonse, kravat wouj (menm jan ak klip jodi a yo). Cheve Claire mare. **Kat dèyè a SAN OKENN TÈKS ni pin.** 1 pran, ≤10 s, ton kalm e serye. Aksan: "Speak in a neutral General American (U.S.) English accent, like a U.S. network evening-news anchor." Ulloa = "oo-YO-ah", Fils-Aimé = "feess-eh-MAY", Croix-des-Bouquets = "krwah-day-boo-KAY".
+**hb-L6 tounen Madi 11:00 AM ET** (21:10 ET). Livre anvan **7:30 AM ET** (Madi): `HaitiBrief_L6_A1.mp4` … `HaitiBrief_L6_A5.mp4` → `from_kai/` (.b64.txt). Ekri `FINI:` nan NOTES. **A1 se priyorite #1** (avatar yo ouvri videyo a sou ekran).
+**Règ:** Claire ak Marc chita ansanm (Marc agoch, Claire adwat), referans `refs/HaitiBrief_ref_twoshot.jpg`, rad **L2 (Madi)** si referans yo pare; si w deja kòmanse an L1, kenbe L1 pou tout 5 klip yo. Cheve Claire mare. **Kat dèyè a SAN OKENN TÈKS ni pin.** 1 pran, ≤10 s, ton kalm e serye. Aksan: "Speak in a neutral General American (U.S.) English accent, like a U.S. network evening-news anchor." Ulloa = "oo-YO-ah", Fils-Aimé = "feess-eh-MAY", Croix-des-Bouquets = "krwah-day-boo-KAY".
 Sous: El Diario de Hoy, EFE, DW, Reuters (16 nov). Fè: DSKOVA `stories/2026-11-17_salvador-exit-condition/facts.md`.
 
 ## A1 — CLAIRE · ouvèti (~8 s) · plan mwayen, li gade kamera a
