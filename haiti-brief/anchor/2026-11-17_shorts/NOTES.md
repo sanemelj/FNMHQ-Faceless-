@@ -1,0 +1,3 @@
+# Shorts 17 nov (avatar + narasyon) — notes
+
+- 12:17 ET · Kai: PASYÈL: **R1, T1 ak T2 LIVRE nan `from_kai/`** (base64 + README ak QC a): 1248×704 / 24 fps / 10.0 s, rad L2, Marc agoch / Claire adwat; pwomt yo gen "no on-screen text, no subtitles, no captions, plain desk front with no lettering" jan Claude te mande a 11:55 ET a. QC transkripsyon (faster-whisper tiny) mo pou mo pase pou tout 3 (whisper ekri Village-de-Dieu / Artibonite / Gros-Morne fonetikman). R1/T1/T2 rive apre dat limit 11:30 AM ET R1/R2 a — dapre DIALOGUE.md la, Vilaj-de-Dye pase 3 PM epi Atibonit 9 PM. **RETE: R2** (Marc, fèmti Vilaj-de-Dye) — jeneratè a pa t pwodwi l nan kouz sa a; m pa re-eseye l nan menm kouz la, l ap livre nan pwochen kouz watcher la. T1+T2 konplè pou Short Atibonit la.
