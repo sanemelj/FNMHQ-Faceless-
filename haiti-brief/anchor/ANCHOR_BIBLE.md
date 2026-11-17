@@ -73,3 +73,31 @@ Claire ak Marc pale anglè ameriken, men **non fransè ak kreyòl yo pwononse an
 
 ## Avatar yo ouvri chak videyo (Sam, 16 nov)
 - Premye klip chak long-form (ak chak Short avatar) = Claire ak/oswa Marc **sou ekran**, k ap bay nouvèl la, nan premye segonn yo. Se klip sa ki pi enpòtan: li dwe pafè (cheve Claire mare, kat san tèks, menm estidyo twoshot la). Si jeneratè a refize l, ekri `BEZWEN CLAUDE:` touswit — pa gen videyo ki ouvri san avatar.
+
+## Pwononsyasyon non ayisyen yo (Sam, 17 nov — "li pat di Croix-des-Bouquets byen")
+Kenbe vrè òtograf la nan liy lan; ajoute non ki nan liy lan nan pwomt la kòm **gid separe**: `Pronunciation guide: say "Croix-des-Bouquets" as "krwah-day-boo-KAY".` Si jeneratè a refize ak gid la, retire gid la epi re-eseye. Claude mete gid la nan chak DIALOGUE.md.
+
+| non | di l konsa |
+|---|---|
+| Croix-des-Bouquets | krwah-day-boo-KAY |
+| Village-de-Dieu | vee-LAHZH duh DYUH |
+| Port-au-Prince | port-oh-PRANSS |
+| Pétion-Ville | pay-SYON-veel |
+| Cap-Haïtien | kap-ah-ee-SYEN |
+| Jacmel | zhak-MEL |
+| Kenscoff | ken-SKOFF |
+| Artibonite | ar-tee-boh-NEET |
+| Gros-Morne | groh-MORN |
+| Morne-Robert | morn-roh-BAIR |
+| Gonaïves | go-nah-EEV |
+| Bicentenaire | bee-sahn-teh-NAIR |
+| Santo | SAHN-toh |
+| Moïse / Jovenel | mo-EEZ / zhov-NEL |
+| Martelly | mar-teh-LEE |
+| Fils-Aimé | feess-eh-MAY |
+| Pélissier | pay-lee-SYAY |
+| Christian Sanon | kree-STYAHN sah-NOHN |
+| Badio | bah-DYOH |
+| Izo | EE-zo |
+| Bukele | boo-KEH-leh |
+| Ulloa | oo-YOH-ah |

@@ -4,6 +4,7 @@ Livre anvan **Mèkredi 12:00 PM ET** (pi bonè pi bon — fè yo jodi a si w kap
 **Règ:** Claire ak Marc chita ansanm (Marc agoch, Claire adwat), referans `refs/HaitiBrief_ref_twoshot.jpg` (oswa twoshot L2 la pou pozisyon), rad **L3 (Mèkredi): Claire — blazer ivwa/krèm, top nwa; Marc — kostim gri fonse, chemiz blan, kravat gri ajan**. Cheve Claire mare, **kat dèyè a SAN OKENN TÈKS ni pin**, 1 pran, ≤10 s, ton kalm e serye. Aksan: "Speak in a neutral General American (U.S.) English accent, like a U.S. network evening-news anchor."
 **Liy yo PA nonmen okenn moun, PA di "president", "trial", "arrest", "prison", "death", "killing"** (leson Part 2: jeneratè a refize mo sa yo). Narasyon an ap bay non ak fè yo.
 **Konsèy pwomt:** kòmanse ak "A TV news anchor in a studio reads this short script calmly:". **Si jeneratè a refize:** retire mo ki fè l refize a, re-eseye 2–3 fwa; apre sa `BEZWEN CLAUDE:` ak prompt egzak la.
+**Pwononsyasyon (gid nan pwomt la):** Q4: "Port-au-Prince" = "port-oh-PRANSS". Tablo konplè: ANCHOR_BIBLE.md.
 Fè: DSKOVA `stories/series_jovenel/facts_ep03b.md`.
 
 ## Q1 — CLAIRE · ouvèti (~8 s) · plan mwayen, li gade kamera a
