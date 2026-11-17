@@ -73,3 +73,14 @@ Claude sèvi ak rapò sa a pou l deside sa pou l kenbe ak sa pou l kite.
 **Lannwit:** ant 00:00 ak 05:59 CT, pa reveye Saneme sof pou yon bagay ijan (strike, kont bloke, reklamasyon copyright).
 
 **Priyorite Kai:** Haiti Brief toujou an premye. FNMHQ pran espas lib yo.
+
+## Facebook 1M (Saneme, 17 nov 16:13) — li `FB_1M_PLAN.md`
+Objektif: **1,000,000 vi sou Facebook nan 30 jou** pou Facebook envite paj la nan Content Monetization (jodi a: 418).
+- Facebook gen **7–8 post pa jou** kounye a:
+  - 3 Reels (7 AM, 12 PM, 5 PM);
+  - **3 foto** (9 AM, 2 PM, 8:30 PM);
+  - long-form avatar 7 PM (lendi, mèkredi, vandredi);
+  - **Story** pou chak post.
+- Foto yo nan kat KIT la tankou Reels yo (`Photo_N_Nov_D.jpg`). Poste yo sou **Facebook sèlman**, pa sou YouTube ni TikTok.
+- **BREAKING:** lè yon kat di `BREAKING — POSTE KOUNYA`, poste l touswit. Lè sa a, règ "1 è ant 2 post" la pa aplike pou foto yo.
+- Chak maten 8 AM, nan rapò a, mete **chif Monetize la** (x / 1,000,000) ak yon screenshot.

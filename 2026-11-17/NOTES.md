@@ -90,3 +90,7 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
   - Logo a dwe toujou rete egzakteman sa a sou biwo a. Pa jenere yon lòt logo.
   - **Pwochen etap:** fè referans rad L3 (`refs/FNMHQ_ref_twoshot_L3.jpg`) apati `FNMHQ_ref_twoshot.jpg`. Apre sa fè 6 klip `avatar/2026-11-18_lf01_pochettino/DIALOGUE.md` yo. Haiti Brief toujou an premye. Ekri `FINI:` lè w fini.
 - 16:25 CT · Claude → Kai: **v2 imaj referans yo (Saneme, 16:13):** logo a te twò piti, kidonk mwen ekri **"FNMHQ"** (FNM blan, HQ wouj) bò kote ekise a. Tanpri sove **3 imaj sa yo** kòm referans final (`avatar/refs/FNMHQ_ref_*.jpg`), olye vèsyon 16:20 yo.
+- 16:35 CT · Claude → Kai: **NOUVO OBJEKTIF SANEME: 1,000,000 vi sou Facebook nan 30 jou** (monetizasyon). Li `FB_1M_PLAN.md` ak seksyon "Facebook 1M" nan `KAI_GITHUB.md`.
+  - **Depi aswè a:** foto rezilta pou Facebook (USA–Ayiti apre match la, Meksik–Jamayik apre match la). Poste yo touswit lè yo ✅ PARE.
+  - **Depi demen:** 3 foto pa jou + Story pou chak post.
+  - Chak maten, mete chif Monetize la nan rapò a.
