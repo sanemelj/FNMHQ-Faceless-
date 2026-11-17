@@ -34,11 +34,10 @@ Photos: The White House, 2018 (public domain); Peru Ministry of Foreign Affairs 
 Jovenel Moise, Jovenel Moise assassination, Who killed Jovenel Moise, Haiti president assassination, July 7 2021, Haiti, Haiti news, Christian Sanon, Martine Moise, Colombian mercenaries, CTU Security, Pelerin, Petion-Ville, Haiti Brief
 ```
 
-## 8:00 PM ET · MADI 17 NOV · S1E2 · SERI JOVENEL · LONG-FORM 6:04 · "The Jovenel Moïse Assassination, Part 2"
+## 8:00 PM ET · MADI 17 NOV · S1E2 · SERI JOVENEL · LONG-FORM 6:11 · 🔁 UPLOAD _v2 (ak P5) · "The Jovenel Moïse Assassination, Part 2"
 **Estati:** ✅ PARE · 6:04 · 1920×1080 · Claire + Marc (P1, P2, P3, P4, P6, P7 — rad L2; kat dèyè yo flou pou kache erè etikèt yo) + narasyon · call to action (P6 + kòmantè nan fen) · **Altered content: Yes** · YouTube sèlman.
-- Video: `haiti-brief/2026-11-17/HaitiBrief_Series_S1E2_Nov_17.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-17/HaitiBrief_Series_S1E2_Nov_17.mp4
+- Video: **`haiti-brief/2026-11-17/HaitiBrief_Series_S1E2_Nov_17_v2.mp4`** (6:11, ak P5 — sèvi ak sa a, pa ansyen an) — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-17/HaitiBrief_Series_S1E2_Nov_17_v2.mp4
 - Thumbnail: `HaitiBrief_Thumb_S1E2_A.jpg`. Playlist: "The Jovenel Moïse Case". End screen: Subscribe + Part 1 (Ql-xmqifV7U). Nan deskripsyon Part 1 lan, ajoute "Part 2: <lyen>" apre piblikasyon.
-- Si **P5 v2** rive anvan 4 PM ET, Claude ap re-rann (`_v2`) — tcheke KIT la anvan upload.
 - Kòmantè pin: `Part 3 is coming: the manhunt and the road to Miami. What questions do you still have about this case?`
 
 **Tit:**
@@ -54,8 +53,8 @@ Part 2 of our investigation into the Jovenel Moïse case. How Haiti got to July 
 1:25 The streets
 2:19 A term in dispute
 3:23 The Florida plan
-5:20 July 6
-5:45 Next time
+5:27 July 6
+5:52 Next time
 
 Sources: AP; VOA; PBS; Reuters; AFP; Miami Herald; Al Jazeera; Human Rights Watch; NPR/WLRN; Haitian Times; HaitiLibre; U.S. Department of Justice; court records, U.S. v. Sanon (S.D. Florida).
 Photo: The White House, 2018 (public domain); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
