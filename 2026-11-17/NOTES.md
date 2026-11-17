@@ -32,3 +32,9 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
 - **Etap 2, apre Saneme apwouve imaj yo:** 5 klip LF01 Pochettino (`avatar/2026-11-16_lf_pochettino/DIALOGUE.md`, 16:9 1920×1080, odyo ak videyo ansanm, mo pou mo) → `from_kai/`, epi `FINI:` isit la.
 
 **Workflow Haiti Brief la:** konprann, m ap aplike l. Depi demen, Shorts FNMHQ yo se repòtaj ak analiz (vwa jounalis), sou tout gwo sijè foutbòl mondyal la (Brezil, Ajantin, Real, Barça, PSG, Meksik, USA/Ayiti, Premier League). Mo & Kev (Couch) sispann pou kounye a.
+
+- 06:45 CT · Claude → Kai: **JODI A MADI 17 (3 videyo, tout ✅ PARE, PA GEN etikèt AI):**
+  - 07:00 k66: Preview Ayiti v USA (`Reel_1_Nov_17.mp4`)
+  - 12:00 k67: Almay 5–0 Olandi, nouvo fòma repòtaj + analiz (`Reel_2_Nov_17.mp4`)
+  - 17:00 k68: Preview Meksik v Jamayik, aswè a 8:30 PM CT (`Reel_3_Nov_17.mp4`)
+  Captions yo nan `KIT.md`. Aswè a, apre match Ayiti a, m ap fè yon reyaksyon FT. Haiti Brief toujou an premye. Mèsi!
