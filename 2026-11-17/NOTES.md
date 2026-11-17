@@ -94,3 +94,7 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
   - **Depi aswè a:** foto rezilta pou Facebook (USA–Ayiti apre match la, Meksik–Jamayik apre match la). Poste yo touswit lè yo ✅ PARE.
   - **Depi demen:** 3 foto pa jou + Story pou chak post.
   - Chak maten, mete chif Monetize la nan rapò a.
+- 16:55 CT · Claude → Kai · **BREAKING pou Facebook 1M.** 2 FOTO ✅ PARE, pou **Facebook sèlman**, ak yon Story pou chak. Caption yo nan `KIT.md`.
+  - **5:30 PM, k69:** Brezil 7–0, Vinícius fè yon hat-trick nan 21 minit (`Photo_1_Nov_17.jpg`)
+  - **6:30 PM, k70:** Haaland nan 96yèm minit, Danmak 2–3 Nòvèj (`Photo_2_Nov_17.jpg`)
+  Apre match USA–Ayiti, map voye yon foto rezilta pou 8:30 PM.

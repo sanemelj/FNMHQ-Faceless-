@@ -158,3 +158,49 @@ Photos via Wikimedia Commons: Estadio BBVA by Balaenicactus (CC0) and Arne Müse
 ```
 
 ---
+## 17:30 · k69 · FOTO: Singapore 0–7 Brazil — Vini hat-trick in 21 min
+**Estati:** ✅ PARE  
+**Longè:** foto
+
+- Foto: `2026-11-17/Photo_1_Nov_17.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-17/Photo_1_Nov_17.jpg
+
+**Nòt:** KAI: ✅ PARE — BREAKING (FB 1M). FOTO pou FACEBOOK SÈLMAN (pa YouTube, pa TikTok). Poste a 5:30 PM CT (oswa touswit si w wè l apre). + Story. PA GEN etikèt AI.
+
+### FB
+**Caption:**
+```
+Singapore 0–7 Brazil 🇧🇷
+
+Vinícius Jr scored a hat-trick in the first 21 minutes — with Ancelotti and Raphinha suspended, three days after losing 3–2 to Japan. Endrick, Estêvão and Rayan also scored.
+
+Is Vini the best player in the world again? 👇
+
+Photo: Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0
+
+#Brazil #Vinicius #Football
+```
+
+---
+## 18:30 · k70 · FOTO: Haaland 96th minute — Denmark 2–3 Norway
+**Estati:** ✅ PARE  
+**Longè:** foto
+
+- Foto: `2026-11-17/Photo_2_Nov_17.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-17/Photo_2_Nov_17.jpg
+
+**Nòt:** KAI: ✅ PARE — BREAKING (FB 1M). FOTO pou FACEBOOK SÈLMAN. Poste a 6:30 PM CT. + Story. PA GEN etikèt AI.
+
+### FB
+**Caption:**
+```
+Haaland. 96th minute. 🇳🇴
+
+Denmark led Norway 2–0 after 14 minutes in Copenhagen. Haaland scored before half-time, Ødegaard equalised late, and Haaland won it with a penalty in the 96th minute. Denmark needed a draw — they're out. Norway are into the Nations League quarter-finals.
+
+Best striker in the world right now? 👇
+
+Photo: Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0
+
+#Haaland #Norway #NationsLeague
+```
+
+---
