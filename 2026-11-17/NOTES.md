@@ -19,7 +19,7 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
 - 22:30 CT · Claude → Kai (repons a mesaj Saneme a). **Ou gen rezon: spesifikasyon avatar la pa t rive jwenn ou.** Mwen te mete l nan `avatar/FNMHQ_DESK_BIBLE.md` ak nan nòt Command Center yo, men pa nan dosye NOTES jounen an w ap li a. Se fòt mwen. Men l isit la, konplè:
 
 **TACH AVATAR FNMHQ (apre Haiti Brief, 2 klip/jou maks)**
-- **Etap 1: IMAJ REFERANS SÈLMAN (Flow, imaj gratis, pa kredi videyo).** 3 imaj → `avatar/refs/` (b64.txt OK) epi ekri `REFS:` isit la. Saneme ap apwouve vizaj yo ANVAN nou fè klip.
+- **Etap 1: IMAJ REFERANS SÈLMAN (ak zouti pa w la, menm jan ak Haiti Brief).** 3 imaj → `avatar/refs/` (b64.txt OK) epi ekri `REFS:` isit la. Saneme ap apwouve vizaj yo ANVAN nou fè klip.
   1. `FNMHQ_ref_desk.png`: toude chita ansanm nan biwo estidyo a, 16:9.
   2. `FNMHQ_ref_callum.png`: Callum sèl, plan mwayen.
   3. `FNMHQ_ref_jamie.png`: Jamie sèl, plan mwayen.
@@ -53,8 +53,8 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
 
 - 10:25 CT · Claude → Kai · **DESIZYON SANEME (10:22): SE OU KI FÈ IMAJ AVATAR FNMHQ YO, EPI W KENBE YO.**
   Rezon an: se **menm 2 vizaj yo** nou pral itilize nan chak emisyon. Se sèlman **rad yo** ki chanje chak emisyon.
-  - **Kilè:** jodi a, nan pwochen espas lib ou genyen ant 2 tach Haiti Brief (sa pran apeprè 10 minit, epi imaj Flow yo gratis).
-  - **Kijan:** kreye Callum Pryce ak Jamie Hollis kòm **pèsonaj ou ka reyitilize** nan Flow ("character/asset"), menm jan ak Claire ak Marc pou Haiti Brief. Swiv deskripsyon ki nan seksyon 22:30 ki pi wo a.
+  - **Kilè:** jodi a, nan pwochen espas lib ou genyen ant 2 tach Haiti Brief .
+  - **Kijan:** kreye Callum Pryce ak Jamie Hollis ak pwòp zouti jenerasyon w (imaj + videyo), egzakteman menm jan ou kreye Claire ak Marc pou Haiti Brief. Swiv deskripsyon ki nan seksyon 22:30 ki pi wo a.
   - **Sa pou w mete sou GitHub** nan `avatar/refs/` (`.b64.txt` OK):
     1. `FNMHQ_ref_desk.png`: toude chita ansanm nan estidyo a (16:9).
     2. `FNMHQ_ref_callum.png`: Callum sèl.
@@ -62,3 +62,9 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
     Apre sa, ekri `REFS:` isit la.
   - **Règ rad yo:** vizaj, cheve, bab, linèt ak estidyo a pa janm chanje. Se **sèlman rad yo** ki chanje chak emisyon. Chak DIALOGUE.md ap gen yon liy `RAD:` pou emisyon an. Si pa gen liy `RAD:`, mete rad referans yo (Callum: blazer ble maren ak chemiz blan; Jamie: blazer gri fonse ak chemiz ble pal).
   - **Apre:** Saneme gade imaj yo epi l apwouve vizaj yo. Se lè sa a sèlman ou fè 5 klip LF01 yo.
+
+- 10:40 CT · Claude → Kai · **KORIKSYON (Saneme):** pa gen Flow. Se ou ki jenere imaj yo ak klip yo ak pwòp zouti w, **egzakteman jan w fè Haiti Brief**. Mwen mete FNMHQ sou menm modèl la, menm estrikti dosye:
+  - `avatar/MESSAGE_FOR_KAI.md`: lòd yo, youn apre lòt (li li an premye)
+  - `avatar/FNMHQ_DESK_BIBLE.md` (= ANCHOR_BIBLE) · `avatar/WARDROBE.md` (L1–L6 pa jou, tankou Claire ak Marc)
+  - `avatar/refs/`: `FNMHQ_ref_twoshot.jpg` an premye, apre sa `FNMHQ_ref_twoshot_L3.jpg`
+  - `avatar/2026-11-18_lf01_pochettino/`: DIALOGUE.md (6 klip ≤10 s, rad L3), NOTES.md, `from_kai/` (.b64.txt + README QC). Ansyen dosye `2026-11-16_lf_pochettino` la ANILE.

@@ -68,7 +68,7 @@ followers per 1,000 views. Keep the winner as the main format.
 
 
 ## Wardrobe rule (Sam, 17 Nov 10:22)
-- Kai makes and STORES Callum and Jamie as reusable characters (Flow assets). The same faces are used on every show.
+- Kai generates Callum, Jamie, the studio AND the clips with his own generation tool (images + video with audio), exactly like Claire and Marc for Haiti Brief, and stores the references in avatar/refs/. The same faces are used on every show.
 - Face, hair, beard, glasses and studio never change. ONLY the clothes change per show.
-- Each DIALOGUE.md carries a `RAD:` line (wardrobe for that show). No `RAD:` line = reference outfit (Callum: navy blazer + white shirt; Jamie: charcoal blazer + light-blue shirt).
-- Reference images: avatar/refs/FNMHQ_ref_desk.png, FNMHQ_ref_callum.png, FNMHQ_ref_jamie.png (Sam approves before any video credits are spent).
+- Clothes follow avatar/WARDROBE.md (look by day of PUBLICATION, like Haiti Brief). Each DIALOGUE.md names the look.
+- Reference images: avatar/refs/FNMHQ_ref_twoshot.jpg (base, L1) then one two-shot per look (FNMHQ_ref_twoshot_L2.jpg …), plus FNMHQ_ref_callum.jpg / FNMHQ_ref_jamie.jpg. Sam approves the faces before the first clips.
