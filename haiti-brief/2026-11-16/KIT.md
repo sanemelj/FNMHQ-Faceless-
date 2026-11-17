@@ -191,3 +191,29 @@ The European Union just sanctioned four of Haiti's most violent gangs: 5 Segond,
 ```
 
 ---
+
+## 10:00 PM ET · LENDI 16 NOV · hb-S12 · SHORT 0:35 · "El Salvador's Exit Condition" (BREAKING — 1 è apre hb-S11)
+**Estati:** ✅ PARE · 0:35 · 1080×1920 · foto ofisyèl Presidencia El Salvador (CC0) + kat OpenStreetMap + foto Port-au-Prince (CC BY 2.0), pa gen avatar · **Altered content: No** → **Facebook AI label: No**.
+- Video: `haiti-brief/2026-11-16/HaitiBrief_Short_12_Nov_16.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-16/HaitiBrief_Short_12_Nov_16.mp4
+- Related video: hb-L5 (d52bewIY-cI). Kòmantè pin: `Should the Salvadoran troops stay until the four are found? Tell us below.`
+
+**Tit:**
+```
+El Salvador Says When Its Troops Will Leave Haiti #Shorts
+```
+**Deskripsyon:**
+```
+El Salvador's troops will leave Haiti "the day we find our compatriots," Vice President Félix Ulloa said Monday in San Salvador: four Salvadoran soldiers have been missing since an ambush on Oct. 18 in Santo, Croix-des-Bouquets. Ulloa said the mission is not an invasion or an occupation and that El Salvador pays 90% of its cost. Haiti's Justice Minister Patrick Pélissier is in San Salvador this week; Prime Minister Alix Didier Fils-Aimé is preparing talks on extending the deployment.
+Sources: El Diario de Hoy, EFE, DW, Reuters (Nov. 16, 2026).
+Photos: Presidencia de El Salvador (CC0); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
+#Haiti #ElSalvador #Bukele
+```
+**Tags:**
+```
+Haiti, Haiti news, El Salvador, Bukele, Salvadoran troops Haiti, Felix Ulloa, Croix-des-Bouquets, missing soldiers, Fils-Aime, Haiti Brief
+```
+**Facebook (Reel) 10:00 PM ET:**
+```
+El Salvador says its troops leave Haiti only when four missing Salvadoran soldiers are found. No date. "Not an invasion," says VP Félix Ulloa, and El Salvador pays 90% of the cost.
+#Haiti #ElSalvador #Bukele
+```
