@@ -2,4 +2,4 @@
 
 Kai: ranplase "—" ak lyen YouTube la apre ou fin poste.
 
-S1E1 (seri Jovenel) | 8:00 PM ET (Nov 17) | YouTube: — | FB: — (long-form = YouTube sèlman)
+S1E1 (seri Jovenel) | POSTE KOUNYA (Nov 16, ~10:30 PM ET, Sam) | YouTube: — | FB: — (long-form = YouTube sèlman)
