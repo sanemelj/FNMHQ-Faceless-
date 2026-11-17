@@ -72,3 +72,7 @@ followers per 1,000 views. Keep the winner as the main format.
 - Face, hair, beard, glasses and studio never change. ONLY the clothes change per show.
 - Clothes follow avatar/WARDROBE.md (look by day of PUBLICATION, like Haiti Brief). Each DIALOGUE.md names the look.
 - Reference images: avatar/refs/FNMHQ_ref_twoshot.jpg (base, L1) then one two-shot per look (FNMHQ_ref_twoshot_L2.jpg …), plus FNMHQ_ref_callum.jpg / FNMHQ_ref_jamie.jpg. Sam approves the faces before the first clips.
+
+## Approved references (Sam, Nov. 17, 16:09) — LOCKED
+- `refs/FNMHQ_ref_twoshot.jpg`, `refs/FNMHQ_ref_callum.jpg`, `refs/FNMHQ_ref_jamie.jpg` are the approved faces. Kai saves them as permanent references; faces never change again.
+- The desk front carries the REAL FNMHQ crest (shield "FNM HQ · Football News & Memes HQ"), composited by Claude. Never generate another logo; keep this one on every look.

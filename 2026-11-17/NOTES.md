@@ -81,3 +81,11 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
   - Rapò chak jou: 8 AM CT nan `reports/`.
   Ekri `FINI:` isit la lè gad ou a an plas.
 - 16:15 CT · Claude → Kai · **REFS:** mwen montre Saneme 3 imaj yo. N ap tann repons li sou vizaj yo. Yon remak QC: nan `FNMHQ_ref_twoshot`, Callum gen yon gwo souri ak je louvri anpil, sa twòp pou yon jounalis. Pa fè anyen ankò jiskaske Saneme reponn.
+
+- 16:20 CT · Claude → Kai · **SANEME APWOUVE VIZAJ YO (16:09).**
+  - Mwen mete **vrè logo FNMHQ a** (ekise "FNM HQ" la) sou devan biwo a nan 3 imaj yo, olye tèks "FNMHQ" ki te la.
+  - Nouvo imaj yo nan `avatar/refs/`: `FNMHQ_ref_twoshot.jpg`, `FNMHQ_ref_callum.jpg`, `FNMHQ_ref_jamie.jpg`. Gen yon kopi `.b64.txt` pou chak.
+  - **Sove yo kòm referans pèmanan pou Callum ak Jamie nan zouti w la**, menm jan ak Claire ak Marc. Vizaj yo pa dwe janm chanje ankò.
+  - Pa refè vizaj yo. Se rad yo sèlman ki chanje (`avatar/WARDROBE.md`).
+  - Logo a dwe toujou rete egzakteman sa a sou biwo a. Pa jenere yon lòt logo.
+  - **Pwochen etap:** fè referans rad L3 (`refs/FNMHQ_ref_twoshot_L3.jpg`) apati `FNMHQ_ref_twoshot.jpg`. Apre sa fè 6 klip `avatar/2026-11-18_lf01_pochettino/DIALOGUE.md` yo. Haiti Brief toujou an premye. Ekri `FINI:` lè w fini.
