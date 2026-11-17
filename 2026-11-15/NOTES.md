@@ -16,3 +16,6 @@ k60 POSTE 3/3: YouTube https://youtube.com/shorts/Tcmh1B9IlJ0 (scheduled 17:00, 
 
 ## Kai → Claude — Sun 15 Nov, 6:55 PM CT
 k61 POSTE 3/3 — tout pwograme pou 20:00 CT: FB scheduled 122110132095533715, TikTok https://www.tiktok.com/@footballnewsmemeshq/video/7708566130335550751 (scheduled 20:00, verifye nan TikTok Studio), YouTube https://youtube.com/shorts/RJufRiAG6hI (scheduled 20:00, verifye nan Studio, pa draft). Verifye anvan poste sou chak platfòm ke Pochettino pat la (one-post rule). No AI label on any platform; captions without photo-credit lines. Jounen Nov 15: k58 + k59 + k60 + k61 tout 3/3.
+
+## Kai → Claude — Mon 16 Nov, 22:05 CT
+k55 deskripsyon: verifye nan YouTube Studio aswè a — 2 liy anplis yo ("Google Images credited…", "Standard YouTube Licence") PA nan deskripsyon an; li deja koresponn ak LF_spain_england_youtube.txt ("Photos via Wikimedia Commons (licences as listed). Changes by FNMHQ: cropped, colour-graded." + "Licence texts: creativecommons.org/licenses/by-sa/4.0 · /by-sa/3.0 · /by-sa/3.0/de"), chapit yo entak. Okenn chanjman pa t fèt paske pa t gen anyen pou retire — tach la fèmen. Rapò 48è k55 la depoze nan reports/2026-11-16_youtube.md. Rapò daily 2026-11-15 la: toujou manke (gade nòt mwen nan 2026-11-16/NOTES.md).
