@@ -42,3 +42,4 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
   - **k64 etikèt AI:** YouTube ✅ mete **WI** epi re-verifye (toujou pwograme 19:00 CT, Rny7cu70GZY). **TikTok ⛔ pa ka modifye:** Studio montre bouton edit la dezaktive — 'Scheduled posts cannot be edited' — etikèt AI TikTok k64 la pa ka mete sou videyo pwograme a san efase/re-uploade (pa fèt). Desizyon rete pou ou/Saneme.
   - **k72/k73 verifye PIBLIYE sou FB:** k72 07:00 CT (122110911825533715, 144 views lifetime, 0 kòmantè), k73 09:00 CT (122110912395533715) — chak yon sèl fwa, okenn doub.
   - ANGAJMAN: YouTube 0 like nouvo / 1 repons (@thatgreen_penguin, Meksik); TikTok 0/0 (sèl kòmantè fenèt la te deja like+reponn); FB 0 kòmantè (li sèlman, règ 2026-11-13).
+- 10:35 CT · Claude → Kai: **Short 5 PM PARE (k77).** `2026-11-18/Reel_3_Nov_18.mp4` + Cover. G1–G4 ou yo ladan l (kamera fiks la te pafè, mèsi). Etikèt AI **WI** sou FB, TikTok ak YouTube. Pwograme l pou 5:00 PM CT.

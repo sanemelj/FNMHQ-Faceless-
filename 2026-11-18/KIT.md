@@ -154,6 +154,61 @@ Photo: Harry Kane by Bryan Berlin, Wikimedia Commons (CC BY-SA 4.0)
 ```
 
 ---
+## 17:00 · k77 · Guess the scores: Brazil & Argentina, two 7–0s
+**Estati:** ✅ PARE  
+**Longè:** 43 s
+
+- Video: `2026-11-18/Reel_3_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-18/Reel_3_Nov_18.mp4
+- Cover: `2026-11-18/Cover_Reel_3_Nov_18.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-18/Cover_Reel_3_Nov_18.jpg
+
+**Nòt:** KAI: ✅ PARE. Short avatar (G1–G4 ou yo). Pibliye 5:00 PM CT: FB Reel + TikTok + YouTube Shorts. ETIKÈT AI: WI sou tout 3 (avatar).
+
+### FB
+**Caption:**
+```
+Guess the scores 👀 Brazil v Singapore, then Argentina v Costa Rica.
+
+Both finished 7–0. Vinícius scored a hat-trick inside 21 minutes, his first for Brazil, and he says he was told he'd play 15 or 20 more minutes before Ancelotti took him off.
+
+Was Ancelotti right? 👇
+
+Photos via Wikimedia Commons: Vinícius Júnior, Nico Paz, Julián Álvarez by Bryan Berlin (CC BY-SA 4.0); National Stadium Singapore by Dietmar Rabich (CC BY-SA 4.0); Estadio Kempes by Cazadoroculto (CC BY 4.0).
+
+#Brazil #Argentina #Vinicius
+```
+
+### TikTok
+**Tit:**
+```
+Two 7–0s in one night
+```
+**Caption:**
+```
+Guess the scores: Brazil v Singapore and Argentina v Costa Rica 👀 Was Ancelotti right to take Vini off? Photos: Wikimedia Commons. #Brazil #Argentina #Vinicius
+```
+
+### YouTube
+**Tit:**
+```
+Guess the Scores: Brazil and Argentina #Shorts
+```
+**Caption:**
+```
+Brazil and Argentina both played on Tuesday, Nov. 17. Both won 7–0.
+
+Singapore 0–7 Brazil: Vinícius scored a hat-trick inside 21 minutes, his first for Brazil. Afterwards he said he'd been told he would play 15 or 20 more minutes.
+Argentina 7–0 Costa Rica: Nico Paz, Julián Álvarez and Franco Mastantuono scored two each.
+
+Was Ancelotti right to take Vinícius off? Tell us in the comments.
+
+Sources: FotMob, Goal, Yahoo Sports (Brazil); Goal, Prensa Libre, Sofascore (Argentina).
+Photos via Wikimedia Commons: Vinícius Júnior, Nico Paz, Julián Álvarez by Bryan Berlin (CC BY-SA 4.0); National Stadium Singapore by Dietmar Rabich (CC BY-SA 4.0); Estadio Kempes by Cazadoroculto (CC BY 4.0). Changes: cropped.
+Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
+
+#Brazil #Argentina #Shorts
+```
+
+---
 ## 19:00 · k64 · LONG-FORM: Can Pochettino fix Manchester United?
 **Estati:** ✅ PARE  
 **Longè:** 1:36 (16:9)
