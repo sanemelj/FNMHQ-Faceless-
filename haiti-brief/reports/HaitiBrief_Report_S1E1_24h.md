@@ -1,0 +1,6 @@
+# Rapò 24h — S1E1 Seri Jovenel Part 1 (Ql-xmqifV7U)
+
+- Videyo: "The Jovenel Moïse Assassination: What Happened on July 7, 2021 | Part 1" (7:08) — https://www.youtube.com/watch?v=Ql-xmqifV7U — pibliye 16 nov 2026, ~10:30 PM ET, sou @haitibrief ("Haiti Brief | Haiti Reports", verifye nan Studio).
+- Chif yo li nan Studio 18 nov 2026 ~2:41 PM ET ("Since published"): **Vi: 121** (21 telespektatè inik) · **Èdtan gade: 5.9 h** · **AVD: 3:48 (53%)** (kat "Key moments" la montre 3:52 / 54%) · **CTR: 5.7%** (749 enpresyon; funnel Reach la montre 5.9% sou 708 enpresyon thumbnail) · **Abòne: +1** · Likes 3, kòmantè 2, shares 0, likes vs dislikes 100%.
+- Sous trafik (vi / %): Suggested videos 42 (34.7%), Browse features 36 (29.8%), Channel pages 27 (22.3%), YouTube search 10 (8.3%), Direct or unknown 3 (2.5%), Other YouTube features 2 (1.7%), Notifications 1 (0.8%), Playlists 0. Suggested: 81.6% soti nan "Bukele's Troops Take Haiti's Power Company HQ..."; pi gwo tèm rechèch: "haiti news today" (10.0% nan trafik rechèch la).
+- Retansyon (koub disponib; chif yo li sou graf la, Dips/Spikes pa bay timestamps nonmen): 72.5% toujou ap gade a 0:30; desann ~100% → ~70% nan premye minit la, rete ~60–70% nan mitan an, desann a ~45–50% vè 4:30–5:00, ~35% pre fen an, dènye bès a ~25% vè 7:06. Pa gen screenshot (rapò tèks sèlman).
