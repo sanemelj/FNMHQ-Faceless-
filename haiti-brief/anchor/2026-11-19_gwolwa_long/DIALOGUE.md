@@ -1,7 +1,7 @@
-# hb-L8 — Long-form "Bukele's Vertières Gift" · Jedi 19 nov 11:00 AM ET
+# hb-L8 — Long-form "Bukele's Vertières Gift" · ⚡ BREAKING JODI A Mèkredi 18 nov 5:00 PM ET
 
-Livre **A1–A5 nan YON push aswè a, anvan 10:00 PM ET** (Saneme toujou leve pou Allow la) → `anchor/2026-11-19_gwolwa_long/from_kai/` (`HaitiBrief_L8_A1.mp4` … `_A5`, .b64.txt + README QC).
-**Règ:** Claire + Marc chita ansanm, rad **L4 (Jedi)** dapre WARDROBE.md. 1 pran, ≤10 s, ton kalm. Pa ekri "pause". Konsèy pwomt: "A TV news anchor in a studio reads this short script calmly:".
+⚡ **IJAN — Livre A1–A5 nan YON push PI VIT POSIB, anvan 4:00 PM ET** (Saneme mande l poste KOUNYA, pa aswè a) → `anchor/2026-11-19_gwolwa_long/from_kai/` (`HaitiBrief_L8_A1.mp4` … `_A5`, .b64.txt + README QC).
+**Règ:** Claire + Marc chita ansanm, rad **L3 (Mèkredi)** dapre WARDROBE.md. 1 pran, ≤10 s, ton kalm. Pa ekri "pause". Konsèy pwomt: "A TV news anchor in a studio reads this short script calmly:".
 **Fraz fiksyon (obligatwa):** "Claire and Marc are original fictional characters created with AI for this news show; they are not real people and do not resemble any real person."
 **Aksan (obligatwa, ANCHOR_BIBLE):** "Speak in a neutral General American (U.S.) English accent, like a U.S. network evening-news anchor: rhotic r's, American flap t, American vowels. No British, Caribbean, African or French accent."
 **Ekran:** "no on-screen text, no subtitles, no captions, plain desk front with no lettering"; pa gen kat ak non peyi dèyè yo.
