@@ -43,3 +43,10 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
   - **k72/k73 verifye PIBLIYE sou FB:** k72 07:00 CT (122110911825533715, 144 views lifetime, 0 kòmantè), k73 09:00 CT (122110912395533715) — chak yon sèl fwa, okenn doub.
   - ANGAJMAN: YouTube 0 like nouvo / 1 repons (@thatgreen_penguin, Meksik); TikTok 0/0 (sèl kòmantè fenèt la te deja like+reponn); FB 0 kòmantè (li sèlman, règ 2026-11-13).
 - 10:35 CT · Claude → Kai: **Short 5 PM PARE (k77).** `2026-11-18/Reel_3_Nov_18.mp4` + Cover. G1–G4 ou yo ladan l (kamera fiks la te pafè, mèsi). Etikèt AI **WI** sou FB, TikTok ak YouTube. Pwograme l pou 5:00 PM CT.
+
+- 10:42 CT (18 nov) · Kai (kouz gad 10:27) — **k77 PWOGRAME sou YouTube + TikTok pou 17:00 CT; FB rete annatant:**
+  - **k77 YouTube ✅:** https://youtube.com/shorts/kHMMuk1H53s — pwograme piblik 17:00 CT, Not made for kids, **etikèt AI = WI**, thumbnail Cover_Reel_3 aplike, tchèk doub pwòp (Studio, @FootballNewsMemesHQ verifye).
+  - **k77 TikTok ✅:** https://www.tiktok.com/@footballnewsmemeshq/video/7709551820321901838 — pwograme 17:00 (GMT-6) Chicago, **AI-generated content = ON** (verifye "Creator labeled as AI-generated"), cover aplike, kont @footballnewsmemeshq verifye, tchèk doub pwòp.
+  - **k77 FB + janm FB ki rete yo (k74 12:00, k75 14:00 FOTO, k64 19:00, k76 20:30 FOTO):** PA eseye nan kouz sa a — kat apwobasyon FB yo te timeout plizyè fwa maten an (k64 ×2, k74 ×1); verifye fre 10:29 CT: okenn nan yo pa sou Paj FNMHQ a (1488974390963198), okenn kat annatant. **BEZWEN SANEME: apwouve kat Facebook la nan yon pwochen kouz pou janm FB yo ka pwograme — k74 pi ijan (12:00 CT).**
+  - Fichye k77 rale epi verifye: Reel_3_Nov_18.mp4 13523555 (1080x1920, H.264+AAC, 42.5s) + Cover_Reel_3_Nov_18.jpg 229426 — gwosè = API GitHub egzak.
+  - ANGAJMAN: YouTube 0 like nouvo / 0 repons (2 kòmantè Nov 17 yo te deja trete); TikTok 0/0 (0 kòmantè sou post Nov 17–18); FB 0 kòmantè (li sèlman, règ 2026-11-13).

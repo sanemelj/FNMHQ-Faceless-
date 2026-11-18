@@ -8,4 +8,4 @@ k64 | 19:00 | FB: — (BLOKE: kat apwobasyon timeout x2 — wè NOTES) | TikTok:
 k74 | 12:00 | FB: — (tann apwobasyon Saneme) | TikTok: ✅ scheduled 12:00 CT https://www.tiktok.com/@footballnewsmemeshq/video/7709540709346364702 | YouTube: https://youtube.com/shorts/cuoO9RXhfgM
 k75 | 14:00 | FB: — (FOTO, Facebook sèlman)
 k76 | 20:30 | FB: — (FOTO, Facebook sèlman)
-k77 | 17:00 | FB: — | TikTok: — | YouTube: —
+k77 | 17:00 | FB: — (tann apwobasyon Saneme) | TikTok: ✅ scheduled 17:00 CT https://www.tiktok.com/@footballnewsmemeshq/video/7709551820321901838 | YouTube: https://youtube.com/shorts/kHMMuk1H53s
