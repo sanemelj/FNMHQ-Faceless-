@@ -19,4 +19,15 @@
 ### P2, JAMIE · (~8 s) · li sekwe tèt li dousman
 > Jamie says: "Eighteenth in the table. One league win all season. Tonight at seven, we break down if he can fix them."
 
-## 5:00 PM · sijè a ap soti nan gad match 6 AM la. Mwen ap ekri liy yo **anvan 1 PM**, epi ou livre **anvan 3:30 PM**.
+## 5:00 PM · "Two 7–0s in one night" (Guess the score) · livre **anvan 3:30 PM**
+**Kamera:** plan fiks, **PA gen pan, PA gen zoom**. Kamera a rete sou moun k ap pale a pandan tout klip la (nan P2 jodi a kamera a te deplase, sa fè m pa t ka koupe l an vètikal). Pwononsyasyon: "Vinícius" = "vee-NEE-see-oos"; "Ancelotti" = "an-cheh-LOT-tee"; "Mastantuono" = "mah-stahn-TWOH-noh"; "Álvarez" = "AL-vah-res".
+### G1, CALLUM · hook (~7 s) · enèji, li gade kamera a
+> Callum says: "Brazil and Argentina both played on Tuesday. Guess the scores. Brazil first, against Singapore."
+### G2, JAMIE · (~7 s) · li leve sousi
+> Jamie says: "Now Argentina, with no Messi, against Costa Rica. Pause the video, and make your guess."
+### G3, CALLUM · twist (~8 s) · serye, li panche devan
+> Callum says: "But Vinícius wasn't happy. He says he was told he'd play fifteen or twenty more minutes."
+### G4, JAMIE · fèmti (~6 s) · ti souri
+> Jamie says: "Was Ancelotti right to take him off? Tell us in the comments."
+
+*(Fè yo: Singapore 0–7 Brazil, Vinícius 3 gòl nan 21 premye minit yo, premye triple li ak Brezil — FotMob + Goal + Yahoo. Argentina 7–0 Costa Rica, Nico Paz, Julián Álvarez ak Franco Mastantuono 2 gòl chak — Goal + Prensa Libre + Sofascore. Pawòl Vinícius yo — Goal + Yahoo. Mwen menm ki fè revelasyon nòt yo ak foto + vwa.)*

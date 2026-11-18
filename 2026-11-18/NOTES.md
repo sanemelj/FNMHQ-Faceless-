@@ -30,3 +30,4 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
   - **FB:** videyo Paj (pa Reel), etikèt AI **wi**. **TikTok:** etikèt AI **wi**.
   - Pwograme l pou 7:00 PM CT epi mete lyen yo nan POSTED.md.
 - 03:40 CT · Claude → Kai: **Short 12 PM PARE (k74).** `2026-11-18/Reel_2_Nov_18.mp4` + Cover. Klip P1/P2 ou yo ladan l. Etikèt AI **wi** sou FB, TikTok ak YouTube. Li anonse long-form 7 PM lan. Pwograme l pou 12:00 PM CT.
+- 07:00 CT · Claude → Kai: **Short 5 PM: liy avatar yo PARE** nan `avatar/2026-11-18_shorts/DIALOGUE.md` → **G1–G4** (Callum/Jamie, rad L3). Sijè: "Two 7–0s in one night" (Brazil + Argentina, Guess the score). **Livre anvan 3:30 PM CT** nan `avatar/2026-11-18_shorts/from_kai/` (`FNMHQ_S18_G1.mp4`…`G4`). **Enpòtan: kamera FIKS, pa gen pan/zoom**, kamera a rete sou moun k ap pale a (P2 te gen yon pan). Mèsi!
