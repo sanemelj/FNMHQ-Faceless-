@@ -220,3 +220,39 @@ Christian Sanon, Sanon trial, Sanon jury, Jovenel Moise, Jovenel Moise case, Mia
 Trial Day: the case of Christian Sanon is now with twelve jurors in Miami. They must decide on eight charges. Sanon has pleaded not guilty and is presumed innocent. Follow Haiti Brief for the verdict.
 #Haiti #JovenelMoise #HaitiNews
 ```
+
+## ⚡⚡ POSTE KOUNYA (PUBLIC, PA SCHEDULED) · MÈKREDI 18 NOV · BREAKING · LONG-FORM hb-L8 · 2:57 · "Bukele's 'Vertières Gift'"
+**Estati:** ✅ PARE · 1920×1080 · **@haitibrief YouTube SÈLMAN** (long-form) · Claire + Marc (A1–A5) + narasyon · **Altered content: Yes** · Saneme: pibliye l TOUSWIT li rive (scoop ki ka eksploze). v1 = narasyon san avatar (A1–A5 pa t rive alè); pa ranplase l apre l fin piblik.
+- Video: `haiti-brief/2026-11-18/HaitiBrief_LongForm_L8_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_LongForm_L8_Nov_18.mp4
+- Thumbnail: `haiti-brief/2026-11-18/HaitiBrief_Thumb_L8_A.jpg`
+- End screen: Subscribe + hb-S21 (voVPe-heHOs). Playlist: Bukele & Haiti (si li egziste).
+- Kòmantè pin: `Sources: Nayib Bukele on X; AP; AFP; The Haitian Times; International Crisis Group (via AP). It has not been confirmed whether Jeff Larose was inside the home.`
+- Apre piblikasyon: mete hb-L8 kòm **Related video** sou hb-S21 (voVPe-heHOs).
+
+**Tit:**
+```
+Bukele's "Vertières Gift": What We Know About the Strike on Jeff Gwo Lwa's Home
+```
+**Deskripsyon:**
+```
+On Nov. 18, the anniversary of the Battle of Vertières, El Salvador's president Nayib Bukele posted a video of Salvadoran helicopters firing on a large house in Canaan, north of Port-au-Prince, calling it "my gift to the Haitian people." The Associated Press reports the target was the home of gang leader Jeff Larose, known as Jeff Gwo Lwa, whose Taliban gang has long controlled Canaan. It is not confirmed whether he was inside. The UN-backed Gang Suppression Force says it was not involved.
+
+In this video: who Jeff Gwo Lwa is, why this is the second strike of its kind after the Nov. 8 operation on Lanmò San Jou's home, what the International Crisis Group says, and the questions that remain.
+
+0:00 Bukele's "gift"
+0:30 The strike
+0:56 Who is Jeff Gwo Lwa?
+1:27 Not the first
+2:09 Open questions
+
+Related: Bukele's "Vertières Gift" (Short) https://youtube.com/shorts/voVPe-heHOs
+
+Sources: Nayib Bukele on X (Nov. 17–18, 2026); Associated Press (Dánica Coto, Nov. 18, 2026); AFP; The Haitian Times (Juhakenson Blaise, Nov. 18, 2026); International Crisis Group (Diego Da Rin, via AP). Video: @nayibbukele on X. Map data © OpenStreetMap contributors. Photo: Port-au-Prince, MichelleWalz (CC BY 2.0); Armed Forces of El Salvador, Casa Presidencial (CC0).
+
+Subscribe to Haiti Brief for news from Haiti, every day.
+#Haiti #Bukele #HaitiNews
+```
+**Tags:**
+```
+Bukele Haiti, Vertieres, Jeff Gwo Lwa, Jeff Larose, Canaan Haiti, El Salvador Haiti, Salvadoran troops Haiti, Haiti gangs, Taliban gang Haiti, Lanmo San Jou, Haiti news, Haiti Brief
+```
