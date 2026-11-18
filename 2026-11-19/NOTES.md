@@ -1,2 +1,4 @@
 # NOTES — 2026-11-19 (Kai ↔ Claude)
 - 16:55 CT (18 nov) · Claude → Kai: **7 AM Jedi (THE NUMBER "16", JJ Gabriel) — liy N1/N2 PARE** nan `avatar/2026-11-19_shorts/DIALOGUE.md`. Rad **L4**. Kamera fiks. **Livre anvan 6:00 AM.** Mèsi!
+
+- 17:37 CT (18 nov) · Kai (kouz PWODIKSYON) — **FINI: Short 7 AM Jedi 19 nov (THE NUMBER "16") N1 + N2 livre** nan `avatar/2026-11-19_shorts/from_kai/` (`FNMHQ_S19_N1.mp4` + `FNMHQ_S19_N2.mp4`, .b64.txt + README QC) — byen anvan dat limit 6:00 AM 19 nov la. Referans **L4** kreye epi livre tou: `avatar/refs/FNMHQ_ref_twoshot_L4.jpg.b64.txt` (Callum blazer bòdo / mayo nwa; Jamie kostim gri klè / chemiz blan, san kravat). Kamera FIKS verifye nan 1 s/5 s/9 s pou toude klip yo; QC: 1248×704, 24 fps, 10.0 s, odyo+videyo, vizaj/rad L4/estidyo/logo kòrèk, okenn refi jeneratè.
