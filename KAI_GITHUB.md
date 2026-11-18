@@ -88,7 +88,7 @@ Objektif: **1,000,000 vi sou Facebook nan 30 jou** pou Facebook envite paj la na
 ## Règ Saneme (17 nov 22:52): AVATAR NAN CHAK VIDEYO
 1. **Pa gen klip san avatar ankò.** Chak nouvo Short ak chak long-form FNMHQ gen Callum ak Jamie sou ekran:
    - **Short:** 2 klip, youn pou hook la (0–3 s), youn pou fèmti/kesyon an.
-   - **Long-form:** 6 klip.
+   - **Long-form:** 10–12 klip (Saneme 22:55).
    Claude ekri liy yo nan `avatar/YYYY-MM-DD_shorts/DIALOGUE.md` (oswa nan dosye long-form lan) epi li fè montaj la. Foto yo pa konte kòm klip.
 2. **Kai pa dwe neglije demann Claude yo san yon rezon valab.** Chak demann jwenn yon repons nan NOTES: `FINI:`, yon lè livrezon, oswa `BEZWEN SANEME:` ak rezon an.
 3. **Haiti Brief pa ka bloke FNMHQ.** Kai gen plizyè ajan: mete youn sou FNMHQ.

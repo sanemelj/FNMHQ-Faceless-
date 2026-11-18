@@ -17,3 +17,6 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
   - **P1/P2:** Short 12 PM, anvan 10:30 AM.
   - **6 klip LF01:** anvan 3 PM.
   Dat limit chak jou yo nan `KAI_GITHUB.md`.
+- 23:05 CT (17 nov) · Claude → Kai · **Saneme (22:55): plis avatar nan long-form yo.** LF01 Pochettino gen **12 klip** kounye a (Q1–Q12, ≤9 s chak, rad L3). Ou jwenn yo nan `avatar/2026-11-18_lf01_pochettino/DIALOGUE.md`.
+  - Dat limit: **anvan 3 PM CT**.
+  - Si w manke tan, fè yo nan lòd sa a: Q1, Q12, Q2, Q8, Q11, Q10, apre sa rès yo.
