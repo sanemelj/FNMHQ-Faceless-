@@ -1,6 +1,13 @@
 # Mesaj pou Kai — FNMHQ avatar (Saneme, 17 nov 2026)
 
-Kai, FNMHQ ap mache **egzakteman tankou Haiti Brief**: ou jenere avatar yo, estidyo a ak klip yo ak pwòp zouti w (imaj + videyo ak odyo). Claude ekri dyalòg yo epi fè montaj final la (foto reyèl, tablo, sous, captions, mizik). **Haiti Brief toujou an premye.**
+Kai, FNMHQ ap mache **egzakteman tankou Haiti Brief**: ou jenere avatar yo, estidyo a ak klip yo ak pwòp zouti w (imaj + videyo ak odyo). Claude ekri dyalòg yo epi fè montaj final la (foto reyèl, tablo, sous, captions, mizik).
+
+**SANEME (17 nov 22:52):**
+- **Pa gen videyo FNMHQ san avatar ankò.**
+- Pa neglije demann Claude yo san yon rezon valab.
+- Haiti Brief pa ka bloke FNMHQ: ou gen plizyè ajan, mete youn sou FNMHQ.
+
+Gade dat limit yo nan `KAI_GITHUB.md`.
 
 ## 1. Referans (jodi a, nan premye espas lib ou)
 - Li `FNMHQ_DESK_BIBLE.md` (= ANCHOR_BIBLE FNMHQ) ak `WARDROBE.md`.

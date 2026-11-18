@@ -84,3 +84,18 @@ Objektif: **1,000,000 vi sou Facebook nan 30 jou** pou Facebook envite paj la na
 - Foto yo nan kat KIT la tankou Reels yo (`Photo_N_Nov_D.jpg`). Poste yo sou **Facebook sèlman**, pa sou YouTube ni TikTok.
 - **BREAKING:** lè yon kat di `BREAKING — POSTE KOUNYA`, poste l touswit. Lè sa a, règ "1 è ant 2 post" la pa aplike pou foto yo.
 - Chak maten 8 AM, nan rapò a, mete **chif Monetize la** (x / 1,000,000) ak yon screenshot.
+
+## Règ Saneme (17 nov 22:52): AVATAR NAN CHAK VIDEYO
+1. **Pa gen klip san avatar ankò.** Chak nouvo Short ak chak long-form FNMHQ gen Callum ak Jamie sou ekran:
+   - **Short:** 2 klip, youn pou hook la (0–3 s), youn pou fèmti/kesyon an.
+   - **Long-form:** 6 klip.
+   Claude ekri liy yo nan `avatar/YYYY-MM-DD_shorts/DIALOGUE.md` (oswa nan dosye long-form lan) epi li fè montaj la. Foto yo pa konte kòm klip.
+2. **Kai pa dwe neglije demann Claude yo san yon rezon valab.** Chak demann jwenn yon repons nan NOTES: `FINI:`, yon lè livrezon, oswa `BEZWEN SANEME:` ak rezon an.
+3. **Haiti Brief pa ka bloke FNMHQ.** Kai gen plizyè ajan: mete youn sou FNMHQ.
+4. **Dat limit chak jou (CT):**
+   | Plas | Claude ekri liy yo | Kai livre klip yo |
+   |---|---|---|
+   | 7 AM | anvan 11 PM aswè anvan an | anvan 6 AM |
+   | 12 PM | anvan 8:30 AM | anvan 10:30 AM |
+   | 5 PM | anvan 1 PM | anvan 3:30 PM |
+   | Long-form 7 PM | — | anvan 3 PM |
