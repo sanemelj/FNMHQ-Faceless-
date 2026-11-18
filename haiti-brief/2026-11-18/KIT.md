@@ -52,3 +52,34 @@ Haiti, Croix-des-Bouquets, Cul-de-Sac, Haiti gangs, reprisals, Bukele, Salvadora
 Haitian media report gangs near Croix-des-Bouquets searched young people's phones for Bukele videos. The toll has not been independently confirmed.
 #Haiti #HaitiNews #Bukele
 ```
+
+## 8:00 PM ET · MÈKREDI 18 NOV · S1E3 · SERI JOVENEL · LONG-FORM 7:24 · "The Jovenel Moïse Assassination, Part 3"
+**Estati:** ✅ PARE · 7:24 · 1920×1080 · Claire + Marc (Q1–Q7, rad L3) + narasyon · **Altered content: Yes** · YouTube sèlman (FB: yon Reel FB-sèlman ap vini apre) · Kont **@haitibrief** sèlman.
+- Video: `haiti-brief/2026-11-18/HaitiBrief_Series_S1E3_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Series_S1E3_Nov_18.mp4
+- Thumbnail: `HaitiBrief_Thumb_S1E3_A.jpg`. Playlist: "The Jovenel Moïse Case". End screen: Subscribe + Part 2 (MOB2PsprOH8). Apre piblikasyon: ajoute "Part 3: <lyen>" nan deskripsyon Part 2.
+- Kòmantè pin: `Part 4 is coming: inside the Miami courtroom. Do you think the answers will come from Miami, or from Haiti?`
+
+**Tit:**
+```
+The Jovenel Moïse Assassination: The Manhunt and Haiti's Own Case | Part 3
+```
+**Deskripsyon:**
+```
+Part 3 of our investigation into the Jovenel Moïse case. After July 7, 2021, the search went from Haiti to Jamaica, the Dominican Republic, Panama and Miami. Five men pleaded guilty in Miami and were sentenced to life. In Haiti, six judges took the case in five years; a 2024 order named about 50 people, all of whom denied any role, before the Court of Appeal threw it out in October 2025. Then, on Sept. 20, 2026, one plane flew Joseph Félix Badio and 17 Colombians to Miami. They are charged in the U.S. and presumed innocent; no plea has been reported. Christian Sanon has pleaded not guilty and his trial is under way.
+
+0:00 Part 3
+0:51 The search
+2:13 Five life sentences
+3:24 Six judges
+4:36 Starting over
+5:51 One plane
+6:47 Next time
+
+Sources: AP; Miami Herald; Reuters; AFP; VOA; CBS News; Al Jazeera; The New York Times (via Scripps News and Le Nouvelliste); Le Nouvelliste; The Haitian Times; HaitiLibre; AyiboPost; Europa Press; CMC; WSVN; U.S. Department of Justice; court records.
+Photos: The White House, 2018 (public domain); Wilkie D. Ferguson Jr. U.S. Courthouse, Miami (public domain); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
+#Haiti #JovenelMoise #HaitiBrief
+```
+**Tags:**
+```
+Jovenel Moise, Jovenel Moise assassination, Christian Sanon, Joseph Felix Badio, Rodolphe Jaar, John Joel Joseph, Colombian mercenaries, Haiti judges, Ariel Henry, Martine Moise, Miami trial, Haiti news, Haiti Brief
+```
