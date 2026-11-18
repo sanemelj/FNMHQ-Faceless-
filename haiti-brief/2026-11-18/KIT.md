@@ -82,17 +82,24 @@ Bukele answered Tuesday's marches on X, in Haitian Creole: "Mwen tande nou byen 
 ```
 
 ## 4:00 PM ET · MÈKREDI 18 NOV · hb-L7 · LONG-FORM ~4:30 · "Haiti–El Salvador deal"
-**Estati:** ⏳ NARASYON + IMAJ PARE — ap tann **A1–A4** (Kai, anvan 1:30 PM ET). M ap mete ✅ PARE + lyen an kou m fin monte l. 1920×1080 · Claire + Marc (A1–A4, rad L3) + narasyon · **Altered content: Yes** · YouTube sèlman · Kont **@haitibrief** sèlman.
-- Thumbnail: `HaitiBrief_Thumb_L7_A.jpg` (ap vini ak videyo a). End screen: Subscribe + hb-L5 (d52bewIY-cI).
+**Estati:** ✅ PARE · 3:36 · 1920×1080 · Claire + Marc (A1–A4, rad L3) + narasyon · **Altered content: Yes** · YouTube sèlman · Kont **@haitibrief** sèlman.
+- Video: `haiti-brief/2026-11-18/HaitiBrief_LongForm_L7_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_LongForm_L7_Nov_18.mp4
+- Thumbnail: `HaitiBrief_Thumb_L7_A.jpg`. End screen: Subscribe + hb-L5 (d52bewIY-cI).
 - Kòmantè pin: `Should the Haiti–El Salvador agreement be made public? Tell us what you think.`
 
 **Tit:**
 ```
 Haiti Approves Its Security Deal With El Salvador. The Text Stays Secret
 ```
-**Deskripsyon:** (chapit yo ap ajoute lè videyo a fini)
+**Deskripsyon:**
 ```
 On Tuesday, Nov. 17, Haiti's Council of Ministers approved a cooperation agreement with El Salvador, whose troops have been fighting gangs in Haiti since October. The Haitian government called it "a new stage" in relations between the two countries. But the text has not been published: El Salvador's vice president, Félix Ulloa, said it will stay confidential until diplomatic conditions allow. Amnesty International has asked both governments to make it public. Here is what we know, what stays secret, and what to watch next.
+
+0:00 Approved
+0:45 What we know
+1:18 A secret text
+2:03 How long?
+2:50 What to watch
 
 Sources: Haitian government statement via AFP (Nov. 17, 2026); Lambi News / Vant Bèf Info (Nov. 17); AP (Nov. 16–17); Reuters (Nov. 16–17); Prensa Latina, Diario Co Latino, La Noticia SV (Nov. 16); DW (Nov. 16); Amnesty International (Nov. 10); UN News (Nov. 17); Le Nouvelliste. Photos: Presidencia / Casa Presidencial de El Salvador (CC0; file photos taken in El Salvador); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
 #Haiti #ElSalvador #HaitiNews
@@ -103,6 +110,7 @@ Haiti, El Salvador, Haiti El Salvador agreement, Bukele, Salvadoran troops Haiti
 ```
 
 ## 8:00 PM ET · MÈKREDI 18 NOV · S1E3 · SERI JOVENEL · LONG-FORM 7:24 · "The Jovenel Moïse Assassination, Part 3"
+> ⚠️ **RANPLASE FICHYE A (11:10 AM ET):** fichye S1E3 ki pwograme a (DJHJFYQGtAU) gen yon pwoblèm son: vwa a dekale, epi nan dènye minit yo se chapit 3 ou tande ankò. **Nouvo fichye a:** `HaitiBrief_Series_S1E3_Nov_18_v2.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Series_S1E3_Nov_18_v2.mp4 (7:25, menm imaj, menm chapit, menm tit, deskripsyon ak tags). Kai: telechaje v2 a sou @haitibrief, pwograme l pou 8:00 PM ET ak menm metadata yo, thumbnail A, menm playlist ak end screen, Altered: Yes. **Apre sa, efase ansyen DJHJFYQGtAU a** (oswa mete l Private). Mete nouvo lyen an nan POSTED.
 **Estati:** ✅ PARE · 7:24 · 1920×1080 · Claire + Marc (Q1–Q7, rad L3) + narasyon · **Altered content: Yes** · YouTube sèlman (FB: yon Reel FB-sèlman ap vini apre) · Kont **@haitibrief** sèlman.
 - Video: `haiti-brief/2026-11-18/HaitiBrief_Series_S1E3_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Series_S1E3_Nov_18.mp4
 - Thumbnail: `HaitiBrief_Thumb_S1E3_A.jpg`. Playlist: "The Jovenel Moïse Case". End screen: Subscribe + Part 2 (MOB2PsprOH8). Apre piblikasyon: ajoute "Part 3: <lyen>" nan deskripsyon Part 2.
