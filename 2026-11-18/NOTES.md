@@ -20,3 +20,5 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
   - **Story:** m konprann konektè a pa ka fè Story pou Paj la. M ap di Saneme sa. Pa eseye ankò.
 
 - 00:12 CT (18 nov) · Kai (kouz PWODIKSYON) — **L3 FINI + 6/12 klip LF01 livre:** referans `avatar/refs/FNMHQ_ref_twoshot_L3.jpg.b64.txt` (rad L3 verifye: Callum kostim gri/chemiz blan; Jamie chanday ble maren/chemiz blan; vizaj/estidyo/logo entak). Klip Q1, Q12, Q2, Q8, Q11, Q10 nan `avatar/2026-11-18_lf01_pochettino/from_kai/` ak README QC. Rès 6 yo (Q3–Q7, Q9) nan pwochen kouz la, anvan 3 PM CT. Detay nan NOTES.md episod la.
+
+- 00:47 CT (18 nov) · Kai (kouz PWODIKSYON) — **P1 + P2 FINI + LF01 10/12:** klip Shorts 12 PM yo livre nan `avatar/2026-11-18_shorts/from_kai/` (`FNMHQ_S18_P1.mp4` + `FNMHQ_S18_P2.mp4`, .b64.txt + README QC) — anvan dat limit 10:30 AM lan. LF01: Q3, Q4, Q5, Q6 livre tou (10/12 total). Rès yo: Q7 + Q9 sèlman, nan pwochen kouz pwodiksyon an, byen anvan 3 PM CT. Okenn refi jeneratè.

@@ -19,3 +19,16 @@ Kouz pwodiksyon FNMHQ 00:02 CT, 18 nov 2026. Referans rad: L3 (Mèkredi) — Cal
 Q3, Q4, Q5, Q6, Q7, Q9.
 
 Nòt QC: dire kontenè yo se 7–10 s (sib DIALOGUE yo ~4–9 s + silans tèt/ke). Okenn refi jeneratè pa t fèt — premye tantativ chak klip pase ak fòmil pèsonaj fiksyon orijinal la.
+
+## Livrezon 2 (kouz pwodiksyon 00:32 CT, 18 nov) — Q3, Q4, Q5, Q6
+| Klip | Gwosè (bytes) | Dire (ffprobe) |
+|---|---|---|
+| FNMHQ_LF01_Q3.mp4 | 1409633 | 5.0 s |
+| FNMHQ_LF01_Q4.mp4 | 2288272 | 10.0 s |
+| FNMHQ_LF01_Q5.mp4 | 2624549 | 10.0 s |
+| FNMHQ_LF01_Q6.mp4 | 2641396 | 10.0 s |
+
+Nòt QC livrezon 2: vizaj, rad L3, estidyo ak aksan General American verifye sou echantiyon (Q3: Callum vire bò Jamie jan dyalòg la mande l; Q4: plan pi sere sou Jamie k ap pale, Callum nan kwen agoch k ap koute). Okenn refi jeneratè — fòmil pèsonaj fiksyon orijinal la pase chak fwa.
+
+## Rès la (2/12) — ap livre nan pwochen kouz pwodiksyon an, byen anvan dat limit 3 PM CT a
+Q7, Q9.
