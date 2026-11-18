@@ -77,3 +77,72 @@ Photo: Estadio BBVA · Balaenicactus / Wikimedia Commons, CC0
 ```
 
 ---
+## 19:00 · k64 · LONG-FORM: Can Pochettino fix Manchester United?
+**Estati:** ✅ PARE  
+**Longè:** 1:36 (16:9)
+
+- Video 16:9: `2026-11-18/LongForm_Pochettino_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-18/LongForm_Pochettino_Nov_18.mp4
+- Thumbnail YouTube: `2026-11-18/Thumb_LongForm_Pochettino_Nov_18.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-18/Thumb_LongForm_Pochettino_Nov_18.jpg
+
+**Nòt:** KAI: ✅ PARE. PREMYE LONG-FORM avatar (Callum + Jamie, 12 klip ou yo). Pibliye 7:00 PM CT: YouTube (videyo nòmal 16:9, PA Shorts; mete Thumbnail la; chapit yo nan deskripsyon an) + FB (videyo Paj) + TikTok. ETIKÈT AI: WI sou tout 3 platfòm yo (avatar). YouTube: 'Altered or synthetic content' = Yes. Pa poste Story.
+
+### FB
+**Caption:**
+```
+Can Pochettino fix Manchester United? 🔴
+
+United sacked Michael Carrick with the club 18th: 10 games, 8 points, one league win. Pochettino starts today, and his first game is Sunday at Anfield.
+
+Callum and Jamie break down the résumé, and the one thing he has to fix first.
+
+Your verdict? 👇
+
+Photos via Wikimedia Commons: Old Trafford by Lewis Clarke (CC BY-SA 2.0); Anfield by Christine Matthews (CC BY-SA 2.0); Mauricio Pochettino by Bryan Berlin (CC BY-SA 4.0); Michael Carrick by Timmy96 (CC0). Changes: cropped, resized.
+
+#ManUtd #Pochettino #PremierLeague
+```
+
+### TikTok
+**Tit:**
+```
+Can Pochettino fix Man United?
+```
+**Caption:**
+```
+Can Pochettino fix Man United? 18th, one league win, and Anfield on Sunday. Callum & Jamie break it down 🔴 Photos: Wikimedia Commons. #ManUtd #Pochettino #PremierLeague
+```
+
+### YouTube
+**Tit:**
+```
+Can Pochettino Fix Manchester United? | FNMHQ Analysis
+```
+**Caption:**
+```
+Manchester United have sacked Michael Carrick with the club 18th in the Premier League, and named Mauricio Pochettino as head coach. Callum Pryce and Jamie Hollis break down what United are getting, and what he has to fix first.
+
+The facts
+• Carrick was sacked on Thursday, Nov. 12. Pochettino was named a day later.
+• United's league record: 10 games, 8 points (W1 D5 L4).
+• Pochettino's résumé: Southampton; Tottenham 2014–19 (2019 Champions League final); Ligue 1 title with Paris Saint-Germain; Chelsea 2023–24.
+• With the USA: World Cup round of 16 this summer, lost 4–1 to Belgium. His last game was a 2–0 win over Haiti in Cincinnati on Tuesday, Nov. 17.
+• He starts at United on Wednesday, Nov. 18. His first game is Liverpool v Manchester United at Anfield on Sunday, Nov. 22.
+
+Our take (analysis, not fact): United's problem is draws. Turn three of the five into wins and that's six more points.
+
+Can Pochettino fix Manchester United? Tell us in the comments.
+
+Chapters
+0:00 Carrick out, Pochettino in
+0:25 The résumé
+0:57 Day one, then Anfield
+1:13 Our take: what he fixes first
+
+Sources: Al Jazeera, The National (Carrick sacked); Sky Sports, ESPN (Pochettino appointment, start date); Concacaf, ESPN (USA v Haiti); ABC and Michigan Public (World Cup round of 16).
+Photos via Wikimedia Commons: Old Trafford by Lewis Clarke (CC BY-SA 2.0); Anfield by Christine Matthews (CC BY-SA 2.0); Mauricio Pochettino by Bryan Berlin (CC BY-SA 4.0); Michael Carrick by Timmy96 (CC0). Changes: cropped, resized.
+Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
+
+#ManUtd #Pochettino #PremierLeague
+```
+
+---

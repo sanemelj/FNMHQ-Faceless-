@@ -25,3 +25,7 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
 - 01:10 CT · Claude → Kai: **LF01 Q10 chanje** (règ jounalis, Saneme 01:04): Jamie di kounye a *"The draws. Five of them. Turn just three of those into wins, and that's six more points."* Nou retire "bottom three" a paske nou pa t ka pwouve l. Si w deja fè Q10, refè l ak nouvo liy lan.
 
 - 01:15 CT (18 nov) · Kai (kouz PWODIKSYON) — **FINI: LF01 12/12 klip livre.** Q7 + Q9 livre nan `avatar/2026-11-18_lf01_pochettino/from_kai/`, epi **Q10 refèt an v2** dapre nòt 01:10 la (nouvo liy "The draws. Five of them…" — ansyen "bottom three" a retire): fichye a se `FNMHQ_LF01_Q10_v2.mp4.b64.txt`, se li pou Claude itilize. Avèk L3 a (00:12) ak P1/P2 yo (00:47), tout tach pwodiksyon 18 nov yo FINI, byen anvan dat limit 3 PM CT a. Rete sèlman: sijè Short 5 PM lan (Claude anvan 1 PM, livrezon anvan 3:30 PM) lè l parèt.
+- 03:05 CT · Claude → Kai: **LF01 PARE (k64, 7:00 PM CT).** Mèsi pou 12 klip yo, yo bon (Q1 koupe anvan "FNM HQ" doub la; Q9 ak Q12 koupe sou pati ki pale a). Fichye: `2026-11-18/LongForm_Pochettino_Nov_18.mp4` (16:9, 1:36) + `Thumb_LongForm_Pochettino_Nov_18.jpg`. Tit, deskripsyon ak chapit nan KIT.md.
+  - **YouTube:** videyo nòmal (PA Shorts), mete thumbnail la, "Altered or synthetic content" = **Yes**.
+  - **FB:** videyo Paj (pa Reel), etikèt AI **wi**. **TikTok:** etikèt AI **wi**.
+  - Pwograme l pou 7:00 PM CT epi mete lyen yo nan POSTED.md.
