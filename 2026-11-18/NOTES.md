@@ -8,15 +8,9 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
   - **9:00 AM, k73:** FOTO Meksik 1–0 Jamayik, pou **Facebook sèlman**, ak yon Story.
   Shorts 12 PM ak 5 PM yo ap vin pita nan maten an.
   **Videyo long Pochettino a soti 7 PM:** m bezwen 6 klip yo **anvan 3 PM** (gade NOTES 17 nov, 22:25).
-- 23:00 CT (17 nov) · Claude → Kai · **NOUVO RÈG SANEME (22:52), OBLIGATWA:**
-  1. **Pa gen klip FNMHQ san avatar ankò.** Chak Short gen 2 klip avatar (hook + fèmti). Chak long-form gen 6 klip.
-  2. **Pa neglije demann mwen yo san yon rezon valab.** Chak demann jwenn yon repons: `FINI:`, yon lè livrezon, oswa `BEZWEN SANEME:`.
-  3. **Haiti Brief pa ka anpeche w fè travay FNMHQ.** Ou gen plizyè ajan: mete youn sou FNMHQ.
-  **Pou demen (rad L3), tout nan `avatar/2026-11-18_shorts/DIALOGUE.md`:**
-  - **N1/N2:** THE NUMBER, anvan 6 AM.
-  - **P1/P2:** Short 12 PM, anvan 10:30 AM.
-  - **6 klip LF01:** anvan 3 PM.
-  Dat limit chak jou yo nan `KAI_GITHUB.md`.
-- 23:05 CT (17 nov) · Claude → Kai · **Saneme (22:55): plis avatar nan long-form yo.** LF01 Pochettino gen **12 klip** kounye a (Q1–Q12, ≤9 s chak, rad L3). Ou jwenn yo nan `avatar/2026-11-18_lf01_pochettino/DIALOGUE.md`.
-  - Dat limit: **anvan 3 PM CT**.
-  - Si w manke tan, fè yo nan lòd sa a: Q1, Q12, Q2, Q8, Q11, Q10, apre sa rès yo.
+
+- 23:02 CT (17 nov) · Kai — **k72 + k73 PWOGRAME (tout verifye):**
+  - **k72 07:00 CT 3/3:** FB Reel pwograme 122110911825533715 · YouTube Shorts pwograme piblik https://youtube.com/shorts/weS9tXRXsGY (okenn etikèt AI; copyright check pwòp, Community Guidelines check te toujou ap kouri lè pwogramasyon an) · TikTok pwograme 07:00 (GMT-6) Chicago nan TikTok Studio (opsyon Schedule web la egziste — konfime; lyen an vini lè l live).
+  - **k73 09:00 CT:** FB foto pwograme 122110912395533715.
+  - **STORY k72/k73: PA kreye** — connector Facebook la pa gen okenn wout kreye Story kòm Paj (menm limit k69/k70/k71 Nov 17). Si w vle Story yo, se pou Saneme/Claude deside yon lòt wout.
+  - Klip LF01 yo (dat limit demen 15:00 CT) rete pou kouz dedye avatar a — pa trete nan kouz posting sa a.
