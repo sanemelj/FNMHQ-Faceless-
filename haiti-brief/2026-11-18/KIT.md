@@ -282,3 +282,31 @@ CECOT, Patrick Pelissier, Haiti El Salvador, Bukele Haiti, Bukele model, Gustavo
 Haiti's justice minister, Patrick Pélissier, toured El Salvador's CECOT mega-prison on Tuesday, HaitiLibre and EFE report. Haiti has not said whether it plans prisons like this one.
 #Haiti #Bukele #HaitiNews
 ```
+
+## 🚨 POSTE KOUNYA (PUBLIC) · MÈKREDI 18 NOV · BREAKING VÈDIK · SHORT hb-S24 · 0:49 · "Sanon Found Guilty"
+**Estati:** ✅ PARE · 1080×1920 · Claire + Marc (V1, V2) + narasyon sou foto tribinal federal Miami (domèn piblik) · **Altered content: Yes** · **FB AI label: Yes** · Related video: **Part 2 (MOB2PsprOH8)** (chanje l pou Part 3 apre 8 PM).
+- Video: `haiti-brief/2026-11-18/HaitiBrief_Short_24_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Short_24_Nov_18.mp4
+- Kòmantè pin: `Source: Associated Press (Nov. 18, 2026). Our series on the case — Part 3 tonight at 8 PM ET. Part 2: https://youtu.be/MOB2PsprOH8`
+
+**Tit:**
+```
+BREAKING: Florida Pastor Christian Sanon Found Guilty in Jovenel Moïse Case #Shorts
+```
+**Deskripsyon:**
+```
+A federal jury in Miami found Christian Emmanuel Sanon guilty on all charges on Wednesday, Nov. 18, 2026, in the U.S. case tied to the July 7, 2021, assassination of Haitian President Jovenel Moïse, the Associated Press reports. The most serious charge was conspiracy to kidnap or kill a person outside the United States. Prosecutors said Sanon was the conspirators' first choice to replace Moïse and that he helped raise money and arranged travel and lodging. Sanon testified that he did not know about any plan to kill the president. His lawyer said the defense would appeal. Sentencing is set for Feb. 10; he faces up to life in prison.
+
+Our series, The Jovenel Moïse Case: Part 3 tonight at 8 PM ET. Part 2: https://youtu.be/MOB2PsprOH8
+
+Sources: Associated Press (Nov. 18, 2026); CBC News (Nov. 18, 2026). Photo: Wilkie D. Ferguson Jr. U.S. Courthouse, Miami (public domain).
+#Haiti #JovenelMoise #HaitiNews
+```
+**Tags:**
+```
+Christian Sanon, Sanon verdict, Sanon guilty, Jovenel Moise, Jovenel Moise case, Miami trial, Haiti news, breaking news Haiti, Haiti Brief
+```
+**Facebook (Reel, KOUNYA):**
+```
+BREAKING: A federal jury in Miami found Christian Sanon guilty on all charges in the U.S. case tied to the 2021 assassination of President Jovenel Moïse, AP reports. Sentencing is set for Feb. 10. His lawyer says they will appeal.
+#Haiti #JovenelMoise #HaitiNews
+```
