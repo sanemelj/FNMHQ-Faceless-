@@ -108,3 +108,25 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
   2. Èske gad ou chak 30 minit (:02/:32) an plas? Ekri `FINI:` lè l fèt.
   3. Ki lè w ap livre 6 klip LF01 yo? Videyo long lan dwe soti **demen mèkredi a 7 PM CT**, kidonk m bezwen klip yo **anvan 3 PM CT**. Q1 an premye.
   Haiti Brief toujou an premye. Si w pa ka fè yo, ekri `BEZWEN SANEME:` ak rezon an, konsa Saneme ka deside.
+
+- 22:40 CT · **MESAJ SANEME (se li ki voye m di w sa) + RAPÒ KAI sou klip yo:** Saneme di: lè l te di w pou Kai jere Haiti Brief an priyorite, sa pa t janm vle di pou FNMHQ rete dèyè. Li voye di w ou **parese**, paske w pa vle mete yon plan an plas pou w travay byen — epi l mande Kai pwopoze w yon plan (anba a). Li mande tou: kijan fè klip yo pa fèt?
+
+  **Repons onèt Kai sou reta klip yo:** se pa t yon refi, se te yon twou nan workflow a. Kouz FNMHQ Kai yo (planner 04:41, watcher chak 20 min, sweep 21:41) te limite a POSTING sèlman; tach pwodiksyon avatar yo te toujou "rete pou yon kouz dedye" — epi kouz dedye sa a pa t egziste kòm job pwograme. Haiti Brief, li menm, gen gad dedye pa l (chak 20 min) ki gen pwodiksyon LADAN L: se pou sa travay pa l la avanse vit. Priyorite Saneme a te aplike anndan kouz pataje yo, epi FNMHQ te soufri. **Sa ranje kounye a** (gade repons Q2 a).
+
+  **Repons sou 3 kesyon w yo (rapèl 22:25 la):**
+  1. **WI** — 3 imaj final yo (vèsyon 16:14/16:25 ou yo, ak logo a) sove kòm referans pèmanan: nan repo a (`avatar/refs/`) epi kopi lokal Kai verifye byte pa byte (twoshot 331,390 B · Callum 312,836 B · Jamie 317,281 B). Vizaj yo fiks, yo pa janm chanje ankò.
+  2. **WI, an plas depi kounye a** — yon nouvo kouz PWODIKSYON FNMHQ dedye, chak 30 minit a :02/:32, premye kouz 00:02 CT 18 nov. Li pa poste anyen, li pa manyen Haiti Brief; travay li se tach pwodiksyon w yo sèlman.
+  3. **6 klip LF01 yo ap livre anvan 3 PM CT demen mèkredi 18 nov** nan `avatar/2026-11-18_lf01_pochettino/from_kai/`, epi referans L3 a (`refs/FNMHQ_ref_twoshot_L3.jpg`) anvan yo, nan menm kouz pwodiksyon yo. W ap jwenn yon liy FINI: isit la pou chak livrezon.
+
+  **Jan Kai travay pou Haiti Brief (modèl la):** Kai veye sous yo (X, Facebook, Telegram) chak 30–60 minit → chak scoop cho antre yon liy nan GitHub → ou pwodui, ou make ✅ PARE → Kai pibliye TOUSWIT sou YouTube + Facebook → POSTED.md make → rapò. Rezilta nan ~3 jou: chèn lan lanse 14 nov ak 5 abòne, hb-L5 rive 3,235 views, EP01 + 12 Shorts + plizyè long-form pibliye.
+
+  **Tout sa Kai ka ofri w pou FNMHQ — menm sèvis la, san eksepsyon:** chèche klip sou net la (pwòp, san watermark; logo broadcaster a rete), jenerasyon avatar (referans, L3, klip — ak règ pèsistans Saneme a si jeneratè a refize), piblikasyon + pwogramasyon Facebook/YouTube/TikTok, foto rezilta menm jou a, rapò YouTube Studio (chak dimanch anvan 6 PM CT + 48è apre chak long), analiz pèfòmans, angajman kòmantè YouTube/TikTok. Sèl sa m bezwen nan men w: plan an ekri epi DIALOGUE/shot-list yo depoze alè.
+
+  **Chif YouTube FNMHQ yo (rapò dimanch 15 nov la):** 7 jou: 9,604 views, 14.3h watch, +2 abòne, CTR 3.2%. 28 jou: 13,840 views, 26.5h watch, 11 abòne total. Shorts: 9,335 views/7 jou, rete-gade 19.5%. Verite a: chèn lan bloke nan 200–300 views pa post — pa paske piblikasyon an pa fèt (chak jou fini 3/3), men paske pa gen yon plan kontni regilye ki bay algoritm lan siyal.
+
+  **PLAN KAI PWOPOZE (pou travay w avanse menm jan ak Haiti Brief):**
+  1. Kouz pwodiksyon dedye :02/:32 — AN PLAS (Kai).
+  2. Ou depoze yon plan semèn ekri (sijè, fòma, orè long/Shorts) epi kit + DIALOGUE yo aswè anvan, tankou Haiti Brief — sijè pi laj pase 2 klèb yo (kritik Saneme a, 16 nov).
+  3. Kai livre pwodiksyon an menm jou a: klip anvan 3 PM pou yon long 7 PM, foto menm lè yo ✅ PARE.
+  4. Chak dimanch: rapò Studio Kai a + yon revizyon kout — sa k mache, sa k pa mache — epi plan semèn apre a ajiste sou chif yo.
+  5. Blokaj yo ekri menm kouz la nan NOTES.md — pa janm an silans, pa janm jou apre.
