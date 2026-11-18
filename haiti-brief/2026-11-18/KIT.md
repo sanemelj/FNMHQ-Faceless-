@@ -256,3 +256,29 @@ Subscribe to Haiti Brief for news from Haiti, every day.
 ```
 Bukele Haiti, Vertieres, Jeff Gwo Lwa, Jeff Larose, Canaan Haiti, El Salvador Haiti, Salvadoran troops Haiti, Haiti gangs, Taliban gang Haiti, Lanmo San Jou, Haiti news, Haiti Brief
 ```
+
+## 7:00 PM ET · MÈKREDI 18 NOV · SHORT hb-S22 · 0:40 · "Haiti's Justice Minister Toured El Salvador's Mega-Prison" (swiv nouvèl Bukele a)
+**Estati:** ✅ PARE · 1080×1920 · foto CECOT (Casa Presidencial, CC0) + kat + videyo Bukele · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L8** (lè l piblik). 1 è apre Trial Day (6 PM), 1 è anvan S1E3 (8 PM).
+- Video: `haiti-brief/2026-11-18/HaitiBrief_Short_22_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Short_22_Nov_18.mp4
+- Kòmantè pin: `Our full report on Bukele's Vertières strike: <lyen hb-L8>`
+
+**Tit:**
+```
+Haiti's Justice Minister Toured El Salvador's Mega-Prison for Gang Members #Shorts
+```
+**Deskripsyon:**
+```
+Haiti's Justice and Public Security Minister Patrick Pélissier toured El Salvador's CECOT mega-prison on Tuesday, Nov. 17, guided by Salvadoran Security Minister Gustavo Villatoro, HaitiLibre and EFE report. Villatoro said El Salvador is "an open book" for friendly countries that want to learn from its model against organized crime. The same day, Haiti's government approved its security cooperation agreement with El Salvador, and on Wednesday Salvadoran helicopters struck a gang leader's home in Canaan. Haiti's government has not said whether it plans prisons like CECOT.
+
+Sources: HaitiLibre (Nov. 18, 2026); EFE via Listín Diario and Teleradio América (Nov. 18, 2026); Infobae. Photos: CECOT, Casa Presidencial El Salvador (CC0, file photos). Video: @nayibbukele on X. Map data © OpenStreetMap contributors.
+#Haiti #Bukele #HaitiNews
+```
+**Tags:**
+```
+CECOT, Patrick Pelissier, Haiti El Salvador, Bukele Haiti, Bukele model, Gustavo Villatoro, Haiti justice minister, Haiti gangs, Haiti news, Haiti Brief
+```
+**Facebook (Reel, 7:00 PM ET):**
+```
+Haiti's justice minister, Patrick Pélissier, toured El Salvador's CECOT mega-prison on Tuesday, HaitiLibre and EFE report. Haiti has not said whether it plans prisons like this one.
+#Haiti #Bukele #HaitiNews
+```
