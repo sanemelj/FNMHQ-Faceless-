@@ -1,122 +1,111 @@
-# FNMHQ Match Watch: Wed 18 Nov 2026, 11:23 AM CT
+# FNMHQ Match Watch — Wed 18 Nov 2026, 4:21 PM CT
 
-*(Copy of `watch/2026-11-18_1123.md`.)*
+*(Copy of `watch/2026-11-18_1621.md`.)*
 
-Window: since the last watch (Wed 18 Nov, 6:16 AM CT), plus the next 72 h (to Sat 21 Nov, ~11 AM CT). It's still the international break, so no club games and no sackings this morning. The news is **awards and team news**, including **two Haiti stories**.
+Window: since the last watch (Wed 18 Nov, 11:23 AM CT) + next 72 h (to Sat 21 Nov ~4 PM CT). Still international break → no men's top-flight club games today. Every fact has 2 sources unless marked **UNCONFIRMED**. All times US Central (CT).
 
-**What changed since 6:16 AM:**
-1. **NEW (Haiti +2): Melchie Dumornay is nominated for Best Women's Player at the 2026 Globe Soccer Awards.** The fan vote is open until Nov 30. **NOT COVERED.**
-2. **NEW (Haiti +2): today is ONE YEAR since Haiti qualified for the World Cup** (Haiti 2–0 Nicaragua, 18 Nov 2025, on Vertières Day). **NOT COVERED.**
-3. **NEW: Lamine Yamal is named LaLiga's Best Player of 2025/26.** Flick is best coach and Barça win 3 of the 5 awards. **NOT COVERED.**
-4. **NEW: Saka is out for Newcastle v Arsenal (Sat).** Zubimendi is a major doubt.
-5. **NEW rumour: Real Madrid are "open to selling" Endrick, with Milan pushing.** Reports only, **UNCONFIRMED**.
-6. Brazil + Argentina 7–0s are now **covered** (k77 at 17:00 today).
-
-Rule: every fact below has 2 sources unless it is marked **UNCONFIRMED**. All times are US Central (CT).
+**What changed since 11:23 AM:**
+1. **NEW (Tier 1 v Tier 1): JJ Gabriel (16) confirms he is leaving Man United — Real Madrid plan to sign him in January.** United threaten legal action. **NOT COVERED.**
+2. **NEW to the watch: Thomas Frank is Crystal Palace manager** (announced Mon 16 Nov, replaces sacked Pierre Sage; Palace bottom). First game **Sat 9:00 AM CT at Coventry**. **NOT COVERED.**
+3. **Chelsea v Leeds kick-off now verified** (Sat 9:00 AM CT, 2 sources). **Man City v Fulham Sat 6:30 AM CT** and **Real Madrid v Celta Sat 2:00 PM CT** added.
+4. Still **NOT COVERED** from the 11:23 watch and **time-critical tonight**: Haiti "one year ago today" (only works on 18 Nov) and the Dumornay vote. Today's KIT (k72–k77, k64) has no Haiti, Yamal or JJ Gabriel item.
 
 ---
 
 ## TOP 5 NOW
 
-### 1. Score 9 (Haiti +2): Melchie Dumornay is up for Best Women's Player at the Globe Soccer Awards (**NOT COVERED**)
-- **Facts (announced Wed 18 Nov):**
-  - The Globe Soccer Awards 2026 shortlists are out. **Melchie Dumornay (Haiti)** is nominated for **Best Women's Player**, alongside Alexia Putellas and Ewa Pajor. Aitana Bonmatí is not nominated (The National says she is injured).
-  - **The fan vote is open until Nov 30** on the official Globe Soccer website, for 12 of the 14 categories. The ceremony is **Dec 28 in Dubai**.
+### 1. Score 9 (Haiti +2) — ONE YEAR AGO TODAY: Haiti qualified for the World Cup (**NOT COVERED — post before midnight**)
+- **Facts:** 18 Nov 2025, Haiti 2–0 Nicaragua (played in Curaçao) → won Group C, first World Cup since 1974. Same day as Vertières Day (battle that led to independence).
+- **Sources:** https://lenouvelliste.com/en/article/261793/haiti-qualifies-for-the-2026-world-cup · https://canadacaribbeaninstitute.org/2025/11/19/haiti-qualifies-for-world-cup-for-first-time-in-52-years-on-bataille-de-vertieres-day/ · (also ESPN https://www.espn.com/soccer/match/_/gameId/754268)
+- **UNCONFIRMED (1 source):** scorers and minutes — check ESPN match page before putting on screen.
+- **Angle:** FB photo / Short "One year ago today 🇭🇹" → "Where were you when Haiti qualified?" End with Dumornay vote CTA (#2). The date is the hook: tomorrow it's dead.
+- **Visual (Commons):** "Haiti national football team", Haitian flag, "Stadion Ergilio Hato".
+
+### 2. Score 9 (Haiti +2) — Melchie Dumornay nominated for Globe Soccer Best Women's Player (**NOT COVERED**)
+- **Facts:** Shortlists out 18 Nov; Dumornay (Haiti) up for Best Women's Player with Putellas and Pajor. Fan vote open **until Nov 30**; ceremony **Dec 28, Dubai**.
 - **Sources:** https://www.thenationalnews.com/sport/football/2026/11/18/ronaldo-messi-and-mbappe-among-nominees-for-globe-soccer-awards-in-dubai/ · https://gulfnews.com/sport/globe-soccer-awards-2026-messi-ronaldo-and-mbappe-among-nominees-for-uae-ceremony-1.500751811
-- **Angle:** a **call to action** for the Haitian audience: **"Haiti has a player in the running for the world's best. Vote before Nov 30."** Comment question: "Can Dumornay beat Putellas?" It works as an FB photo and a Short, and could also go to Haiti Brief.
-- **Visual (Wikimedia Commons):** "Melchie Dumornay", "Haiti women's national football team". Check the licence on every photo.
+- **Angle:** call to action "Haiti has a player in the running for the world's best — vote before Nov 30." Comment Q: "Can Dumornay beat Putellas?" Combine with #1.
+- **Visual:** "Melchie Dumornay" (check licence).
 
-### 2. Score 9 (Haiti +2): One year ago today, Haiti qualified for the World Cup (**NOT COVERED**)
-- **Facts:**
-  - **18 Nov 2025:** Haiti beat **Nicaragua 2–0 in Curaçao** to win Group C and qualify directly for the 2026 World Cup. It was their first World Cup since 1974.
-  - The match fell on **Vertières Day**, the anniversary of the battle that led to Haiti's independence.
-  - What happened at the World Cup: Scotland 1–0 Haiti, Brazil 3–0 Haiti, Morocco 4–2 Haiti. Those 2 goals were Haiti's first World Cup goals in 52 years.
-- **Sources:** https://en.wikipedia.org/wiki/Haiti_national_football_team · https://www.beinsports.com/en-au/football/concacaf-world-cup-qualifiers/articles-video/curacao-haiti-and-panama-qualify-for-world-cup-2025-11-19 · https://www.espn.com/soccer/match/_/gameId/754268 · Vertières: https://www.juno7.ht/eliminatoires-de-la-coupe-du-monde-2026-le-18-novembr/
-- **UNCONFIRMED (1 source, Wikipedia):** the scorers (Louicius 9', Providence 45+1') and the 2026 World Cup scorelines. Check them on ESPN before you put them on screen.
-- **Angle:** **"One year ago today."** Couch, in a proud tone: from the qualification to the World Cup to last night's 8–0 exit. Comment question: **"Where were you when Haiti qualified?"** It must be posted **TODAY** (the date is the hook).
-- **Visual:** "Haiti national football team", "Stadion Ergilio Hato" (the Curaçao stadium), the Haitian flag.
-
-### 3. Score 9: Lamine Yamal is named LaLiga's Best Player of 2025/26 (**NOT COVERED**)
-- **Facts (announced Wed 18 Nov):**
-  - **Lamine Yamal** wins LaLiga's Best Player award for 2025/26.
-  - **Barcelona win 3 of the 5 individual awards.** Hansi Flick is Best Coach and Joan García wins Best Save. Barça won the league with 94 points.
-  - The awards are presented on Dec 28 at the Globe Soccer gala in the UAE.
+### 3. Score 9 — Lamine Yamal named LaLiga Best Player 2025/26; Barça win 3 of 5 awards (**NOT COVERED**)
+- **Facts:** Yamal Best Player; Flick Best Coach; Joan García Best Save. Presented at Globe Soccer gala Dec 28.
 - **Sources:** https://beinsports.com/en-us/soccer/la-liga/articles/lamine-yamal-named-laliga-s-best-player-of-2025-26-as-barcelona-dominate-the-awards-2026-11-18 · https://gulfnews.com/sport/globe-soccer-awards-2026-messi-ronaldo-and-mbappe-among-nominees-for-uae-ceremony-1.500751811
-- **UNCONFIRMED (beIN only):** Yamal's 16 goals + 12 assists, Arda Güler's Best Goal (Real Madrid, against Elche), and Carlos Espí as Best U-23.
-- **Angle:** **Couch.** Mo: "18 and already the best in Spain." Kev: "Barça took 3 of the 5 awards, and Real got the best goal." Comment question: **"Yamal or Mbappé: who's the best in LaLiga right now?"**
+- **UNCONFIRMED (beIN only):** his 16 G + 12 A, Arda Güler best goal, Carlos Espí best U-23.
+- **Angle:** Couch — Mo: "18 and already the best in Spain." Kev: "Barça took 3 of 5." Q: "Yamal or Mbappé — best in LaLiga right now?" Good Thu slot, lead-in to Barça v Villarreal (Sun).
 - **Visual:** "Lamine Yamal", "Hansi Flick", "Spotify Camp Nou".
 
-### 4. Score 7: Saka is out of Newcastle v Arsenal, Saturday 11:30 AM CT
+### 4. Score 8 — NEW: JJ Gabriel (16) confirms Man United exit; Real Madrid move expected in January (**NOT COVERED**)
 - **Facts:**
-  - **Bukayo Saka is out with a quad/thigh injury**, which he picked up in the 2–2 Champions League draw with Bayern. Sports Mole gives a possible return of 2 Dec vs Brentford. Arteta says he will be out for weeks (SI, The False 9).
-  - **Martin Zubimendi is a major doubt** (hamstring, injured on Spain duty against England).
-  - **Max Dowman is suspended** after a red card in the EFL Cup against Fleetwood.
-  - **Newcastle v Arsenal is on Sat 21 Nov, 17:30 UK = 11:30 AM CT**, at St James' Park.
-- **Sources:** https://www.sportsmole.co.uk/football/arsenal/injury-news/injuries-and-suspensions/saka-zubimendi-latest-arsenal-injury-suspension-list-vs-newcastle_609267.html (Nov 18) · https://www.si.com/soccer/matches-bukayo-saka-could-miss-concerning-quad-injury · kick-off: https://dave.sport/news/how-to-watch-newcastle-vs-arsenal/
-- **UNCONFIRMED:** the exact return date (2 Dec). Arteta has not set one.
-- **Angle:** **Who Fits: "Who replaces Saka on the right?"** Show the candidates, then pause. This is Mo's (Arsenal) pain moment.
+  - Gabriel announced on Instagram he is leaving United ("next chapter") — confirmed by Sky and ESPN (17–18 Nov).
+  - Real Madrid intend to register him in **January** (first window he can be registered). He stays registered with United's academy until then (Sky).
+  - United say they will challenge any move "with every legal means possible" if they find evidence of an illegal approach (Sky + ESPN).
+- **Sources:** https://www.skysports.com/football/news/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement · https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid
+- **UNCONFIRMED:** that the Madrid deal is done (only "agreement" reported); his Irish passport route (ESPN only); any fee (none reported).
+- **Angle:** Couch — Mo (United fan pain): "Day one of Poch and the 16-year-old walks out." Kev: "January is the first moment Madrid can register him." Q: **"Is United's academy crisis worse than the first team?"** Rule: minor → stick to football facts only, no personal life.
+- **Visual (Commons):** "Old Trafford", "Santiago Bernabéu Stadium", "Carrington Training Centre". Avoid photos of the 16-year-old unless clearly licensed.
+
+### 5. Score 7 — Saka out for Newcastle v Arsenal (Sat 11:30 AM CT); Zubimendi major doubt
+- **Facts:** Saka quad/thigh injury from 2–2 v Bayern; Arteta says weeks. Zubimendi hamstring doubt. Dowman suspended.
+- **Sources:** https://www.sportsmole.co.uk/football/arsenal/injury-news/injuries-and-suspensions/saka-zubimendi-latest-arsenal-injury-suspension-list-vs-newcastle_609267.html · https://www.si.com/soccer/matches-bukayo-saka-could-miss-concerning-quad-injury
+- **UNCONFIRMED:** return date (2 Dec).
+- **Angle:** **Who Fits: "Who replaces Saka on the right?"** Fri evening preview.
 - **Visual:** "Bukayo Saka", "St James' Park".
 
-### 5. Score 8 (rumour): Real Madrid "open to selling" Endrick, and Milan want him permanently (**UNCONFIRMED: reports only**)
-- **What is being reported (Wed 18 Nov):**
-  - **ESPN Brazil** (via MilanReports) says Real Madrid are open to selling Endrick.
-  - **TNT Sports** (via Goal) says Milan have made an offer and want a permanent deal, not a loan.
-  - Yahoo carries reports of a **€60–70m** price tag.
-  - Endrick has publicly said he hopes to "spend my whole life" at Real.
-- **Sources:** https://www.goal.com/en/news/tnt-sports-milan-have-an-offer-for-endrick-no-loan-cardinale-wants-him-permanently-talks-with-real-madrid-and-the-brazilian-s-representatives/blt96e338facef364a9 · https://milanreports.com/2026/11/18/espn-brazil-real-madrid-are-open-to-selling-endrick-with-milan-having-two-advantages-in-the-race-for-his-signing/ · Endrick's quote: https://sports.yahoo.com/articles/endrick-addresses-real-madrid-future-164900646.html
-- **Rule:** always say **"reports say"**, never "Endrick is leaving". No price on screen as fact.
-- **Angle:** **Debate: "Should Real Madrid sell Endrick?"** He scored for Brazil in the 7–0 last night, which makes a good hook.
-- **Visual:** "Endrick (footballer)", "San Siro", "Santiago Bernabéu Stadium".
-
 ### Also on the radar
-- **Score 8: Globe Soccer men's nominees.** Best Men's Player includes **Kane, Dembélé, Mbappé and Haaland**. **Messi** is nominated for Best Men's Player and Best Forward (Gulf News). **Ronaldo** is up for Best Middle East Player. Sources: The National + Gulf News (above). It's a **"Who wins?" poll** idea, and could be combined with #1.
-- **Score 8: Pochettino's first press conference is reported for Fri 20 Nov**, before Anfield. Sources: Anfield Index via Yahoo (https://sports.yahoo.com/articles/man-united-receive-mauricio-pochettino-075000785.html) and Goal, both citing the Daily Mail. **The time is UNCONFIRMED.** Use his first quotes for a Fri afternoon Short. **No invented quotes.**
-- **Score 8: Wales 2–3 Portugal, Forbs scoring in the new No. 7.** Still **NOT COVERED** (see the 6:16 watch).
-- **Score 7: Barça left-back Balde is wanted by Juventus and PSG**, and Koundé has missed 6 games. That's Mundo Deportivo only (via SB Nation/Yahoo), so it's **UNCONFIRMED**.
-- **Old news, do not use as new:** the FIFPRO World XI (published 9 Nov).
+- **Score 6 — Thomas Frank appointed Crystal Palace manager (NEW, NOT COVERED).** Announced Mon 16 Nov; contract to June 2029; replaces sacked Pierre Sage; Palace bottom of the PL after 10 games. First game: **Coventry v Crystal Palace, Sat 21 Nov 9:00 AM CT.** Sources: https://www.cpfc.co.uk/news/announcement/thomas-frank-appointed-crystal-palace-manager/ · https://www.espn.com/soccer/story/_/id/50462553/thomas-frank-appointed-new-crystal-palace-manager. **UNCONFIRMED:** pay cut (Yahoo only). Angle: "THE NUMBER" or quick Couch: "Sacked by Spurs, back in the PL — at the bottom club." Visual: "Thomas Frank", "Selhurst Park".
+- **Score 8 (rumour) — Real Madrid "open to selling" Endrick, Milan pushing.** UNCONFIRMED (reports only) — see 11:23 watch for links. Always "reports say".
+- **Score 8 — Globe Soccer men's nominees** (Kane, Dembélé, Mbappé, Haaland; Messi Best Player + Best Forward; Ronaldo Best Middle East Player). Sources: The National + Gulf News above. "Who wins?" poll.
+- **Score 8 — Pochettino's first press conference reported Fri 20 Nov** (time UNCONFIRMED). Real quotes only.
+- **Score 6 — Liverpool: Conor Bradley and Giovanni Leoni back in team training** before Man United. **UNCONFIRMED (1 source: https://khelnow.com/football/liverpool-injury-boost-ahead-man-united-premier-league-202611).** Szoboszlai played 90 for Hungary (Sports Mole, 17 Nov) → likely fine.
+- **Score 5 — Women's Champions League tonight:** Chelsea 1–0 PSG, Real Madrid 3–1 Inter, Häcken 0–2 Man City. **UNCONFIRMED (1 source: livesoccertv.com schedule).** Not a priority.
+- **Barça team news:** Koundé back in group training Thu, Olmo expected back for Villarreal, Cubarsí doubt (LiveScore roundup only → UNCONFIRMED). Rumours (Fermín £83m United bid etc.) = gossip, do not use.
 
 ---
 
 ## COMING UP: next 72 h (all CT)
 
-| When (CT) | Match / event | Why it matters | Plan |
+| When (CT) | Match / event | Why | Plan |
 |---|---|---|---|
-| **Wed 18 Nov (today)** | 1 year since Haiti qualified (Vertières Day) | Haiti, core audience | **Post today** (#2) |
-| **Thu 19 Nov** | Pochettino's first training at Carrington | Man United | Watch for photos and club quotes |
-| **Thu 19 Nov, evening** | — | — | **"Guess the Nations League draw" quiz** |
-| **Fri 20 Nov, 5:00 AM** | **UEFA Nations League QF draw, Nyon** | England, France, Germany, Portugal (Pot 1) v Belgium, Netherlands, Spain, Norway (Pot 2) | **Reaction ~6 AM** |
-| **Fri 20 Nov (time UNCONFIRMED)** | **Pochettino's first press conference** | Tier 1 | Short with real quotes only |
-| **Fri 20 Nov, 1:30 PM** | **Bayern v Köln** (Bundesliga) | Kane | Result line / Kane stat |
-| **Sat 21 Nov, 9:00 AM** *(UNCONFIRMED, 1 source)* | Chelsea v Leeds, Stamford Bridge | Chelsea; João Pedro and Caicedo are doubts, Reece James is out until Jan | Optional |
-| **Sat 21 Nov, 11:30 AM** | **Newcastle v Arsenal**, St James' Park | Arsenal without Saka. Mo's team | **Preview Fri night ("Who replaces Saka?"). Full-time reaction Sat** |
-| **Sat 21 Nov, 5:00 PM** | **Inter Miami v Columbus Crew**, MLS playoffs R1 G1 | **Messi** | Preview (k76 photo tonight). **Full-time reaction Sat night** |
-| **Sun 22 Nov, 10:30 AM** *(just outside 72 h)* | **Liverpool v Man United**, Pochettino's debut | Tier 1 v Tier 1 | **"Pick Poch's first XI" Sat. Full-time reaction Sun** |
+| **Wed 18 Nov (tonight)** | 1 year since Haiti qualified | Haiti (core) | **Post tonight** (#1 + #2) |
+| Thu 19 Nov | Pochettino first training, Carrington | Man United | Photos/club quotes only |
+| **Fri 20 Nov, 5:00 AM** | UEFA Nations League QF draw (Nyon) | England, France, Germany, Portugal, Spain | **Reaction ~6 AM** (k75 already teased it) |
+| Fri 20 Nov (time UNCONFIRMED) | Pochettino first press conference | Tier 1 | Short with real quotes |
+| Fri 20 Nov, 1:30 PM | Bayern v Köln | Kane | Result line / Kane stat |
+| **Sat 21 Nov, 6:30 AM** | **Man City v Fulham** | Haaland | Result line; Haaland stat if he scores |
+| **Sat 21 Nov, 9:00 AM** | **Chelsea v Leeds** (now verified) · **Spurs v Ipswich** · **Coventry v Crystal Palace (Frank's debut)** | Chelsea, Spurs | Full-time line; Frank debut result |
+| **Sat 21 Nov, 11:30 AM** | **Newcastle v Arsenal** | Arsenal without Saka (Mo's team) | **Preview Fri night ("Who replaces Saka?") + FT reaction** |
+| **Sat 21 Nov, 2:00 PM** | **Real Madrid v Celta** (Bernabéu) | Real Madrid, Mbappé, Vini | FT reaction (Vini after the hat-trick/sub row) |
+| Sat 21 Nov, 5:00 PM *(just outside 72 h)* | Inter Miami v Columbus, MLS playoffs R1 G1 | **Messi** | FT reaction Sat night |
+| Sun 22 Nov, 7:00 AM *(outside)* | Barcelona v Villarreal | Yamal, Barça | Pair with Yamal award (#3) |
+| Sun 22 Nov, 10:30 AM *(outside)* | **Liverpool v Man United** — Poch debut | Tier 1 v Tier 1 | "Pick Poch's first XI" Sat; FT reaction Sun |
 
 **Fixture sources:**
-- **Newcastle v Arsenal, Sat 21 Nov, 17:30 UK = 11:30 AM CT:** Sports Mole (above) · https://dave.sport/news/how-to-watch-newcastle-vs-arsenal/
-- **Liverpool v Man United, Sun 22 Nov, 16:30 UK = 10:30 AM CT:** https://www.sportsmole.co.uk/football/man-utd/injury-news/news/united-injury-blow-defender-fails-test-and-is-sent-home-in-worry-before-anfield_609076.html · liverpoolfc.com (previous watch)
-- **Chelsea v Leeds, Sat 15:00 UK:** https://www.sportsmole.co.uk/football/chelsea/injury-news/injuries-and-suspensions/caicedo-pedro-lacroix-latest-chelsea-injury-suspension-list-vs-leeds_609269.html (1 source, so UNCONFIRMED)
-- **The NL draw, Bayern v Köln and Inter Miami v Columbus** were verified with 2 sources each in watch `2026-11-18_0616.md`.
+- PL Matchweek 11 (all Sat/Sun times above): https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november (UK times: City–Fulham 12:30, 3 pm games, Newcastle–Arsenal 17:30, Liverpool–United Sun 16:30) · https://sportstalkflorida.com/premier-league/premier-league-matchweek-11-tv-schedule-usa-kickoff-times-streaming-guide-nov-21-23-2026/ (same in ET) · NBC press release confirms Liverpool v United Sun 22 Nov: https://nbcsports.com/pressbox/press-releases/liverpool-host-manchester-united-this-sunday-nov-22-on-usa-network-and-telemundo-headlining-nbc-sports-premier-league-coverage-this-weekend
+- Real Madrid v Celta, Sat 21 Nov 21:00 Madrid = 2:00 PM CT: https://www.laliga.com/en-GB/clubs/real-madrid/next-matches · https://www.realmadrid.com/de-DE/news/fussball/erste-mannshaft/latest-news/el-real-madrid-celta-se-jugara-el-sabado-21-de-noviembre-a-las-21-00-horas-21-10-2026
+- Barcelona v Villarreal Sun 13:00 GMT: https://www.vavel.com/en/data/laliga/fixtures/ (1 source → time UNCONFIRMED)
+- NL draw, Bayern v Köln, Inter Miami v Columbus: verified with 2 sources in `watch/2026-11-18_0616.md`.
 
 ---
 
-## MISSED CHECK (Tier-1 / priority stories from the last 48 h, checked against the 2026-11-16, 17 and 18 KIT.md files + COVERED.md)
+## MISSED CHECK (Tier-1 / priority, last 48 h vs `2026-11-16/17/18 KIT.md` + `COVERED.md`)
 
-| Story | Tier-1 / priority | In KIT? |
+| Story | Tier / priority | In KIT? |
 |---|---|---|
-| **Dumornay nominated for Globe Soccer Best Women's Player (18 Nov)** | Haiti (core, +2) | **NOT COVERED** |
-| **Haiti: 1 year since qualifying (18 Nov)** | Haiti (core, +2) | **NOT COVERED** |
-| **Yamal is LaLiga Best Player 2025/26 (18 Nov)** | Yamal, Barça (Tier 1) | **NOT COVERED** |
-| **Wales 2–3 Portugal, Forbs in the No. 7 (17 Nov)** | Ronaldo (Tier 1) | **NOT COVERED** |
-| Endrick sale reports (18 Nov) | Real Madrid (Tier 1) | NOT COVERED (rumour, so optional) |
-| Brazil 7–0 + Argentina 7–0, Vini's substitution | Brazil, Argentina (Tier 1) | Covered (k77, 17:00 today) |
-| Pochettino at United | Man United (Tier 1) | Covered (k74, k64) |
-| Mexico 1–0 Jamaica / USA v Mexico | Mexico, USA | Covered (k72, k73) |
-| USA 2–0 Haiti (8–0 agg) | Haiti, Pulisic | Partly: k71 is an FB photo only |
-| Denmark 2–3 Norway, Haaland 90+6' | Haaland | Partly: k70 is an FB photo only |
+| Haiti: 1 year since qualifying (18 Nov) | Haiti (+2) | **NOT COVERED** (expires tonight) |
+| Dumornay — Globe Soccer Best Women's Player nominee (18 Nov) | Haiti (+2) | **NOT COVERED** |
+| Yamal LaLiga Best Player 2025/26 (18 Nov) | Yamal, Barça (Tier 1) | **NOT COVERED** |
+| **JJ Gabriel leaves Man United for Real Madrid (17–18 Nov)** | Man United + Real Madrid (Tier 1) | **NOT COVERED** |
+| Wales 2–3 Portugal, Forbs in the No. 7 (17 Nov) | Ronaldo/Portugal (Tier 1) | **NOT COVERED** |
+| Endrick sale reports (18 Nov) | Real Madrid | NOT COVERED (rumour → optional) |
+| Thomas Frank to Crystal Palace (16 Nov) | PL hire (not priority club) | NOT COVERED (optional) |
+| Brazil 7–0 / Argentina 7–0, Vini sub row | Brazil, Argentina | Covered (k77) |
+| Pochettino at United | Man United | Covered (k64, k74) |
+| Mexico 1–0 Jamaica, USA v Mexico semi | Mexico, USA | Covered (k72, k73) |
+| USA 2–0 Haiti (8–0 agg) | Haiti, Pulisic | Partly (k71 FB photo only) |
+| Denmark 2–3 Norway, Haaland 90+6' | Haaland | Partly (k70 FB photo only) |
 
-**Recommendation for the producer (Wed 18 Nov):**
-1. **TODAY: add an FB photo or Short, "One year ago today: Haiti qualified"** (Vertières Day). Ideally tie it to the **Dumornay vote** at the end: "A year ago the men qualified. Now vote for Melchie."
-2. **Thu: "Yamal, LaLiga's best"** (Couch). Pair it with the **Ronaldo No. 7 / Forbs Who Fits** idea, which is still open.
-3. **Fri: draw reaction (6 AM) + Pochettino's first quotes (afternoon) + "Who replaces Saka?" (evening).**
-4. **Sat: "Pick Poch's first XI", Newcastle v Arsenal full-time, Messi playoff full-time.**
+**Recommendation for the producer:**
+1. **Tonight:** FB photo "One year ago today 🇭🇹" + Dumornay vote CTA (one post, both Haiti stories).
+2. **Thu:** Couch "Yamal, LaLiga's best" + Couch "JJ Gabriel walks out on day one of Poch" (both Tier 1, both uncovered).
+3. **Fri:** NL draw reaction 6 AM → Pochettino quotes (afternoon) → "Who replaces Saka?" (evening).
+4. **Sat:** FT lines City (am), Chelsea/Spurs/Frank debut, Newcastle–Arsenal reaction, Real Madrid–Celta, then Messi playoff; "Pick Poch's first XI" for Sunday.
