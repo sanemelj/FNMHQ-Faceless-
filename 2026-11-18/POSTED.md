@@ -9,3 +9,4 @@ k74 | 12:00 | FB: ✅ published 12:53 CT 122111160543533715 https://facebook.com
 k75 | 14:00 | FB: ✅ published 14:00 CT 122111170665533715 (FOTO)
 k76 | 20:30 | FB: ✅ scheduled 20:30 CT 122111172219533715
 k77 | 17:00 | FB: ✅ scheduled 17:00 CT 122111171217533715 | TikTok: ✅ scheduled 17:00 CT https://www.tiktok.com/@footballnewsmemeshq/video/7709551820321901838 | YouTube: https://youtube.com/shorts/kHMMuk1H53s
+k78 | 21:30 | FB: — (FOTO, Facebook sèlman)

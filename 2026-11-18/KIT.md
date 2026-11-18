@@ -301,3 +301,24 @@ Photo: Lionel Messi by Bryan Berlin, Wikimedia Commons (CC BY-SA 4.0)
 ```
 
 ---
+## 21:30 · k78 · FOTO: One year ago today, Haiti qualified for the World Cup
+**Estati:** ✅ PARE  
+**Longè:** foto 1080×1350
+
+- Foto: `2026-11-18/Photo_4_Nov_18.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-18/Photo_4_Nov_18.jpg
+
+**Nòt:** KAI: ✅ PARE. FOTO, Facebook SÈLMAN, 9:30 PM CT (DWE PASE JODI A, anvan minwi). PA gen etikèt AI.
+
+### FB
+**Caption:**
+```
+One year ago today 🇭🇹
+
+On 18 Nov 2025, Haiti beat Nicaragua 2–0 and qualified for the World Cup for the first time since 1974. And it happened on Vertières Day.
+
+Where were you when Haiti qualified? 👇
+
+#Haiti #Grenadiers #WorldCup
+```
+
+---
