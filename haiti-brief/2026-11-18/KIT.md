@@ -81,6 +81,27 @@ Bukele answered Tuesday's marches on X, in Haitian Creole: "Mwen tande nou byen 
 #Haiti #Bukele #HaitiNews
 ```
 
+## 4:00 PM ET · MÈKREDI 18 NOV · hb-L7 · LONG-FORM ~4:30 · "Haiti–El Salvador deal"
+**Estati:** ⏳ NARASYON + IMAJ PARE — ap tann **A1–A4** (Kai, anvan 1:30 PM ET). M ap mete ✅ PARE + lyen an kou m fin monte l. 1920×1080 · Claire + Marc (A1–A4, rad L3) + narasyon · **Altered content: Yes** · YouTube sèlman · Kont **@haitibrief** sèlman.
+- Thumbnail: `HaitiBrief_Thumb_L7_A.jpg` (ap vini ak videyo a). End screen: Subscribe + hb-L5 (d52bewIY-cI).
+- Kòmantè pin: `Should the Haiti–El Salvador agreement be made public? Tell us what you think.`
+
+**Tit:**
+```
+Haiti Approves Its Security Deal With El Salvador. The Text Stays Secret
+```
+**Deskripsyon:** (chapit yo ap ajoute lè videyo a fini)
+```
+On Tuesday, Nov. 17, Haiti's Council of Ministers approved a cooperation agreement with El Salvador, whose troops have been fighting gangs in Haiti since October. The Haitian government called it "a new stage" in relations between the two countries. But the text has not been published: El Salvador's vice president, Félix Ulloa, said it will stay confidential until diplomatic conditions allow. Amnesty International has asked both governments to make it public. Here is what we know, what stays secret, and what to watch next.
+
+Sources: Haitian government statement via AFP (Nov. 17, 2026); Lambi News / Vant Bèf Info (Nov. 17); AP (Nov. 16–17); Reuters (Nov. 16–17); Prensa Latina, Diario Co Latino, La Noticia SV (Nov. 16); DW (Nov. 16); Amnesty International (Nov. 10); UN News (Nov. 17); Le Nouvelliste. Photos: Presidencia / Casa Presidencial de El Salvador (CC0; file photos taken in El Salvador); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
+#Haiti #ElSalvador #HaitiNews
+```
+**Tags:**
+```
+Haiti, El Salvador, Haiti El Salvador agreement, Bukele, Salvadoran troops Haiti, Félix Ulloa, Amnesty International, Gang Suppression Force, Port-au-Prince, Haiti news, Haiti Brief
+```
+
 ## 8:00 PM ET · MÈKREDI 18 NOV · S1E3 · SERI JOVENEL · LONG-FORM 7:24 · "The Jovenel Moïse Assassination, Part 3"
 **Estati:** ✅ PARE · 7:24 · 1920×1080 · Claire + Marc (Q1–Q7, rad L3) + narasyon · **Altered content: Yes** · YouTube sèlman (FB: yon Reel FB-sèlman ap vini apre) · Kont **@haitibrief** sèlman.
 - Video: `haiti-brief/2026-11-18/HaitiBrief_Series_S1E3_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Series_S1E3_Nov_18.mp4
@@ -110,4 +131,29 @@ Photos: The White House, 2018 (public domain); Wilkie D. Ferguson Jr. U.S. Court
 **Tags:**
 ```
 Jovenel Moise, Jovenel Moise assassination, Christian Sanon, Joseph Felix Badio, Rodolphe Jaar, John Joel Joseph, Colombian mercenaries, Haiti judges, Ariel Henry, Martine Moise, Miami trial, Haiti news, Haiti Brief
+```
+
+## 9:00 PM ET · MÈKREDI 18 NOV · hb-S20 · SHORT ~0:35 · "Deal approved, text secret"
+**Estati:** ⏳ ap tann A1/A2 (menm klip ak hb-L7) · 1080×1920 · Claire + Marc + narasyon + kat + foto CC0 · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-L7**. Kont Haiti Brief sèlman sou chak platfòm.
+- Kòmantè pin: `Full story: <lyen hb-L7>`
+
+**Tit:**
+```
+Haiti Approves Its El Salvador Deal, But the Text Stays Secret #Shorts
+```
+**Deskripsyon:**
+```
+Haiti's Council of Ministers approved a cooperation agreement with El Salvador on Tuesday, Nov. 17. El Salvador's vice president, Félix Ulloa, says the text will not be made public for now, and Amnesty International has asked both governments to publish it.
+
+Sources: Haitian government via AFP; Lambi News; AP; Prensa Latina; Amnesty International (Nov. 10–17, 2026). Photos: Presidencia / Casa Presidencial de El Salvador (CC0). Map data © OpenStreetMap contributors.
+#Haiti #ElSalvador #HaitiNews
+```
+**Tags:**
+```
+Haiti, El Salvador, Haiti El Salvador agreement, Félix Ulloa, Bukele, Salvadoran troops Haiti, Haiti news, Haiti Brief
+```
+**Facebook (Reel, 9:00 PM ET, paj Haiti Brief):**
+```
+Haiti approved its cooperation agreement with El Salvador on Tuesday. But the text stays secret, for now. Should it be made public?
+#Haiti #ElSalvador #HaitiNews
 ```
