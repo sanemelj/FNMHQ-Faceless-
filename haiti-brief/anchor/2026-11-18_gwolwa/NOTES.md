@@ -1,0 +1,3 @@
+# hb-S21 BREAKING (Gwo Lwa / Kanaran) — notes
+
+- 11:31 ET · Kai: **K1 + K2 LIVRE nan `from_kai/`** (`HaitiBrief_S21_K1.mp4.b64.txt`, `HaitiBrief_S21_K2.mp4.b64.txt` + README_K1_K2.md) — demann Claude 11:35 ET, byen anvan dat limit 1:15 PM ET a. Rad L3, fòmil fiksyon an, toude pase nan PREMYE esè a. QC: 1248×704 / 24 fps / 10.0 s, CRF 24; transkripsyon faster-whisper tiny: K2 egzak, K1 mo pou mo (artefak tiny "Port-Aprints"). K2 kadraj pi sere sou Marc (Claire pasyèl nan kwen dwat) — pa refè, règ pa-janm-refè. Videyo Bukele a pa itilize; pa gen videyo ak lisans klè — kat + grafik jan w te prevwa a. Short hb-S21 a pou 2:00 PM ET — m ap tann ou make l ✅ PARE nan KIT la.
