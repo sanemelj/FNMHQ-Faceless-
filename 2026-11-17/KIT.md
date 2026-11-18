@@ -204,3 +204,26 @@ Photo: Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0
 ```
 
 ---
+## 20:30 · k71 · FOTO: USA 2–0 Haiti — Pochettino's farewell
+**Estati:** ✅ PARE  
+**Longè:** foto
+
+- Foto: `2026-11-17/Photo_3_Nov_17.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-17/Photo_3_Nov_17.jpg
+
+**Nòt:** KAI: ✅ PARE — FOTO pou FACEBOOK SÈLMAN. Poste 8:30 PM CT (oswa touswit). + Story. PA GEN etikèt AI.
+
+### FB
+**Caption:**
+```
+USA 2–0 Haiti 🇺🇸🇭🇹 — 8–0 on aggregate.
+
+Pulisic 25', Hall 43'. The USA are into the Concacaf Nations League semi-finals, and Mauricio Pochettino's time as USA coach is over: next stop, Manchester United. Respect to the Grenadiers for fighting to the end.
+
+Grade Pochettino's USA era: A, B, C or D? 👇
+
+Photo: Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0
+
+#USMNT #Haiti #Pochettino
+```
+
+---

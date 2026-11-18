@@ -7,3 +7,4 @@ k67 | 12:00 | FB: ✅ scheduled 12:00 CT 122110674243533715 | TikTok: https://ww
 k68 | 17:00 | FB: ✅ scheduled 17:00 CT 122110697577533715 | TikTok: https://www.tiktok.com/@footballnewsmemeshq/video/7709165968320122126 | YouTube: https://youtube.com/shorts/NNXpMtWpYEs
 k69 | 17:30 | FB: ✅ scheduled 17:30 CT 122110803873533715 (FOTO, Facebook sèlman)
 k70 | 18:30 | FB: ✅ scheduled 18:30 CT 122110804077533715 (FOTO, Facebook sèlman)
+k71 | 20:30 | FB: — (FOTO, Facebook sèlman)

@@ -177,5 +177,33 @@
   "readyBy": "17:00",
   "time": "18:30",
   "title": "FOTO: Haaland 96th minute — Denmark 2–3 Norway"
+ },
+ "k71": {
+  "ai": false,
+  "code": "Foto 3 · Nov 17",
+  "day": "2026-11-17",
+  "dl": [
+   {
+    "gh": "2026-11-17/Photo_3_Nov_17.jpg",
+    "id": "b07ad11a1e78b0224e30591f8d9c2f5e",
+    "label": "Foto",
+    "name": "Photo_3_Nov_17.jpg",
+    "url": "https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-17/Photo_3_Nov_17.jpg"
+   }
+  ],
+  "fb": {
+   "caption": "USA 2–0 Haiti 🇺🇸🇭🇹 — 8–0 on aggregate.\n\nPulisic 25', Hall 43'. The USA are into the Concacaf Nations League semi-finals, and Mauricio Pochettino's time as USA coach is over: next stop, Manchester United. Respect to the Grenadiers for fighting to the end.\n\nGrade Pochettino's USA era: A, B, C or D? 👇\n\nPhoto: Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0\n\n#USMNT #Haiti #Pochettino"
+  },
+  "file": "Photo_3_Nov_17.jpg",
+  "files": "Photo_3_Nov_17.jpg",
+  "img": "/_blob/b07ad11a1e78b0224e30591f8d9c2f5e",
+  "kind": "photo",
+  "length": "foto",
+  "note": "KAI: ✅ PARE — FOTO pou FACEBOOK SÈLMAN. Poste 8:30 PM CT (oswa touswit). + Story. PA GEN etikèt AI.",
+  "platforms": "FB",
+  "ready": true,
+  "readyBy": "20:25",
+  "time": "20:30",
+  "title": "FOTO: USA 2–0 Haiti — Pochettino's farewell"
  }
 }
