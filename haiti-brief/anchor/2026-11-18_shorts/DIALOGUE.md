@@ -27,3 +27,13 @@ Rad L3 · fòmil fiksyon an · "no on-screen text, no subtitles, no captions, pl
 > Claire says: "After Tuesday's marches, a message arrived for Haitians, written in Haitian Creole. Here it is."
 ## B2 — MARC (~8 s)
 > Marc says: "What do you think of this message? Tell us in the comments, and subscribe for news from Haiti."
+
+---
+## 🆕 A1/A2 — Short "Gouvènman an apwouve akò Ayiti–Salvadò" (Mèkredi 9:00 PM ET)
+Rad L3 · fòmil fiksyon an: "Claire and Marc are original fictional characters created with AI for this news show; they are not real people and do not resemble any real person." · "no on-screen text, no subtitles, no captions, plain desk front with no lettering" · 1 pran, ≤8 s, kalm · aksan General American · pa ekri "pause".
+**Livrezon:** `from_kai/HaitiBrief_S20_A1.mp4` + `_A2` (.b64.txt), YON push anvan 4 PM ET (ansanm ak TD1/TD2 si w kapab, pou Saneme klike Allow yon sèl fwa).
+**Pwononsyasyon:** "El Salvador" = "el SAL-vuh-dor" · "Port-au-Prince" = "port-oh-PRANSS".
+## A1 — CLAIRE (~7 s)
+> Claire says: "Haiti's government has approved a cooperation agreement with El Salvador. Here is what we know, and what we don't."
+## A2 — MARC (~7 s)
+> Marc says: "The full text has not been made public yet. We'll keep following this story. Subscribe for news from Haiti."
