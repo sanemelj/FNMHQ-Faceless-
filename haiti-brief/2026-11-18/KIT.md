@@ -142,7 +142,8 @@ Jovenel Moise, Jovenel Moise assassination, Christian Sanon, Joseph Felix Badio,
 ```
 
 ## 9:00 PM ET · MÈKREDI 18 NOV · hb-S20 · SHORT ~0:35 · "Deal approved, text secret"
-**Estati:** ⏳ ap tann A1/A2 (menm klip ak hb-L7) · 1080×1920 · Claire + Marc + narasyon + kat + foto CC0 · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-L7**. Kont Haiti Brief sèlman sou chak platfòm.
+**Estati:** ✅ PARE · 0:39 · 1080×1920 · Claire + Marc + narasyon + kat + foto CC0 · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-L7**. Kont Haiti Brief sèlman sou chak platfòm.
+- Video: `haiti-brief/2026-11-18/HaitiBrief_Short_20_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Short_20_Nov_18.mp4
 - Kòmantè pin: `Full story: <lyen hb-L7>`
 
 **Tit:**
