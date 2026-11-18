@@ -19,3 +19,11 @@ Rad L3. YON push anvan 10 PM. "Claire and Marc are original fictional characters
 > Claire says: "Near Port-au-Prince, a Haitian radio station reports reprisals against young people over videos on their phones. Here is what we know."
 ## G2 — MARC (~7 s)
 > Marc says: "Officials have not confirmed these reports. We'll keep following this story. This is Haiti Brief."
+
+---
+## 🆕 B1/B2 — Short "Bukele reponn Ayisyen an kreyòl" (Mèkredi 3 PM) — YON push anvan 11 PM aswè a si posib (sinon anvan 1 PM Mèkredi)
+Rad L3 · fòmil fiksyon an · "no on-screen text, no subtitles, no captions, plain desk front with no lettering" · pa ekri "pause".
+## B1 — CLAIRE (~7 s)
+> Claire says: "After Tuesday's marches, a message arrived for Haitians, written in Haitian Creole. Here it is."
+## B2 — MARC (~8 s)
+> Marc says: "What do you think of this message? Tell us in the comments, and subscribe for news from Haiti."
