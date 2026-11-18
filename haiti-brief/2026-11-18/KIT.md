@@ -53,8 +53,8 @@ Haitian media report gangs near Croix-des-Bouquets searched young people's phone
 #Haiti #HaitiNews #Bukele
 ```
 
-## 2:00 PM ET · MÈKREDI 18 NOV · hb-S21 · BREAKING SHORT 0:46 · "Bukele's Vertières gift"
-**Estati:** ✅ PARE (v2 ak avatar K1/K2) · 0:46 · 1080×1920 · Claire + Marc + narasyon + kat Kanaran + kat sitasyon · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-L5 (d52bewIY-cI)**. Kont Haiti Brief sèlman sou chak platfòm. Si videyo X Bukele a rive anvan 1:40 PM, m ap ranplase fichye a ak yon v3 (menm non) epi m ap ekri sa nan NOTES.
+## 1:00 PM ET · MÈKREDI 18 NOV · hb-S21 · BREAKING — POSTE A 1:00 PM ET · SHORT 0:46 · "Bukele's Vertières gift"
+**Estati:** ✅ PARE (v2 ak avatar K1/K2) · 0:46 · 1080×1920 · Claire + Marc + narasyon + kat Kanaran + kat sitasyon · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-L5 (d52bewIY-cI)**. Kont Haiti Brief sèlman sou chak platfòm. Saneme di poste v2 a 1:00 PM ET (Sometimes Unpopular deja poste menm nouvèl la). Pa gen v3.
 - Video: `haiti-brief/2026-11-18/HaitiBrief_Short_21_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Short_21_Nov_18.mp4
 - Kòmantè pin: `Sources: Nayib Bukele on X; AP; AFP. It is not yet known whether Jeff Larose was at the home.`
 
@@ -73,7 +73,7 @@ Sources: @nayibbukele on X (Nov. 18, 2026); AP; AFP (Nov. 18, 2026). Photo: Casa
 ```
 Haiti, Bukele, Vertières, Jeff Gwo Lwa, Canaan Haiti, Salvadoran troops Haiti, Haiti gangs, Port-au-Prince, Haiti news, Haiti Brief
 ```
-**Facebook (Reel, 2:00 PM ET, paj Haiti Brief):**
+**Facebook (Reel, 1:00 PM ET, paj Haiti Brief):**
 ```
 On Vertières Day, Bukele posted a video of Salvadoran helicopters firing on the home of gang leader Jeff "Gwo Lwa" Larose in Canaan, AP reports. It is not yet known whether he was there.
 #Haiti #Bukele #HaitiNews
