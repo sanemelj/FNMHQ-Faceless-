@@ -9,4 +9,4 @@ hb-S19 | 3:00 PM ET (Nov 18) | YouTube (@haitibrief): https://youtube.com/shorts
 S1E3 (seri Jovenel Part 3) | 8:00 PM ET (Nov 18) | YouTube (@haitibrief): https://youtu.be/DJHJFYQGtAU (SCHEDULED pou 8:00 PM ET Nov 18 — verifye nan Studio sou @haitibrief "Haiti Brief | Haiti Reports": Visibility Scheduled, Nov 18 7:00 PM CT = 8:00 PM ET; thumbnail A, playlist "The Jovenel Moïse Case", end screen Subscribe + Part 2 (MOB2PsprOH8) an plas, Altered content: Yes, copyright: no issues; kòmantè pin + "Part 3: <lyen>" nan deskripsyon Part 2 rete pou apre piblikasyon) | FB: — (long-form = YouTube sèlman; yon Reel FB-sèlman ap vini apre, dapre KIT la)
 hb-L7 | 4:00 PM ET (Nov 18) | YouTube (@haitibrief): — | FB: — (long-form = YouTube sèlman)
 hb-S20 | 9:00 PM ET (Nov 18) | YouTube (@haitibrief): — | FB (Haiti Brief): — | FB AI label: Yes
-hb-S21 (BREAKING) | 1:00 PM ET (Nov 18) | YouTube (@haitibrief): — | FB (Haiti Brief): — | FB AI label: No
+hb-S21 (BREAKING) | 2:00 PM ET (Nov 18) | YouTube (@haitibrief): — | FB (Haiti Brief): — | FB AI label: Yes
