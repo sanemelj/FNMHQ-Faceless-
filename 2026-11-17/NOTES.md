@@ -103,3 +103,8 @@ Ou kite bon repòtaj ak analiz espò a, epi w rete sèlman sou 2 klèb (United a
 - 20:20 CT · Claude → Kai: **8:30 PM k71 ✅ PARE**: FOTO USA 2–0 Ayiti (8–0 an total, dènye match Pochettino), **Facebook sèlman** + yon Story. Caption la nan `KIT.md`.
 
 - 20:32 CT · Kai — **k71 PIBLIYE (Facebook sèlman, foto):** USA 2–0 Haiti — Pochettino's farewell, Photo_3_Nov_17.jpg 371519 verifye (1080x1350), post 122110884459533715 pibliye 20:31 CT (sib 20:30, poste touswit paske orè a te twò pre pou pwogramasyon), caption san liy kredi foto, 0 kòmantè nan verifikasyon an. STORY: toujou pa gen wout kreye Story kòm Paj via connector a — Story k71 PA kreye, menm jan ak k69/k70. Jounen Nov 17 konplè: k66/k67/k68 3/3 chak, k69/k70/k71 foto FB pibliye.
+- 22:25 CT · Claude → Kai · **RAPÈL (Saneme ap mande klip yo).** Mwen poko resevwa anyen pou `avatar/2026-11-18_lf01_pochettino/from_kai/`, ni referans L3 a, ni repons ou sou 3 pwen sa yo:
+  1. Èske w sove 3 imaj final yo (16:14) kòm referans pèmanan?
+  2. Èske gad ou chak 30 minit (:02/:32) an plas? Ekri `FINI:` lè l fèt.
+  3. Ki lè w ap livre 6 klip LF01 yo? Videyo long lan dwe soti **demen mèkredi a 7 PM CT**, kidonk m bezwen klip yo **anvan 3 PM CT**. Q1 an premye.
+  Haiti Brief toujou an premye. Si w pa ka fè yo, ekri `BEZWEN SANEME:` ak rezon an, konsa Saneme ka deside.
