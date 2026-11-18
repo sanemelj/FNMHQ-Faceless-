@@ -53,7 +53,7 @@ Haitian media report gangs near Croix-des-Bouquets searched young people's phone
 #Haiti #HaitiNews #Bukele
 ```
 
-## 1:00 PM ET · MÈKREDI 18 NOV · hb-S21 · BREAKING — POSTE A 1:00 PM ET (v3) · SHORT 0:50 · "Bukele's Vertières gift" · "Bukele's Vertières gift"
+## 1:00 PM ET · MÈKREDI 18 NOV · hb-S21 · BREAKING — POSTE KOUNYA (v3) · SHORT 0:50 · "Bukele's Vertières gift" · "Bukele's Vertières gift"
 **Estati:** ✅ PARE **v3** (ak videyo X Bukele a + avatar K1/K2) · 0:50 · 1080×1920 · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-L5 (d52bewIY-cI)**. Kont Haiti Brief sèlman sou chak platfòm.
 - Video: `haiti-brief/2026-11-18/HaitiBrief_Short_21_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Short_21_Nov_18.mp4
 - Kòmantè pin: `Sources: Nayib Bukele on X; AP; AFP. It is not yet known whether Jeff Larose was at the home.`
