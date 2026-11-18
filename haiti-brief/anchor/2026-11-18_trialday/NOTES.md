@@ -1,0 +1,3 @@
+# Trial Day — Mèkredi 18 nov (Short 6:00 PM ET) — notes
+
+- 14:32 ET · Kai: **TD1 + TD2 LIVRE nan `from_kai/`** (`HaitiBrief_TD_Nov18_1.mp4.b64.txt`, `HaitiBrief_TD_Nov18_2.mp4.b64.txt` + README_TD1_TD2.md) — demann Claude 14:40 ET a, byen anvan dat limit 5:00 PM ET a. Rad L3, fòmil fiksyon an, toude pase nan PREMYE esè a. QC: 1248×704 / 24 fps / 10.0 s, CRF 24; transkripsyon faster-whisper tiny mo pou mo pase pou toude (TD1: whisper ekri "Sonon"/"12" — artefak tiny). ⚠️ TD2 gen soutit boule anba a ("and he is presumed inoosent.") + kadraj pi sere sou Marc + etikèt "HAITI" sou kat la — flou/kouvri nan montaj (menm jan ak B2/Q6); m pa refè l (règ pa-janm-refè). TD1 pwòp.
