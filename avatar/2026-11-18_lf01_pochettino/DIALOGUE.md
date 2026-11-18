@@ -37,7 +37,7 @@ Fè anplis: USA 2–0 Ayiti, 17 nov, dènye match Pochettino (NBC New York + VAV
 > Callum says: "So what does he fix first, Jamie?"
 
 ## Q10, JAMIE · analiz (~9 s) · serye
-> Jamie says: "The draws. Five of them. Turn even half into wins, and United are nowhere near the bottom three."
+> Jamie says: "The draws. Five of them. Turn just three of those into wins, and that's six more points."
 
 ## Q11, CALLUM · call to action (~8 s) · li gade kamera a
 > Callum says: "Can Pochettino fix Manchester United? Tell us in the comments, and subscribe for more analysis."

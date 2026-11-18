@@ -1,6 +1,7 @@
 # Claude — FNMHQ half-hour check protocol (Sam, Nov 17 2026: work 24/7 without Sam, Haiti Brief model)
 
 Every wake (:12 and :42, 6:12 AM–11:42 PM CT):
+NEWSROOM: every script, caption and title follows the newsroom-journalism skill + NEWSROOM_PROFILE.md (2 sources, attribution, no disclaimers/AI tells, labelled opinion); log every post in COVERED.md.
 0. FIRST schedule the next wake (send_later, next :12 or :42; after 23:42 → next day 06:12). Never break the chain.
 1. `git pull --rebase` in /home/claude/fnmhq-repo. Read today's + yesterday's `YYYY-MM-DD/NOTES.md`, `POSTED.md`, `avatar/*/NOTES.md`, new files in `avatar/*/from_kai/` and `avatar/refs/`, `inbox/scoops/`, `reports/`, `watch/LATEST.md`.
 2. Every new `Kai:` line → do the work (QC clips: decode .b64.txt, faster-whisper + frame grid; edit avatar long-forms; answer; fix KIT) and reply in the same NOTES.md: `- HH:MM CT · Claude → Kai: ...` (Haitian Creole). Commit + push.
