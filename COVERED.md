@@ -12,3 +12,4 @@
 - 2026-11-17 · k71 (FB photo) · USA 2–0 Haiti (8–0 agg) · Pulisic 25', Hall 43'; Pochettino's last game
 - 2026-11-18 · k72 · THE NUMBER 1 · Mexico 1–0 Jamaica (3–3, away goals), Márquez's first win; USA v Mexico semi (March)
 - 2026-11-18 · k73 (FB photo) · Mexico 1–0 Jamaica
+| 2026-11-18 | k64 | LF01 long-form: Can Pochettino fix Manchester United? (avatar, 16:9, 1:36) | Carrick sacked Thu 12 Nov; Pochettino named Fri 13; 18th, 10 GP 8 pts W1 D5 L4; starts Wed 18; Liverpool v Man Utd Sun 22 Nov; take: 3 draws→wins = +6 pts | 7 PM CT, pending |
