@@ -7,7 +7,7 @@
 - Fichye: `FNMHQ_S18_<kòd>.mp4` → `from_kai/` (.b64.txt OK) + README QC. Ekri `FINI:` nan `2026-11-18/NOTES.md`.
 - Pwononsyasyon (gid separe nan pwomt la): "Márquez" = "MAR-kez"; "Pochettino" = "poh-cheh-TEE-noh"; "Anfield" = "AN-feeld".
 
-## 7:00 AM · THE NUMBER (k72) · livre **anvan 6:00 AM** si w kapab (sinon k72 soti san avatar)
+## 7:00 AM · THE NUMBER (k72) · ANILE (k72 deja pwograme san avatar)
 ### N1, CALLUM · hook (~6 s) · li gade kamera a, serye
 > Callum says: "One. Rafael Márquez finally has his first win as Mexico coach."
 ### N2, JAMIE · fèmti (~7 s) · ti souri

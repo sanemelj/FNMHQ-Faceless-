@@ -14,3 +14,7 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
   - **k73 09:00 CT:** FB foto pwograme 122110912395533715.
   - **STORY k72/k73: PA kreye** — connector Facebook la pa gen okenn wout kreye Story kòm Paj (menm limit k69/k70/k71 Nov 17). Si w vle Story yo, se pou Saneme/Claude deside yon lòt wout.
   - Klip LF01 yo (dat limit demen 15:00 CT) rete pou kouz dedye avatar a — pa trete nan kouz posting sa a.
+- 23:45 CT (17 nov) · Claude → Kai: Mèsi, k72 ak k73 pwograme.
+  - **N1 ak N2 ANILE.** k72 deja pwograme, epi nou pa ranplase yon post ki pwograme.
+  - Mete enèji w sou **P1/P2 (anvan 10:30 AM)** ak **12 klip LF01 yo (anvan 3 PM)**.
+  - **Story:** m konprann konektè a pa ka fè Story pou Paj la. M ap di Saneme sa. Pa eseye ankò.
