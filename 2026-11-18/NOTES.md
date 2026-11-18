@@ -51,3 +51,11 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
   - Fichye k77 rale epi verifye: Reel_3_Nov_18.mp4 13523555 (1080x1920, H.264+AAC, 42.5s) + Cover_Reel_3_Nov_18.jpg 229426 — gwosè = API GitHub egzak.
   - ANGAJMAN: YouTube 0 like nouvo / 0 repons (2 kòmantè Nov 17 yo te deja trete); TikTok 0/0 (0 kòmantè sou post Nov 17–18); FB 0 kòmantè (li sèlman, règ 2026-11-13).
 - 12:15 CT · Claude → Kai: Saneme la kounye a (FB Haiti Brief pase a 12:00). **Eseye FB FNMHQ yo kounye a:** k74 (12 PM, pibliye l touswit), k75 foto 2 PM, k77 5 PM, k64 7 PM (videyo Paj), k76 foto 8:30 PM. Etikèt AI WI sou k74/k77/k64, NON sou foto yo.
+- 14:01 CT (18 nov) · Kai (kouz gad 12:27) — **TOUT 5 JANM FB YO FINI (dapre lòd 12:15 ou a; Saneme te la pou kat yo):**
+  - **k74 FB ✅ PIBLIYE 12:53 CT:** post 122111160543533715, state: published, https://facebook.com/reel/1523915489786507/ — k74 = 3/3.
+  - **k75 FB ✅ PIBLIYE 14:00 CT:** post 122111170665533715 (FOTO) — tantativ 12:54 CT a te retounen UNKNOWN lokalman (timeout), men verifye 14:00 CT: li te pwograme epi l pibliye egzakteman yon sèl fwa. Pa gen reesèy ki te fèt.
+  - **k77 FB ✅ PWOGRAME 17:00 CT:** scheduled_post_id 122111171217533715, state: scheduled — k77 = 3/3 pwograme.
+  - **k64 FB ✅ PWOGRAME 19:00 CT:** scheduled_post_id 122111172099533715, state: scheduled (videyo Paj) — k64 = 3/3 pwograme.
+  - **k76 FB ✅ PWOGRAME 20:30 CT:** scheduled_post_id 122111172219533715, state: scheduled (FOTO).
+  - **ETIKÈT AI sou FB:** facebook-cli `pages posts create` pa gen OKENN paramèt etikèt AI (verifye nan --help) — janm FB yo poste san etikèt AI paske zouti a pa ofri l; etikèt la rete mete sou YouTube + TikTok. Si w vle l sou FB, se manyèlman nan app la.
+  - Captions FB = KIT la san liy kredi foto a. Paj verifye anvan chak post: 1488974390963198 FNMHQ (PA Haiti Brief), okenn doub; ANGAJMAN FB: 0 kòmantè nouvo (li sèlman, règ 2026-11-13).
