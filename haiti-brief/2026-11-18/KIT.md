@@ -221,8 +221,8 @@ Trial Day: the case of Christian Sanon is now with twelve jurors in Miami. They 
 #Haiti #JovenelMoise #HaitiNews
 ```
 
-## ⚡⚡ POSTE KOUNYA (PUBLIC, PA SCHEDULED) · MÈKREDI 18 NOV · BREAKING · LONG-FORM hb-L8 · 3:32 (v2 AK AVATAR) · "Bukele's 'Vertières Gift'"
-**Estati:** ✅ PARE · 1920×1080 · **@haitibrief YouTube SÈLMAN** (long-form) · Claire + Marc (A1–A5) + narasyon · **Altered content: Yes** · Saneme: pibliye l TOUSWIT li rive (scoop ki ka eksploze). v2 = Claire + Marc (A1–A5) + narasyon. Si v1 a te deja piblik, pa ranplase l.
+## ⚡⚡ POSTE KOUNYA (PUBLIC, PA SCHEDULED) · MÈKREDI 18 NOV · BREAKING · LONG-FORM hb-L8 · 3:59 (v3 AK AVATAR) · "Bukele's 'Vertières Gift'"
+**Estati:** ✅ PARE · 1920×1080 · **@haitibrief YouTube SÈLMAN** (long-form) · Claire + Marc (A1–A5) + narasyon · **Altered content: Yes** · Saneme: pibliye l TOUSWIT li rive (scoop ki ka eksploze). v3 = Claire + Marc (A1–A5) + narasyon, 3:59. Si v1 a te deja piblik, pa ranplase l.
 - Video: `haiti-brief/2026-11-18/HaitiBrief_LongForm_L8_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_LongForm_L8_Nov_18.mp4
 - Thumbnail: `haiti-brief/2026-11-18/HaitiBrief_Thumb_L8_A.jpg`
 - End screen: Subscribe + hb-S21 (voVPe-heHOs). Playlist: Bukele & Haiti (si li egziste).
@@ -241,9 +241,9 @@ In this video: who Jeff Gwo Lwa is, why this is the second strike of its kind af
 
 0:00 Bukele's "gift"
 0:39 The strike
-1:05 Who is Jeff Gwo Lwa?
-1:44 Not the first
-2:33 Open questions
+1:12 Who is Jeff Gwo Lwa?
+1:57 Not the first
+2:56 Open questions
 
 Related: Bukele's "Vertières Gift" (Short) https://youtube.com/shorts/voVPe-heHOs
 
