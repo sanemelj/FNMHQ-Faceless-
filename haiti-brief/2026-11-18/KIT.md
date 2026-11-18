@@ -53,6 +53,31 @@ Haitian media report gangs near Croix-des-Bouquets searched young people's phone
 #Haiti #HaitiNews #Bukele
 ```
 
+## 2:00 PM ET · MÈKREDI 18 NOV · hb-S21 · BREAKING SHORT ~0:45 · "Bukele's Vertières gift"
+**Estati:** ⏳ ap tann K1/K2 (Kai, anvan 1:15 PM ET) · 1080×1920 · Claire + Marc + narasyon + kat Kanaran + kat sitasyon · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-L5 (d52bewIY-cI)**. Kont Haiti Brief sèlman sou chak platfòm.
+- Kòmantè pin: `Sources: Nayib Bukele on X; AP; AFP. It is not yet known whether Jeff Larose was at the home.`
+
+**Tit:**
+```
+Bukele's "Vertières Gift": Salvadoran Helicopters Hit a Gang Leader's Home in Canaan #Shorts
+```
+**Deskripsyon:**
+```
+On Wednesday, Nov. 18, Haiti's Day of Victory, El Salvador's president Nayib Bukele posted a video of Salvadoran helicopters firing on a villa, calling it, in Haitian Creole, his gift to the Haitian people on the anniversary of the Battle of Vertières. The Associated Press reports the target was the home of Jeff Larose, known as Jeff Gwo Lwa, who controls Canaan, north of Port-au-Prince. It is not yet clear whether he was there. The UN-backed Gang Suppression Force says it was not involved.
+
+Sources: @nayibbukele on X (Nov. 18, 2026); AP; AFP (Nov. 18, 2026). Photo: Casa Presidencial de El Salvador (CC0, file photo). Map data © OpenStreetMap contributors.
+#Haiti #Bukele #HaitiNews
+```
+**Tags:**
+```
+Haiti, Bukele, Vertières, Jeff Gwo Lwa, Canaan Haiti, Salvadoran troops Haiti, Haiti gangs, Port-au-Prince, Haiti news, Haiti Brief
+```
+**Facebook (Reel, 2:00 PM ET, paj Haiti Brief):**
+```
+On Vertières Day, Bukele posted a video of Salvadoran helicopters firing on the home of gang leader Jeff "Gwo Lwa" Larose in Canaan, AP reports. It is not yet known whether he was there.
+#Haiti #Bukele #HaitiNews
+```
+
 ## 3:00 PM ET · MÈKREDI 18 NOV · hb-S19 · SHORT 0:40 · "Bukele answers in Creole"
 **Estati:** ✅ PARE · 0:40 · 1080×1920 · Claire + Marc (B1, B2) + narasyon + foto CC0 + kat sitasyon · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-S17 (CSbbAtlurvM, mach yo)**. Kont Haiti Brief sèlman — verifye non kont lan sou CHAK platfòm anvan ou poste.
 - Video: `haiti-brief/2026-11-18/HaitiBrief_Short_19_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Short_19_Nov_18.mp4
