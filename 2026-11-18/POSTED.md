@@ -7,3 +7,4 @@ k73 | 09:00 | FB: ✅ scheduled 09:00 CT 122110912395533715 (FOTO, Facebook sèl
 k64 | 19:00 | FB: — | TikTok: — | YouTube: —
 k74 | 12:00 | FB: — | TikTok: — | YouTube: —
 k75 | 14:00 | FB: — (FOTO, Facebook sèlman)
+k76 | 20:30 | FB: — (FOTO, Facebook sèlman)

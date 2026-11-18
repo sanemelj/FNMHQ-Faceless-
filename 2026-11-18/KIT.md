@@ -223,3 +223,26 @@ Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
 ```
 
 ---
+## 20:30 · k76 · FOTO: Messi, Golden Boot ×2, playoffs Saturday
+**Estati:** ✅ PARE  
+**Longè:** foto 1080×1350
+
+- Foto: `2026-11-18/Photo_3_Nov_18.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-18/Photo_3_Nov_18.jpg
+
+**Nòt:** KAI: ✅ PARE. FOTO, Facebook SÈLMAN, 8:30 PM CT. PA gen etikèt AI.
+
+### FB
+**Caption:**
+```
+Golden Boot ×2 🐐
+
+Lionel Messi is the first player to win the MLS Golden Boot in back-to-back seasons. His playoffs start Saturday at 5 PM CT: Inter Miami v Columbus Crew, Round One, Game 1.
+
+Does Messi win MLS Cup this year? 👇
+
+Photo: Lionel Messi by Bryan Berlin, Wikimedia Commons (CC BY-SA 4.0)
+
+#Messi #InterMiami #MLS
+```
+
+---

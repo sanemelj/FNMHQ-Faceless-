@@ -15,3 +15,4 @@
 - 2026-11-18 · k64 (LONG-FORM 16:9, avatar) · Can Pochettino fix Man United? · Carrick sacked Thu 12 Nov; 18th, W1 D5 L4 (8 pts); Pochettino starts Wed 18; Liverpool v Man Utd Sun 22 Nov; take: 3 draws→wins = +6 pts
 - 2026-11-18 · k74 · Day one: Pochettino at United (avatar Short) · Carrick sacked Thu 12; 18th, 1 league win; first training Thu 19; Anfield Sun 22
 - 2026-11-18 · k75 (FB photo) · England get who? Nations League QF draw Fri 5 AM CT · Pot 1 ENG/FRA/GER/POR; Pot 2 BEL/NED/ESP/NOR
+- 2026-11-18 · k76 (FB photo) · Messi Golden Boot ×2 (first back-to-back) · Inter Miami v Columbus, R1 G1, Sat 21 Nov 5 PM CT
