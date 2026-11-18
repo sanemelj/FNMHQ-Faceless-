@@ -131,6 +131,29 @@ Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
 ```
 
 ---
+## 14:00 · k75 · FOTO: England get who? Nations League QF draw
+**Estati:** ✅ PARE  
+**Longè:** foto 1080×1350
+
+- Foto: `2026-11-18/Photo_2_Nov_18.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-18/Photo_2_Nov_18.jpg
+
+**Nòt:** KAI: ✅ PARE. FOTO, Facebook SÈLMAN, 2:00 PM CT. PA gen etikèt AI (pa gen avatar).
+
+### FB
+**Caption:**
+```
+England get who? 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
+The Nations League quarter-final draw is on Friday at 5 AM CT. England are in Pot 1 with France, Germany and Portugal. Their opponent comes from Pot 2: Belgium, the Netherlands, Spain or Norway.
+
+Who do you want England to get? 👇
+
+Photo: Harry Kane by Bryan Berlin, Wikimedia Commons (CC BY-SA 4.0)
+
+#England #NationsLeague #ThreeLions
+```
+
+---
 ## 19:00 · k64 · LONG-FORM: Can Pochettino fix Manchester United?
 **Estati:** ✅ PARE  
 **Longè:** 1:36 (16:9)
