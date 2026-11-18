@@ -53,6 +53,34 @@ Haitian media report gangs near Croix-des-Bouquets searched young people's phone
 #Haiti #HaitiNews #Bukele
 ```
 
+## 3:00 PM ET · MÈKREDI 18 NOV · hb-S19 · SHORT 0:40 · "Bukele answers in Creole"
+**Estati:** ✅ PARE · 0:40 · 1080×1920 · Claire + Marc (B1, B2) + narasyon + foto CC0 + kat sitasyon · **Altered content: Yes** · **FB AI label: Yes** · Related video: **hb-S17 (CSbbAtlurvM, mach yo)**. Kont Haiti Brief sèlman — verifye non kont lan sou CHAK platfòm anvan ou poste.
+- Video: `haiti-brief/2026-11-18/HaitiBrief_Short_19_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Short_19_Nov_18.mp4
+- Kòmantè pin: `Watch Tuesday's marches in Port-au-Prince: https://youtube.com/shorts/CSbbAtlurvM`
+
+**Tit:**
+```
+Bukele Answers Haiti in Creole: "I Hear You Loud and Clear" #Shorts
+```
+**Deskripsyon:**
+```
+After thousands marched in Port-au-Prince and other cities on Tuesday, Nov. 17, to thank him and the Salvadoran troops, El Salvador's president Nayib Bukele answered on X, writing in Haitian Creole: "Mwen pa t janm atann yon bagay konsa. Mwen tande nou byen fò, byen klè." ("I never expected something like this. I hear you loud and clear.") He added: "Mwen renmen nou tou. N ap triyonfe. Bondye ap ban nou laviktwa." ("I love you too. We will triumph. God will give us the victory.")
+
+What do you think of this message? Tell us in the comments.
+
+Sources: @nayibbukele on X (Nov. 17, 2026); Diario Libre; Semana; La Página / EFE; AP; Reuters (Nov. 17, 2026). Photo: Presidencia de El Salvador (CC0).
+#Haiti #Bukele #HaitiNews
+```
+**Tags:**
+```
+Haiti, Bukele, Nayib Bukele, Bukele Creole, Haitian Creole, Bukele Haiti, Salvadoran troops Haiti, Port-au-Prince march, Haiti news, Haiti Brief
+```
+**Facebook (Reel, 3:00 PM ET, paj Haiti Brief):**
+```
+Bukele answered Tuesday's marches on X, in Haitian Creole: "Mwen tande nou byen fò, byen klè." What do you think of his message?
+#Haiti #Bukele #HaitiNews
+```
+
 ## 8:00 PM ET · MÈKREDI 18 NOV · S1E3 · SERI JOVENEL · LONG-FORM 7:24 · "The Jovenel Moïse Assassination, Part 3"
 **Estati:** ✅ PARE · 7:24 · 1920×1080 · Claire + Marc (Q1–Q7, rad L3) + narasyon · **Altered content: Yes** · YouTube sèlman (FB: yon Reel FB-sèlman ap vini apre) · Kont **@haitibrief** sèlman.
 - Video: `haiti-brief/2026-11-18/HaitiBrief_Series_S1E3_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Series_S1E3_Nov_18.mp4
