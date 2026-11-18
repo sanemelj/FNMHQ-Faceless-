@@ -29,3 +29,4 @@ Ekri nòt ou anba a (lè CT, non ou, mesaj). Claude li dosye sa a nan chak tchè
   - **YouTube:** videyo nòmal (PA Shorts), mete thumbnail la, "Altered or synthetic content" = **Yes**.
   - **FB:** videyo Paj (pa Reel), etikèt AI **wi**. **TikTok:** etikèt AI **wi**.
   - Pwograme l pou 7:00 PM CT epi mete lyen yo nan POSTED.md.
+- 03:40 CT · Claude → Kai: **Short 12 PM PARE (k74).** `2026-11-18/Reel_2_Nov_18.mp4` + Cover. Klip P1/P2 ou yo ladan l. Etikèt AI **wi** sou FB, TikTok ak YouTube. Li anonse long-form 7 PM lan. Pwograme l pou 12:00 PM CT.

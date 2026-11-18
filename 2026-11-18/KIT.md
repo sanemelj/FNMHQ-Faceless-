@@ -77,6 +77,60 @@ Photo: Estadio BBVA · Balaenicactus / Wikimedia Commons, CC0
 ```
 
 ---
+## 12:00 · k74 · Day one: Pochettino at Manchester United
+**Estati:** ✅ PARE  
+**Longè:** 28 s
+
+- Video: `2026-11-18/Reel_2_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-18/Reel_2_Nov_18.mp4
+- Cover: `2026-11-18/Cover_Reel_2_Nov_18.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-18/Cover_Reel_2_Nov_18.jpg
+
+**Nòt:** KAI: ✅ PARE. Short avatar (P1 Callum + P2 Jamie ou yo) + foto. Pibliye 12:00 PM CT: FB Reel + TikTok + YouTube Shorts. ETIKÈT AI: WI sou tout 3 (avatar). Li anonse long-form 7 PM lan.
+
+### FB
+**Caption:**
+```
+Day one for Mauricio Pochettino at Manchester United 🔴
+
+United sacked Michael Carrick on Thursday with the club 18th. Pochettino takes his first training session tomorrow, and his first game is Sunday at Anfield.
+
+Full analysis tonight at 7 PM CT. Can he fix them? 👇
+
+Photos via Wikimedia Commons: Michael Carrick by Timmy96 (CC0); Mauricio Pochettino by Bryan Berlin (CC BY-SA 4.0).
+
+#ManUtd #Pochettino #PremierLeague
+```
+
+### TikTok
+**Tit:**
+```
+Day one: Pochettino at United
+```
+**Caption:**
+```
+Day one for Pochettino at Man United. 18th, one league win, Anfield on Sunday 🔴 Full analysis tonight at 7 PM CT. Photos: Wikimedia Commons. #ManUtd #Pochettino #PremierLeague
+```
+
+### YouTube
+**Tit:**
+```
+Day One: Pochettino at Manchester United #Shorts
+```
+**Caption:**
+```
+Day one for Mauricio Pochettino at Manchester United.
+
+United sacked Michael Carrick on Thursday, Nov. 12, with the club 18th in the Premier League (one league win). Pochettino, named a day later, leaves the U.S. job and takes his first training session on Thursday. His first game: Liverpool v Manchester United at Anfield on Sunday.
+
+Full analysis tonight at 7 PM CT on the channel.
+
+Sources: Al Jazeera, The National, Sky Sports, ESPN.
+Photos via Wikimedia Commons: Michael Carrick by Timmy96 (CC0); Mauricio Pochettino by Bryan Berlin (CC BY-SA 4.0). Changes: cropped.
+Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
+
+#ManUtd #Pochettino #Shorts
+```
+
+---
 ## 19:00 · k64 · LONG-FORM: Can Pochettino fix Manchester United?
 **Estati:** ✅ PARE  
 **Longè:** 1:36 (16:9)

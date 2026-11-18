@@ -13,3 +13,4 @@
 - 2026-11-18 · k72 · THE NUMBER 1 · Mexico 1–0 Jamaica (3–3, away goals), Márquez's first win; USA v Mexico semi (March)
 - 2026-11-18 · k73 (FB photo) · Mexico 1–0 Jamaica
 - 2026-11-18 · k64 (LONG-FORM 16:9, avatar) · Can Pochettino fix Man United? · Carrick sacked Thu 12 Nov; 18th, W1 D5 L4 (8 pts); Pochettino starts Wed 18; Liverpool v Man Utd Sun 22 Nov; take: 3 draws→wins = +6 pts
+- 2026-11-18 · k74 · Day one: Pochettino at United (avatar Short) · Carrick sacked Thu 12; 18th, 1 league win; first training Thu 19; Anfield Sun 22
