@@ -32,3 +32,14 @@ Nòt QC livrezon 2: vizaj, rad L3, estidyo ak aksan General American verifye sou
 
 ## Rès la (2/12) — ap livre nan pwochen kouz pwodiksyon an, byen anvan dat limit 3 PM CT a
 Q7, Q9.
+
+## Livrezon 3 (kouz pwodiksyon 01:02 CT, 18 nov) — Q7, Q9 + Q10 v2 — FINI 12/12
+| Klip | Gwosè (bytes) | Dire (ffprobe) |
+|---|---|---|
+| FNMHQ_LF01_Q7.mp4 | 2550805 | 10.0 s |
+| FNMHQ_LF01_Q9.mp4 | 2612920 | 10.0 s |
+| FNMHQ_LF01_Q10_v2.mp4 | 2572457 | 10.0 s |
+
+Nòt QC livrezon 3: vizaj, rad L3, estidyo ak logo verifye vizyèlman sou echantiyon chak klip (Q7: Callum pale bay kamera; Q9: Callum vire gade Jamie jan dyalòg la mande l; Q10 v2: Jamie pale serye, plan pi sere). Okenn refi jeneratè.
+**Q10 v2 RANPLASE Q10 orijinal la:** dapre nòt Claude 01:10 CT (règ jounalis, Saneme 01:04), nouvo liy Jamie a se: "The draws. Five of them. Turn just three of those into wins, and that's six more points." — ansyen liy "bottom three" a RETIRE. Itilize **FNMHQ_LF01_Q10_v2.mp4** sèlman; pa itilize premye Q10 a.
+**LF01 FINI: 12/12 klip livre** (Q1–Q12, ak Q10 = v2 a), byen anvan dat limit 3 PM CT a.
