@@ -192,3 +192,31 @@ Haiti, El Salvador, Haiti El Salvador agreement, Félix Ulloa, Bukele, Salvadora
 Haiti approved its cooperation agreement with El Salvador on Tuesday. But the text stays secret, for now. Should it be made public?
 #Haiti #ElSalvador #HaitiNews
 ```
+
+## 6:00 PM ET · MÈKREDI 18 NOV · TRIAL DAY · SHORT 0:38 · "Sanon Trial: The Jury Now Has the Case"
+**Estati:** ✅ PARE · 1080×1920 · Claire + Marc (TD1, TD2; m koupe TD2 apre "innocent": te gen yon poz 2 s, epi soutit boule a flou) + narasyon · **Altered content: Yes** · **FB AI label: Yes** · Related video: **Part 2 (MOB2PsprOH8)**.
+- Video: `haiti-brief/2026-11-18/HaitiBrief_Short_TD_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_Short_TD_Nov_18.mp4
+- Kòmantè pin: `How it all began: Part 2 https://youtu.be/MOB2PsprOH8 — Part 3 tonight at 8 PM ET.`
+
+**Tit:**
+```
+Sanon Trial: The Jury Now Has the Case #Shorts
+```
+**Deskripsyon:**
+```
+Trial Day, Nov. 18: the case of Christian Sanon is now in the hands of twelve jurors in Miami federal court. They must decide on eight charges. Both sides gave their closing arguments on Tuesday, the Miami Herald reports. Prosecutors say Sanon knew about the final plan and could have walked away. His lawyer says he was deceived by men posing as federal agents, and asked jurors to acquit him on all counts. Three of the charges carry up to life in prison. LSV Media says Sanon is now waiting for the decision. Sanon has pleaded not guilty and is presumed innocent.
+
+Watch the series: The Jovenel Moïse Case, Part 2: https://youtu.be/MOB2PsprOH8
+
+Sources: Miami Herald (Jacqueline Charles, Nov. 18, 2026); LSV Media (Nov. 18, 2026). Photo: Wilkie D. Ferguson Jr. U.S. Courthouse, Miami (public domain).
+#Haiti #JovenelMoise #HaitiNews
+```
+**Tags:**
+```
+Christian Sanon, Sanon trial, Sanon jury, Jovenel Moise, Jovenel Moise case, Miami trial, Haiti, Haiti news, Trial Day, verdict, Haiti Brief
+```
+**Facebook (Reel, 6:00 PM ET):**
+```
+Trial Day: the case of Christian Sanon is now with twelve jurors in Miami. They must decide on eight charges. Sanon has pleaded not guilty and is presumed innocent. Follow Haiti Brief for the verdict.
+#Haiti #JovenelMoise #HaitiNews
+```
