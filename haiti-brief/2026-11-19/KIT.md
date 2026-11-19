@@ -88,32 +88,32 @@ Sources: Le Nouvelliste (Nov. 17–18, 2026); Rezo Nòdwès; Associated Press (N
 Haiti marches Bukele, Bukele Haiti, Haiti protest, Gonaives, Les Cayes, Jacmel, Cap-Haitien, Fils-Aime resign, Salvadoran troops Haiti, Haiti gangs, Haiti news, Haiti Brief
 ```
 
-## ⚡ 6:00 PM ET · JEDI 19 NOV · BREAKING SHORT hb-S28 · 0:42 · "BREAKING: Haiti Police Launch Offensive in Martissant, the Road to the South" — RANPLASE hb-S25
-**Estati:** ✅ PARE · 1080×1920 · kat Martissant (OSM) + foto achiv FAES (FILE) + foto Port-au-Prince · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L10 (l-6Xxj6fV_I)**.
-- Video: `haiti-brief/2026-11-19/HaitiBrief_Short_28_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Short_28_Nov_19.mp4
-- Kòmantè pin: `Sources: Juno7, Vant Bèf Info, Radio Graphie (Nov. 19, 2026). No official toll yet. Why Haitians are marching for Bukele: https://youtu.be/l-6Xxj6fV_I`
-- ⚠️ **SWAP:** hb-S25 (15,000 sòlda) soti nan 6 PM jodi a → **Vandredi 20 nov 9:00 AM ET** (menm kat KIT, menm fichye).
+## ⚡ 6:00 PM ET · JEDI 19 NOV · BREAKING SHORT hb-S28 v2 · 0:43 · "Haiti Police Say 34 Gang Members Killed in Martissant Offensive" — RANPLASE hb-S25
+**Estati:** ✅ PARE (v2, bilan ofisyèl PNH) · 1080×1920 · kat Martissant (OSM) + foto achiv FAES (FILE) + foto Port-au-Prince · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L10 (l-6Xxj6fV_I)**.
+- Video: `haiti-brief/2026-11-19/HaitiBrief_Short_28_Nov_19.mp4` (v2 ranplase v1 a — telechaje l fre) — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Short_28_Nov_19.mp4
+- Kòmantè pin: `Sources: Haitian National Police (PNH), EFE via Diario Libre, AlterPresse, Juno7 (Nov. 19, 2026). The toll is the police's own figure; identities and any civilian victims not yet reported. Why Haitians are marching for Bukele: https://youtu.be/l-6Xxj6fV_I`
+- ⚠️ **SWAP:** hb-S25 (15,000 sòlda) soti nan 6 PM jodi a → **Vandredi 20 nov 9:00 AM ET**.
 
 **Tit:**
 ```
-BREAKING: Haiti Police Launch Offensive in Martissant, the Road to the South #Shorts
+Haiti Police Say 34 Gang Members Killed in Martissant Offensive #Shorts
 ```
 **Deskripsyon:**
 ```
-On Thursday morning, Nov. 19, Haiti's National Police (PNH) and its Task Force launched an offensive in Martissant, in sectors Martissant 2 and 4, according to several Haitian media outlets (Juno7, Vant Bèf Info). Explosive drones were reportedly used against gang positions and illegal toll posts. Martissant links Port-au-Prince to the south of the country, and armed groups have long forced travelers to pay to pass. Salvadoran soldiers were reportedly present alongside Haitian forces. Radio Graphie reported that several alleged gang members were killed; no official toll has been released. The operation follows the retaking of the Sylvio Cator national stadium and operations in Village-de-Dieu.
+Haiti's National Police (PNH) say at least 34 alleged gang members were killed on Thursday, Nov. 19, in an offensive in Martissant, at a base of the gang leader known as Ti Lapli. Authorities did not say whether Ti Lapli himself was among the dead; no names have been released, and there is no information yet on civilian victims, EFE reports. Police and the Task Force reportedly used explosive drones against gang positions and illegal toll posts in Martissant 2 and 4. According to EFE, Salvadoran troops and Haiti's army (FAd'H) also took part, with armored vehicles and helicopters, in operations in Martissant and Village-de-Dieu. Martissant is the road out of Port-au-Prince to the south, where gangs have long forced travelers to pay to pass.
 
 Why Haitians are marching for Bukele: https://youtu.be/l-6Xxj6fV_I
 
-Sources: Juno7 (Nov. 19, 2026); Vant Bèf Info; Radio Graphie via Juno7. Photos: Armed Forces of El Salvador, Casa Presidencial (CC0, file photo); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
+Sources: Haitian National Police (PNH, Nov. 19, 2026); EFE via Diario Libre; AlterPresse; Juno7; Vant Bèf Info. Photos: Armed Forces of El Salvador, Casa Presidencial (CC0, file photo); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
 #Haiti #HaitiNews #Martissant
 ```
 **Tags:**
 ```
-Martissant, Haiti police operation, PNH Task Force, Haiti drones, Haiti gangs, Grand Sud road, Port-au-Prince, Haiti news, Haiti Brief
+Martissant, Haiti police, PNH Task Force, Ti Lapli, Haiti gangs, Haiti drones, Salvadoran troops Haiti, Port-au-Prince, Haiti news, Haiti Brief
 ```
 **Facebook (Reel, 6:00 PM ET):**
 ```
-BREAKING: Haiti's police and Task Force launched an offensive in Martissant on Thursday morning, Haitian media report, with explosive drones reportedly used against gang positions and illegal toll posts. No official toll yet.
+Haiti's police say at least 34 alleged gang members were killed Thursday in an offensive in Martissant, at a base of the gang leader known as Ti Lapli. It is not known whether he was among them. No names or civilian toll yet.
 #Haiti #HaitiNews #Martissant
 ```
 
