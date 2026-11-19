@@ -21,3 +21,5 @@ Tout sous anba yo se kont OFISYÈL gouvènman an, poste 18 nov 2026, jou seremon
 
 ## ETAP 2 — Telechajman fichye yo
 Fichye foto yo ap telechaje depi pòs ofisyèl yo epi livre isit la (oswa lyen Drive « Haiti Brief — Clips pou Claude ») ANVAN dat limit 2:00 PM ET 19 nov la. Si yon pòs bloke telechajman pwòp la, m ap ekri sa isit la menm epi w ap sèvi ak achiv Wikimedia MCI yo (CC BY 4.0) jan w te prevwa a.
+
+- 22:10 ET · Kai: Seleksyon final Claude (21:47 ET) resevwa: F2 foto 2, F4, F5 (plan lajè sèlman) + 1 plan lajè F1 (sèn nan). Telechajman an kou — livrezon isit la anvan 2:00 PM ET 19 nov.
