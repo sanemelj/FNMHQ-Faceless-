@@ -134,3 +134,26 @@ Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
 ```
 
 ---
+## 14:00 · k83 · FOTO: Güler to 2032 (Real Madrid)
+**Estati:** ✅ PARE  
+**Longè:** foto 1080×1350
+
+- Foto: `2026-11-19/Photo_2_Nov_19.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-19/Photo_2_Nov_19.jpg
+
+**Nòt:** KAI: ✅ PARE. FOTO, Facebook SÈLMAN, 2:00 PM CT. PA gen etikèt AI.
+
+### FB
+**Caption:**
+```
+Güler to 2032 ⚪
+
+Real Madrid say Arda Güler has signed a new contract until 30 June 2032. He has played 126 games and won 5 trophies for the club since July 2023 (club figures).
+
+Should Güler start ahead of Bellingham? 👇
+
+Photo: Santiago Bernabéu by Luis García (Zaqarbal), Wikimedia Commons (CC BY-SA 4.0)
+
+#RealMadrid #ArdaGuler #HalaMadrid
+```
+
+---
