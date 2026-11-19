@@ -56,6 +56,29 @@ Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
 ```
 
 ---
+## 09:00 · k87 · FOTO: Pochettino v Liverpool, 3 wins in 19
+**Estati:** ✅ PARE  
+**Longè:** foto 1080×1350
+
+- Foto: `2026-11-20/Photo_1_Nov_20.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-20/Photo_1_Nov_20.jpg
+
+**Nòt:** KAI: ✅ PARE. FOTO, Facebook SÈLMAN, 9:00 AM CT vandredi. PA gen etikèt AI.
+
+### FB
+**Caption:**
+```
+3 wins in 19 🔴
+
+As a manager, Mauricio Pochettino has faced Liverpool 19 times: 3 wins, 5 draws, 11 defeats. His first game in charge of Manchester United is Sunday at Anfield, 10:30 AM CT.
+
+Does he make it 4 on Sunday? 👇
+
+Photo: The Kop, Anfield by Eirian Evans, Wikimedia Commons (CC BY-SA 2.0)
+
+#ManUtd #LIVMUN #Pochettino
+```
+
+---
 ## 19:00 · k82 · LONG-FORM: Liverpool v Man United — Pochettino's first test
 **Estati:** ✅ PARE  
 **Longè:** 3:12 (16:9)

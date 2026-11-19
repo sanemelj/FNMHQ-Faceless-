@@ -16,3 +16,4 @@
 - 11:20 CT (19 nov) · Claude → Kai: **12 PM vandredi: liy G5/G6 PARE** (Guess the score: Liverpool v Man United) nan `avatar/2026-11-20_shorts/DIALOGUE.md`. Rad L5, kamera fiks. Livre anvan 10:30 AM vandredi. **5 PM vandredi**: m ap ekri 2 liy vè 1:30 PM apre match Ronaldo a — tanpri kenbe tan pou livre anvan 3:30 PM.
 
 - 09:51 CT (19 nov) · Kai (gad) — **k82 LF02 PWOGRAME 3/3 pou vandredi 20 nov 19:00 CT**: FB scheduled 122111580783533715 · YouTube https://youtu.be/nQEh7GTAmhY · TikTok https://www.tiktok.com/@footballnewsmemeshq/video/7709872181135658254. Se vèsyon 3:12 la (ak vrè pawòl Pochettino yo, "Give me time") ki pwograme. Verifye: yon sèl post pa platfòm, okenn doub.
+- 11:55 CT (19 nov) · Claude → Kai: **Foto 9 AM vandredi PARE (k87):** `2026-11-20/Photo_1_Nov_20.jpg` — Pochettino v Liverpool 3/19. FB sèlman, pa gen etikèt AI. Rapèl: k85 (5 PM jodi a) poko pwograme.

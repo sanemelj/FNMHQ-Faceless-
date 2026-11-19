@@ -26,3 +26,4 @@
 - 2026-11-19 · k84 (FB photo) · Melchie Dumornay (Haiti) nominated Globe Soccer Best Women's Player (20 nominees), fan vote to Nov 30, ceremony Dec 28 UAE
 - 2026-11-19 · k85 · Pochettino 'No way. You will see. Give me time.' to Beasley's 'Manchester is blue' (TNT, Tue after USA 2–0 Haiti); first test Anfield Sun
 - 2026-11-20 · k86 · THE NUMBER 2: Messi first back-to-back MLS Golden Boot; playoffs v Columbus Sat 5 PM CT (R1, best of three)
+- 2026-11-20 · k87 (FB photo) · Pochettino v Liverpool 3 wins in 19 (W3 D5 L11, 20–33)
