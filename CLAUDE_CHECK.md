@@ -17,3 +17,10 @@ Container lost? Re-clone the repo; production tools live in /home/claude/fnmhq (
 - **Vwa naratè a pa dwe pi rapid pase avatar yo:** sib ≈ 2.9 mo/segonn (avatar yo). Chatterbox: `vo_cb.py DIR 0.5 0.2`, yon fraz pa segman ak gap 0.45 s, epi `atempo=0.92`. Mezire mo/s anvan render.
 - **Koupe silans avatar yo:** `python3 tools/tighten.py clip.mp4 words.json KEY out.mp4` (koupe tèt/ke + poz entèn > 0.35 s; kenbe 0.1 s pad). Pa janm mete yon klip avatar ak silans long ladan l.
 - **Long-form: 1 min twò kout.** Sib **4–6 min**: 16–20 klip avatar + 3–4 segman naratè + 4–5 chapit. Ekri liy yo bonè (Kai bezwen tan).
+
+## Règ kontni Saneme (19 nov 06:51) — "Ok fè sa"
+- **3 Shorts/jou rete**, men **chak Short = yon GWO sijè**: Man United, Messi, Ronaldo, Real Madrid/Barça, Liverpool/Arsenal, yon gwo nimewo, Who Fits/Guess. Done: sa yo te fè 1,000+ vi (Man United 18th 1,127; Who Fits 1,033; Van Dijk 1,008).
+- **Elimine:** grafik tèks England/entènasyonal, preview san enpak, ti nouvèl (75–205 vi).
+- **Hook 0–2 s:** avatar la di bagay ki pi fò a an PREMYE (nimewo, non, rezilta), ak nimewo/foto sou ekran depi frame 0. Pa gen "Today we…".
+- **Mezi:** % "swiped away" (dènye: 80.8%). Sib: < 70% nan 7 jou (26 nov). Si non → teste 2 Shorts/jou pandan 1 semèn.
+- **Rapò Kai chak jou 8 AM obligatwa** (vi + % rete gade pou CHAK Short + Monetize FB). San rapò = pa gen desizyon.

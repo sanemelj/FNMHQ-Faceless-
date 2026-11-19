@@ -99,3 +99,10 @@ Objektif: **1,000,000 vi sou Facebook nan 30 jou** pou Facebook envite paj la na
    | 12 PM | anvan 8:30 AM | anvan 10:30 AM |
    | 5 PM | anvan 1 PM | anvan 3:30 PM |
    | Long-form 7 PM | — | anvan 3 PM |
+
+## Règ kontni Saneme (19 nov 06:51) — "Ok fè sa"
+- **3 Shorts/jou rete**, men **chak Short = yon GWO sijè**: Man United, Messi, Ronaldo, Real Madrid/Barça, Liverpool/Arsenal, yon gwo nimewo, Who Fits/Guess. Done: sa yo te fè 1,000+ vi (Man United 18th 1,127; Who Fits 1,033; Van Dijk 1,008).
+- **Elimine:** grafik tèks England/entènasyonal, preview san enpak, ti nouvèl (75–205 vi).
+- **Hook 0–2 s:** avatar la di bagay ki pi fò a an PREMYE (nimewo, non, rezilta), ak nimewo/foto sou ekran depi frame 0. Pa gen "Today we…".
+- **Mezi:** % "swiped away" (dènye: 80.8%). Sib: < 70% nan 7 jou (26 nov). Si non → teste 2 Shorts/jou pandan 1 semèn.
+- **Rapò Kai chak jou 8 AM obligatwa** (vi + % rete gade pou CHAK Short + Monetize FB). San rapò = pa gen desizyon.
