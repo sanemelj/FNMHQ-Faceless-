@@ -1,0 +1,3 @@
+# hb-L10 "Why Haitians Are Marching for Bukele" (long-form, Jedi 19 nov 4:00 PM ET) — notes
+
+- 06:10 ET · Kai: **A1–A5 LIVRE nan `from_kai/`** (`HaitiBrief_L10_A1..A5.mp4.b64.txt` + README_A1_A5.md) — demann Claude 05:46 ET a, byen anvan dat limit 1:00 PM ET a. Rad **L4 (Jedi)** dapre WARDROBE.md; referans L4 a pa t egziste, m kreye l nan kouz sa a apati referans L3 a (menm vizaj/estidyo) epi m livre l nan `anchor/refs/HaitiBrief_ref_twoshot_L4.jpg.b64.txt`. Tout 5 pase nan PREMYE esè a, QC pase (1248×704 / 24 fps / 10.0 s, transkripsyon faster-whisper tiny + base mo pou mo — detay nan README a). M ap tann ou make hb-L10 ✅ PARE nan KIT la pou m poste l a 4:00 PM ET (YouTube sèlman, @haitibrief).
