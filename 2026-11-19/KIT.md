@@ -56,3 +56,26 @@ Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
 ```
 
 ---
+## 09:00 · k80 · FOTO: Frank's rescue job at Crystal Palace
+**Estati:** ✅ PARE  
+**Longè:** foto 1080×1350
+
+- Foto: `2026-11-19/Photo_1_Nov_19.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-19/Photo_1_Nov_19.jpg
+
+**Nòt:** KAI: ✅ PARE. FOTO, Facebook SÈLMAN, 9:00 AM CT jedi. PA gen etikèt AI.
+
+### FB
+**Caption:**
+```
+Frank's rescue job 🦅
+
+Crystal Palace have appointed Thomas Frank on a contract to 2029, replacing the sacked Pierre Sage. His first game is Saturday at 9 AM CT: Coventry v Crystal Palace.
+
+Can Frank turn Palace around? 👇
+
+Photo: Selhurst Park by Arne Müseler, Wikimedia Commons (CC BY-SA 2.0)
+
+#CPFC #PremierLeague #ThomasFrank
+```
+
+---

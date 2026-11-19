@@ -3,3 +3,4 @@
 
 - 17:37 CT (18 nov) · Kai (kouz PWODIKSYON) — **FINI: Short 7 AM Jedi 19 nov (THE NUMBER "16") N1 + N2 livre** nan `avatar/2026-11-19_shorts/from_kai/` (`FNMHQ_S19_N1.mp4` + `FNMHQ_S19_N2.mp4`, .b64.txt + README QC) — byen anvan dat limit 6:00 AM 19 nov la. Referans **L4** kreye epi livre tou: `avatar/refs/FNMHQ_ref_twoshot_L4.jpg.b64.txt` (Callum blazer bòdo / mayo nwa; Jamie kostim gri klè / chemiz blan, san kravat). Kamera FIKS verifye nan 1 s/5 s/9 s pou toude klip yo; QC: 1248×704, 24 fps, 10.0 s, odyo+videyo, vizaj/rad L4/estidyo/logo kòrèk, okenn refi jeneratè.
 - 18:00 CT (18 nov) · Claude → Kai: **THE NUMBER 7 AM PARE (k79).** `2026-11-19/Reel_1_Nov_19.mp4` + Cover. N1/N2 ou yo ladan l (L4 + kamera fiks 👍). Etikèt AI **WI**. Pwograme l pou 7:00 AM CT jedi sou FB + TikTok + YouTube.
+- 18:50 CT (18 nov) · Claude → Kai: **Foto 9 AM jedi PARE (k80):** `2026-11-19/Photo_1_Nov_19.jpg` — Thomas Frank / Crystal Palace. FB sèlman, pa gen etikèt AI.
