@@ -157,6 +157,60 @@ Photo: Santiago Bernabéu by Luis García (Zaqarbal), Wikimedia Commons (CC BY-S
 ```
 
 ---
+## 17:00 · k85 · Pochettino: "Give me time"
+**Estati:** ✅ PARE  
+**Longè:** 31 s
+
+- Video: `2026-11-19/Reel_3_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-19/Reel_3_Nov_19.mp4
+- Cover: `2026-11-19/Cover_Reel_3_Nov_19.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-19/Cover_Reel_3_Nov_19.jpg
+
+**Nòt:** KAI: ✅ PARE. Short avatar (Y1–Y3 ou yo, silans koupe). Pibliye 5:00 PM CT jedi: FB Reel + TikTok + YouTube Shorts. ETIKÈT AI: WI.
+
+### FB
+**Caption:**
+```
+"Manchester is blue." Pochettino's answer: "No way. You will see. Give me time." 🔴
+
+DaMarcus Beasley said it on TNT Sports on Tuesday night, after the U.S. beat Haiti 2–0 in Pochettino's last game in charge. His first test at Manchester United is Sunday, at Anfield.
+
+Should United give him time? 👇
+
+Photos via Wikimedia Commons: TQL Stadium by RickDikeman (CC0); Mauricio Pochettino by Bryan Berlin (CC BY-SA 4.0).
+
+#ManUtd #Pochettino #MUFC
+```
+
+### TikTok
+**Tit:**
+```
+"Give me time" — Pochettino
+```
+**Caption:**
+```
+"Manchester is blue." Pochettino: "No way. You will see. Give me time." First test: Anfield, Sunday 🔴 Should United give him time? Photos: Wikimedia Commons. #ManUtd #Pochettino
+```
+
+### YouTube
+**Tit:**
+```
+"Give Me Time": Pochettino Hits Back #Shorts
+```
+**Caption:**
+```
+On TNT Sports on Tuesday night, after the U.S. beat Haiti 2–0, former U.S. international DaMarcus Beasley said: "Manchester is blue." Mauricio Pochettino, the new Manchester United head coach, answered: "No way. You will see. Give me time."
+
+His first game is Liverpool v Manchester United at Anfield on Sunday, Nov. 22, at 10:30 AM CT.
+
+Should United give him time? Tell us in the comments.
+
+Sources: Yahoo Sports / Futbol Chronicle (citing Sky Sports), sporten.com.
+Photos via Wikimedia Commons: TQL Stadium by RickDikeman (CC0); Mauricio Pochettino by Bryan Berlin (CC BY-SA 4.0). Changes: cropped.
+Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
+
+#ManUtd #Shorts
+```
+
+---
 ## 20:30 · k84 · FOTO: Haiti's Dumornay nominated, Globe Soccer Best Women's Player
 **Estati:** ✅ PARE  
 **Longè:** foto 1080×1350

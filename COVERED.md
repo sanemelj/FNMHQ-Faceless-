@@ -24,3 +24,4 @@
 - 2026-11-20 · k82 (LONG-FORM 16:9, 3:00) · Liverpool v Man United, Pochettino's first test · table after 10; Poch v LFC W3 D5 L11; Anfield 2013 win (Southampton) / 2024 4–1 loss (Chelsea)
 - 2026-11-19 · k83 (FB photo) · Arda Güler new Real Madrid contract to 30 June 2032 (official, Wed 18 Nov); 126 games, 5 trophies
 - 2026-11-19 · k84 (FB photo) · Melchie Dumornay (Haiti) nominated Globe Soccer Best Women's Player (20 nominees), fan vote to Nov 30, ceremony Dec 28 UAE
+- 2026-11-19 · k85 · Pochettino 'No way. You will see. Give me time.' to Beasley's 'Manchester is blue' (TNT, Tue after USA 2–0 Haiti); first test Anfield Sun

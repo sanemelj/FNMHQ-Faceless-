@@ -7,3 +7,4 @@ k80 | 09:00 | FB: ✅ scheduled 09:00 CT 122111247795533715 (FOTO, Facebook sèl
 k81 | 12:00 | FB: ✅ scheduled 12:00 CT 122111357271533715 | TikTok: ✅ scheduled 12:00 CT https://www.tiktok.com/@footballnewsmemeshq/video/7709703810792312077 | YouTube: https://youtube.com/shorts/7WmRjaNyjsg
 k83 | 14:00 | FB: ✅ scheduled 14:00 CT 122111635827533715 (FOTO, Facebook sèlman)
 k84 | 20:30 | FB: ✅ scheduled 20:30 CT 122111636823533715 (FOTO, Facebook sèlman)
+k85 | 17:00 | FB: — | TikTok: — | YouTube: —
