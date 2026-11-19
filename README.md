@@ -1,2 +1,0 @@
-# FNMHQ
-Football 
