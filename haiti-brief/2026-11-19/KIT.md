@@ -88,7 +88,36 @@ Sources: Le Nouvelliste (Nov. 17–18, 2026); Rezo Nòdwès; Associated Press (N
 Haiti marches Bukele, Bukele Haiti, Haiti protest, Gonaives, Les Cayes, Jacmel, Cap-Haitien, Fils-Aime resign, Salvadoran troops Haiti, Haiti gangs, Haiti news, Haiti Brief
 ```
 
-## 6:00 PM ET · JEDI 19 NOV · SHORT hb-S25 · 0:40 · "Haiti Will Train 15,000 New Soldiers"
+## ⚡ 6:00 PM ET · JEDI 19 NOV · BREAKING SHORT hb-S28 · 0:42 · "BREAKING: Haiti Police Launch Offensive in Martissant, the Road to the South" — RANPLASE hb-S25
+**Estati:** ✅ PARE · 1080×1920 · kat Martissant (OSM) + foto achiv FAES (FILE) + foto Port-au-Prince · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L10 (l-6Xxj6fV_I)**.
+- Video: `haiti-brief/2026-11-19/HaitiBrief_Short_28_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Short_28_Nov_19.mp4
+- Kòmantè pin: `Sources: Juno7, Vant Bèf Info, Radio Graphie (Nov. 19, 2026). No official toll yet. Why Haitians are marching for Bukele: https://youtu.be/l-6Xxj6fV_I`
+- ⚠️ **SWAP:** hb-S25 (15,000 sòlda) soti nan 6 PM jodi a → **Vandredi 20 nov 9:00 AM ET** (menm kat KIT, menm fichye).
+
+**Tit:**
+```
+BREAKING: Haiti Police Launch Offensive in Martissant, the Road to the South #Shorts
+```
+**Deskripsyon:**
+```
+On Thursday morning, Nov. 19, Haiti's National Police (PNH) and its Task Force launched an offensive in Martissant, in sectors Martissant 2 and 4, according to several Haitian media outlets (Juno7, Vant Bèf Info). Explosive drones were reportedly used against gang positions and illegal toll posts. Martissant links Port-au-Prince to the south of the country, and armed groups have long forced travelers to pay to pass. Salvadoran soldiers were reportedly present alongside Haitian forces. Radio Graphie reported that several alleged gang members were killed; no official toll has been released. The operation follows the retaking of the Sylvio Cator national stadium and operations in Village-de-Dieu.
+
+Why Haitians are marching for Bukele: https://youtu.be/l-6Xxj6fV_I
+
+Sources: Juno7 (Nov. 19, 2026); Vant Bèf Info; Radio Graphie via Juno7. Photos: Armed Forces of El Salvador, Casa Presidencial (CC0, file photo); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
+#Haiti #HaitiNews #Martissant
+```
+**Tags:**
+```
+Martissant, Haiti police operation, PNH Task Force, Haiti drones, Haiti gangs, Grand Sud road, Port-au-Prince, Haiti news, Haiti Brief
+```
+**Facebook (Reel, 6:00 PM ET):**
+```
+BREAKING: Haiti's police and Task Force launched an offensive in Martissant on Thursday morning, Haitian media report, with explosive drones reportedly used against gang positions and illegal toll posts. No official toll yet.
+#Haiti #HaitiNews #Martissant
+```
+
+## ➡️ DEPLASE: VANDREDI 20 NOV 9:00 AM ET (te 6 PM Jedi) · SHORT hb-S25 · 0:40 · "Haiti Will Train 15,000 New Soldiers"
 **Estati:** ✅ PARE · 1080×1920 · foto ofisyèl seremoni Vètyè 18 nov (Primature; Ministère du Tourisme) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L8 (Tc6CNjHZ14A)**.
 - Video: `haiti-brief/2026-11-19/HaitiBrief_Short_25_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Short_25_Nov_19.mp4
 - Kòmantè pin: `Sources: Le Nouvelliste; Juno7 (Nov. 18, 2026). Photos: Primature; Ministère du Tourisme d'Haïti.`
