@@ -310,3 +310,39 @@ Christian Sanon, Sanon verdict, Sanon guilty, Jovenel Moise, Jovenel Moise case,
 BREAKING: A federal jury in Miami found Christian Sanon guilty on all charges in the U.S. case tied to the 2021 assassination of President Jovenel Moïse, AP reports. Sentencing is set for Feb. 10. His lawyer says they will appeal.
 #Haiti #JovenelMoise #HaitiNews
 ```
+
+## 🚨 POSTE KOUNYA (PUBLIC) · MÈKREDI 18 NOV · BREAKING VÈDIK · LONG-FORM hb-L9 · 3:50 · "Christian Sanon Found Guilty"
+**Estati:** ✅ PARE · 1920×1080 · **@haitibrief YouTube SÈLMAN** · Claire + Marc (A1–A5) + narasyon · **Altered content: Yes** · Saneme: scoop enpòtan, poste l touswit.
+- Video: `haiti-brief/2026-11-18/HaitiBrief_LongForm_L9_Nov_18.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-18/HaitiBrief_LongForm_L9_Nov_18.mp4
+- Thumbnail: `haiti-brief/2026-11-18/HaitiBrief_Thumb_L9_A.jpg`
+- End screen: Subscribe + Part 3 (S1E3, IL0iF-Se5k8). Playlist: "The Jovenel Moïse Case".
+- Kòmantè pin: `Sources: Associated Press; CNN; CBC; Miami Herald (Nov. 17–18, 2026). Sentencing is set for Feb. 10. Our series: Part 3 https://youtu.be/IL0iF-Se5k8`
+- Apre: mete hb-L9 kòm Related video sou hb-S24 (j_BhoZqB_Po).
+
+**Tit:**
+```
+Christian Sanon Found Guilty: What the Verdict in the Jovenel Moïse Case Means
+```
+**Deskripsyon:**
+```
+A federal jury in Miami found Christian Emmanuel Sanon guilty on all charges on Wednesday, Nov. 18, 2026, in the U.S. case over the July 7, 2021, assassination of Haitian President Jovenel Moïse. He faced eight charges; the most serious was conspiracy to kidnap or kill a person outside the United States. Sentencing is set for Feb. 10, and he faces up to life in prison. His lawyer says the defense will appeal.
+
+In this video: the verdict, the case prosecutors made and what the defense said, the four men convicted in May, and what happens next.
+
+0:00 Guilty on all charges
+0:37 The verdict
+1:06 The case
+2:05 Not the first
+2:46 What next
+
+Our series, The Jovenel Moïse Case — Part 3: https://youtu.be/IL0iF-Se5k8
+
+Sources: Associated Press (Nov. 18, 2026); CNN (Nov. 18, 2026); CBC News (Nov. 18, 2026); Miami Herald (Jacqueline Charles, Nov. 17–18, 2026). Photos: Wilkie D. Ferguson Jr. U.S. Courthouse, Miami (public domain); The White House, 2018 (public domain). Map data © OpenStreetMap contributors.
+
+Subscribe to Haiti Brief for news from Haiti, every day.
+#Haiti #JovenelMoise #HaitiNews
+```
+**Tags:**
+```
+Christian Sanon, Sanon verdict, Sanon guilty, Jovenel Moise, Jovenel Moise case, Jovenel Moise assassination, Miami trial, Haiti news, Haiti Brief
+```
