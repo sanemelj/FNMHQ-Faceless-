@@ -23,4 +23,13 @@ Pwononsyasyon: "Nyon" = "nee-YON".
 > Jamie says: "Their opponents come from Belgium, the Netherlands, Spain or Norway. Who do you want England to get? Tell us in the comments."
 
 *(Fè yo: tiraj vandredi 20 nov, 11:00 GMT = 5 AM CT, Nyon — beIN + AOL; po 1 ak po 2 — beIN + AOL + Yahoo.)*
-## 5:00 PM · liy yo ap vini anvan 1 PM
+## 5:00 PM · "Give me time" (Pochettino) · livre **anvan 3:30 PM**
+Rad L4, kamera fiks. Ton: ti souri sou Y2. Pwononsyasyon: "Pochettino" = "poh-cheh-TEE-noh".
+### Y1, CALLUM · hook (~6 s)
+> Callum says: "On Tuesday night, a TV pundit told Mauricio Pochettino: Manchester is blue."
+### Y2, JAMIE (~6 s) · li site l, ti souri
+> Jamie says: "His answer: No way. You will see. Give me time."
+### Y3, CALLUM · fèmti (~8 s)
+> Callum says: "His first test is Sunday, at Anfield. Should United give him time? Tell us in the comments."
+
+*(Fè yo: DaMarcus Beasley sou TNT Sports, madi swa apre USA 2–0 Haiti: "Manchester is blue"; Pochettino: "No way… You will see… Give me time." — Yahoo/Futbol Chronicle (sit Sky Sports) + sporten + thewillnews. Pawòl egzak, pa chanje yo.)*
