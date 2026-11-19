@@ -12,5 +12,11 @@ Pwononsyasyon: "Columbus" = "kuh-LUM-bus".
 
 *(Fè yo: premye jwè ki genyen Golden Boot MLS 2 sezon youn dèyè lòt — Al Jazeera + beIN + Flashscore (8 nov). Inter Miami v Columbus Crew, Round One Game 1, samdi 21 nov 5 PM CT — mlssoccer.com + Sports Mole.)*
 
-## 12:00 PM · liy yo ap vini anvan 8:30 AM vandredi
-## 5:00 PM · liy yo ap vini anvan 1 PM vandredi
+## 12:00 PM · Guess the score: Liverpool v Man United · livre **anvan 10:30 AM vandredi** (pi bonè pi bon)
+### G5, CALLUM · hook (~7 s) · enèji
+> Callum says: "Liverpool against Manchester United. Sunday. Pochettino's first game. Guess the score."
+### G6, JAMIE · fèmti (~8 s) · ti souri
+> Jamie says: "Liverpool are fourth, United eighteenth. Pause the video, and put your score in the comments."
+
+*(Fè yo: Dim 22 nov 10:30 AM CT, Anfield; Liverpool 4e 18 pts, United 18e 8 pts — Sky Sports + The Analyst; liverpoolfc.com + SI.)*
+## 5:00 PM · liy yo ap vini vandredi ~1:30 PM (rezilta Ronaldo, Al-Ahli v Al Nassr 11:30 AM CT). Prepare w pou 2 klip rapid.
