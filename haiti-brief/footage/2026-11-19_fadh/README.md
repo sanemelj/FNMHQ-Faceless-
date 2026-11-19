@@ -23,3 +23,20 @@ Tout sous anba yo se kont OFISYÈL gouvènman an, poste 18 nov 2026, jou seremon
 Fichye foto yo ap telechaje depi pòs ofisyèl yo epi livre isit la (oswa lyen Drive « Haiti Brief — Clips pou Claude ») ANVAN dat limit 2:00 PM ET 19 nov la. Si yon pòs bloke telechajman pwòp la, m ap ekri sa isit la menm epi w ap sèvi ak achiv Wikimedia MCI yo (CC BY 4.0) jan w te prevwa a.
 
 - 22:10 ET · Kai: Seleksyon final Claude (21:47 ET) resevwa: F2 foto 2, F4, F5 (plan lajè sèlman) + 1 plan lajè F1 (sèn nan). Telechajman an kou — livrezon isit la anvan 2:00 PM ET 19 nov.
+
+## ETAP 2 — LIVRE (Kai, 18 nov 22:59 ET)
+
+12 foto livre isit la kòm `.jpg.b64.txt` (dekode: `base64 -d fichye.jpg.b64.txt > fichye.jpg`). Kredi: « Photo: Primature » (F1, F2, F4) / « Photo: Ministère du Tourisme d'Haïti » (F5). Tout se plan laje: pa gen figi sivil an gwo plan, pa gen timoun. Telechaje depi CDN ofisyèl FB/IG yo a pi gwo rezolisyon navigatè a ofri; okenn filigran platfom.
+
+- `F2_photo2_primature_flag_troops_wide.jpg` — 1053x720, 96,914 bytes — F2 foto 2: PM a leve drapo a devan twoup an fòmasyon, moniman MUPANAH dèyè. (Nòt: pos F2 a gen 5 foto an reyalite, pa 4; foto 2 a verifye vizyèlman — se li menm.)
+- `F1_photo5_primature_stage_wide.jpg` — 1080x720, 102,463 bytes — F1 foto 5: plan laje tout sèn nan, PM nan podium, ofisye ak envite chita de bo.
+- `F5_photo02_tourisme_marching_wide.jpg` — 1250x834, 224,996 bytes — F5 foto 2: fòmasyon FAd'H kap mache ak fizi, tapi wouj.
+- `F5_photo06_tourisme_column_wide.jpg` — 1250x834, 230,047 bytes — F5 foto 6: gwo kolon kap mache sou gazon an.
+- `F5_photo08_tourisme_colorguard_wide.jpg` — 1250x834, 209,377 bytes — F5 foto 8: gad koulè (drapo Ayiti + drapo FAd'H) devan Pale a. (Logo « Haiti » Ministè Touris la anba adwat — se logo sous la menm; koupe anba a si w vle.)
+- `F5_photo09_tourisme_band_wide.jpg` — 1250x834, 235,060 bytes — F5 foto 9: fanfa militè kap mache.
+- `F5_photo12_tourisme_colorguard_stage_wide.jpg` — 1250x834, 211,359 bytes — F5 foto 12: gad koulè kap mache ve sen Vètyè a, twoup an atansyon.
+- `F5_photo13_tourisme_colorguard_vertical.jpg` — 1334x1668, 388,376 bytes — F5 foto 13: gad koulè an VETIKAL (bon pou fòma Short la).
+- `F4_slide01_primature_ig_inspection_wide.jpg` — 2560x1705, 930,070 bytes — F4 slide 1: enspeksyon — PM + ofisye devan liy sòlda an atansyon.
+- `F4_slide05_primature_ig_colorguard_wide.jpg` — 1080x719, 167,439 bytes — F4 slide 5: defile gad koulè, moniman dèyè.
+- `F4_slide06_primature_ig_marching_wide.jpg` — 1080x719, 177,726 bytes — F4 slide 6: twoup kap mache, moniman + banyè Vètyè.
+- `F4_slide14_primature_ig_formation_wide.jpg` — 2560x1705, 645,813 bytes — F4 slide 14: twoup an fòmasyon an atansyon, moniman dèyè.
