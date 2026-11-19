@@ -113,3 +113,32 @@ Haiti army, FAdH, Forces Armees d'Haiti, Fils-Aime, Haiti soldiers, Vertieres 20
 Haiti will train 15,000 new soldiers over three years, Prime Minister Alix Didier Fils-Aimé announced on Vertières Day. He also promised to strengthen the National Police.
 #Haiti #HaitiNews #Vertieres
 ```
+
+## 9:00 PM ET · JEDI 19 NOV · SHORT hb-S26 · 0:45 · "Haiti Opposition Marches, Calls on the Prime Minister to Resign"
+**Estati:** ✅ PARE · 1080×1920 · kat wout (Delmas → Pétion-Ville, "approx. route") + footaj mach 17 nov make **FILE** (Le Nouvelliste, Voix Katriyèm) + kat Gonaïves + foto Primature seremoni Vètyè · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L10** (lyen an apre 4 PM ET).
+- Video: `haiti-brief/2026-11-19/HaitiBrief_Short_26_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Short_26_Nov_19.mp4
+- Kòmantè pin: `Sources: Rezo Nòdwès; EFE (Nov. 18, 2026); Le Nouvelliste; CEP. Full report on the marches: [lyen hb-L10]`
+
+**Tit:**
+```
+Haiti Opposition Marches, Calls on the Prime Minister to Resign #Shorts
+```
+**Deskripsyon:**
+```
+On Wednesday, Nov. 18, opposition groups marched in Port-au-Prince from Delmas toward Pétion-Ville and the prime minister's office, calling on Prime Minister Alix Didier Fils-Aimé to resign and voicing support for El Salvador's operation against the gangs, Rezo Nòdwès and EFE report. A day earlier, thousands marched in the capital to praise Nayib Bukele and the Salvadoran troops. In Gonaïves, marchers also called for Fils-Aimé to go, according to Rezo Nòdwès. The same day, at the Vertières ceremony, Fils-Aimé announced plans to train 15,000 new soldiers and repeated his goal of holding elections. The first round is set for July 18, 2027.
+
+Full report on the marches: [lyen hb-L10]
+
+Sources: Rezo Nòdwès; EFE (Nov. 18, 2026); Le Nouvelliste; Juno7; Haiti's Provisional Electoral Council (CEP). Videos: Le Nouvelliste and Voix Katriyèm (Facebook, Nov. 17, file footage). Photos: Primature. Map data © OpenStreetMap contributors.
+#Haiti #HaitiNews #FilsAime
+```
+**Tags:**
+```
+Haiti opposition march, Fils-Aime resign, Haiti prime minister, Port-au-Prince protest, Bukele Haiti, Gonaives, Haiti elections 2027, Haiti news, Haiti Brief
+```
+**Facebook (Reel, 9:00 PM ET):**
+```
+Opposition groups marched in Port-au-Prince on Wednesday and called on Prime Minister Alix Didier Fils-Aimé to resign, while voicing support for El Salvador's operation against the gangs (Rezo Nòdwès, EFE).
+#Haiti #HaitiNews #FilsAime
+```
+
