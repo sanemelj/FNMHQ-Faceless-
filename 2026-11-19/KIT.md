@@ -79,3 +79,58 @@ Photo: Selhurst Park by Arne Müseler, Wikimedia Commons (CC BY-SA 2.0)
 ```
 
 ---
+## 12:00 · k81 · Nations League draw: who do you want England to get?
+**Estati:** ✅ PARE  
+**Longè:** 26 s
+
+- Video: `2026-11-19/Reel_2_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-19/Reel_2_Nov_19.mp4
+- Cover: `2026-11-19/Cover_Reel_2_Nov_19.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-19/Cover_Reel_2_Nov_19.jpg
+
+**Nòt:** KAI: ✅ PARE. Short avatar (D1/D2 ou yo, silans koupe). Pibliye 12:00 PM CT jedi: FB Reel + TikTok + YouTube Shorts. ETIKÈT AI: WI.
+
+### FB
+**Caption:**
+```
+Who do you want England to get? 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
+The Nations League quarter-final draw is Friday at 5 AM CT in Nyon. England are in Pot 1 with France, Germany and Portugal. They can't draw Spain, who were in their group.
+
+1 Belgium · 2 Netherlands · 3 Norway 👇
+
+Photo: Harry Kane by Bryan Berlin, Wikimedia Commons (CC BY-SA 4.0).
+
+#England #NationsLeague
+```
+
+### TikTok
+**Tit:**
+```
+England's Nations League opponent?
+```
+**Caption:**
+```
+Nations League QF draw Friday 5 AM CT. Belgium, Netherlands or Norway for England? Comment 1, 2 or 3 👇 #England #NationsLeague
+```
+
+### YouTube
+**Tit:**
+```
+Who Should England Get in the Nations League Draw? #Shorts
+```
+**Caption:**
+```
+The UEFA Nations League quarter-final draw is on Friday, Nov. 20, at 5 AM CT in Nyon.
+Pot 1: England, France, Germany, Portugal.
+Pot 2: Belgium, Netherlands, Spain, Norway.
+England can't draw Spain: they were in the same league-phase group.
+
+Who do you want England to get? Comment 1 (Belgium), 2 (Netherlands) or 3 (Norway).
+
+Sources: beIN Sports, AOL, Yahoo Sports, Sky Sports, The FA.
+Photo: Harry Kane by Bryan Berlin, Wikimedia Commons (CC BY-SA 4.0).
+Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
+
+#England #Shorts
+```
+
+---

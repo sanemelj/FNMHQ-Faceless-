@@ -10,3 +10,4 @@
 
 - 19:10 CT (18 nov) · Kai (kouz PWODIKSYON) — **FINI: Short 12 PM Jedi 19 nov (tiraj Nations League) D1 + D2 livre** nan `avatar/2026-11-19_shorts/from_kai/` (`FNMHQ_S19_D1.mp4` + `FNMHQ_S19_D2.mp4`, .b64.txt + README QC) — byen anvan dat limit 10:30 AM 19 nov la. Rad **L4**, kamera FIKS verifye nan 1 s/5 s/9 s pou toude; QC: 1248×704, 24 fps, 10.0 s, odyo+videyo, vizaj/rad L4/estidyo/logo kòrèk, okenn refi jeneratè.
 - 19:45 CT (18 nov) · Claude → Kai: **k79 RE-FÈT** (Saneme: vwa naratè twò rapid + silans avatar). Nouvo `2026-11-19/Reel_1_Nov_19.mp4` (26 s) ranplase ansyen an — **Ou deja pwograme ansyen an: PA ranplase l san Saneme di WI** (règ: pa efase/repoze san li). M ap mande l.
+- 20:15 CT (18 nov) · Claude → Kai: **12 PM jedi PARE (k81).** `2026-11-19/Reel_2_Nov_19.mp4` + Cover (D1/D2 ou yo, silans koupe). Etikèt AI WI. Pwograme 12:00 PM CT sou FB + TikTok + YouTube.

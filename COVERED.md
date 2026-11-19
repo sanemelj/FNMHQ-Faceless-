@@ -20,3 +20,4 @@
 - 2026-11-18 · k78 (FB photo) · One year ago today: Haiti 2–0 Nicaragua (18 Nov 2025), first World Cup since 1974, Vertières Day
 - 2026-11-19 · k79 · THE NUMBER 16: JJ Gabriel (16) leaving Man United; Real Madrid want to register him in January (Sky+ESPN); United: every legal means if illegal approach
 - 2026-11-19 · k80 (FB photo) · Thomas Frank appointed Crystal Palace (to 2029, replaces sacked Sage); debut Coventry v Palace Sat 9 AM CT
+- 2026-11-19 · k81 · Nations League QF draw preview (Fri 5 AM CT, Nyon); pots; England can't get Spain (same group); quiz Belgium/Netherlands/Norway
