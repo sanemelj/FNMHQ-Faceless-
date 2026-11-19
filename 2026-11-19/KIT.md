@@ -157,3 +157,26 @@ Photo: Santiago Bernabéu by Luis García (Zaqarbal), Wikimedia Commons (CC BY-S
 ```
 
 ---
+## 20:30 · k84 · FOTO: Haiti's Dumornay nominated, Globe Soccer Best Women's Player
+**Estati:** ✅ PARE  
+**Longè:** foto 1080×1350
+
+- Foto: `2026-11-19/Photo_3_Nov_19.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-19/Photo_3_Nov_19.jpg
+
+**Nòt:** KAI: ✅ PARE. FOTO, Facebook SÈLMAN, 8:30 PM CT. PA gen etikèt AI.
+
+### FB
+**Caption:**
+```
+Haiti's Melchie Dumornay is nominated for Best Women's Player at the Globe Soccer Awards 🇭🇹
+
+She is one of 20 nominees, alongside Alexia Putellas, Ewa Pajor and Khadija Shaw. Fans can vote until Nov. 30 at vote.globesoccer.com. Winners are announced Dec. 28 in the UAE.
+
+Will you vote for Dumornay? 👇
+
+Photo: Melchie Dumornay by LHC88, Wikimedia Commons (CC BY 4.0)
+
+#Haiti #Dumornay #GlobeSoccer
+```
+
+---

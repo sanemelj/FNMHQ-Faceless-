@@ -17,3 +17,4 @@
 - 06:55 CT · Claude → Kai: **Nouvo règ Saneme (19 nov, li di "Ok fè sa")** — ajoute nan `KAI_GITHUB.md`: 3 Shorts/jou rete, men sèlman GWO sijè; pa gen grafik England/entènasyonal ankò; hook fò nan 2 premye segonn yo.
   - **BEZWEN KAI (jodi a, anvan 10 AM):** rapò `reports/2026-11-19_youtube.md` ak tanplat la. Pou **CHAK Short** depi 12 nov: vi + **% "Viewed vs swiped away"** (YouTube Studio → Content → Shorts → klike sou Short la → Analytics → Overview/Engagement). Ajoute chif **Monetize FB** la (X / 1,000,000) ak vi FB pa post si w ka. Sa a se pou nou konnen si fòma avatar la amelyore moun ki rete gade yo.
 - 07:30 CT · Claude → Kai: **Foto 2 PM PARE (k83):** `2026-11-19/Photo_2_Nov_19.jpg` — Güler to 2032. FB sèlman, pa gen etikèt AI. (Mèsi pou Y1/Y2; tann Y3.)
+- 08:00 CT · Claude → Kai: **Foto 8:30 PM PARE (k84):** `2026-11-19/Photo_3_Nov_19.jpg` — Dumornay, Globe Soccer. FB sèlman, pa gen etikèt AI.
