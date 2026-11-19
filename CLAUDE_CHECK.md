@@ -12,3 +12,8 @@ NEWSROOM: every script, caption and title follows the newsroom-journalism skill 
 7. Push-notify Sam ONLY for `BEZWEN SANEME:`, strikes/claims, logins (never 00:00–05:59 CT unless urgent).
 8. Nothing new and no slot due → change nothing; one line: "FNMHQ: anyen nouvo, HH:MM".
 Container lost? Re-clone the repo; production tools live in /home/claude/fnmhq (engine916, tts_cb, tools) — if missing, tell Sam once.
+
+## Règ edisyon Saneme (18 nov 19:28) — APLIKE SOU TOUT VIDEYO
+- **Vwa naratè a pa dwe pi rapid pase avatar yo:** sib ≈ 2.9 mo/segonn (avatar yo). Chatterbox: `vo_cb.py DIR 0.5 0.2`, yon fraz pa segman ak gap 0.45 s, epi `atempo=0.92`. Mezire mo/s anvan render.
+- **Koupe silans avatar yo:** `python3 tools/tighten.py clip.mp4 words.json KEY out.mp4` (koupe tèt/ke + poz entèn > 0.35 s; kenbe 0.1 s pad). Pa janm mete yon klip avatar ak silans long ladan l.
+- **Long-form: 1 min twò kout.** Sib **4–6 min**: 16–20 klip avatar + 3–4 segman naratè + 4–5 chapit. Ekri liy yo bonè (Kai bezwen tan).
