@@ -27,3 +27,29 @@ Haiti El Salvador, Salvadoran troops Haiti, Bukele Haiti, Patrick Pelissier, Hai
 "No date": Haiti's justice minister says El Salvador's troops are needed at least until elections next year, AP reports. El Salvador had said they would leave once four missing technicians are found.
 #Haiti #Bukele #HaitiNews
 ```
+
+## 6:00 PM ET · JEDI 19 NOV · SHORT hb-S25 · 0:40 · "Haiti Will Train 15,000 New Soldiers"
+**Estati:** ✅ PARE · 1080×1920 · foto ofisyèl seremoni Vètyè 18 nov (Primature; Ministère du Tourisme) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L8 (Tc6CNjHZ14A)**.
+- Video: `haiti-brief/2026-11-19/HaitiBrief_Short_25_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Short_25_Nov_19.mp4
+- Kòmantè pin: `Sources: Le Nouvelliste; Juno7 (Nov. 18, 2026). Photos: Primature; Ministère du Tourisme d'Haïti.`
+
+**Tit:**
+```
+Haiti Will Train 15,000 New Soldiers, Prime Minister Says #Shorts
+```
+**Deskripsyon:**
+```
+Haiti's Prime Minister Alix Didier Fils-Aimé announced on Nov. 18, 2026, that the country will train 15,000 new soldiers for the Armed Forces of Haiti (FAd'H) over three years. He made the announcement at the National Palace during ceremonies for the 223rd anniversary of the Battle of Vertières, promised to strengthen the Haitian National Police, honored six FAd'H soldiers, and repeated his goal of holding elections. Haiti's army was disbanded in 1995 and brought back in 2017.
+
+Sources: Le Nouvelliste (Nov. 18, 2026); Juno7 (Nov. 18, 2026). Photos: Primature; Ministère du Tourisme d'Haïti.
+#Haiti #HaitiNews #Vertieres
+```
+**Tags:**
+```
+Haiti army, FAdH, Forces Armees d'Haiti, Fils-Aime, Haiti soldiers, Vertieres 2026, Haiti police, Haiti gangs, Haiti news, Haiti Brief
+```
+**Facebook (Reel, 6:00 PM ET):**
+```
+Haiti will train 15,000 new soldiers over three years, Prime Minister Alix Didier Fils-Aimé announced on Vertières Day. He also promised to strengthen the National Police.
+#Haiti #HaitiNews #Vertieres
+```
