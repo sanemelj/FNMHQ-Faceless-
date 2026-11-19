@@ -21,3 +21,4 @@
 - 2026-11-19 · k79 · THE NUMBER 16: JJ Gabriel (16) leaving Man United; Real Madrid want to register him in January (Sky+ESPN); United: every legal means if illegal approach
 - 2026-11-19 · k80 (FB photo) · Thomas Frank appointed Crystal Palace (to 2029, replaces sacked Sage); debut Coventry v Palace Sat 9 AM CT
 - 2026-11-19 · k81 · Nations League QF draw preview (Fri 5 AM CT, Nyon); pots; England can't get Spain (same group); quiz Belgium/Netherlands/Norway
+- 2026-11-20 · k82 (LONG-FORM 16:9, 3:00) · Liverpool v Man United, Pochettino's first test · table after 10; Poch v LFC W3 D5 L11; Anfield 2013 win (Southampton) / 2024 4–1 loss (Chelsea)
