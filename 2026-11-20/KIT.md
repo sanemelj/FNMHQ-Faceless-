@@ -4,7 +4,7 @@ Kai: pibliye kat ki make ✅ PARE a lè yo (CT). Apre chak post, ekri lyen an na
 
 ## 19:00 · k82 · LONG-FORM: Liverpool v Man United — Pochettino's first test
 **Estati:** ✅ PARE  
-**Longè:** 3:00 (16:9)
+**Longè:** 3:12 (16:9)
 
 - Video 16:9: `2026-11-20/LongForm_Liverpool_ManUtd_Nov_20.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-20/LongForm_Liverpool_ManUtd_Nov_20.mp4
 - Thumbnail YouTube: `2026-11-20/Thumb_LongForm_Liverpool_ManUtd_Nov_20.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-20/Thumb_LongForm_Liverpool_ManUtd_Nov_20.jpg
@@ -49,6 +49,7 @@ The facts
 • Pochettino v Liverpool as a manager: 19 games, 3 wins, 5 draws, 11 defeats (goals 20–33).
 • Liverpool 0–1 Southampton, Anfield, Sept. 21, 2013 (Lovren). Liverpool 4–1 Chelsea, Anfield, Jan. 31, 2024.
 • United sacked Michael Carrick on Nov. 12 and named Pochettino a day later. He started on Wednesday, Nov. 18.
+• Pochettino on his first day: "It's an honour, it's a privilege." To DaMarcus Beasley on TNT Sports ("Manchester is blue"): "No way. You will see. Give me time."
 
 Our take (analysis, not fact): a draw at Anfield would be a good start. United's problem is draws, not defeats.
 
@@ -60,9 +61,9 @@ Chapters
 0:43 The table
 1:12 Pochettino v Liverpool
 1:58 United's problem
-2:23 Our take
+2:36 Our take
 
-Sources: Sky Sports and The Analyst (table); Sports Illustrated and Sports Mole (record); 11v11, FourFourTwo, CBS Sports (past results); NBC News, Al Jazeera (USA appointment); Liverpool FC (kickoff).
+Sources: Sky Sports and The Analyst (table); Sports Illustrated and Sports Mole (record); 11v11, FourFourTwo, CBS Sports (past results); NBC News, Al Jazeera (USA appointment); Liverpool FC (kickoff); Manchester United interview via AOL, TNT Sports exchange via Yahoo Sports/Futbol Chronicle and Sky Sports.
 Photos via Wikimedia Commons: Mauricio Pochettino by Bryan Berlin (CC BY-SA 4.0); Anfield by Christine Matthews (CC BY-SA 2.0); The Kop by Eirian Evans (CC BY-SA 2.0) and an anonymous uploader (CC BY 1.0); Old Trafford by Lewis Clarke (CC BY-SA 2.0); Michael Carrick by Timmy96 (CC0); TQL Stadium by RickDikeman (CC0); Southampton, May 2013 by Andre666 (CC BY-SA 3.0). Changes: cropped, resized.
 Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
 
