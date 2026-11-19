@@ -2,6 +2,60 @@
 
 Kai: pibliye kat ki make ✅ PARE a lè yo (CT). Apre chak post, ekri lyen an nan `POSTED.md` (menm dosye a). Nòt → `NOTES.md`.
 
+## 07:00 · k86 · THE NUMBER: 2 — Messi's back-to-back Golden Boots
+**Estati:** ✅ PARE  
+**Longè:** 29 s
+
+- Video: `2026-11-20/Reel_1_Nov_20.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-20/Reel_1_Nov_20.mp4
+- Cover: `2026-11-20/Cover_Reel_1_Nov_20.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-20/Cover_Reel_1_Nov_20.jpg
+
+**Nòt:** KAI: ✅ PARE. THE NUMBER avatar (M1/M2 ou yo, silans koupe). Pibliye 7:00 AM CT vandredi: FB Reel + TikTok + YouTube Shorts. ETIKÈT AI: WI.
+
+### FB
+**Caption:**
+```
+2. Lionel Messi is the first player to win the MLS Golden Boot two seasons in a row 🐐
+
+His playoffs start Saturday at 5 PM CT: Inter Miami v Columbus Crew, Round One.
+
+How many goals does Messi score? 👇
+
+Photo: Lionel Messi by Bryan Berlin, Wikimedia Commons (CC BY-SA 4.0).
+
+#Messi #InterMiami #MLS
+```
+
+### TikTok
+**Tit:**
+```
+THE NUMBER: 2
+```
+**Caption:**
+```
+Messi: first player to win the MLS Golden Boot back to back. Playoffs start Saturday v Columbus. How many does he score? 👇 Photo: Wikimedia Commons. #Messi #InterMiami
+```
+
+### YouTube
+**Tit:**
+```
+2: Messi Makes MLS History #Shorts
+```
+**Caption:**
+```
+THE NUMBER: 2.
+
+Lionel Messi is the first player to win the MLS Golden Boot in back-to-back seasons. Inter Miami host Columbus Crew in Round One of the MLS Cup playoffs (best of three) on Saturday, Nov. 21, at 5 PM CT.
+
+How many goals does Messi score? Tell us in the comments.
+
+Sources: Al Jazeera, beIN Sports, Flashscore (Golden Boot); MLSsoccer.com, Sports Mole (kickoff).
+Photo: Lionel Messi by Bryan Berlin, Wikimedia Commons (CC BY-SA 4.0). Changes: cropped.
+Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
+
+#Messi #Shorts
+```
+
+---
 ## 19:00 · k82 · LONG-FORM: Liverpool v Man United — Pochettino's first test
 **Estati:** ✅ PARE  
 **Longè:** 3:12 (16:9)
