@@ -56,6 +56,38 @@ Amnesty International says children in Haiti are still at risk of being killed, 
 #Haiti #HaitiNews #Kenscoff
 ```
 
+## 4:00 PM ET · JEDI 19 NOV · LONG-FORM hb-L10 · 4:15 · "'Bukele! Bukele!': Why Haitians Are Marching in 5 Cities"
+**Estati:** ✅ PARE · 1920×1080 · Claire + Marc A1–A5 (rad L4) + narasyon + footaj mach 17 nov (Le Nouvelliste, Voix Katriyèm, Vant Bèf Info — make FILE) + videyo Bukele + kat · **Altered content: Yes** (avatar) · Thumbnail: `HaitiBrief_Thumb_L10_A.jpg` · End screen: Subscribe + hb-L8 (Tc6CNjHZ14A) · Playlist: "Bukele & Haiti" si l egziste (pa kreye l).
+- Video: `haiti-brief/2026-11-19/HaitiBrief_LongForm_L10_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_LongForm_L10_Nov_19.mp4
+- Thumbnail: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Thumb_L10_A.jpg
+- Kòmantè pin: `Which city did you march in, or would you? Sources: Le Nouvelliste, Rezo Nòdwès, AP, EFE, Amnesty International. Our report on the Canaan strike: https://youtu.be/Tc6CNjHZ14A`
+- Apre piblikasyon: mete **Related video = hb-L10** sou hb-S27 (12 PM) ak hb-S26 (9 PM).
+
+**Tit:**
+```
+"Bukele! Bukele!": Why Haitians Are Marching in 5 Cities
+```
+**Deskripsyon:**
+```
+For two days, Haitians marched in Port-au-Prince, Jacmel, Cap-Haïtien, Gonaïves and Les Cayes in support of El Salvador's President Nayib Bukele and the Salvadoran troops fighting gangs in Haiti. In Port-au-Prince on Tuesday, Nov. 17, the Associated Press reported thousands of marchers; police fired tear gas near the national stadium. On Wednesday, Nov. 18, the anniversary of the Battle of Vertières, nearly a thousand people marched in Gonaïves (Le Nouvelliste; Rezo Nòdwès said several thousand) and thousands in Les Cayes. Some marchers asked for the arrest of politicians they accuse of ties to gangs, for Salvadoran troops in the Artibonite, and, in an opposition march in Port-au-Prince, for Prime Minister Alix Didier Fils-Aimé to resign. We also look at the government's answer, and at the warnings from Amnesty International and the International Crisis Group.
+
+00:00 Intro
+00:37 The backdrop
+01:07 The cities
+02:01 What the marchers want
+02:49 The other side
+03:51 What's next
+
+Our report on the Canaan strike: https://youtu.be/Tc6CNjHZ14A
+
+Sources: Le Nouvelliste (Nov. 17–18, 2026); Rezo Nòdwès; Associated Press (Nov. 12 and 17, 2026); EFE; AFP; Lambi News; Juno7; Amnesty International (Nov. 19, 2026). Videos: Le Nouvelliste, Voix Katriyèm and Vant Bèf Info (Facebook, Nov. 17, file footage); @nayibbukele on X. Photos: Kitanago, Rémi Kaupp, Hudson-explore, Rency Inson Michel, MichelleWalz (Wikimedia Commons, CC BY/BY-SA); Armed Forces of El Salvador, Casa Presidencial (CC0, file photo). Map data © OpenStreetMap contributors.
+#Haiti #Bukele #HaitiNews
+```
+**Tags:**
+```
+Haiti marches Bukele, Bukele Haiti, Haiti protest, Gonaives, Les Cayes, Jacmel, Cap-Haitien, Fils-Aime resign, Salvadoran troops Haiti, Haiti gangs, Haiti news, Haiti Brief
+```
+
 ## 6:00 PM ET · JEDI 19 NOV · SHORT hb-S25 · 0:40 · "Haiti Will Train 15,000 New Soldiers"
 **Estati:** ✅ PARE · 1080×1920 · foto ofisyèl seremoni Vètyè 18 nov (Primature; Ministère du Tourisme) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L8 (Tc6CNjHZ14A)**.
 - Video: `haiti-brief/2026-11-19/HaitiBrief_Short_25_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Short_25_Nov_19.mp4
