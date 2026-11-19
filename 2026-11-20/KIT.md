@@ -79,6 +79,60 @@ Photo: The Kop, Anfield by Eirian Evans, Wikimedia Commons (CC BY-SA 2.0)
 ```
 
 ---
+## 12:00 · k88 · Guess the score: Liverpool v Man United
+**Estati:** ✅ PARE  
+**Longè:** 31 s
+
+- Video: `2026-11-20/Reel_2_Nov_20.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-20/Reel_2_Nov_20.mp4
+- Cover: `2026-11-20/Cover_Reel_2_Nov_20.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/2026-11-20/Cover_Reel_2_Nov_20.jpg
+
+**Nòt:** KAI: ✅ PARE. Short avatar (G5/G6 ou yo). Pibliye 12:00 PM CT vandredi: FB Reel + TikTok + YouTube Shorts. ETIKÈT AI: WI.
+
+### FB
+**Caption:**
+```
+Guess the score 👀 Liverpool v Manchester United, Sunday 10:30 AM CT, Anfield. Pochettino's first game.
+
+Liverpool are 4th (18 pts), United 18th (8 pts). As a manager, Pochettino has beaten Liverpool 3 times in 19 games.
+
+Your score? 👇
+
+Photos via Wikimedia Commons: Anfield by Christine Matthews (CC BY-SA 2.0); The Kop (CC BY 1.0).
+
+#LIVMUN #ManUtd #LFC
+```
+
+### TikTok
+**Tit:**
+```
+Guess the score: LIV v MUN
+```
+**Caption:**
+```
+Liverpool v Man United, Sunday 10:30 AM CT. Pochettino's first game. Your score? 👇 #LIVMUN #ManUtd #LFC
+```
+
+### YouTube
+**Tit:**
+```
+Liverpool vs Man United: Guess the Score #Shorts
+```
+**Caption:**
+```
+Liverpool v Manchester United, Sunday, Nov. 22, 10:30 AM CT at Anfield: Mauricio Pochettino's first game in charge of United.
+
+Liverpool are 4th with 18 points; United are 18th with 8 (after 10 games). As a manager, Pochettino has won 3 of 19 games against Liverpool.
+
+Pause and put your score in the comments.
+
+Sources: Sky Sports, The Analyst (table); Sports Illustrated, Sports Mole (record); Liverpool FC (kickoff).
+Photos via Wikimedia Commons: Anfield by Christine Matthews (CC BY-SA 2.0); The Kop (CC BY 1.0).
+Presenters Callum Pryce and Jamie Hollis are AI-generated characters.
+
+#LIVMUN #Shorts
+```
+
+---
 ## 19:00 · k82 · LONG-FORM: Liverpool v Man United — Pochettino's first test
 **Estati:** ✅ PARE  
 **Longè:** 3:12 (16:9)
