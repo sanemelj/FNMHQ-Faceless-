@@ -15,5 +15,12 @@
 
 *(Fè yo: Gabriel anonse li kite United (Sky + ESPN + SI, 17–18 nov). Real Madrid vle anrejistre l an janvye (Sky + ESPN). Li gen 16 an (Sky + ESPN). Règ: li minè, se sèlman fè foutbòl; pa gen foto li, pa gen lavi prive.)*
 
-## 12:00 PM · liy yo ap vini anvan 8:30 AM (sijè apre gad match 6 AM lan)
+## 12:00 PM · Tiraj Nations League demen maten · livre **anvan 10:30 AM**
+Pwononsyasyon: "Nyon" = "nee-YON".
+### D1, CALLUM · hook (~9 s) · enèji
+> Callum says: "Tomorrow morning in Nyon, it's the Nations League quarter-final draw. England, France, Germany and Portugal are in pot one."
+### D2, JAMIE · fèmti (~9 s) · ti souri
+> Jamie says: "Their opponents come from Belgium, the Netherlands, Spain or Norway. Who do you want England to get? Tell us in the comments."
+
+*(Fè yo: tiraj vandredi 20 nov, 11:00 GMT = 5 AM CT, Nyon — beIN + AOL; po 1 ak po 2 — beIN + AOL + Yahoo.)*
 ## 5:00 PM · liy yo ap vini anvan 1 PM
