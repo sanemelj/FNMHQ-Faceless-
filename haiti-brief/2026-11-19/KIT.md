@@ -28,6 +28,34 @@ Haiti El Salvador, Salvadoran troops Haiti, Bukele Haiti, Patrick Pelissier, Hai
 #Haiti #Bukele #HaitiNews
 ```
 
+## 12:00 PM ET · JEDI 19 NOV · SHORT hb-S27 · 0:49 · "Amnesty: Haiti's Children Still at Risk After the Kenscoff Raid"
+**Estati:** ✅ PARE · 1080×1920 · foto mòn Kenscoff/Fermathe (domèn piblik + CC BY-SA) + kat + foto achiv FAES · narasyon · **PA gen imaj timoun** · **Altered content: No** · **FB AI label: No** · Related video: **hb-L8 (Tc6CNjHZ14A)**.
+- Video: `haiti-brief/2026-11-19/HaitiBrief_Short_27_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Short_27_Nov_19.mp4
+- Kòmantè pin: `Source: Amnesty International, research published Nov. 19, 2026 (World Children's Day). Full report on the Salvadoran operation: https://youtu.be/Tc6CNjHZ14A`
+
+**Tit:**
+```
+Amnesty: Haiti's Children Still at Risk After the Kenscoff Raid #Shorts
+```
+**Deskripsyon:**
+```
+Amnesty International published new research on Thursday, Nov. 19, on the gang raid on Kenscoff, in the hills above Port-au-Prince, on Aug. 23, 2026. A municipal official says 55 people were killed and 15 injured. Amnesty documented the abduction of at least 11 children, including three toddlers. The UN says 15 women and four girls were raped, and more than 4,200 people were displaced. Amnesty names four gangs, Grand Ravine, Ti Bwa, 5 Segon and 400 Mawozo, all part of the Viv Ansanm coalition. It calls on all forces fighting the gangs, including Salvadoran troops and the UN-backed Gang Suppression Force, to spare civilians. "Protecting children must be an essential part of any response to Haiti's security crisis," said Ana Piquer, Amnesty's Americas director.
+
+Full report: Bukele's "Vertières Gift" https://youtu.be/Tc6CNjHZ14A
+
+Sources: Amnesty International (Nov. 19, 2026); UN/BINUH; Demócrata. Photos: Yinan Chen (public domain); Beasteder.ht (CC BY-SA 4.0); Armed Forces of El Salvador, Casa Presidencial (CC0, file photo). Map data © OpenStreetMap contributors.
+#Haiti #HaitiNews #Kenscoff
+```
+**Tags:**
+```
+Amnesty International Haiti, Kenscoff, Haiti children, Haiti gangs, Viv Ansanm, Gang Suppression Force, Haiti human rights, Haiti news, Haiti Brief
+```
+**Facebook (Reel, 12:00 PM ET):**
+```
+Amnesty International says children in Haiti are still at risk of being killed, abducted and abused by gangs. Its new research looks at the Aug. 23 raid on Kenscoff, and asks every force fighting the gangs to spare civilians.
+#Haiti #HaitiNews #Kenscoff
+```
+
 ## 6:00 PM ET · JEDI 19 NOV · SHORT hb-S25 · 0:40 · "Haiti Will Train 15,000 New Soldiers"
 **Estati:** ✅ PARE · 1080×1920 · foto ofisyèl seremoni Vètyè 18 nov (Primature; Ministère du Tourisme) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L8 (Tc6CNjHZ14A)**.
 - Video: `haiti-brief/2026-11-19/HaitiBrief_Short_25_Nov_19.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-19/HaitiBrief_Short_25_Nov_19.mp4
