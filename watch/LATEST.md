@@ -1,64 +1,66 @@
-# FNMHQ Match Watch — Thu 19 Nov 2026, 11:20 AM CT
+# FNMHQ Match Watch — Fri 20 Nov 2026, 6:22 AM CT
 
-*(Copy of `watch/2026-11-19_1120.md`.)*
+*(Copy of `watch/2026-11-20_0622.md`.)*
 
-Window: since the last watch (Thu 19 Nov, 6:20 AM CT) + next 72 h (to Sun 22 Nov ~11:20 AM CT, so **Liverpool v Man United is now inside the window**). International break is over for men's senior teams; club football restarts Friday. Every fact has 2 sources unless marked **UNCONFIRMED**. All times US Central (CT).
+Window: since the last watch (Thu 19 Nov, 11:20 AM CT) + next 72 h (to Mon 23 Nov ~6:20 AM CT). Club football restarts today. Every fact has 2 sources unless marked **UNCONFIRMED**. All times US Central (CT).
 
-**What changed since 6:20 AM:**
-1. **NEW (Haiti +2): FIFA U-17 World Cup started today in Qatar — France U-17 3–1 Haiti U-17** in the Group D opener. Haiti next play Uruguay on Sun 22 Nov. **NOT COVERED.**
-2. **NEW: Liverpool injury boost for Sunday** — Van Dijk, Gravenberch and Szoboszlai trained on Thursday (Sky Sports News report).
-3. **NEW: Pochettino's first press conference = Fri 20 Nov, 2:00 PM UK = 8:00 AM CT** (Premier League allowed a 30-minute delay).
-4. **NEW: Vinícius available again** — his four-match LaLiga ban is served; Real Madrid v Celta (Sat 2 PM CT) is his first possible league game back.
-5. **Arsenal update:** Saliba fit to challenge for Newcastle; Zubimendi muscle injury (Spain v England) → likely December; Saka still no date.
-6. Already produced since last watch: Güler (k83, 2 PM), Dumornay (k84, 8:30 PM), Pochettino "Give me time" (k85, 5 PM), Messi THE NUMBER 2 (k86, Fri 7 AM), LF02 Liverpool v Man United (k82, Fri 7 PM). **Yamal award and Globe Soccer men's nominees still NOT COVERED.**
+**What changed since Thu 11:20 AM:**
+1. **NEW: Nations League QF draw done (Nyon, Fri morning): Spain v France · Norway v England · Netherlands v Portugal · Belgium v Germany.** Legs 25–27 & 28–30 March 2027. **NOT COVERED.**
+2. **NEW: Arteta presser — Saka has an "eight-week injury… he's four at the moment"** (≈4 more weeks). Saliba "ready". Zubimendi "out for a few weeks". **NOT COVERED.**
+3. **NEW: Mourinho presser — Vinícius start in doubt:** "We don't have players with privileges… Starter, off the bench, or in the stands, it doesn't matter." **NOT COVERED.**
+4. **NEW (Haiti +2): Haiti U-17 scorer reported as Macenat Prophète, 88' (UNCONFIRMED — Le Nouvelliste only)**. France: Merrifield 4', 41', Tiehi 47'. Next v Uruguay Sun 22 Nov (kick-off **9:30 AM CT — UNCONFIRMED, 1 source**).
+5. **Today 8:00 AM CT: Pochettino's first press conference** — still ahead. Use one real quote after it.
+6. Correction: Women's CL "Barcelona 7–1 Bayern / Arsenal 1–2 Lyonnes" items online are from **Oct 2025** — ignore. Latest verified UWCL Tier-1 result: Barcelona 1–1 Arsenal, 12 Nov.
 
 ---
 
 ## TOP 5 NOW
 
-### 1. Score 9 — Liverpool v Man United build-up: Van Dijk, Gravenberch, Szoboszlai back in training; Pochettino speaks Fri 8 AM CT (**NOT COVERED**)
-- **Facts:** On Thursday 19 Nov, Virgil van Dijk, Ryan Gravenberch and Dominik Szoboszlai trained with Liverpool at the AXA Training Centre before Sunday's game (Sky Sports News report; Szoboszlai with strapping on his knee). Liverpool's head coach is Andoni Iraola; he gives a squad update at his Friday press conference.
-  Man United: Pochettino's first press conference is **Friday at 2:00 PM UK (8:00 AM CT)**. The Premier League let United hold it 30 minutes later than the usual 1:30 PM deadline because of his busy first week.
-- **Sources (Liverpool training):** https://www.empireofthekop.com/2026/11/19/liverpool-training-four-players-provide-iraola-with-timely-boost/ · https://www.daveockop.com/latest-news/seven-liverpool-players-back-in-training-ahead-of-manchester-united-clash/
-- **Sources (Poch presser):** https://www.goal.com/en/news/premier-league-manchester-united-exemption-mauricio-pochettino-liverpool/blt5421f5cb36c0bd0c · https://sports.yahoo.com/articles/manchester-united-reschedule-mauricio-pochettinos-164105078.html (citing Manchester Evening News)
-- **UNCONFIRMED (1 source or "could"):** Frimpong / Isak in Thursday's session (different lists in different reports); Gakpo absent (headline only); Man United: Shaw and Rashford "could be nearing a return", Dorgu sent home early from Denmark, Sesko/Ugarte/Baleba out (Fantasy Football Scout only: https://www.fantasyfootballscout.co.uk/2026/11/19/fpl-gameweek-11-early-team-news-injury-latest-on-all-20-teams).
-- **Angle:** Couch — Kev: "Good news for Pochettino: Liverpool's whole midfield is fit." Mo: "Brilliant. More people to watch us lose." Q: **"Van Dijk is back. Does United's attack even score at Anfield?"** Best slot: Fri late morning, **after the 8 AM CT presser** — use one real Pochettino quote word for word.
-- **Visual (Commons):** "Virgil van Dijk", "Anfield", "Mauricio Pochettino" (Bryan Berlin, CC BY-SA 4.0 — already used).
+### 1. Score 9 — Nations League QF draw: Spain v France, Norway v England (Haaland), Netherlands v Portugal (Ronaldo), Belgium v Germany (**NOT COVERED**)
+- **Facts:** Draw held Friday morning, 20 Nov, in Nyon. Quarter-finals: **Spain v France, Norway v England, Netherlands v Portugal, Belgium v Germany**. First legs 25–27 March 2027, return legs 28–30 March 2027. England go to Norway first, then host the return at Wembley (Sports Mole + Goal). Finals (semis + final) June 2027 (semis 9–10 June, final 13 June — Yahoo + Goal).
+  Promotion/relegation playoffs (League A v B): Bosnia-Herzegovina v Denmark, Hungary v Serbia, **Republic of Ireland v Croatia, Slovenia v Wales** (Sports Mole + GiveMeSport).
+- **Sources:** https://www.sportsmole.co.uk/football/england/uefa-nations-league/news/erling-vs-england-nations-league-quarter-final-draw-confirmed_609481.html · https://www.goal.com/en/news/uefa-nations-league-2026-27-quarter-final-draw-spain-france/blt66fa1e092f47896a · https://sports.yahoo.com/articles/spain-face-france-nations-league-113210245.html · https://www.givemesport.com/nations-league-quarter-final-draw-england-learn-opponents-football-soccer/
+- **UNCONFIRMED:** hosts of Belgium v Germany legs; exact draw clock time; the finals host nation (not decided).
+- **Angle:** Couch — Kev: "England got Haaland." Mo: "Good. He's never scored against… wait, let me check." Q: **"Which QF is the best: Spain v France or Norway v England?"** Also quiz: "Ronaldo v the Dutch: does he score?" Post this morning (fresh, 4 Tier-1/2 nations).
+- **Visual (Commons):** "Erling Haaland", "Wembley Stadium", "Ullevaal Stadion", "UEFA headquarters Nyon".
 
-### 2. Score 9 (6 + Haiti +2, + fresh) — Haiti U-17 lose 3–1 to France in the U-17 World Cup opener (**NOT COVERED**)
-- **Facts:** FIFA U-17 World Cup, Qatar (19 Nov – 13 Dec 2026, all games at Aspire Zone, Al Rayyan). Group D: Haiti, France, Saudi Arabia, Uruguay. Thursday 19 Nov: **France 3–1 Haiti**; Saudi Arabia 2–3 Uruguay. Haiti's next game: **v Uruguay, Sun 22 Nov** (kick-off time **UNCONFIRMED**). Haiti's goalscorer: **UNCONFIRMED** (not found in 2 sources yet).
-- **Sources:** https://www.goal.com/en/news/echoes-of-america-saudi-arabia-begin-under-17-world-cup-with-thrilling-defeat-to-uruguay/blt43d4fa9988d1e7e1 (France 3–1 Haiti, next v Uruguay 22 Nov) · https://www.fifa.com/en/match-centre/match/102/292937/292938/400022607 (FIFA match centre "France v Haiti 3-1") · groups/venue: https://en.wikipedia.org/wiki/2026_FIFA_U-17_World_Cup + https://www.haitilibre.com/en/news-47578-haiti-u-17-world-cup-qatar-2026-our-grenadiers-know-their-opponents.html · fixture date: https://www.espn.com/soccer/scoreboard/_/league/fifa.world.u17
-- **Caution:** Haiti also played France at the 2025 U-17 World Cup — do not mix up old 2025 results (8–1 v England etc.) with this tournament.
-- **Angle:** FB photo + Short, positive tone: "Haiti's young Grenadiers scored against France. Next: Uruguay on Sunday." Q: **"Can the U-17s beat Uruguay?"** Facebook first (Haitian audience).
-- **Visual:** "Aspire Zone" / "Aspire Academy" (Commons), Haiti flag. No match footage.
+### 2. Score 9 — Liverpool v Man United build-up: Pochettino presser today 8 AM CT (presser **NOT COVERED**; match covered by k82, k87, k88)
+- **Facts (no change):** Van Dijk, Gravenberch, Szoboszlai trained Thursday. Pochettino's first press conference: **Fri 20 Nov, 2:00 PM UK = 8:00 AM CT** (PL allowed a 30-minute delay). Kick-off Sun 22 Nov, 10:30 AM CT, Anfield.
+- **Sources:** https://www.goal.com/en/news/premier-league-manchester-united-exemption-mauricio-pochettino-liverpool/blt5421f5cb36c0bd0c · https://sports.yahoo.com/articles/manchester-united-reschedule-mauricio-pochettinos-164105078.html · https://www.manutd.com/en/news/when-is-mauricio-pochettinos-first-united-press-conference · training: https://www.empireofthekop.com/2026/11/19/liverpool-training-four-players-provide-iraola-with-timely-boost/ + https://anfieldindex.com/103449/liverpool-stars-return-to-training-ahead-of-manchester-united-clash.html
+- **Live quotes at 8 AM CT:** NBC Sports live blog https://www.nbcsports.com/soccer/live/mauricio-pochettino-manchester-united-press-conference-today-quotes-reaction-news-2026-november-20 — confirm any quote on a 2nd outlet (manutd.com / Sky / BBC) before use.
+- **UNCONFIRMED:** Iraola's Friday presser time and squad news.
+- **Angle:** Short ~11 AM with ONE real Poch quote. Q: **"Does Poch get a point at Anfield?"** Then "Pick Poch's first XI" Sat.
+- **Visual:** "Mauricio Pochettino" (Bryan Berlin, CC BY-SA 4.0), "Anfield".
 
-### 3. Score 9 — Lamine Yamal LaLiga Best Player 2025/26; Barça take 3 of 5 awards (**still NOT COVERED**)
-- **Facts (no change):** Yamal Best Player, Flick Best Coach, Joan García Best Save (announced 18 Nov).
-- **Sources:** https://beinsports.com/en-us/soccer/la-liga/articles/lamine-yamal-named-laliga-s-best-player-of-2025-26-as-barcelona-dominate-the-awards-2026-11-18 · https://gulfnews.com/sport/globe-soccer-awards-2026-messi-ronaldo-and-mbappe-among-nominees-for-uae-ceremony-1.500751811
-- **Angle:** Couch — Q: **"Yamal or Mbappé — who's the best in LaLiga?"** Pair with Barcelona v Villarreal (Sun 7 AM CT) as a Sat/Sun morning post.
-- **Visual:** "Lamine Yamal", "Hansi Flick", "Spotify Camp Nou".
+### 3. Score 9 — Mourinho on Vinícius: "We don't have players with privileges" — start v Celta in doubt (**NOT COVERED**)
+- **Facts:** In his pre-Celta press conference (Fri 20 Nov), Mourinho said: "Here, we don't have players with privileges. We don't have players who have to play by decree." On Vinícius: "Starter, off the bench, or in the stands, it doesn't matter." Also: "I don't want eleven good players; I want many." Valverde, Tchouaméni and Bernardo Silva are "all available". Vinícius's four-match LaLiga ban is served. Real Madrid v Celta: Sat 21 Nov, Bernabéu, 2:00 PM CT.
+  Bonus quotes: Endrick — "For me, Real Madrid is more important than Endrick." Ronaldo (asked about Portugal): "I always want Portugal to win. After that, I wash my hands of it."
+- **Sources:** https://www.realmadrid.com/en-US/news/football/first-team/press-conference/rp-mourinho-pre-rm-celta-20-11-2026 (official transcript) · https://sports.yahoo.com/articles/no-one-plays-divine-mou-091200395.html · https://madriduniversal.com/mourinho-talks-vinicius-endrick-guler-valverde-cristiano-ronaldo-ahead-of-real-madrid-vs-celta-vigo/ · https://www.eldebate.com/deportes/futbol/la-liga/20261120/mourinho-avisa-vinicius-pone-duda-titularidad-mejor-no-tuvo-decir-esas-palabras_483170.html
+- **UNCONFIRMED:** El Debate's claim that Diomande "has won the spot"; Endrick leaving in January (El Debate framing only). Do not say Vini is dropped.
+- **Angle:** **Who Fits** — "Mourinho: no privileges. Vini, Diomande or Güler on the left?" Q: **"Should Vini start Saturday?"** Fri evening / Sat morning. Quote word for word from realmadrid.com.
+- **Visual:** "Vinícius Júnior" (check licence), "José Mourinho", "Santiago Bernabéu Stadium".
 
-### 4. Score 8 — Vinícius is back: four-match ban served, available for Real Madrid v Celta (Sat 2 PM CT) (**NOT COVERED**)
-- **Facts:** Vinícius Jr. was banned for four LaLiga games after a red card in October (missed the Clásico). The ban is now served and he is available for Real Madrid v Celta Vigo, Sat 21 Nov, Bernabéu, 2:00 PM CT. Coach: José Mourinho. Out: Rodrygo (knee), Asencio, Mendy. Tchouaméni and Bernardo Silva back in training after international injuries.
-- **Sources:** https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/predicted-lineups/all-out-attack-for-real-madrid-how-los-blancos-could-line-up-against-celta_609392.html · https://therealchamps.com/real-madrid-vs-celta-vigo-predicted-starting-11-as-jose-mourinho-faces-vinicius-junior-dilemma · ban background: https://aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card
-- **UNCONFIRMED:** whether he starts (Sports Mole predicts yes; The Real Champs predicts Diomande on the left).
-- **Angle:** **Who Fits** — "Vini's back. Who drops out: Güler, Diomande or Bellingham?" Fri evening or Sat morning. Ties to Vini's Brazil hat-trick (k69/k77) and Güler (k83).
-- **Visual:** "Vinícius Júnior" (check licence), "Santiago Bernabéu Stadium".
+### 4. Score 9 (7 + Haiti +2) — Haiti U-17: late goal v France; Uruguay next on Sunday (**NOT COVERED**)
+- **Facts:** FIFA U-17 World Cup, Qatar, Group D, Thu 19 Nov: **France 3–1 Haiti**. France: Loan Merrifield 4', 41', Noha Tiehi 47'. **Haiti: Macenat Prophète 88' — UNCONFIRMED, 1 source** (came off the bench, right-footed finish on a counter-attack — Le Nouvelliste). Haiti next: **v Uruguay, Sun 22 Nov**, Aspire Zone, Al Rayyan.
+- **Sources:** https://lenouvelliste.com/en/article/274043/u17-world-cup-haiti-loses-3-1-to-france-in-their-opening-match · https://jamaica-gleaner.com/article/sports/20261120/merrifield-brace-powers-france-past-haiti-u-17-world-cup-opener · score: https://www.espn.com/soccer/match/_/gameId/401873513 · https://www.haitilibre.com/en/news-48934-haiti-2026-u-17-world-cup-qatar-haiti-saves-its-honor-but-falls-[3-1]-against-france.html (headline: "Haiti saves its honor but falls [3-1]")
+- **UNCONFIRMED:** kick-off v Uruguay **9:30 AM CT** (futboltotal.futbol only: https://futboltotal.futbol/partido/uruguay-u17-vs-haiti-u17-world-cup-u17-2026-11-22) — confirm on FIFA match centre before posting a time. Scorer detail (sub, counter) = Le Nouvelliste only; the scorer's name and minute are on 1 fetched page — confirm on FIFA/ESPN before naming him.
+- **Angle:** FB photo, positive: "Haiti's young Grenadiers scored against France. Sunday: Uruguay." Q: **"Can the U-17s beat Uruguay?"** Fri evening or Sat.
+- **Visual:** "Aspire Zone", Haiti flag. No match footage.
 
-### 5. Score 8 — Arsenal at Newcastle (Sat 11:30 AM CT): Saliba back, Zubimendi out, Saka no date
-- **Facts:** Saliba has recovered from a back injury and can challenge for a place on Saturday. Zubimendi picked up a muscle (hamstring) injury in Spain's 3–2 loss to England; return expected in December. Saka (quad) — no return date.
-- **Sources:** https://sports.yahoo.com/articles/arsenal-injury-martin-zubimendi-william-060011245.html (Evening Standard, 19 Nov) · https://www.fantasyfootballscout.co.uk/2026/11/19/fpl-gameweek-11-early-team-news-injury-latest-on-all-20-teams · https://www.sportsmole.co.uk/football/arsenal/injury-news/injuries-and-suspensions/saka-zubimendi-latest-arsenal-injury-suspension-list-vs-newcastle_609267.html
-- **UNCONFIRMED:** "out up to eight weeks" for Saka (reported fear only). Arteta's Friday press conference time.
-- **Angle:** **Who Fits: "No Saka, no Zubimendi — who plays?"** Fri evening; FT reaction Sat ~1:30 PM CT.
-- **Visual:** "Emirates Stadium", "St James' Park".
+### 5. Score 8 — Arsenal at Newcastle (Sat 11:30 AM CT): Saka about 4 more weeks, Saliba ready, Zubimendi out (**NOT COVERED**)
+- **Facts:** Arteta, Friday presser: Saka (quad, injured 21 Oct at Bayern) — "it's going to be an eight-week injury, more or less. So I think he's four at the moment." Zubimendi (hamstring, Spain 2–3 England) — "he's going to be out for a few weeks." Saliba — "He's ready, he's in good condition. We want to ramp up his minutes." Max Dowman serves the last game of a 3-match ban (appeal rejected — Yahoo only → UNCONFIRMED).
+- **Sources:** https://sports.yahoo.com/articles/mikel-arteta-provides-injury-martin-104341011.html · https://www.aol.co.uk/articles/mikel-arteta-confirms-bukayo-saka-105218000.html (Mirror)
+- **UNCONFIRMED:** Ødegaard fitness and Madueke (Flashscore only, article date unclear and its table claims conflict); Saliba new contract (reports only). Table position: previous watch had Arsenal 1st (27 pts after 10) — sources this run disagree, re-check before stating.
+- **Angle:** **Who Fits: "No Saka for a month — who plays right wing?"** Fri evening. FT reaction Sat ~1:30 PM CT.
+- **Visual:** "St James' Park", "Emirates Stadium", "Bukayo Saka" (check licence).
 
 ### Also on the radar
-- **Score 8 — Globe Soccer men's nominees: Messi, Ronaldo, Mbappé** (18 Nov) — **NOT COVERED.** Sources: https://www.thenationalnews.com/sport/football/2026/11/18/ronaldo-messi-and-mbappe-among-nominees-for-globe-soccer-awards-in-dubai/ · gulfnews (above). Angle: "Pick ONE" quiz.
-- **Score 7 — Ronaldo: Al-Ahli v Al Nassr, Fri 20 Nov, 11:30 AM CT (Jeddah)** — his first game since leaving the Portugal squad. Start **UNCONFIRMED**. Source for preview: https://www.101greatgoals.com/match-previews/al-ahli-v-al-nassr-preview-expected-line-ups-where-to-watch-as-ronaldo-returns-to-action/ · https://africasoccer.com/al-ahli-and-al-nassr-set-for-friday-saudi-pro-league-showdown/ (time from 18 Nov 22:20 watch). Result line only.
-- **Score 7 — Chelsea v Leeds (Sat 9 AM CT):** João Pedro (quad) no update, Lacroix out to New Year, Caicedo "didn't feel well" with Ecuador — Fantasy Football Scout only → **UNCONFIRMED** beyond that.
-- **Score 6 — FIFA presidential race set** (Infantino v Diallo, Vega, Tashima; vote 18 March 2027, Rabat). No change.
-- **Old/ignore:** Messi "missed practice / back discomfort" stories circulating are from **October 2025** — not current. Egypt sacked Hossam Hassan on **7 Nov** (Ali Maher replaced him) — old, low priority.
-- **Rumours (do NOT state as fact):** Barça centre-back in January (Deco), Endrick, Mac Allister, Bruno Fernandes contract.
+- **Score 8 — Yamal LaLiga Best Player 2025/26 (18 Nov)** — still **NOT COVERED**. Pair with Barça v Villarreal Sun 7 AM CT. Sources: beIN Sports + Gulf News (see `watch/2026-11-19_1120.md`).
+- **Score 8 — Globe Soccer men's nominees: Messi, Ronaldo, Mbappé (18 Nov)** — still **NOT COVERED**. "Pick ONE" quiz.
+- **Score 7 — Ronaldo: Al-Ahli v Al Nassr, today 11:30 AM CT (Jeddah)** — start **UNCONFIRMED**. Result line only.
+- **Score 6 — Barça:** Koundé back in group training after ankle sprain (Mundo Deportivo via SB Nation only → **UNCONFIRMED**).
+- **Old/ignore:** UWCL "Barça 7–1 Bayern / Arsenal 1–2 Lyonnes" (Oct 2025). Messi "back discomfort" (Oct 2025).
+- **Rumours (NOT fact):** Endrick January exit, Schlotterbeck to Barça, Saliba contract, Mac Allister, Bruno Fernandes contract.
 
 ---
 
@@ -66,45 +68,42 @@ Window: since the last watch (Thu 19 Nov, 6:20 AM CT) + next 72 h (to Sun 22 Nov
 
 | When (CT) | Match / event | Why | Plan |
 |---|---|---|---|
-| Thu 19 Nov, 2:00 PM | WUCL: Barcelona v Servette · Arsenal v OL Lyonnes (time UNCONFIRMED) | Barça, Arsenal | Result line only |
-| **Fri 20 Nov, 5:00 AM** | **UEFA Nations League QF draw** (Nyon) | England, France, Germany, Portugal, Spain | **Reaction Short ~6 AM** (k81 previewed it) |
-| **Fri 20 Nov, 8:00 AM** | **Pochettino's first press conference** (2 PM UK) | Man United | **Short with 1 real quote, late morning** |
-| Fri 20 Nov (time UNCONFIRMED) | Iraola + Arteta press conferences | Liverpool, Arsenal | Team-news line |
+| **Fri 20 Nov, 8:00 AM** | **Pochettino's first press conference** | Man United | **Short with 1 real quote, ~11 AM** |
+| Fri 20 Nov (time UNCONFIRMED) | Iraola press conference | Liverpool | Team-news line |
 | **Fri 20 Nov, 11:30 AM** | **Al-Ahli v Al Nassr** | Ronaldo | Result line |
 | Fri 20 Nov, 1:30 PM | Bayern v Köln | Kane | Result line / Kane stat |
-| Fri 20 Nov, 7:00 PM | LF02 long-form (k82) | Liverpool v Man United | Already ✅ PARE |
-| **Sat 21 Nov, 6:30 AM** | **Man City v Fulham** | Haaland | Result line; Haaland stat |
+| Fri 20 Nov, 7:00 PM | LF02 long-form (k82) | Liverpool v Man United | ✅ PARE |
+| **Sat 21 Nov, 6:30 AM** | **Man City v Fulham** | Haaland (fresh off NL draw v England) | FT line + Haaland stat |
 | **Sat 21 Nov, 9:00 AM** | **Chelsea v Leeds** · **Spurs v Ipswich** · **Coventry v Crystal Palace (Frank debut)** | Chelsea, Spurs | FT lines |
-| **Sat 21 Nov, 11:30 AM** | **Newcastle v Arsenal** | Arsenal (no Saka/Zubimendi) | **Preview Fri night + FT reaction** |
-| **Sat 21 Nov, 2:00 PM** | **Real Madrid v Celta** (Bernabéu) | Vinícius back, Mbappé, Güler | Who Fits pre-match + FT reaction |
-| **Sat 21 Nov, 5:00 PM** | **Inter Miami v Columbus** — MLS playoffs R1 G1 | **Messi** | "Guess the score" + FT reaction |
-| **Sun 22 Nov, 7:00 AM** | **Barcelona v Villarreal** | Yamal | Pair with Yamal award (#3) |
-| **Sun 22 Nov (time UNCONFIRMED)** | **Haiti U-17 v Uruguay U-17** (U-17 World Cup, Qatar) | **Haiti (+2)** | Preview Sat + result line Sun |
-| **Sun 22 Nov, 10:30 AM** | **Liverpool v Man United — Pochettino's debut** | Tier 1 v Tier 1 | "Pick Poch's first XI" Sat; **FT reaction Sun** |
+| **Sat 21 Nov, 11:30 AM** | **Newcastle v Arsenal** | Arsenal (no Saka, no Zubimendi) | **Who Fits Fri night + FT reaction** |
+| **Sat 21 Nov, 2:00 PM** | **Real Madrid v Celta** (Bernabéu) | Vini "no privileges", Mbappé, Güler | Who Fits pre-match + FT reaction |
+| **Sat 21 Nov, 5:00 PM** | **Inter Miami v Columbus** — MLS playoffs R1 G1 | **Messi** | k86 already teases it; FT reaction |
+| **Sun 22 Nov, 7:00 AM** | **Barcelona v Villarreal** | Yamal | Yamal award post before KO |
+| **Sun 22 Nov, 9:30 AM (UNCONFIRMED)** | **Uruguay U-17 v Haiti U-17** (U-17 World Cup, Group D) | **Haiti (+2)** | Preview Sat + result Sun |
+| **Sun 22 Nov, 10:30 AM** | **Liverpool v Man United — Pochettino's debut** | Tier 1 v Tier 1 | "Pick Poch's first XI" Sat; **FT reaction Sun (Couch)** |
 
-**Fixture sources:** PL Matchweek 11 — https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november · https://sportstalkflorida.com/premier-league/premier-league-matchweek-11-tv-schedule-usa-kickoff-times-streaming-guide-nov-21-23-2026/ · Real Madrid v Celta (8 PM UK) — Sports Mole (above) + https://www.laliga.com/en-GB/clubs/real-madrid/next-matches · Inter Miami — https://www.mlssoccer.com/playoffs/2026/news/inter-miami-vs-columbus-crew-how-to-watch-stream-round-one-game-1 + https://www.sportsmole.co.uk/football/inter-miami/preview/inter-miami-vs-columbus-crew-prediction-team-news-lineups_609351.html · Pochettino presser — Goal + Yahoo/MEN (above) · Haiti U-17 v Uruguay date — Goal (above), 1 source for date → kick-off **UNCONFIRMED** · NL draw, Bayern v Köln: `watch/2026-11-18_0616.md` · Al Nassr: `watch/2026-11-18_2220.md`.
+**Fixture sources:** PL Matchweek 11 — https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november · https://sportstalkflorida.com/premier-league/premier-league-matchweek-11-tv-schedule-usa-kickoff-times-streaming-guide-nov-21-23-2026/ · Real Madrid v Celta (21:00 CET) — https://www.realmadrid.com/en-US/news/football/first-team/press-conference/rp-mourinho-pre-rm-celta-20-11-2026 + Sports Mole (prev. watch) · Inter Miami — https://www.mlssoccer.com/playoffs/2026/news/inter-miami-vs-columbus-crew-how-to-watch-stream-round-one-game-1 + Sports Mole · Pochettino presser — Goal + Yahoo/MEN + manutd.com · Haiti v Uruguay date — Jamaica Gleaner + Goal (time: futboltotal only) · Bayern v Köln, Al Nassr: `watch/2026-11-18_0616.md`, `watch/2026-11-18_2220.md`. Sunday-afternoon/Monday fixtures were not re-verified this run.
 
 ---
 
-## MISSED CHECK (Tier-1 / priority, last 48 h vs `2026-11-19/KIT.md`, `2026-11-20/KIT.md` + `COVERED.md`)
+## MISSED CHECK (Tier-1 / priority, last 48 h vs `2026-11-19/KIT.md`, `2026-11-20/KIT.md`)
 
 | Story | Tier / priority | In KIT? |
 |---|---|---|
-| Haiti U-17 1–3 France, U-17 World Cup opener (19 Nov) | Haiti (+2) | **NOT COVERED** |
-| Liverpool: Van Dijk/Gravenberch/Szoboszlai train; Poch presser Fri 8 AM CT | Liverpool, Man United (Tier 1) | **NOT COVERED** (k82 long-form has no team news) |
-| Vinícius ban over, available v Celta | Real Madrid (Tier 1) | **NOT COVERED** |
-| Yamal LaLiga Best Player 2025/26 (18 Nov) | Yamal, Barça (Tier 1) | **NOT COVERED** |
-| Globe Soccer men's nominees — Messi, Ronaldo, Mbappé (18 Nov) | Messi, Ronaldo (Tier 1) | **NOT COVERED** |
-| Wales 2–3 Portugal (17 Nov) | Portugal | NOT COVERED — stale, skip |
-| Pochettino "Give me time" | Man United | Covered (k85, Thu 5 PM) |
-| Arda Güler to 2032 | Real Madrid | Covered (k83, Thu 2 PM FB photo) |
-| Dumornay Globe Soccer nominee | Haiti | Covered (k84, Thu 8:30 PM FB photo) |
-| Messi Golden Boot ×2 / playoffs | Messi | Covered (k76 photo + k86 Short Fri 7 AM) |
-| Liverpool v Man United preview | Tier 1 | Covered (k82 long-form Fri 7 PM) |
-| JJ Gabriel, Frank to Palace, NL draw preview | — | Covered (k79, k80, k81) |
+| Nations League QF draw (Spain v France, Norway v England, NED v POR, BEL v GER) — 20 Nov | England, France, Spain, Portugal, Germany | **NOT COVERED** |
+| Mourinho: "no privileges" — Vinícius start in doubt (20 Nov) | Real Madrid (Tier 1) | **NOT COVERED** |
+| Arteta: Saka ≈4 more weeks, Saliba ready (20 Nov) | Arsenal | **NOT COVERED** |
+| Haiti U-17 1–3 France (19 Nov) | Haiti (+2) | **NOT COVERED** |
+| Pochettino first presser (today 8 AM CT) | Man United (Tier 1) | **NOT COVERED** (k87/k88/k82 cover the match, not the presser) |
+| Yamal LaLiga Best Player (18 Nov) | Yamal, Barça (Tier 1) | **NOT COVERED** |
+| Globe Soccer nominees — Messi, Ronaldo, Mbappé (18 Nov) | Messi, Ronaldo (Tier 1) | **NOT COVERED** |
+| Messi Golden Boot ×2 / playoffs | Messi | Covered (k86, Fri 7 AM) |
+| Liverpool v Man United preview | Tier 1 | Covered (k82 LF 7 PM, k87 photo 9 AM, k88 Guess the score 12 PM) |
+| Pochettino "Give me time", Güler to 2032, Dumornay nominee | — | Covered (k85, k83, k84) |
 
-**Recommendation for the producer:**
-1. **Thu evening (if a slot is open):** Haiti U-17 FB photo ("Next: Uruguay, Sunday") — Haiti +2, fresh today.
-2. **Fri:** NL draw reaction 6 AM → k86 Messi 7 AM → **Pochettino presser Short (quote from the 8 AM CT presser) ~11 AM** → Ronaldo result line → "Who Fits: no Saka, no Zubimendi" or "Vini's back — who drops?" evening → k82 LF02 7 PM.
-3. **Sat:** FT lines City/Chelsea/Spurs/Frank → Newcastle–Arsenal reaction → Real Madrid–Celta (Vini) → Messi "Guess the score" + FT → "Pick Poch's first XI" + Haiti U-17 v Uruguay preview.
-4. **Sun:** Yamal "best in LaLiga" before Barça v Villarreal 7 AM → Haiti U-17 result → **Liverpool v Man United FT reaction (Couch)**.
+**Recommendation for the producer (Fri):**
+1. **Morning (~8–9 AM):** NL draw reaction — "Spain v France or Norway v England?" (freshest Tier-1 story; nothing in KIT for it).
+2. **~11 AM:** Pochettino presser Short with one verified quote (fits between k87 9 AM and k88 12 PM).
+3. **Evening:** "Mourinho: no privileges — should Vini start?" Who Fits **or** "No Saka for a month — who plays?" (pick one; the other Sat morning).
+4. **Fri night / Sat:** Haiti U-17 FB photo (late goal + Uruguay Sunday) once kick-off is confirmed on FIFA.
+5. Sat/Sun as before: FT lines → Newcastle–Arsenal → Madrid–Celta → Messi → Yamal before Barça → Haiti v Uruguay → LIVMUN FT Couch.
