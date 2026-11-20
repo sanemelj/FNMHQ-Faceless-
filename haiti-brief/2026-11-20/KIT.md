@@ -6,6 +6,37 @@
 - 3:00 PM ET — **hb-S29** Bukele enskri pou 3yèm manda
 - 9:00 PM ET — **hb-S30** Tifi Ameriken 6 an libere (papa l, ofisye PNH, toujou kaptif)
 
+## ⚡ BREAKING — POSTE KOUNYA (~6:30 PM ET) · VANDREDI 20 NOV · SHORT hb-S31 · 0:46 · "2 Salvadoran Soldiers Killed in Haiti, El Salvador's Army Says" — RANPLASE slot 9 PM lan
+**Estati:** ✅ PARE · 1080×1920 · foto achiv FAES (FILE, an El Salvador) + kat rejyon + foto Port-au-Prince · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L11** (O29KTmlqq-U). Stutter check pase.
+- Video: `haiti-brief/2026-11-20/HaitiBrief_Short_31_Nov_20.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-20/HaitiBrief_Short_31_Nov_20.mp4
+- ⚠️ **SWAP:** hb-S30 (Svz6bgxcPpI + FB) soti nan 9 PM jodi a → **Samdi 21 nov 9:00 AM ET**.
+- Kòmantè pin: `Sources: Armed Forces of El Salvador (FAES) on X, Nov. 20, 2026; Reuters; EFE; Infobae. Names, location and date of the detonation have not been released. We will update this story.`
+
+**Tit:**
+```
+2 Salvadoran Soldiers Killed in Haiti, El Salvador's Army Says #Shorts
+```
+**Deskripsyon:**
+```
+El Salvador's Armed Forces said on Friday, Nov. 20, that two Salvadoran soldiers were killed and two others wounded in Haiti when a detonation occurred while they were handling explosive material at one of their camps. The wounded are receiving medical care. The army did not release names, the camp's location or when it happened, and did not say gangs were involved.
+
+They are the first deaths El Salvador has reported among the more than 2,000 troops it has sent to Haiti since late October, after four Salvadoran members of the UN-backed Gang Suppression Force went missing on Oct. 18. Their fate is still unknown.
+
+Inside the fight for Martissant: https://youtu.be/O29KTmlqq-U
+
+Sources: Armed Forces of El Salvador (FAES) on X; Reuters; EFE; Infobae (Nov. 20, 2026). Photos: Casa Presidencial de El Salvador (CC0, file photo, in El Salvador); MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
+#Haiti #ElSalvador #HaitiNews
+```
+**Facebook (Reel, Haiti Brief):**
+```
+BREAKING: El Salvador's army says two of its soldiers were killed and two wounded in Haiti, in a detonation while handling explosives at one of their camps. They are the first deaths El Salvador has reported in Haiti.
+#Haiti #ElSalvador #HaitiNews
+```
+**Tags:**
+```
+Salvadoran soldiers killed Haiti, El Salvador army Haiti, Bukele troops Haiti, Haiti news, Haiti Brief
+```
+
 ## 12:00 PM ET · VANDREDI 20 NOV · LONG-FORM hb-L11 · 4:44 · "Not Bukele's Troops, Police Say: Inside the Fight for Martissant, Haiti's Road South"
 **Estati:** ✅ PARE · 1920×1080 · Claire + Marc A1–A5 (rad L5) + videyo ofisyèl PNH (19 nov) + kat OSM + foto · **Altered content: Yes** (avatar yo) · Thumbnail: `HaitiBrief_Thumb_L11_A.jpg` · End screen: Subscribe + **hb-L10** (l-6Xxj6fV_I) · Pwograme l pou **12:00 PM ET** (pa piblik touswit).
 - Video: `haiti-brief/2026-11-20/HaitiBrief_LongForm_L11_Nov_20.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-20/HaitiBrief_LongForm_L11_Nov_20.mp4
@@ -69,7 +100,7 @@ El Salvador's Nayib Bukele registered on Thursday to run for a third straight te
 Bukele third term, Bukele election 2027, El Salvador election, Bukele Haiti, Salvadoran troops Haiti, Haiti news, Haiti Brief
 ```
 
-## 9:00 PM ET · VANDREDI 20 NOV · SHORT hb-S30 · 0:48 · "U.S. Girl, 6, Freed in Haiti After 5 Months. Her Police Father Is Still Held"
+## ⏩ DEPLASE → SAMDI 21 NOV 9:00 AM ET · SHORT hb-S30 · 0:48 · "U.S. Girl, 6, Freed in Haiti After 5 Months. Her Police Father Is Still Held"
 **Estati:** ✅ PARE · 1080×1920 · foto Port-au-Prince + kat OSM + foto achiv Rubio (Senate, domèn piblik) + sitasyon post Rubio a · narasyon · **PA GEN OKENN IMAJ TIMOUN LAN** (ni non li — se yon minè, viktim) · **Altered content: No** · **FB AI label: No** · Related video: **hb-L11**.
 - Video: `haiti-brief/2026-11-20/HaitiBrief_Short_30_Nov_20.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-20/HaitiBrief_Short_30_Nov_20.mp4
 - YouTube Short + FB Reel (Haiti Brief) menm lè a. **Pa mete non tifi a okenn kote** (tit, deskripsyon, kòmantè, caption).
