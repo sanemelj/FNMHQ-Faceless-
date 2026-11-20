@@ -2,9 +2,43 @@
 
 **Orè jodi a (règ volim: 3 Shorts + 1 long-form):**
 - 9:00 AM ET — hb-S25 (deja pwograme · pin kòmantè a apre 9 AM)
-- 12:00 PM ET — hb-L11 long-form Martissant (oswa 4:00 PM si avatar yo rive apre 10:30 AM) · kat la ap vin anba a
+- 12:00 PM ET — **hb-L11** long-form Martissant ✅ PARE (kat la anba a)
 - 3:00 PM ET — **hb-S29** Bukele enskri pou 3yèm manda
 - 9:00 PM ET — **hb-S30** Tifi Ameriken 6 an libere (papa l, ofisye PNH, toujou kaptif)
+
+## 12:00 PM ET · VANDREDI 20 NOV · LONG-FORM hb-L11 · 4:44 · "Not Bukele's Troops, Police Say: Inside the Fight for Martissant, Haiti's Road South"
+**Estati:** ✅ PARE · 1920×1080 · Claire + Marc A1–A5 (rad L5) + videyo ofisyèl PNH (19 nov) + kat OSM + foto · **Altered content: Yes** (avatar yo) · Thumbnail: `HaitiBrief_Thumb_L11_A.jpg` · End screen: Subscribe + **hb-L10** (l-6Xxj6fV_I) · Pwograme l pou **12:00 PM ET** (pa piblik touswit).
+- Video: `haiti-brief/2026-11-20/HaitiBrief_LongForm_L11_Nov_20.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-20/HaitiBrief_LongForm_L11_Nov_20.mp4
+- Thumbnail: https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-20/HaitiBrief_Thumb_L11_A.jpg
+- Apre piblikasyon: (1) Related video = **hb-L11** sou hb-S29 (3 PM) ak hb-S30 (9 PM). (2) **Woutaj hb-L5 → hb-L11:** chanje end screen hb-L5 (d52bewIY-cI) pou hb-L11, epi anlè deskripsyon hb-L5 + pin li: `NEW: Inside the fight for Martissant, Haiti's road south → <lyen hb-L11>`.
+- Kòmantè pin: `Sources: Haitian National Police (Nov. 19–20, 2026); Reuters and AP (via Al Jazeera); Anadolu; Infobae; EFE; Infolive Haïti; UN; Gang Suppression Force. Have you or your family used the road south? Tell us below.`
+
+**Tit:**
+```
+Not Bukele's Troops, Police Say: Inside the Fight for Martissant, Haiti's Road South
+```
+**Deskripsyon:**
+```
+Haiti's National Police say they killed at least 34 suspected gang members on Thursday, Nov. 19, in Martissant — the neighborhood on the main road out of Port-au-Prince to the south, held by gangs for more than five years. Police said the target was a hideout of Renel Destina, known as Ti Lapli, leader of the Grand Ravine gang, and that the raid was carried out with an anti-gang task force that includes personnel from Vectus Global, the private security firm founded by Erik Prince. Police also said none of the roughly 2,500 Salvadoran troops in Haiti took part — contradicting some early reports, including our own Nov. 19 Short, which has been corrected.
+
+On Friday morning, Nov. 20, police said the operation was continuing in Martissant 2A, near the Village-de-Dieu stronghold, with about eleven armored vehicles, to reopen the road south for people and goods. The toll comes from the police and has not been independently verified; no names have been released.
+
+00:00 Intro
+00:37 The operation
+01:10 Who took part
+02:14 The road south
+03:16 What we don't know
+04:16 Your story
+
+Why Haitians are marching for Bukele: https://youtu.be/l-6Xxj6fV_I
+
+Sources: Haitian National Police (PNH, Nov. 19–20, 2026); Reuters and Associated Press (via Al Jazeera, Nov. 19, 2026); Anadolu Agency; Infobae; EFE; Infolive Haïti; Le Nouvelliste; UN (July 2022 report; UN human rights office, Nov. 2026); Gang Suppression Force; European Union. Video: Haitian National Police (Nov. 19, 2026). Photos: Armed Forces of El Salvador, Casa Presidencial (CC0, file photo); MichelleWalz (CC BY 2.0); Hudson-explore (CC BY-SA 4.0); Rency Inson Michel (CC BY-SA 4.0); Kitanago (CC BY-SA 4.0). Map data © OpenStreetMap contributors.
+#Haiti #Martissant #Bukele
+```
+**Tags:**
+```
+Martissant, Haiti police operation, Ti Lapli, Grand Ravine gang, Vectus Global Haiti, Bukele troops Haiti, Route Nationale 2, Haiti road south, Les Cayes, Haiti news, Haiti Brief
+```
 
 ## 3:00 PM ET · VANDREDI 20 NOV · SHORT hb-S29 v2 · 1:01 · "Bukele Files to Run for a Third Term — as His Troops Fight in Haiti"
 **Estati:** ✅ PARE · 1080×1920 · foto Bukele (Presidencia, CC0, file) + kat rejyon + sitasyon + foto achiv FAES + M1 (FILE mach 17 nov) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L11** (si l pa piblik ankò, mete **hb-L10** l-6Xxj6fV_I).
