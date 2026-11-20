@@ -25,6 +25,11 @@ Last month, Bukele sent about 2,500 soldiers to Haiti after four Salvadoran memb
 Sources: Associated Press; Reuters (via Al Jazeera, Nov. 19–20, 2026); Human Rights Watch. Photos: Presidencia de El Salvador (CC0, file photos). Video: Le Nouvelliste (Facebook, Nov. 17, file footage). Map data © OpenStreetMap contributors.
 #Haiti #Bukele #ElSalvador
 ```
+**Facebook (Reel, Haiti Brief):**
+```
+El Salvador's Nayib Bukele registered on Thursday to run for a third straight term in February 2027 — while about 2,500 of his soldiers fight gangs in Haiti. Does his election matter for Haiti? Tell us below.
+#Haiti #Bukele #HaitiNews
+```
 **Tags:**
 ```
 Bukele third term, Bukele election 2027, El Salvador election, Bukele Haiti, Salvadoran troops Haiti, Haiti news, Haiti Brief
