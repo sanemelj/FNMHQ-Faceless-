@@ -1,64 +1,58 @@
-# FNMHQ Match Watch — Fri 20 Nov 2026, 11:20 AM CT
+# FNMHQ Match Watch — Fri 20 Nov 2026, 4:19 PM CT
 
-*(Copy of `watch/2026-11-20_1120.md`.)*
+*(Copy of `watch/2026-11-20_1619.md`.)*
 
-Window: since the last watch (Fri 20 Nov, 6:22 AM CT) + next 72 h (to Mon 23 Nov ~11:20 AM CT). Every fact has 2 sources unless marked **UNCONFIRMED**. All times US Central (CT).
+Window: since the last watch (Fri 20 Nov, 11:20 AM CT) + next 72 h (to Mon 23 Nov ~4:19 PM CT). Every fact has 2 sources unless marked **UNCONFIRMED**. All times US Central (CT).
 
-**What changed since 6:22 AM:**
-1. **NEW: Pochettino's first press conference is done.** Key lines (2 sources): "I cannot sleep", "it's a race to arrive in condition to be competitive against Liverpool", "Bruno is our captain". **NOT COVERED.**
-2. **NEW: Iraola presser:** "You don't find bigger games than this, honestly." Says United have a "small advantage" because Liverpool can't scout Poch's United. Van Dijk "fine to go"; Frimpong and Gravenberch should be available (club site). **NOT COVERED.**
-3. **NEW: Man United CEO Omar Berrada (Sky Sports interview, Fri):** on sacking Carrick, "It was a very difficult decision". UNCONFIRMED wording (1 source, summarised).
-4. NL QF draw, Mourinho "no privileges", Saka ≈4 more weeks, Haiti U-17: still **NOT COVERED** in `2026-11-20/KIT.md` (see 6:22 AM watch for full facts + sources).
-5. Al-Ahli v Al Nassr (Ronaldo) kicks off 11:30 AM CT — result not in this watch.
+**What changed since 11:20 AM:**
+1. **NEW: Bayern 1–1 Köln — Harry Kane forced off injured (20'), Olise also off.** Spurs loanee Mikey Moore scored for Köln. Kane diagnosis (torn syndesmosis, "months") is **UNCONFIRMED** (1 source). **NOT COVERED.**
+2. **NEW: Al-Ahli 3–1 Al Nassr — Ronaldo scored, then missed a penalty; Toney led the comeback.** One outlet says 3–2 → minute-level details partly UNCONFIRMED. **NOT COVERED.**
+3. Pochettino presser ("I cannot sleep"), Iraola presser, Mourinho–Vini, NL QF draw, Haiti U-17, Saka ≈4 weeks: `2026-11-20/KIT.md` has not changed since the 11:20 watch → all still **NOT COVERED**.
+4. Haiti U-17 v Uruguay: kick-off still **UNCONFIRMED** (see #5).
 
 ---
 
 ## TOP 5 NOW
 
-### 1. Score 10 — Pochettino's first presser: "I cannot sleep" / "a race" to be ready for Anfield (**NOT COVERED**)
-- **Facts:** Pochettino held his first Man United press conference Fri 20 Nov (Carrington), before Liverpool v Man United, Sun 22 Nov, 10:30 AM CT. Verbatim lines found on **both** Goal and The Independent live blog (Yahoo):
-  - "I cannot sleep" (Goal adds: "only three or four hours a day").
-  - "I think it's a race to arrive in condition to be competitive against Liverpool."
-  - "Bruno is our captain" — Fernandes keeps the armband.
-  - "The most important thing is to think about the next action, not the past."
-  - Goal only (UNCONFIRMED 2nd source): "The title of the job is indifferent" · "I am going to decide the squad for Sunday and pick the starting XI." Yahoo only: "We are animals of the grass."
-- **Sources:** https://www.goal.com/en/news/mauricio-pochettino-manchester-united-press-conference-liverpool/blta75ddcd46c1cd11f · https://uk.news.yahoo.com/mauricio-pochettino-faces-media-first-100130564.html (live blog, updated 20 Nov 15:06 UTC)
-- **UNCONFIRMED:** any Man United injury news — Poch named no injured players ("in the next few days we will talk with everyone", Yahoo only). manutd.com team-news page could not be read this run.
-- **Angle:** **Couch, today ~1–3 PM** (slot between k88 12 PM and k82 7 PM, or swap one of them out). Mo: "He can't sleep! That's passion." Kev: "Or it's the table — 18th." Punchline: "Three or four hours a night… that's also how long United fans have slept since August." Q: **"Can Poch get a result at Anfield on 4 hours' sleep?"** Use ONLY the 2-source quotes.
-- **Visual (Commons):** "Mauricio Pochettino" (Bryan Berlin, CC BY-SA 4.0), "Carrington Training Centre" / "Old Trafford", "Anfield".
+### 1. Score 10 — Pochettino's first presser: "I cannot sleep" / "a race" to be ready for Anfield (**NOT COVERED**, carried over)
+- **Facts (from 11:20 watch, 2 sources):** "I cannot sleep" · "I think it's a race to arrive in condition to be competitive against Liverpool." · "Bruno is our captain." Liverpool v Man United, Sun 22 Nov, 10:30 AM CT.
+- **Sources:** https://www.goal.com/en/news/mauricio-pochettino-manchester-united-press-conference-liverpool/blta75ddcd46c1cd11f · https://uk.news.yahoo.com/mauricio-pochettino-faces-media-first-100130564.html
+- **Angle:** Couch tonight or Sat morning — pair with Iraola ("You don't find bigger games than this") as "both managers spoke". Q: **"Can Poch win at Anfield on 4 hours' sleep?"** Use ONLY the 2-source quotes.
+- **Visual (Commons):** "Mauricio Pochettino" (Bryan Berlin, CC BY-SA 4.0), "Anfield", "The Kop".
 
-### 2. Score 9 — Iraola: "You don't find bigger games than this" + United's "small advantage"; Liverpool squad nearly full (**NOT COVERED**)
-- **Facts:** On both liverpoolfc.com and ESPN (20 Nov): "You don't find bigger games than this, honestly." · "We want to improve our form at home." · "We have been very good away but not good at home." · United "have this advantage that we don't exactly know" (new manager, no references to prepare — ESPN headline: "small advantage").
-  Team news (liverpoolfc.com fitness page, 20 Nov): Van Dijk "fine to go"; Frimpong (missed 6 games) "should be available"; Gravenberch (missed 3) "I hope he is available"; Szoboszlai "He is fine"; Bradley and Leoni NOT available. Iraola: "if everything goes to plan, they should all be available."
-- **Sources:** https://www.liverpoolfc.com/news/andoni-iraola-manchester-united-press-conference-premier-league · https://www.espn.com/soccer/story/_/id/50540745/liverpool-manchester-united-mauricio-pochettino · fitness: https://www.liverpoolfc.com/news/lfc-fitness-update-frimpong-gravenberch-szoboszlai-van-dijk-and-more (official club; Van Dijk/Gravenberch/Szoboszlai training also reported Thu by Empire of the Kop + Anfield Index — see 6:22 watch)
-- **UNCONFIRMED:** Frimpong/Gravenberch final availability (club page only, "hope"/"should"). Iraola drone-footage comment ("it shouldn't be legal") and the drone apology story — details on Yahoo live blog only; do not use.
-- **Angle:** Pair with #1 in one Couch episode ("both managers talked today") **or** Sat "Who Fits: Liverpool's midfield v Poch — Gravenberch back?" Q: **"Home team bad at home vs new manager bounce — who wins?"**
-- **Visual:** "Andoni Iraola" (check licence), "Anfield", "The Kop".
+### 2. Score 9 — Kane limps off after 20 minutes as Bayern are held 1–1 by Köln; Olise also injured (**NOT COVERED**)
+- **Facts (2+ sources):** Bundesliga MD10, Fri 20 Nov, Allianz Arena: **Bayern 1–1 Köln**. 0–1 **Mikey Moore 12'** (Spurs loanee, Bundesliga.com Man of the Match), 1–1 **Nathaniel Brown 37'**. **Harry Kane went off in the 20th minute** (replaced by Tom Bischof) after a challenge from Joel Schmied — ESPN: "an apparent injury to his left leg"; Bundesliga.com: "an apparent ankle injury". **Michael Olise** went off injured late in the first half / at the break (Goal, Bundesliga.com). Bayern on 22 pts, level-ish at the top with Dortmund (Dortmund 1 pt behind, play at Gladbach Sat — Yahoo/AFP + Goal). Kompany back on the touchline after illness.
+- **Sources:** https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich · https://www.bundesliga.com/en/bundesliga/news/bayern-munich-cologne-match-report-highlights-matchday-10-40058 · https://www.goal.com/en-za/news/sad-night-for-bayern-hosts-drop-two-points-against-cologne-after-kane-and-olise-injuries/blt5fd94b6002e7d466 · https://www.france24.com/en/live-news/20261120-kane-suffers-ankle-injury-as-bayern-held-by-cologne (AFP)
+- **UNCONFIRMED:** "torn syndesmosis ligament" + "ruled out for months" — only OneFootball via Yahoo (paraphrase of Max Eberl, no verbatim quote): https://sports.yahoo.com/articles/post-match-shock-confirmed-bayern-220900087.html. Do NOT say "out for months" until Bayern or a 2nd outlet confirms. Olise "on crutches, precautionary, Kompany hopes he trains Monday" — same single source. "Only unbeaten side in Europe's top 5 leagues" — Yahoo/AFP only. Bayern's next game: at Lille, UCL, Wed 25 Nov (Goal only).
+- **Angle:** England angle = biggest audience: Couch — Mo panics ("England's captain! The ankle!"), Kev: "It says 'apparent'. Breathe." Punchline on Spurs loanee Moore scoring v Bayern ("Spurs finally beat Kane"). Q: **"If Kane is out for weeks, who's England's No. 9?"** Wait for confirmation before any duration. Post Sat morning once Bayern updates.
+- **Visual:** "Harry Kane" (Commons, check licence), "Allianz Arena".
 
-### 3. Score 9 — Nations League QF draw: Spain v France, Norway v England, Netherlands v Portugal, Belgium v Germany (**NOT COVERED**, carried over)
-- **Facts:** Drawn Fri 20 Nov, Nyon. Legs 25–27 & 28–30 March 2027; England away in Norway first, Wembley return. Finals June 2027.
-- **Sources:** https://www.sportsmole.co.uk/football/england/uefa-nations-league/news/erling-vs-england-nations-league-quarter-final-draw-confirmed_609481.html · https://www.goal.com/en/news/uefa-nations-league-2026-27-quarter-final-draw-spain-france/blt66fa1e092f47896a
-- **Angle:** Q: **"Best QF: Spain v France or Norway v England?"** Still fresh today; post by this evening or it goes stale.
-- **Visual:** "Erling Haaland", "Wembley Stadium", "Ullevaal Stadion".
+### 3. Score 9 — Al-Ahli 3–1 Al Nassr: Ronaldo scores, misses a penalty, Toney leads the comeback (**NOT COVERED**)
+- **Facts:** Saudi Pro League, Fri 20 Nov, Jeddah. **Al-Ahli 3–1 Al Nassr**: Tribune India (ANI) report; Asianet Newsable headline "Al-Ahli Stages Comeback to Defeat Al-Nassr Despite Ronaldo Opener"; VAVEL and AllFootball headlines also 3–1, AllFootball: "Ronaldo scores but misses penalty as Toney leads comeback". Goal headline: "Al Nassr crumble".
+- **Sources:** https://www.tribuneindia.com/news/sports/saudi-pro-league-ronaldo-misses-penalty-as-al-nassr-lose-3-1-to-al-ahli/ · https://newsable.asianetnews.com/sports/al-ahli-stages-comeback-to-defeat-al-nassr-despite-ronaldo-opener-articleshow-3zuxkvi · https://www.allfootballapp.com/articles/6010437-al-ahli-sfc-3-1-al (headline only)
+- **UNCONFIRMED (Tribune only):** Ronaldo 14', missed pen ~18' (hit the post), Galeno 45+', Toney pen 71', Ibañez ~75'; "986th career goal". **Hindustan Herald says 3–2 and that Ronaldo didn't score** — contradicts all others, ignore but don't use minutes/goal tally until ESPN/SPL confirms. Table effect (Al Nassr falling behind Al-Hilal) UNCONFIRMED.
+- **Angle:** Quick reaction / Guess-the-player: "Scored, missed a penalty, lost 3–1 — who?" Q: **"Ronaldo goal 1,000: this season or never?"** (only if 986 confirmed). Tonight or Sat AM.
+- **Visual:** "Cristiano Ronaldo" (Commons, check licence), "King Abdullah Sports City".
 
 ### 4. Score 9 — Mourinho: "We don't have players with privileges" — Vinícius start v Celta in doubt (**NOT COVERED**, carried over)
-- **Facts:** Mourinho pre-Celta presser (Fri 20 Nov): "Here, we don't have players with privileges." On Vini: "Starter, off the bench, or in the stands, it doesn't matter." Real Madrid v Celta, Sat 21 Nov, 2:00 PM CT.
+- **Facts:** "Here, we don't have players with privileges." On Vini: "Starter, off the bench, or in the stands, it doesn't matter." Real Madrid v Celta, **Sat 21 Nov, 2:00 PM CT**.
 - **Sources:** https://www.realmadrid.com/en-US/news/football/first-team/press-conference/rp-mourinho-pre-rm-celta-20-11-2026 · https://sports.yahoo.com/articles/no-one-plays-divine-mou-091200395.html
-- **Angle:** Who Fits: "Vini, Diomande or Güler on the left?" Q: **"Should Vini start Saturday?"** Tonight or Sat morning. Do NOT say Vini is dropped.
+- **Angle:** Who Fits: "Vini, Diomande or Güler on the left?" Q: **"Should Vini start Saturday?"** Must go out before 2 PM Sat. Don't say Vini is dropped.
 - **Visual:** "Santiago Bernabéu Stadium", "José Mourinho".
 
-### 5. Score 9 (7 + Haiti +2) — Haiti U-17 lost 3–1 to France; Uruguay next Sunday (**NOT COVERED**, carried over)
-- **Facts:** U-17 World Cup, Qatar, Thu 19 Nov: France 3–1 Haiti (Merrifield 4', 41', Tiehi 47'). Next: **Uruguay v Haiti, Sun 22 Nov**.
-- **Sources:** https://jamaica-gleaner.com/article/sports/20261120/merrifield-brace-powers-france-past-haiti-u-17-world-cup-opener · https://www.espn.com/soccer/match/_/gameId/401873513 · https://lenouvelliste.com/en/article/274043/u17-world-cup-haiti-loses-3-1-to-france-in-their-opening-match
-- **UNCONFIRMED:** Haiti scorer name (Macenat Prophète 88', Le Nouvelliste only). Uruguay kick-off **9:30 AM CT** — still only futboltotal.futbol; SportyTrader lists the match on 22 Nov but labels it "Group F" while previous watches said Group D → group letter **UNCONFIRMED** too. Check FIFA match centre before posting a time or group.
-- **Angle:** FB photo: "Haiti's young Grenadiers scored against France. Sunday: Uruguay." Q: **"Can the U-17s beat Uruguay?"** Tonight or Sat.
+### 5. Score 9 (7 + Haiti +2) — Haiti U-17 face Uruguay on Sunday after the 3–1 loss to France (**NOT COVERED**, carried over)
+- **Facts:** U-17 World Cup, Qatar, Thu 19 Nov: France 3–1 Haiti. Next: **Uruguay v Haiti, Sun 22 Nov** (Aspire Zone).
+- **Sources:** https://jamaica-gleaner.com/article/sports/20261120/merrifield-brace-powers-france-past-haiti-u-17-world-cup-opener · https://www.haitilibre.com/en/news-48934-haiti-2026-u-17-world-cup-qatar-haiti-saves-its-honor-but-falls-[3-1]-against-france.html · https://www.espn.com/soccer/match/_/gameId/401873513
+- **UNCONFIRMED:** kick-off. futboltotal (prev. watches) = 9:30 AM CT; YSScores shows "10:30 am" with an unclear timezone (if Qatar time = **1:30 AM CT**). These conflict → **do NOT post a time** until FIFA match centre (https://www.fifa.com/en/match-centre/match/102/292937/292938/400022605) shows it. Group letter (D vs F) also UNCONFIRMED.
+- **Angle:** FB photo: "Haiti's young Grenadiers vs Uruguay this Sunday." Q: **"Can the U-17s beat Uruguay?"** Sat.
 - **Visual:** "Aspire Zone", Haiti flag.
 
 ### Also on the radar
-- **Score 8 — Arteta: Saka ≈4 more weeks, Zubimendi out "a few weeks", Saliba ready; Dowman serves last game of ban** — now 2 sources for Saka/Zubimendi/Saliba: Yahoo + Fantasy Football Scout (https://www.fantasyfootballscout.co.uk/2026/11/20/fpl-gameweek-11-team-news-fridays-live-injury-updates-4). Newcastle v Arsenal Sat 11:30 AM CT. **NOT COVERED.** Who Fits: "No Saka for a month — who plays right wing?"
-- **Score 7 — Berrada (Man United CEO) Sky interview:** "It was a very difficult decision" (Carrick sacking); "I am convinced that we are heading in the right direction." Sky only, wording from a summary → **UNCONFIRMED**. https://www.skysports.com/football/news/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy
-- **Score 8 — Yamal LaLiga Best Player (18 Nov)** and **Globe Soccer nominees Messi/Ronaldo/Mbappé (18 Nov)** — still **NOT COVERED** (sources in `watch/2026-11-19_1120.md`). Yamal post best before Barça v Villarreal Sun 7 AM CT.
-- **Score 7 — Ronaldo: Al-Ahli v Al Nassr, today 11:30 AM CT (Jeddah)** — lineup/result not verified this run.
+- **Score 9 — Iraola presser** ("You don't find bigger games than this, honestly"; Van Dijk "fine to go"; Frimpong/Gravenberch should be available) — liverpoolfc.com + ESPN (see 11:20 watch). **NOT COVERED.** Pair with #1.
+- **Score 8 — Nations League QF draw** (Spain v France, Norway v England, Netherlands v Portugal, Belgium v Germany; March 2027) — Sports Mole + Goal (see 11:20 watch). **NOT COVERED**, going stale — post tonight or drop.
+- **Score 8 — Arteta: Saka ≈4 more weeks, Zubimendi out "a few weeks"** — Newcastle v Arsenal Sat 11:30 AM CT. **NOT COVERED.**
+- **Score 8 — Yamal LaLiga Best Player / Globe Soccer nominees (Messi, Ronaldo, Mbappé)** — 18 Nov, sources in `watch/2026-11-19_1120.md`. **NOT COVERED.**
+- **Score 7 — Mikey Moore (Spurs loanee) scores v Bayern** — fits Spurs audience; see #2 sources.
 - **Rumours (NOT fact):** Endrick January exit, Schlotterbeck to Barça, Saliba contract, Bruno Fernandes future.
 
 ---
@@ -67,20 +61,19 @@ Window: since the last watch (Fri 20 Nov, 6:22 AM CT) + next 72 h (to Mon 23 Nov
 
 | When (CT) | Match / event | Why | Plan |
 |---|---|---|---|
-| **Fri 20 Nov, 11:30 AM** | **Al-Ahli v Al Nassr** | Ronaldo | Result line |
-| Fri 20 Nov, 12:00 PM | k88 Guess the score LIV–MUN | — | ✅ PARE |
-| Fri 20 Nov, 1:30 PM | Bayern v Köln | Kane | Result line / Kane stat |
-| Fri 20 Nov, 7:00 PM | LF02 long-form (k82) | Liverpool v Man United | ✅ PARE |
+| Fri 20 Nov, 7:00 PM | LF02 long-form (k82) | Liverpool v Man United | ✅ PARE (in KIT) |
 | **Sat 21 Nov, 6:30 AM** | **Man City v Fulham** | Haaland | FT line |
 | **Sat 21 Nov, 9:00 AM** | **Chelsea v Leeds** · **Spurs v Ipswich** · Coventry v Crystal Palace | Chelsea, Spurs | FT lines |
 | **Sat 21 Nov, 11:30 AM** | **Newcastle v Arsenal** | Arsenal (no Saka, no Zubimendi) | Who Fits before + FT reaction |
+| Sat 21 Nov (time not verified) | Gladbach v Dortmund | BVB can go top after Bayern draw | FT line |
 | **Sat 21 Nov, 2:00 PM** | **Real Madrid v Celta** | Vini "no privileges", Mbappé | Who Fits before + FT reaction |
-| **Sat 21 Nov, 5:00 PM** | **Inter Miami v Columbus** — MLS playoffs R1 G1 | **Messi** | FT reaction (k86 teased it) |
+| **Sat 21 Nov, 5:00 PM** | **Inter Miami v Columbus** — MLS playoffs R1 G1 | **Messi** | FT reaction |
 | **Sun 22 Nov, 7:00 AM** | **Barcelona v Villarreal** | Yamal | Yamal award post before KO |
-| **Sun 22 Nov, 9:30 AM (UNCONFIRMED)** | **Uruguay U-17 v Haiti U-17** | **Haiti (+2)** | Preview Sat + result Sun |
+| **Sun 22 Nov, time UNCONFIRMED** | **Uruguay U-17 v Haiti U-17** | **Haiti (+2)** | Preview Sat + result Sun |
 | **Sun 22 Nov, 10:30 AM** | **Liverpool v Man United — Pochettino's debut** | Tier 1 v Tier 1 | "Pick Poch's first XI" Sat; **FT reaction Couch Sun** |
+| Wed 25 Nov (outside window) | Lille v Bayern (UCL) | Kane fitness | Watch Kane news |
 
-**Fixture sources:** PL MW11 — https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november + https://sportstalkflorida.com/premier-league/premier-league-matchweek-11-tv-schedule-usa-kickoff-times-streaming-guide-nov-21-23-2026/ · LIV–MUN Sunday at Anfield also confirmed today by liverpoolfc.com + ESPN · Real Madrid v Celta — realmadrid.com + Sports Mole (prev. watch) · Inter Miami — https://www.mlssoccer.com/playoffs/2026/news/inter-miami-vs-columbus-crew-how-to-watch-stream-round-one-game-1 + Sports Mole · Al-Ahli v Al Nassr Friday — https://africasoccer.com/?p=661421 + https://khelnow.com/football/al-ahli-vs-al-nassr-preview-saudi-pro-league-202611 · Bayern v Köln: `watch/2026-11-18_0616.md`. Sunday-afternoon/Monday fixtures not re-verified this run.
+**Fixture sources:** PL MW11 — https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november + https://sportstalkflorida.com/premier-league/premier-league-matchweek-11-tv-schedule-usa-kickoff-times-streaming-guide-nov-21-23-2026/ · LIV–MUN: liverpoolfc.com + ESPN (11:20 watch) · Real Madrid v Celta: realmadrid.com + Sports Mole · Inter Miami: https://www.mlssoccer.com/playoffs/2026/news/inter-miami-vs-columbus-crew-how-to-watch-stream-round-one-game-1 + Sports Mole · Barça v Villarreal: previous watches · Gladbach v Dortmund date: Yahoo/AFP + Goal (time not verified). Sunday-afternoon/Monday fixtures not re-verified this run.
 
 ---
 
@@ -88,20 +81,23 @@ Window: since the last watch (Fri 20 Nov, 6:22 AM CT) + next 72 h (to Mon 23 Nov
 
 | Story | Tier / priority | In KIT? |
 |---|---|---|
-| **Pochettino first presser — "I cannot sleep", "a race" (20 Nov)** | Man United (Tier 1) | **NOT COVERED** (k87/k88/k82 are previews built before the presser) |
-| **Iraola presser + Liverpool fitness (20 Nov)** | Liverpool | **NOT COVERED** |
+| **Kane injured, Bayern 1–1 Köln (20 Nov)** | Kane, Bayern, England | **NOT COVERED** |
+| **Ronaldo scores + misses pen, Al-Ahli 3–1 Al Nassr (20 Nov)** | Ronaldo (Tier 1) | **NOT COVERED** |
+| Pochettino first presser (20 Nov) | Man United (Tier 1) | **NOT COVERED** |
+| Iraola presser + Liverpool fitness (20 Nov) | Liverpool | **NOT COVERED** |
 | Nations League QF draw (20 Nov) | England, France, Spain, Portugal, Germany | **NOT COVERED** |
 | Mourinho "no privileges" — Vini (20 Nov) | Real Madrid (Tier 1) | **NOT COVERED** |
 | Arteta: Saka ≈4 more weeks (20 Nov) | Arsenal | **NOT COVERED** |
 | Haiti U-17 1–3 France (19 Nov) | Haiti (+2) | **NOT COVERED** |
 | Yamal LaLiga Best Player (18 Nov) | Yamal, Barça (Tier 1) | **NOT COVERED** |
 | Globe Soccer nominees — Messi, Ronaldo, Mbappé (18 Nov) | Messi, Ronaldo (Tier 1) | **NOT COVERED** |
-| Messi Golden Boot ×2 / playoffs | Messi | Covered (k86, 7 AM) |
-| Liverpool v Man United preview | Tier 1 | Covered (k87 9 AM, k88 12 PM, k82 LF 7 PM) |
+| Messi Golden Boot ×2 / playoffs | Messi | Covered (k86) |
+| Liverpool v Man United preview | Tier 1 | Covered (k87, k88, k82) |
 
-**Recommendation for the producer (rest of Fri):**
-1. **~2–3 PM: Couch Short — "Poch can't sleep" + Iraola "small advantage"** (two-source quotes only). Freshest Tier-1 story of the day; it also feeds the 7 PM long-form audience.
-2. **~5 PM:** NL draw Q ("Spain v France or Norway v England?") — last chance before it's stale.
-3. **Tonight / Sat morning:** Mourinho–Vini Who Fits **or** No-Saka Who Fits (one tonight, one Sat).
-4. **Sat:** Haiti U-17 photo once FIFA confirms kick-off time; "Pick Poch's first XI"; FT lines.
-5. **Sun:** Yamal before Barça 7 AM → Haiti v Uruguay → LIVMUN FT Couch.
+**Recommendation for the producer (Fri night → Sat):**
+1. **Tonight:** Couch Short — "Poch can't sleep" + Iraola (both managers spoke) — still the strongest uncovered Tier-1 story before Sunday.
+2. **Tonight/Sat 7 AM:** Ronaldo "scored, missed a pen, lost 3–1" quick reaction (score + pen only; no minutes).
+3. **Sat AM:** Kane injury Couch once Bayern confirms the diagnosis — "Who's England's No. 9?" If still unconfirmed, say "forced off, waiting on scans".
+4. **Sat before 11:30 AM / 2 PM:** No-Saka Who Fits; Vini Who Fits.
+5. **Sat:** Haiti U-17 photo once FIFA confirms the kick-off; "Pick Poch's first XI".
+6. **Sun:** Yamal before 7 AM → Haiti v Uruguay → LIVMUN FT Couch.
