@@ -7,7 +7,7 @@ Volim (règ 19 nov): 3 Shorts + 1 long-form, omwen 3 è ant chak.
 | 9:00 AM | hb-S30 | "U.S. Girl, 6, Freed in Haiti After 5 Months…" | ⏩ deja pwograme (kat la nan `2026-11-20/KIT.md`) — pin apre 9 AM |
 | 12:00 PM | hb-L12 | "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador" | 🛠️ an pwodiksyon — bezwen A1–A5 Kai (`anchor/2026-11-21_prisons_long/DIALOGUE.md`) anvan 10:30 AM |
 | 3:00 PM | hb-S32 | "A Third Salvadoran Soldier Has Died After the Haiti Camp Blast" | ✅ PARE (kat anba) |
-| 9:00 PM | hb-S33 | "Haiti Plans 3 New Prisons With El Salvador After CECOT Tour" (fallback; Martissant Jou 2 si PNH konfime) | ✅ PARE (kat anba) |
+| 9:00 PM | hb-S33 | "Haiti Police Say 20 More Gang Members Killed in Martissant on Day 2" | ✅ PARE (kat anba) |
 
 Fallback: si A1–A5 rive apre 10:30 AM → hb-S32 a **12:00 PM**, hb-L12 a **4:00 PM**, hb-S33 a 9:00 PM.
 
@@ -78,30 +78,32 @@ third Salvadoran soldier dies Haiti, Salvadoran soldiers killed Haiti, El Salvad
 
 ---
 
-## 9:00 PM ET · SAMDI 21 NOV · SHORT hb-S33 · 0:30 · "Haiti Plans 3 New Prisons With El Salvador After CECOT Tour"
-**Estati:** ✅ PARE (vèsyon fallback) — si PNH bay yon bilan ofisyèl Martissant Jou 2 anvan 6 PM, m ap ranplase l epi m ap di w nan NOTES. Sinon, poste sa a. · 1080×1920 · foto achiv CECOT (FILE, an El Salvador) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L12** (lyen an apre 12 PM). Stutter check pase.
+## 9:00 PM ET · SAMDI 21 NOV · SHORT hb-S33 · 0:41 · "Haiti Police Say 20 More Gang Members Killed in Martissant on Day 2"
+**Estati:** ✅ PARE (ranplase vèsyon prizon an — bilan ofisyèl PNH/DICOP Jou 2 konfime: tip Kai + Vant Bèf Info + AlterPresse) · 1080×1920 · videyo PNH 19 nov (FILE) + kat Martissant + foto Port-au-Prince · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L11** (O29KTmlqq-U). Stutter check pase.
 - Video: `haiti-brief/2026-11-21/HaitiBrief_Short_33_Nov_21.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-21/HaitiBrief_Short_33_Nov_21.mp4
-- Kòmantè pin: `Sources: AP; Diario Libre (Nov. 20, 2026). Cost, locations, size and the companies' names have not been announced. Full report: [lyen hb-L12]`
+- Kòmantè pin: `Sources: Haitian National Police (DICOP) via Radio Télé Métronome and Universel Actu (Nov. 20, 2026); Vant Bèf Info; AlterPresse. Tolls are police figures and have not been independently verified. Full report: https://youtu.be/O29KTmlqq-U`
 
 **Tit:**
 ```
-Haiti Plans 3 New Prisons With El Salvador After CECOT Tour #Shorts
+Haiti Police Say 20 More Gang Members Killed in Martissant on Day 2 #Shorts
 ```
 **Deskripsyon:**
 ```
-Haiti's government says it has a deal with El Salvador to build three new prisons. Justice Minister Patrick Pélissier announced it on Friday, Nov. 20, days after he toured CECOT, El Salvador's mega-prison. A Salvadoran company will build them with a Haitian partner; neither has been named. The cost, the locations and the size have not been made public, and Haiti has not said whether the prisons will follow the CECOT model.
+Haiti's National Police say 20 more suspected gang members were killed in Martissant on Friday, Nov. 20, the second day of the offensive, in Martissant 2A including the Village sector. On Thursday, police said 34 were killed, bringing their two-day count to more than 50. Police say the operation with the Task Force will continue to take back gang-held territory.
 
-Full report: [lyen hb-L12]
+The tolls come from the police and have not been independently verified. No names have been released, and police have not announced that the road south (RN2) is open again.
 
-Sources: AP; Diario Libre (Nov. 20, 2026). Photos: Casa Presidencial de El Salvador (CC0, file photos, in El Salvador).
-#Haiti #ElSalvador #Bukele
+Inside the fight for Martissant: https://youtu.be/O29KTmlqq-U
+
+Sources: Haitian National Police (DICOP) via Radio Télé Métronome and Universel Actu; Vant Bèf Info; AlterPresse (Nov. 20–21, 2026). Video: Haitian National Police (file, Nov. 19). Photo: MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
+#Haiti #Martissant #HaitiNews
 ```
 **Facebook (Reel, Haiti Brief):**
 ```
-Haiti says it has a deal with El Salvador to build three new prisons, days after its justice minister toured CECOT. Cost, locations and size have not been announced.
-#Haiti #ElSalvador #Bukele
+Martissant, day 2: Haiti's police say 20 more suspected gang members were killed on Friday, after 34 on Thursday. The figures come from the police and have not been independently verified.
+#Haiti #Martissant #HaitiNews
 ```
 **Tags:**
 ```
-Haiti prisons El Salvador, Haiti CECOT, Bukele Haiti, Patrick Pélissier, Haiti news, Haiti Brief
+Martissant, Haiti police gang operation, Martissant 2A, Haiti gangs, Task Force Haiti, Haiti news, Haiti Brief
 ```
