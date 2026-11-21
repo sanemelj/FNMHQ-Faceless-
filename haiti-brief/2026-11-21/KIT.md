@@ -13,6 +13,37 @@ Fallback: si A1–A5 rive apre 10:30 AM → hb-S32 a **12:00 PM**, hb-L12 a **4:
 
 ---
 
+## 12:00 PM ET · SAMDI 21 NOV · LONG-FORM hb-L12 · ~3:55 · "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador"
+**Estati:** 🛠️ narasyon + imaj an rann — **ap tann A1–A5 Kai** (`anchor/2026-11-21_prisons_long/DIALOGUE.md`) · 1920×1080 · **Altered content: Yes** (avata) · Thumbnail: `HaitiBrief_Thumb_L12_A.jpg` · End screen: Subscribe + hb-L11 (O29KTmlqq-U).
+- Video: `haiti-brief/2026-11-21/HaitiBrief_LongForm_L12_Nov_21.mp4` (ap vini)
+- Kòmantè pin: `Sources: AP (Nov. 20, 2026); Diario Libre (Nov. 20); Salvadoran Armed Forces on X (Nov. 21). Not yet announced: cost, financing, locations, capacity, companies, start date. We will update this story.`
+
+**Tit:**
+```
+After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador
+```
+**Deskripsyon:** (chapit yo ap ajoute lè videyo a fini)
+```
+Haiti's government says it has reached a deal with El Salvador to build three new prisons. Justice and Public Security Minister Patrick Pélissier announced it on Friday, Nov. 20, days after touring CECOT, the mega-prison at the center of Nayib Bukele's crackdown on gangs.
+
+What we know: the prisons will be built by a Salvadoran company that specializes in prisons, working with a Haitian company (Diario Libre). Prime Minister Alix Didier Fils-Aimé asked for the project to move faster, and the first prison is expected to start soon. Pélissier praised CECOT (AP).
+
+What we don't know: the cost, who pays, the locations, the capacity, the companies' names and a start date. Haiti has not said whether the new prisons will follow the CECOT model or whether El Salvador will help run them.
+
+Context: in March 2024 gangs stormed Haiti's two largest prisons, the National Penitentiary and Croix-des-Bouquets, and thousands of inmates escaped. The AP says Haiti's prisons are severely overcrowded.
+
+Inside the fight for Martissant: https://youtu.be/O29KTmlqq-U
+
+Sources: AP; Diario Libre; AFP; The Haitian Times; Salvadoran Armed Forces on X; Amnesty International; Human Rights Watch. Photos: Casa Presidencial de El Salvador (CC0, file photos, in El Salvador); MichelleWalz (CC BY 2.0); Kitanago (CC BY-SA 4.0). Map data © OpenStreetMap contributors.
+#Haiti #ElSalvador #Bukele
+```
+**Tags:**
+```
+Haiti prisons El Salvador, Haiti CECOT, Bukele Haiti prisons, Patrick Pélissier, Haiti El Salvador deal, Haiti news, Haiti Brief
+```
+
+---
+
 ## 3:00 PM ET · SAMDI 21 NOV · SHORT hb-S32 · 0:38 · "A Third Salvadoran Soldier Has Died After the Haiti Camp Blast"
 **Estati:** ✅ PARE · 1080×1920 · foto achiv FAES (FILE, an El Salvador) + kat rejyon + foto Port-au-Prince · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **El Salvador's Troops in Haiti: Where Things Stand** (bofJfCWYnco). Stutter check pase (mo "first" verifye apa).
 - Video: `haiti-brief/2026-11-21/HaitiBrief_Short_32_Nov_21.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-21/HaitiBrief_Short_32_Nov_21.mp4
