@@ -5,15 +5,15 @@ Volim (règ 19 nov): 3 Shorts + 1 long-form, omwen 3 è ant chak.
 | Lè (ET) | Kòd | Kisa | Eta |
 |---|---|---|---|
 | 9:00 AM | hb-S30 | "U.S. Girl, 6, Freed in Haiti After 5 Months…" | ⏩ deja pwograme (kat la nan `2026-11-20/KIT.md`) — pin apre 9 AM |
-| **4:00 PM** (fallback) | hb-L12 | "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador" | 🛠️ an pwodiksyon — bezwen A1–A5 Kai (`anchor/2026-11-21_prisons_long/DIALOGUE.md`) anvan 10:30 AM |
-| **12:00 PM** (fallback) | hb-S32 | "A Third Salvadoran Soldier Has Died After the Haiti Camp Blast" | ✅ PARE (kat anba) |
+| **6:00 PM** (si A1–A5 anvan 5 PM; sinon demen 12 PM) | hb-L12 | "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador" | 🛠️ an pwodiksyon — bezwen A1–A5 Kai (`anchor/2026-11-21_prisons_long/DIALOGUE.md`) anvan 10:30 AM |
+| **3:00 PM** | hb-S32 | "A Third Salvadoran Soldier Has Died After the Haiti Camp Blast" | ✅ PARE (kat anba) |
 | 9:00 PM | hb-S33 | "Haiti Police Say 20 More Gang Members Killed in Martissant on Day 2" | ✅ PARE (kat anba) |
 
-⚠️ **FALLBACK AKTIVE 10:20 ET** (A1–A5 poko rive). Ansyen plan: si A1–A5 rive apre 10:30 AM → hb-S32 a **12:00 PM**, hb-L12 a **4:00 PM**, hb-S33 a 9:00 PM.
+⚠️ **PLAN 12:18 ET:** S32 3 PM · L12 6 PM (si A1–A5 anvan 5 PM) · S33 9 PM. (Fallback 10:20 ET la pa t aplike, Kai pa t la.) (A1–A5 poko rive). Ansyen plan: si A1–A5 rive apre 10:30 AM → hb-S32 a **12:00 PM**, hb-L12 a **4:00 PM**, hb-S33 a 9:00 PM.
 
 ---
 
-## ⏩ 4:00 PM ET (te 12 PM) · SAMDI 21 NOV · LONG-FORM hb-L12 · ~3:55 · "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador"
+## ⏩ 6:00 PM ET (te 12 PM) · SAMDI 21 NOV · LONG-FORM hb-L12 · ~3:55 · "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador"
 **Estati:** 🛠️ narasyon + imaj an rann — **ap tann A1–A5 Kai** (`anchor/2026-11-21_prisons_long/DIALOGUE.md`) · 1920×1080 · **Altered content: Yes** (avata) · Thumbnail: `HaitiBrief_Thumb_L12_A.jpg` · End screen: Subscribe + hb-L11 (O29KTmlqq-U).
 - Video: `haiti-brief/2026-11-21/HaitiBrief_LongForm_L12_Nov_21.mp4` (ap vini)
 - Kòmantè pin: `Sources: AP (Nov. 20, 2026); Diario Libre (Nov. 20); Salvadoran Armed Forces on X (Nov. 21). Not yet announced: cost, financing, locations, capacity, companies, start date. We will update this story.`
@@ -44,7 +44,7 @@ Haiti prisons El Salvador, Haiti CECOT, Bukele Haiti prisons, Patrick Pélissier
 
 ---
 
-## ⏩ 12:00 PM ET (te 3 PM) · SAMDI 21 NOV · SHORT hb-S32 · 0:38 · "A Third Salvadoran Soldier Has Died After the Haiti Camp Blast"
+## 3:00 PM ET · SAMDI 21 NOV · SHORT hb-S32 · 0:38 · "A Third Salvadoran Soldier Has Died After the Haiti Camp Blast"
 **Estati:** ✅ PARE · 1080×1920 · foto achiv FAES (FILE, an El Salvador) + kat rejyon + foto Port-au-Prince · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **El Salvador's Troops in Haiti: Where Things Stand** (bofJfCWYnco). Stutter check pase (mo "first" verifye apa).
 - Video: `haiti-brief/2026-11-21/HaitiBrief_Short_32_Nov_21.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-21/HaitiBrief_Short_32_Nov_21.mp4
 - Se yon UPDATE sou hb-S31 (AoIbc5aAVlk): pa mete l anvan 3 PM, pa efase S31.
