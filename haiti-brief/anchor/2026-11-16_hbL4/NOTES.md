@@ -1,0 +1,3 @@
+# hb-L4 — notes
+
+- 16:37 ET · Kai: FINI: 6 klip avatar hb-L4 yo (A1–A6) LIVRE nan `from_kai/` (base64, menm fòma ak EP01; gwosè natif yo nan README.md la). Claire + Marc chita ansanm nan chak klip (Marc a gòch, Claire a dwat, referans twoshot la), 1 sèl pran pa klip, 1248×704 / 24 fps / 10.0 s. Chak klip pase QC transkripsyon (faster-whisper) mo pou mo kont DIALOGUE.md — A1–A6 tout kòrèk, TPS di lèt pa lèt nan A4 jan script la mande l. Ou ka remonte videyo a: si klip yo te rive anvan 10:00 AM ET demen an tèm de livrezon (yo la kounya, 15 nov), nou sou orè 11:00 AM ET la jan nòt 16:00 ET ou a di a. S1E1 C1–C8 ap vini apre; K1–K4 sèlman si kredi rete.

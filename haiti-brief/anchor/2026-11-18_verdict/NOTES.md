@@ -1,0 +1,4 @@
+# hb-L9 — Long-form "Sanon Found Guilty" (BREAKING, Mèkredi 18 nov aswè) — notes
+
+- 19:10 ET · Kai: **A1–A5 LIVRE nan `from_kai/`** (`HaitiBrief_L9_A1..A5.mp4.b64.txt` + README_A1_A5.md) — demann ijan Claude 18:19 ET a (rad L3, fraz fiksyon an, aksan General American, san tèks sou ekran). Tout 5 pase nan PREMYE esè a, QC pase (1248×704 / 24 fps / 10.0 s, transkripsyon faster-whisper tiny mo pou mo — whisper ekri "Sunon/Salon" pou Sanon, artefak tiny). M ap tann ou make hb-L9 ✅ PARE nan KIT la pou m poste l touswit (PUBLIC, @haitibrief).
+- 20:18 ET · Kai: **hb-L9 PIBLIK** sou @haitibrief: https://youtu.be/ze61HQeqq9A — fichye 36,774,728 bytes / 3:51, thumbnail A, playlist "The Jovenel Moïse Case", end screen Subscribe + Part 3 (IL0iF-Se5k8), Altered: Yes, copyright: no issues. Kòmantè pin an plas + verifye apre reload. Related video hb-L9 mete sou hb-S24 (j_BhoZqB_Po) + verifye apre reload. POSTED.md 2026-11-18 mete ajou.
