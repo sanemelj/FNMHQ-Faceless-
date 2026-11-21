@@ -5,7 +5,7 @@ Volim (règ 19 nov): 3 Shorts + 1 long-form, omwen 3 è ant chak.
 | Lè (ET) | Kòd | Kisa | Eta |
 |---|---|---|---|
 | 9:00 AM | hb-S30 | "U.S. Girl, 6, Freed in Haiti After 5 Months…" | ⏩ deja pwograme (kat la nan `2026-11-20/KIT.md`) — pin apre 9 AM |
-| **6:00 PM** (si A1–A5 anvan 5 PM; sinon demen 12 PM) | hb-L12 | "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador" | 🛠️ an pwodiksyon — bezwen A1–A5 Kai (`anchor/2026-11-21_prisons_long/DIALOGUE.md`) anvan 10:30 AM |
+| **6:00 PM** | hb-L12 | "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador" | 🛠️ an pwodiksyon — bezwen A1–A5 Kai (`anchor/2026-11-21_prisons_long/DIALOGUE.md`) anvan 10:30 AM |
 | **3:00 PM** | hb-S32 | "A Third Salvadoran Soldier Has Died After the Haiti Camp Blast" | ✅ PARE (kat anba) |
 | 9:00 PM | hb-S33 | "Haiti Police Say 20 More Gang Members Killed in Martissant on Day 2" | ✅ PARE (kat anba) |
 
@@ -13,16 +13,16 @@ Volim (règ 19 nov): 3 Shorts + 1 long-form, omwen 3 è ant chak.
 
 ---
 
-## ⏩ 6:00 PM ET (te 12 PM) · SAMDI 21 NOV · LONG-FORM hb-L12 · ~3:55 · "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador"
-**Estati:** 🛠️ narasyon + imaj an rann — **ap tann A1–A5 Kai** (`anchor/2026-11-21_prisons_long/DIALOGUE.md`) · 1920×1080 · **Altered content: Yes** (avata) · Thumbnail: `HaitiBrief_Thumb_L12_A.jpg` · End screen: Subscribe + hb-L11 (O29KTmlqq-U).
-- Video: `haiti-brief/2026-11-21/HaitiBrief_LongForm_L12_Nov_21.mp4` (ap vini)
+## ⏩ 6:00 PM ET (te 12 PM) · SAMDI 21 NOV · LONG-FORM hb-L12 · 4:01 · "After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador"
+**Estati:** ✅ PARE · A1–A5 Kai (L6) QC pase · stutter check pase · 1920×1080 · 44.5 MB · **Altered content: Yes** (avata) · Thumbnail: `HaitiBrief_Thumb_L12_A.jpg` · End screen: Subscribe + hb-L11 (O29KTmlqq-U).
+- Video: `haiti-brief/2026-11-21/HaitiBrief_LongForm_L12_Nov_21.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-21/HaitiBrief_LongForm_L12_Nov_21.mp4
 - Kòmantè pin: `Sources: AP (Nov. 20, 2026); Diario Libre (Nov. 20); Salvadoran Armed Forces on X (Nov. 21). Not yet announced: cost, financing, locations, capacity, companies, start date. We will update this story.`
 
 **Tit:**
 ```
 After Visiting Bukele's Mega-Prison, Haiti Plans 3 New Prisons With El Salvador
 ```
-**Deskripsyon:** (chapit yo ap ajoute lè videyo a fini)
+**Deskripsyon:**
 ```
 Haiti's government says it has reached a deal with El Salvador to build three new prisons. Justice and Public Security Minister Patrick Pélissier announced it on Friday, Nov. 20, days after touring CECOT, the mega-prison at the center of Nayib Bukele's crackdown on gangs.
 
@@ -31,6 +31,13 @@ What we know: the prisons will be built by a Salvadoran company that specializes
 What we don't know: the cost, who pays, the locations, the capacity, the companies' names and a start date. Haiti has not said whether the new prisons will follow the CECOT model or whether El Salvador will help run them.
 
 Context: in March 2024 gangs stormed Haiti's two largest prisons, the National Penitentiary and Croix-des-Bouquets, and thousands of inmates escaped. The AP says Haiti's prisons are severely overcrowded.
+
+Chapters:
+0:00 Haiti's prison deal with El Salvador
+0:39 The deal
+1:42 Haiti's prisons
+2:20 The CECOT model
+2:56 What we don't know
 
 Inside the fight for Martissant: https://youtu.be/O29KTmlqq-U
 
