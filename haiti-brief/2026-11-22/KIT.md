@@ -1,11 +1,12 @@
 # KIT Dimanch 22 nov 2026 — Haiti Brief
 
-Volim: 3 Shorts maks, 3 è ant chak. **Pa gen long-form jodi a** (pa gen yon gwo istwa nouvo pou long-form; hb-L12 yè te deja sou prizon yo) — pa gen avata pou fè jodi a.
+Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. **Long-form hb-L13 (Sam apwouve 22 nov)** a 4 PM si A1–A5 rive anvan 2:30 PM.
 
 | Lè (ET) | Kòd | Kisa | Eta |
 |---|---|---|---|
 | 9:00 AM | hb-S34 | "Before the El Salvador Deal, Haiti Signed an $85 Million Prison Contract" | ✅ PARE |
 | ~~3:00 PM~~ | ~~hb-S35~~ | ❌ **ANILE** — repetisyon hb-S16 (17 nov, menm rapò ONU). PA POSTE L. | ❌ |
+| **4:00 PM** | hb-L13 | "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost" (long-form, Sam apwouve) | 🛠️ bezwen A1–A5 anvan 2:30 PM |
 | 9:00 PM | hb-S36 | (an atant — machin blende Bukele si yon medya konfime) | ⏳ |
 
 ---
