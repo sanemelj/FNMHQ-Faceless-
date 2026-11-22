@@ -7,7 +7,7 @@ Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. **Long-form hb-L13 (Sam apwou
 | 9:00 AM | hb-S34 | "Before the El Salvador Deal, Haiti Signed an $85 Million Prison Contract" | ✅ PARE |
 | ~~3:00 PM~~ | ~~hb-S35~~ | ❌ **ANILE** — repetisyon hb-S16 (17 nov, menm rapò ONU). PA POSTE L. | ❌ |
 | **4:00 PM** | hb-L13 | "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost" (long-form, Sam apwouve) | 🛠️ bezwen A1–A5 anvan 2:30 PM |
-| 9:00 PM | hb-S36 | Martissant Jou 4 (Gran Ravin / Ti Bwa — operasyon Dimanch maten) — Claude ap fè l lè PNH bay yon bilan | ⏳ |
+| 9:00 PM | hb-S36 | "Day 4 in Martissant: Police Target the Ti Lapli and Krisla Gangs" | ✅ PARE |
 
 ---
 
@@ -79,6 +79,36 @@ Bukele Haiti, El Salvador troops Haiti, Salvadoran soldiers Haiti, Haiti gangs, 
 ```
 One month after El Salvador sent its troops to Haiti: the strikes, the politics, and the cost. Full report.
 #Haiti #ElSalvador #Bukele
+```
+
+---
+
+## 9:00 PM ET · DIMANCH 22 NOV · SHORT hb-S36 · 0:39 · "Day 4 in Martissant: Police Target the Ti Lapli and Krisla Gangs"
+**Estati:** ✅ PARE · 1080×1920 · videyo PNH (FILE, 19 nov) + kat Martissant + foto Port-au-Prince · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L11** (O29KTmlqq-U). Stutter check pase.
+- Video: `haiti-brief/2026-11-22/HaitiBrief_Short_36_Nov_22.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-22/HaitiBrief_Short_36_Nov_22.mp4
+- Kòmantè pin: `Sources: Juno7, Vant Bèf Info, GuillaumeTV (Nov. 22, 2026). The toll of about 20 is reported by Vant Bèf Info, citing security forces; police had not published an official toll at the time of this video. Full report: https://youtu.be/O29KTmlqq-U`
+
+**Tit:**
+```
+Day 4 in Martissant: Police Target the Ti Lapli and Krisla Gangs #Shorts
+```
+**Deskripsyon:**
+```
+Haiti's police and the Task Force launched a new offensive in Martissant before dawn on Sunday, Nov. 22. Haitian outlets say it targeted the gangs of Ti Lapli and Krisla in Gran Ravin and Ti Bwa. Vant Bèf Info, citing security forces, reports about 20 suspected gang members killed; police have not published an official toll. It is the fourth day of operations in Martissant, on the main road from Port-au-Prince to Haiti's south. Police say more than 50 were killed on Thursday and Friday.
+
+Full report on the fight for Martissant: https://youtu.be/O29KTmlqq-U
+
+Sources: Juno7; Vant Bèf Info; GuillaumeTV; Haitian National Police. Video: Haitian National Police (file, Nov. 19). Photo: MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
+#Haiti #HaitiNews #Martissant
+```
+**Facebook (Reel, Haiti Brief):**
+```
+Day 4 in Martissant: police and the Task Force launched a new offensive before dawn Sunday against the Ti Lapli and Krisla gangs in Gran Ravin and Ti Bwa. No official toll yet.
+#Haiti #HaitiNews #Martissant
+```
+**Tags:**
+```
+Martissant, Gran Ravin, Ti Lapli, Krisla, Haiti police operation, Haiti Task Force, Haiti gangs, Haiti news, Haiti Brief
 ```
 
 ---
