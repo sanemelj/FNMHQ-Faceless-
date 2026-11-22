@@ -1,48 +1,50 @@
-# FNMHQ Match Watch: Sat 21 Nov 2026, 10:16 PM CT
+# FNMHQ Match Watch: Sun 22 Nov 2026, 6:22 AM CT
 
-*(Copy of `watch/2026-11-21_2216.md`; see that file for the full watch.)*
+*(Copy of `watch/2026-11-22_0622.md`; see that file for the full watch.)*
 
-Window: since the last watch (Sat 21 Nov, 4:25 PM CT), plus the next 72 h (to Tue 24 Nov, ~10 PM CT). Every fact has 2 sources unless it is marked **UNCONFIRMED**. All times are US Central (CT).
+Window: since the last watch (Sat 21 Nov, 10:16 PM CT), plus the next 72 h (to Wed 25 Nov, ~6 AM CT). Every fact has 2 sources unless it is marked **UNCONFIRMED**. All times are US Central (CT).
 
-**What changed since 4:25 PM:**
-1. **UPSET: Inter Miami 0–3 Columbus Crew (FT, MLS playoffs R1 Game 1).** Tapia scored twice, Luján was sent off, and Messi was kept quiet by Schulte. Miami now have to win in Columbus on Fri or the defending champions are out. **NOT COVERED.**
-2. Liverpool v Man United is now double-checked: **Sun 22 Nov, 4:30 PM UK = 10:30 AM CT**, at Anfield.
-3. Doué (PSG): there is still **no official diagnosis**. The search results this run were all old injury stories from 2025, so still **UNCONFIRMED**.
-4. `2026-11-21/KIT.md` still does not exist, so every story from today is still **NOT COVERED**.
+**What changed since 10:16 PM:**
+1. **OFFICIAL: Désiré Doué has a ruptured ACL in his right knee** (PSG statement, Sun 22 Nov). Surgery is due before the end of November. PSG gave **no return date**. **NOT COVERED.**
+2. **Tottenham 2–0 Ipswich (Sat 21 Nov, FT)** is now confirmed. It was UNCONFIRMED last watch.
+3. **Champions League MD5 is now checked.** Tue 24 Nov has **Real Madrid v PSV**, **Arsenal v Dortmund** and **Man City v Napoli** (all 2:00 PM CT).
+4. `2026-11-21/KIT.md` and `2026-11-22/KIT.md` still do not exist on main, so every story since Sat is still **NOT COVERED**.
 
 ---
 
 ## TOP 5 NOW
 
-### 1. Score 10 · Columbus 3–0 Inter Miami: Messi's title defence is on the brink (**NOT COVERED**)
-- **Facts (3 sources agree):** MLS Cup Playoffs Round One, Game 1 (best of 3), Sat 21 Nov at Nu Stadium, Miami. FT **Inter Miami 0–3 Columbus**. The No. 7 seed beat the No. 2 seed.
-  - **Gonzalo Tapia** scored a penalty early. The minute differs (AP and ESPN say 8', MLS says 9'), so say "early pen". **Taha Habroune** scored at 52', set up by Brais Méndez (per ESPN). **Tapia** scored again at 58'.
-  - **Red card:** Gonzalo Luján (Miami) at 36', for a second yellow. Miami played the whole second half with 10 men.
-  - **Messi:** started, did not score, and was denied by Columbus keeper **Patrick Schulte**, who made 5 saves (AP). Messi was booked after a throw-in hit Tapia in the face (AP and ESPN). He had received the **2026 Golden Boot** before kick-off (26 goals, 17 assists, his second in a row, per AP).
-  - It is Miami's first shutout at Nu Stadium (AP).
-  - **Game 2:** Fri 27 Nov, 8 PM ET = **7 PM CT**, at ScottsMiracle-Gro Field, Columbus (MLS). A Columbus win ends the series. **Game 3**, if needed, is Dec 2 in Miami (ESPN only; kick-off time **UNCONFIRMED**).
-- **Sources:** https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs · https://www.mlssoccer.com/playoffs/2026/news/columbus-crew-stun-lionel-messi-miami-in-game-1-upset · AP via https://www.wftv.com/sports/tapia-scores-twice/JKOXRGRGRUZBPA7A2MU56L2O3Y/
-- **Do NOT say** where Columbus stood on 1 Sept. AP says 15th in the East and ESPN says last, so the sources disagree. Also don't write "booed Messi": AP says fans booed at half-time, not that they booed Messi.
-- **Angle:** **Couch, first post Sun AM.** Mo: "Golden Boot at kick-off, golden duck by full-time." Kev: "Schulte saved more shots than Miami took seriously." Q: **"Can Messi turn it around in Columbus on Friday? Yes/No."** Spin-off quiz: "Guess the score in Game 2."
-- **Visual (Commons):** "Lionel Messi Inter Miami", "Columbus Crew" / "Lower.com Field" (the old stadium name; check the licences).
+### 1. Score 10 · Columbus 3–0 Inter Miami: Messi's title defence is on the brink (carried over, **NOT COVERED**)
+- Facts, sources and the "do not say" notes are in `watch/2026-11-21_2216.md`. Tapia scored twice, Luján was sent off at 36', and Schulte made 5 saves. **Game 2 is Fri 27 Nov, 7 PM CT, in Columbus.** If Miami lose, they are out.
+- **Angle:** **Couch, first post this morning.** Q: **"Can Messi turn it around in Columbus on Friday? Yes/No."** Or the combined **"Superstars flop Saturday"** Couch with #3: **"Whose night was worse: Messi or Mbappé?"**
+- **Visual (Commons):** "Lionel Messi Inter Miami", "Lower.com Field" (check the licences).
 
-### 2. Score 10 · Real Madrid 2–1 Celta: Mbappé misses a pen, bench Vini sets up the late winner (carried over, **NOT COVERED**)
-- Facts, sources and the "do not say" note are in the 4:25 PM watch. Espí scored the winner at 85' from Vinícius's cross. It's 9 straight wins, and Madrid are level with Barça on 33 pts (that figure has 1 source). Barça play Villarreal at 7 AM CT Sun.
-- **Angle:** Combine it with #1 as a **"Superstars flop Saturday"** Couch: Mbappé's penalty into orbit, plus Messi shut out. Q: **"Whose night was worse: Mbappé or Messi?"** That is a Tier 1 v Tier 1 debate, so it should get lots of comments.
+### 2. Score 9 · OFFICIAL: Doué ruptures his ACL (**NEW, NOT COVERED**)
+- **Facts (2 sources, both dated 22 Nov 2026):** PSG said in a statement on their website that **Désiré Doué ruptured the anterior cruciate ligament in his right knee** in Saturday's **3–2 win at Nice**. Surgery is planned **before the end of this month**. PSG gave **no return date**. Luis Enrique had already called it "a serious injury" after the game.
+- **Sources:** https://www.goal.com/en/news/breaking-psg-announce-doue-has-suffered-a-cruciate-ligament-rupture/bltbe3b64b234721f70 · https://www.getfootballnewsfrance.com/2026/official-psg-confirm-desire-doue-acl-injury/ (background: https://africa.espn.com/football/story/_/id/50554155/psg-desire-doue-injury-nice-knee). The psg.fr statement itself was not opened, so cite "PSG statement, via Goal/GFFN".
+- **Do NOT say "season over" or give a return month.** That is the outlets' estimate, not PSG's. GFFN also says Kvaratskhelia will miss most of the season. That is **UNCONFIRMED** (1 source), so leave it out.
+- **Angle:** a short factual post, then a debate: **"Who replaces Doué for PSG v Roma on Wednesday?"** It also works as a France angle: "France lose Doué for…?" (no dates).
+- **Visual (Commons):** "Désiré Doué" (PSG or Rennes photos), "Parc des Princes".
 
-### 3. Score 9 · Newcastle 2–2 Arsenal: leaders drop points, Raya hurt (carried over, **NOT COVERED**)
-- Facts and sources are in the 4:25 PM watch. Arsenal's 21-game PL run without a draw is over. Arsenal are 6 pts clear of Brighton, who play Hull Sun. How long Raya is out is **UNCONFIRMED**.
+### 3. Score 10 · Real Madrid 2–1 Celta: Mbappé misses a pen, bench Vini sets up the late winner (carried over, **NOT COVERED**)
+- Facts and sources are in `watch/2026-11-21_1625.md`. Espí scored the winner at 85' from Vinícius's cross. Madrid play **PSV in the UCL on Tue at 2 PM CT**, so there is a fresh peg for Vini and Mbappé.
+- **Angle:** pair it with #1 (see above), or a Tue-morning **"Does Vini start v PSV?"** poll.
 
-### 4. Score 9 · Doué "serious" knee injury in PSG's 3–2 win at Nice (carried over, **NOT COVERED**)
-- Facts and sources are in the 4:25 PM watch (ESPN plus AP/beIN). The diagnosis is still **UNCONFIRMED**. No official PSG medical update was found as of 10 PM CT; the psg.fr results are from the 2025/26 season. Do **not** say "ACL" or "season over".
+### 4. Score 9 · Newcastle 2–2 Arsenal: leaders drop points, Raya hurt (carried over, **NOT COVERED**)
+- Facts and sources are in the 4:25 PM and 10:16 PM watches. How long Raya is out is still **UNCONFIRMED**. Brighton (6 pts behind) play at Hull today. Arsenal host **Dortmund on Tue, 2 PM CT** (Dortmund lead the Bundesliga), which is a big preview peg.
+- **Angle:** a **Guess the score: Arsenal v Dortmund** quiz on Mon or Tue AM.
 
-### 5. Score 9 · Chelsea 1–4 Leeds (carried over, **NOT COVERED**)
-- Facts are in the 11:25 AM watch. It belongs in a weekend round-up post.
+### 5. Score 9 · TODAY: Liverpool v Man United, Pochettino's first game (10:30 AM CT)
+- The time is verified in the 10:16 PM watch: 4:30 PM UK at Anfield. United are 18th on 8 pts and Liverpool 4th on 18 (Sports Mole). The preview is covered (k82, k87, k88). **The FT reaction is the MUST post of the day.**
+- **Angle:** **FT Couch** about 30 min after full time. Mo either celebrates or is in denial, and Kev reads out Poch's W3 D5 L11 record against Liverpool. Q follows from the result.
+- **Visual (Commons):** "Anfield", "Mauricio Pochettino".
 
 ### Also on the radar
-- **Score 8:** Dortmund top of the Bundesliga, and Kane out for "months" (11:25 watch, **NOT COVERED**).
-- **Score 7:** Man City 1–1 Fulham (11:25 watch, **NOT COVERED**).
-- **Score 7:** Tottenham and Napoli on Saturday. Results still **UNCONFIRMED**. This run's searches only returned older seasons (the Flashscore/Soccerway "McTominay strike" pages are 2024/25, so do not use them).
+- **Score 7: Tottenham 2–0 Ipswich (Sat 21 Nov, FT).** Sources: https://www.espn.com/soccer/match/_/gameId/401878754/ipswich-town-tottenham-hotspur · https://english.news.cn/20261122/d27880447b5a42d38601a25416c7d1db/c.html. The scorers were not checked, so add the result to the weekend round-up only. **NOT COVERED.**
+- **Score 6: Coventry 3–2 Crystal Palace, Thomas Frank's first game for Palace: UNCONFIRMED** (Xinhua only). Check it before posting. If it is true, it follows on from k80.
+- **Score 7: Ronaldo hit the post with a penalty in the 3–1 loss at Al-Ahli**, his second straight league miss (World Soccer Talk; ESPN covered the loss and the penalty miss in story 50543354). It is already in the missed list and still **NOT COVERED**. A "Messi v Ronaldo penalty misses in 2026" angle has only 1 source, so it is **UNCONFIRMED**.
+- **Score 7: Juventus v Venezia is in progress** (kicked off 5:30 AM CT). Post the FT line only once 2 sources show the final score.
+- Saturday's Napoli result is still **UNCONFIRMED**. Today's searches only returned older seasons.
 
 ---
 
@@ -50,46 +52,51 @@ Window: since the last watch (Sat 21 Nov, 4:25 PM CT), plus the next 72 h (to Tu
 
 | When (CT) | Match | Why | Plan |
 |---|---|---|---|
-| Sun 22 Nov, 5:30 AM | Juventus v Venezia | Juve | FT line |
-| **Sun 22 Nov, 7:00 AM** | **Barcelona v Villarreal** | Yamal; Barça must answer Madrid (both on 33) | Pre-KO post, FT line |
-| **Sun 22 Nov, 9:30 AM** (**UNCONFIRMED**: ESPN and futboltotal agree, FIFA not checked) | **Uruguay U-17 v Haiti U-17** (U-17 World Cup, Group F) | **Haiti +2** | **Preview early Sun AM, result post** |
-| **Sun 22 Nov, 10:30 AM** (verified: 4:30 PM UK per Little Big Red Dot and Sports Mole) | **Liverpool v Man United** at Anfield: Pochettino's first game | Tier 1 v Tier 1. United are 18th with 8 pts, Liverpool 4th with 18 (Sports Mole) | **FT Couch Sun (MUST)** |
+| Sun 22 Nov, 5:30 AM (live now) | Juventus v Venezia | Juve | FT line |
+| **Sun 22 Nov, 7:00 AM** | **Barcelona v Villarreal** (LaLiga MD13) | Yamal. Barça must answer Madrid (both on 33) | Pre-KO post, FT line |
+| **Sun 22 Nov, 9:30 AM** (**UNCONFIRMED**: ESPN and futboltotal agree, FIFA not checked) | **Uruguay U-17 v Haiti U-17** (U-17 World Cup, Group F) | **Haiti +2** | **Preview now, result post** |
+| **Sun 22 Nov, 10:30 AM** | **Liverpool v Man United** (Anfield) | Tier 1 v Tier 1, Pochettino's debut | **FT Couch (MUST)** |
 | Sun 22 Nov, 11:00 AM | Milan v Frosinone | Milan | FT line |
 | Sun 22 Nov (time TBC) | Hull v Brighton | Brighton can cut Arsenal's lead to 3 | FT line |
 | Sun 22 Nov, 1:45 PM | Atalanta v Inter | Inter | FT line |
-| Sun 22 Nov (any time) | **PSG medical update on Doué** | France, PSG | Short factual post when confirmed |
-| Tue 24 Nov | UCL league phase MD5, night 1 | Check which clubs play before the next watch | Watch |
-| Wed 25 Nov (outside the window) | PSG v Roma · Lille v Bayern (UCL) · Saudi Arabia U-17 v Haiti | Bayern's first game without Kane | Watch |
+| Mon 23 Nov (time TBC) | Brentford v Everton (PL) | Low priority | Skip |
+| Tue 24 Nov, 11:45 AM | Galatasaray v Aston Villa (UCL MD5) | PL club | FT line |
+| **Tue 24 Nov, 2:00 PM** | **Real Madrid v PSV** (UCL MD5) | Tier 1: Mbappé and Vini after Celta | **Preview Tue AM, FT reaction** |
+| **Tue 24 Nov, 2:00 PM** | **Arsenal v Borussia Dortmund** (UCL MD5) | PL leaders v Bundesliga leaders | **Guess the score, then FT** |
+| **Tue 24 Nov, 2:00 PM** | **Man City v Napoli** (UCL MD5) | Haaland, City | FT line |
+| Wed 25 Nov, 11:45 AM | Sabah v Barcelona (UCL MD5) | Yamal | FT line (just outside the window) |
+| Wed 25 Nov, 2:00 PM | PSG v Roma (first game without Doué) · Lille v Bayern (no Kane) · Sporting v Man United · Club Brugge v Liverpool · Inter v Stuttgart · Atlético v Viking | Several Tier 1 clubs | Next watch |
+| Wed 25 Nov | Saudi Arabia U-17 v Haiti U-17 | **Haiti +2** | Time to check in the next watch |
 | **Fri 27 Nov, 7:00 PM** | **Columbus v Inter Miami (G2)**: Miami must win | Messi faces elimination | **Preview Fri, FT reaction** |
 
-**Fixture sources:** Liverpool v United: https://littlebigreddot.com/liverpool-v-manchester-united-pochettino-first-game-anfield-preview/ and https://www.sportsmole.co.uk/football/man-utd/feature/liverpool-vs-man-united-why-englands-biggest-rivalry-still-matters-despite-old-trafford-crisis_609414.html. Miami G2: mlssoccer.com plus ESPN (above). All other fixtures are as in the 6:20 AM, 11:25 AM and 4:25 PM watches.
+**UCL fixture sources (both list the same 18 games and the same times in ET; 3 PM ET = 2 PM CT, 12:45 PM ET = 11:45 AM CT):** https://www.paramountplus.com/sneak-peak/uefa-champions-league-matchday-5-2026-schedule/ · https://sportstalkflorida.com/uefa-champions-league/uefa-champions-league-matchday-5-6-tv-schedule-fixtures-u-s-streaming-guide/. On these pages, Chelsea, Juventus, Milan, Tottenham and Newcastle have no MD5 game. Juve v Venezia kick-off is 6:30 AM ET = 5:30 AM CT (VAVEL; it matches the earlier watches). Barça v Villarreal: https://www.fcbarcelona.com/en/matches/138403/fc-barcelona-villarreal-la-liga-2026-2027 plus Sports Mole (kick-off as in the 6:20 AM 21 Nov watch). Hull v Brighton and Brentford v Everton: Xinhua (above), times TBC.
 
 ---
 
-## MISSED CHECK (Tier-1/priority stories from the last 48 h vs `2026-11-19/KIT.md` and `2026-11-20/KIT.md`; there is no `2026-11-21/KIT.md` yet)
+## MISSED CHECK (Tier-1/priority stories from the last 48 h vs `2026-11-20/KIT.md`, the latest on main; there is no `2026-11-21/KIT.md` or `2026-11-22/KIT.md`)
 
 | Story | Tier / priority | In KIT? |
 |---|---|---|
+| **Doué ACL rupture confirmed by PSG (22 Nov)** | PSG, France | **NOT COVERED** |
 | **Columbus 3–0 Inter Miami, Messi shut out (21 Nov)** | Messi (Tier 1), Inter Miami | **NOT COVERED** |
-| **Real Madrid 2–1 Celta: Mbappé pen miss, Vini bench, Espí winner (21 Nov)** | Real Madrid (Tier 1) | **NOT COVERED** |
+| **Real Madrid 2–1 Celta: Mbappé pen miss, Espí winner (21 Nov)** | Real Madrid (Tier 1) | **NOT COVERED** |
 | Newcastle 2–2 Arsenal, Raya injury (21 Nov) | Arsenal, Newcastle | **NOT COVERED** |
-| Doué serious knee injury, PSG 3–2 Nice (21 Nov) | PSG, France | **NOT COVERED** |
 | Chelsea 1–4 Leeds (21 Nov) | Chelsea | **NOT COVERED** |
-| Dortmund top after 1–0 at Gladbach (21 Nov) | Dortmund, Bayern | **NOT COVERED** |
+| Tottenham 2–0 Ipswich (21 Nov) | Tottenham | **NOT COVERED** |
 | Man City 1–1 Fulham (21 Nov) | Man City | **NOT COVERED** |
+| Dortmund top after 1–0 at Gladbach (21 Nov) | Dortmund | **NOT COVERED** |
 | Kane ankle ligament tear, out "months" (20 Nov) | Kane, Bayern, England | **NOT COVERED** |
-| Ronaldo scores and misses a pen, Al-Ahli 3–1 Al Nassr (20 Nov) | Ronaldo (Tier 1) | **NOT COVERED** |
-| Pochettino's first presser (20 Nov) | Man United (Tier 1) | **NOT COVERED** (preview covered: k87, k82) |
+| Ronaldo scores and hits the post with a pen, Al-Ahli 3–1 Al Nassr (20 Nov) | Ronaldo (Tier 1) | **NOT COVERED** |
+| Pochettino's first press conference (20 Nov) | Man United (Tier 1) | **NOT COVERED** (preview covered: k82, k87, k88) |
 | Mourinho "no privileges" on Vini (20 Nov) | Real Madrid (Tier 1) | **NOT COVERED** |
-| Nations League QF draw (20 Nov) | England, France, Spain, Portugal, Germany | **NOT COVERED** |
-| Haiti U-17 1–3 France (19 Nov) | Haiti (+2) | **NOT COVERED** (fold it into the Uruguay preview) |
-| Messi Golden Boot ×2 | Messi | Covered (k86) |
-| Liverpool v Man United preview | Tier 1 | Covered (k87, k88, k82) |
+| Nations League QF draw (20 Nov) | England, France, Spain, Portugal, Germany | **NOT COVERED** (only the preview, k75 and k81) |
+| Messi Golden Boot ×2 | Messi | Covered (k76, k86) |
+| Liverpool v Man United preview | Tier 1 | Covered (k82, k87, k88) |
 
-**Recommendation for the producer (overnight → Sun):**
-1. **First thing Sun:** the **"Superstars flop Saturday" Couch**: Messi shut out 0–3 plus Mbappé's penalty into orbit. Q: "Whose night was worse?"
-2. **Before 9:30 AM:** a **Haiti U-17 v Uruguay** preview/quiz (Haiti +2).
-3. **~9 AM:** Barça v Villarreal FT line ("Did Barça answer Madrid?").
-4. **~12:30 PM:** the **Liverpool v Man United FT Couch** (MUST).
-5. Arsenal/City/Chelsea weekend round-up after Brighton's game.
-6. Doué: one factual post only once PSG confirm the diagnosis.
+**Recommendation for the producer (Sun):**
+1. **Now (before 9:30 AM):** a **Haiti U-17 v Uruguay** preview or quiz (Haiti +2). Post the result about 11:30 AM.
+2. **Morning:** the **"Superstars flop Saturday" Couch** with Messi 0–3 and Mbappé's penalty. Q: "Whose night was worse?"
+3. **Midday:** the **Doué ACL** factual post. No return date.
+4. **About 12:30 PM:** the **Liverpool v Man United FT Couch (MUST).**
+5. **Evening:** the weekend PL round-up (Arsenal draw, Chelsea 1–4, Spurs 2–0, City 1–1, Brighton result).
+6. **Mon/Tue:** **Guess the score: Arsenal v Dortmund** and a **Real Madrid v PSV** preview.
