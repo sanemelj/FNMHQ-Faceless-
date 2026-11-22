@@ -1,12 +1,12 @@
 # KIT Dimanch 22 nov 2026 — Haiti Brief
 
-Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. **Long-form hb-L13 (Sam apwouve 22 nov)** a 4 PM si A1–A5 rive anvan 2:30 PM.
+Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. **Jodi a: S34 9 AM ✅ · S35 ❌ anile · L13 6 PM ✅ PARE · S36 9 PM ✅ PARE.**
 
 | Lè (ET) | Kòd | Kisa | Eta |
 |---|---|---|---|
 | 9:00 AM | hb-S34 | "Before the El Salvador Deal, Haiti Signed an $85 Million Prison Contract" | ✅ PARE |
 | ~~3:00 PM~~ | ~~hb-S35~~ | ❌ **ANILE** — repetisyon hb-S16 (17 nov, menm rapò ONU). PA POSTE L. | ❌ |
-| ~~4:00 PM~~ → **Lendi 23 nov 12 PM** | hb-L13 | "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost" | ⏩ DEPLASE — A1–A5 pa rive anvan 2:30 PM |
+| **6:00 PM** | hb-L13 | "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost" (long-form 5:20) | ✅ PARE |
 | 9:00 PM | hb-S36 | "Day 4 in Martissant: Police Target the Ti Lapli and Krisla Gangs" | ✅ PARE |
 
 ---
@@ -43,10 +43,9 @@ Haiti prison contract, Haiti prisons El Salvador, FJKL Haiti, Patrick Pélissier
 
 ---
 
-## ⏩ LENDI 23 NOV 12:00 PM ET (te 4 PM Dimanch) · LONG-FORM hb-L13 · ~5:20 · "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost"
-**Estati:** 🛠️ Tout pati Claude yo PARE (narasyon, montaj, stutter check pase 0 flag, thumbnail). **Sèl sa k manke: A1–A5 Kai (L6)** — tèks yo nan `haiti-brief/anchor/2026-11-22_onemonth_long/DIALOGUE.md`. Mete yo nan `from_kai/` anvan **2:30 PM ET** → video a pare ~3:30 PM. Si yo rive apre 2:30 PM → **Lendi 23 nov 12 PM ET**.
-· 1920×1080 · **Altered content: Yes** (avata) · Thumbnail: `haiti-brief/2026-11-22/HaitiBrief_Thumb_L13_A.jpg` · End screen: Subscribe + hb-L12 (WsMeHicu82o).
-- Video: `haiti-brief/2026-11-22/HaitiBrief_LongForm_L13_Nov_22.mp4` (ap vini lè A1–A5 rive)
+## 6:00 PM ET · DIMANCH 22 NOV · LONG-FORM hb-L13 · 5:20 · "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost"
+**Estati:** ✅ PARE · A1, A2, A3, A5 Kai (L6) QC pase · A4 pa nesesè (chapit 4 la louvri ak narasyon) · stutter check konplè pase · 1920×1080 · 67 MB · **Altered content: Yes** (avata) · Thumbnail: `haiti-brief/2026-11-22/HaitiBrief_Thumb_L13_A.jpg` · End screen: Subscribe + hb-L12 (WsMeHicu82o).
+- Video: `haiti-brief/2026-11-22/HaitiBrief_LongForm_L13_Nov_22.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-22/HaitiBrief_LongForm_L13_Nov_22.mp4
 - Kòmantè pin: `Sources: AP; AFP; Reuters; Al Jazeera; The Haitian Times; Le Nouvelliste; Diario Libre; Infobae; Axios; UN (OHCHR); Amnesty International; Salvadoran Armed Forces. Still unknown: the text of the Haiti–El Salvador agreement, the troops' end date, and the fate of the 4 missing technicians. We will update this story.`
 
 **Tit:**
@@ -64,7 +63,11 @@ The politics: marches for Bukele in Port-au-Prince, Jacmel and Cap-Haïtien; a s
 The cost: three Salvadoran soldiers dead after an explosion at a camp, the four technicians still missing, and calls from Amnesty International to publish the agreement and the rules on the use of force. The UN says 4,595 people were killed by armed violence in Haiti from January to October 2026.
 
 Chapters:
-(Claude ap mete yo apre montaj final la)
+0:00 One month of El Salvador's troops in Haiti
+0:40 How it started
+1:19 The strikes
+2:29 The politics
+3:48 The cost
 
 Haiti's 3 new prisons with El Salvador: https://youtu.be/WsMeHicu82o
 
