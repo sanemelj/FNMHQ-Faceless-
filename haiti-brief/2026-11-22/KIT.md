@@ -6,7 +6,7 @@ Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. **Long-form hb-L13 (Sam apwou
 |---|---|---|---|
 | 9:00 AM | hb-S34 | "Before the El Salvador Deal, Haiti Signed an $85 Million Prison Contract" | ✅ PARE |
 | ~~3:00 PM~~ | ~~hb-S35~~ | ❌ **ANILE** — repetisyon hb-S16 (17 nov, menm rapò ONU). PA POSTE L. | ❌ |
-| **4:00 PM** | hb-L13 | "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost" (long-form, Sam apwouve) | 🛠️ bezwen A1–A5 anvan 2:30 PM |
+| ~~4:00 PM~~ → **Lendi 23 nov 12 PM** | hb-L13 | "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost" | ⏩ DEPLASE — A1–A5 pa rive anvan 2:30 PM |
 | 9:00 PM | hb-S36 | "Day 4 in Martissant: Police Target the Ti Lapli and Krisla Gangs" | ✅ PARE |
 
 ---
@@ -43,7 +43,7 @@ Haiti prison contract, Haiti prisons El Salvador, FJKL Haiti, Patrick Pélissier
 
 ---
 
-## 4:00 PM ET · DIMANCH 22 NOV · LONG-FORM hb-L13 · ~5:20 · "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost"
+## ⏩ LENDI 23 NOV 12:00 PM ET (te 4 PM Dimanch) · LONG-FORM hb-L13 · ~5:20 · "Bukele's Troops in Haiti, One Month In: What Changed, What It Cost"
 **Estati:** 🛠️ Tout pati Claude yo PARE (narasyon, montaj, stutter check pase 0 flag, thumbnail). **Sèl sa k manke: A1–A5 Kai (L6)** — tèks yo nan `haiti-brief/anchor/2026-11-22_onemonth_long/DIALOGUE.md`. Mete yo nan `from_kai/` anvan **2:30 PM ET** → video a pare ~3:30 PM. Si yo rive apre 2:30 PM → **Lendi 23 nov 12 PM ET**.
 · 1920×1080 · **Altered content: Yes** (avata) · Thumbnail: `haiti-brief/2026-11-22/HaitiBrief_Thumb_L13_A.jpg` · End screen: Subscribe + hb-L12 (WsMeHicu82o).
 - Video: `haiti-brief/2026-11-22/HaitiBrief_LongForm_L13_Nov_22.mp4` (ap vini lè A1–A5 rive)
