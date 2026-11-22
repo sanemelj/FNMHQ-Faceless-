@@ -5,7 +5,7 @@ Volim: 3 Shorts maks, 3 è ant chak. **Pa gen long-form jodi a** (pa gen yon gwo
 | Lè (ET) | Kòd | Kisa | Eta |
 |---|---|---|---|
 | 9:00 AM | hb-S34 | "Before the El Salvador Deal, Haiti Signed an $85 Million Prison Contract" | ✅ PARE |
-| 3:00 PM | hb-S35 | "UN: 4,595 Killed in Haiti's Armed Violence This Year" | ✅ PARE |
+| ~~3:00 PM~~ | ~~hb-S35~~ | ❌ **ANILE** — repetisyon hb-S16 (17 nov, menm rapò ONU). PA POSTE L. | ❌ |
 | 9:00 PM | hb-S36 | (an atant — machin blende Bukele si yon medya konfime) | ⏳ |
 
 ---
@@ -42,32 +42,4 @@ Haiti prison contract, Haiti prisons El Salvador, FJKL Haiti, Patrick Pélissier
 
 ---
 
-## 3:00 PM ET · DIMANCH 22 NOV · SHORT hb-S35 · 0:42 · "UN: 4,595 Killed in Haiti's Armed Violence This Year"
-**Estati:** ✅ PARE · 1080×1920 · foto Port-au-Prince + kat + videyo PNH 19 nov (FILE) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L11** (O29KTmlqq-U). Stutter check pase.
-- Video: `haiti-brief/2026-11-22/HaitiBrief_Short_35_Nov_22.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-22/HaitiBrief_Short_35_Nov_22.mp4
-- Kòmantè pin: `Source: UN Human Rights Office (OHCHR), Geneva briefing, Nov. 17, 2026 (Jan. 1 – Oct. 31, 2026); AP via The Gleaner. Full report: https://youtu.be/O29KTmlqq-U`
-
-**Tit:**
-```
-UN: 4,595 Killed in Haiti's Armed Violence This Year #Shorts
-```
-**Deskripsyon:**
-```
-The UN Human Rights Office says 4,595 people were killed and 2,050 injured in armed violence in Haiti from January 1 to October 31, 2026 — victims of gangs, self-defense groups and security operations. From July to September, at least 514 people were killed in operations by Haiti's security forces, some backed by a private military company.
-
-UN rights chief Volker Türk urged all forces in Haiti, including the Gang Suppression Force, to protect civilians and to use lethal force only when it cannot be avoided.
-
-Inside the fight for Martissant: https://youtu.be/O29KTmlqq-U
-
-Sources: UN Human Rights Office (OHCHR), Nov. 17, 2026; AP via The Gleaner. Video: Haitian National Police (file, Nov. 19). Photo: MichelleWalz (CC BY 2.0). Map data © OpenStreetMap contributors.
-#Haiti #HaitiNews #UN
-```
-**Facebook (Reel, Haiti Brief):**
-```
-UN: 4,595 people killed and 2,050 injured in armed violence in Haiti from January to October 2026. The UN rights chief urged all forces to protect civilians.
-#Haiti #HaitiNews #UN
-```
-**Tags:**
-```
-Haiti UN report, Haiti killed 2026, Volker Türk Haiti, Gang Suppression Force, Haiti gangs, Haiti news, Haiti Brief
-```
+## ❌ hb-S35 ANILE (repetisyon hb-S16 · 17 nov · menm rapò OHCHR 4,595). Fichye a retire.
