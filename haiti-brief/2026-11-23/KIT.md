@@ -1,12 +1,12 @@
 # KIT Lendi 23 nov 2026 — Haiti Brief
 
-Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. Plan konplè ap vini nan kous maten an (~6 AM ET).
+Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. Plan konplè ap vini nan kous maten an (~6 AM ET). **Nouvo fòma depi 23 nov (Sam): chanèl nouvèl jeneral — mwatye Ayiti, mwatye mond/Etazini.**
 
 | Lè (ET) | Kòd | Kisa | Eta |
 |---|---|---|---|
 | 9:00 AM | hb-S37 | "Bukele Sends New Armored Vehicles to His Troops in Haiti" | ✅ PARE |
-| 12:00 PM | (long-form) | an atant kous maten an | ⏳ |
-| 3:00 PM | — | an atant | ⏳ |
+| 12:00 PM | (long-form) | pi gwo nouvèl jounen an (Ayiti oswa mond) — an atant kous maten an | ⏳ |
+| 3:00 PM | — | **nouvèl mond/Etazini** (nouvo fòma) — an atant kous maten an | ⏳ |
 | 9:00 PM | — | an atant | ⏳ |
 
 ---

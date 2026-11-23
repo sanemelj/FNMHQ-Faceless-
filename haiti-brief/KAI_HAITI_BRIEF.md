@@ -32,7 +32,7 @@ Si w wè yon nouvèl sou X/Facebook/Telegram, mete l nan repo **DSKOVA-TV**, bra
 - **3-5 Shorts pa jou**: 9 AM, 12 PM, 3 PM, 6 PM, 9 PM ET (lè ki nan KIT.md la genyen).
 
 ## Pa gen tripotay (Sam, 14 nov)
-Pa voye tip sou TikToker, enfliyansè, selebrite oswa lavi prive moun (egz. Djouly Jean). Sa pa skoop pou Haiti Brief. Fokis: gang yo, operasyon Bukele/PNH/Task Force, sekirite, leta, pwosè Jovenel.
+Pa voye tip sou TikToker, enfliyansè, selebrite oswa lavi prive moun (egz. Djouly Jean). Sa pa skoop pou Haiti Brief. Fokis Ayiti: gang yo, operasyon Bukele/PNH/Task Force/GSF, sekirite, leta, pwosè Jovenel, imigrasyon. Depi 23 nov: gwo nouvèl mond/Etazini tou (gade anba).
 
 ## Gad 24/7: Claude ↔ Kai san Saneme (Saneme, Nov. 14)
 Saneme vle nou travay san li. Nou youn reveye lòt atravè repo sa a.
@@ -66,7 +66,7 @@ Prochen rapò: **hb-L2** (soti Nov. 14 ~7 PM ET → rapò Nov. 15 ~7 PM ET) · *
 
 ## Priyorite ak pozisyon (Saneme, Nov. 15)
 - **Sijè yo, nan lòd:** (1) ensekirite Ayiti; (2) ka Jovenel Moïse (pwosè + seri a); (3) **imigrasyon pou Ayisyen Ozetazini ak Kanada** (TPS, parole, depòtasyon, azil, pwogram Kanada/Kebèk). Apre sa: lòt gwo nouvèl (match Grenadye yo, elatriye). Voye tip sou 3 premye yo an premye.
-- **Nouvèl mond ak Etazini/Kanada (Sam, 16 nov):** nou kouvri tou gwo nouvèl mond lan (gè Ikrèn, elatriye) ak gwo nouvèl Etazini/Kanada, paske Ayisyen ki viv la yo konsène. Se sijè #4: li pa janm pran plas yon nouvèl Ayiti. Plas: Shorts 12 PM oswa 3 PM ET lè yo lib, oswa long-form 4 PM ET jou ki pa gen gwo nouvèl Ayiti. Pou imaj: chache videyo ofisyèl ak lisans ki pèmèt li (gouvènman ameriken: DVIDS, White House, State Dept = domèn piblik). Pa gen gosip (wayote, selebrite), pa gen kò. Ou ka voye tip sou yo tou, ak tag `WORLD`.
+- **CHANÈL NOUVÈL JENERAL (Sam, 23 nov — ranplase règ 16 nov la):** Haiti Brief se kounya yon chanèl nouvèl jeneral tankou CNN/Fox: apeprè mwatye Ayiti, mwatye mond/Etazini. Plas: **9 AM** Short Ayiti · **12 PM** long-form = pi gwo nouvèl jounen an (Ayiti oswa mond) · **3 PM** Short = pi gwo nouvèl mond/Etazini · **9 PM** Short = pi fò ki rete. Pa bezwen ang dyaspora ankò pou nouvèl mond. Imaj: sèlman videyo ofisyèl ak lisans ki pèmèt li (DVIDS, White House, State Dept, Pentagon = domèn piblik; NATO; UE; Wikimedia), sinon kat + foto CC. Pa gen gosip, selebrite, kò, timoun. Voye tip mond ak tag `WORLD` (2 bon sous: AP, Reuters, AFP, BBC…). Videyo long mond yo gen avata Claire + Marc tou.
 - **Imaj Ayiti (Saneme, Nov. 15):** lè w ap chèche foto/videyo Ayiti an jeneral, chèche **bèl kote yo** (plaj, mòn, Sitadèl, Jakmèl, Okap, otèl, bèl kay). Pa voye imaj bidonvil oswa povrete kòm imaj jeneral. Imaj difisil yo sèlman si evènman an te pase la menm.
 - **Nou pou Ayiti.** Chanèl la an anglè, men se pou Ayisyen. Nou di verite a ak respè pou pèp la: nou kritike gang, lidè ak enstitisyon, pa pèp ayisyen an. Pa gen mo ki rabese peyi a.
 
