@@ -69,11 +69,11 @@ Ukraine, Russia Ukraine war, Dymer strike, Kyiv, Russian drone strike, world new
 
 ---
 
-## 6:00 PM ET · LENDI 23 NOV · LONG-FORM hb-L14 · ~4:00 · "Haiti's Gang Offensive Widens: Martissant, Tabarre, Cité Soleil — What We Know"
+## 6:00 PM ET · LENDI 23 NOV · LONG-FORM hb-L14 · 3:53 · "Haiti's Gang Offensive Widens: Martissant, Tabarre, Cité Soleil — What We Know"
 **Estati:** ✅ PARE · 3:53 · A1–A5 Kai (QC pase) + narasyon + kat OSM + videyo PNH (FILE) · stutter check final pase · thumbnail PARE.
 · 1920×1080 · **Altered content: Yes** (avata) · Thumbnail: `haiti-brief/2026-11-23/HaitiBrief_Thumb_L14_A.jpg` · End screen: Subscribe + hb-L13 (zYRVgMKBmaM).
 - Video: `haiti-brief/2026-11-23/HaitiBrief_LongForm_L14_Nov_23.mp4` (37 MB, 3:53)
-- Kòmantè pin: `Sources: Haitian National Police (PNH/DICOP) via Juno7, Le Nouvelliste, France 24 and EFE; Juno7 and Vant Bèf Info (Nov. 22); the Gang Suppression Force via El Diario de Hoy (Nov. 22); RNDDH via RHINEWS; Rezo Nòdwès; AP. All tolls are from the police or the force and have not been independently verified.`
+- Kòmantè pin: `Sources: Haitian National Police (PNH/DICOP) via Juno7, Le Nouvelliste, France 24 and EFE; Juno7 and Vant Bèf Info (Nov. 22); the Gang Suppression Force via El Diario de Hoy (Nov. 22); RNDDH via RHINEWS; Rezo Nòdwès; L'Observatoire; AP. All tolls are from the police or the force and have not been independently verified.`
 
 **Tit:**
 ```
@@ -95,7 +95,7 @@ Chapters:
 
 One month of El Salvador's troops in Haiti: https://youtu.be/zYRVgMKBmaM
 
-Sources: Haitian National Police (PNH/DICOP); Juno7; Le Nouvelliste; France 24; EFE; Vant Bèf Info; Gang Suppression Force via El Diario de Hoy; RNDDH via RHINEWS; Rezo Nòdwès; AP. Video: Haitian National Police (file, Nov. 19); Nayib Bukele on X (archive). Photos: MichelleWalz (CC BY 2.0); Kitanago (CC BY-SA 4.0). Map data © OpenStreetMap contributors.
+Sources: Haitian National Police (PNH/DICOP); Juno7; Le Nouvelliste; France 24; EFE; Vant Bèf Info; Gang Suppression Force via El Diario de Hoy; RNDDH via RHINEWS; Rezo Nòdwès; L'Observatoire; AP. Video: Haitian National Police (file, Nov. 19); Nayib Bukele on X (archive). Photos: MichelleWalz (CC BY 2.0); Kitanago (CC BY-SA 4.0). Map data © OpenStreetMap contributors.
 #Haiti #HaitiNews #Martissant
 ```
 **Tags:**
