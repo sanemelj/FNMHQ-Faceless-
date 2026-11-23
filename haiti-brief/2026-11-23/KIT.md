@@ -7,7 +7,7 @@ Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. Plan konplè ap vini nan kous
 | 9:00 AM | hb-S37 | "Bukele Sends New Armored Vehicles to His Troops in Haiti" | ✅ PARE |
 | 3:00 PM | hb-S38 | **nouvèl mond/Etazini** (nouvo fòma) | 🛠️ an preparasyon |
 | 6:00 PM | hb-L14 | long-form: ofansiv wikenn nan kont gang yo (Martissant + FRG/GSF) | 🛠️ bezwen A1–A5 (L1) anvan 3:30 PM |
-| 9:00 PM | hb-S39 | Bukele bay non 3 sòlda yo + fon \$1M pou fanmi yo | 🛠️ an verifikasyon |
+| 9:00 PM | hb-S39 | "Bukele Names the 3 Soldiers Killed in Haiti, Announces $1 Million for Their Families" | ✅ PARE |
 
 ---
 
@@ -37,4 +37,34 @@ Bukele is sending new armored vehicles to El Salvador's troops in Haiti. He post
 **Tags:**
 ```
 Bukele Haiti, Bukele armored vehicles, El Salvador troops Haiti, Salvadoran soldiers Haiti, Haiti gangs, Haiti news, Haiti Brief
+```
+
+---
+
+## 9:00 PM ET · LENDI 23 NOV · SHORT hb-S39 · 0:42 · "Bukele Names the 3 Soldiers Killed in Haiti, Announces $1 Million for Their Families"
+**Estati:** ✅ PARE · 1080×1920 · foto achiv FAES (FILE, an El Salvador) + kat + videyo achiv twoup salvadoryen an Ayiti + videyo dwòn @nayibbukele (21 nov) + foto Port-au-Prince · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L13** (zYRVgMKBmaM). Stutter check pase.
+- Video: `haiti-brief/2026-11-23/HaitiBrief_Short_39_Nov_23.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-23/HaitiBrief_Short_39_Nov_23.mp4
+- Kòmantè pin: `Sources: Nayib Bukele on X (Nov. 22, 2026); EFE via Diario Libre; El Diario de Hoy; Infobae. Full report on the first month: https://youtu.be/zYRVgMKBmaM`
+
+**Tit:**
+```
+Bukele Names the 3 Soldiers Killed in Haiti, Announces $1 Million for Their Families #Shorts
+```
+**Deskripsyon:**
+```
+El Salvador's President Nayib Bukele has named the three Salvadoran soldiers who died after an accidental explosion at a camp in Haiti on Friday, Nov. 20: Lieutenant Cristian Daniel Palacios Santos, Corporal Emerson Alexander Zepeda Zelada and Corporal Wilber Manuel Serrano Medina. In a post on X on Sunday, he announced a $1 million fund for their families: $200,000 for each family right away, and the rest to provide them a monthly income, on top of the benefits required by law. Bukele also wrote that soldiers in Haiti who want to come home can do so without reprisals.
+
+Full report on the first month of El Salvador's mission in Haiti: https://youtu.be/zYRVgMKBmaM
+
+Sources: Nayib Bukele on X; EFE (via Diario Libre); El Diario de Hoy; Infobae. Photo: Casa Presidencial de El Salvador (CC0, file photo, in El Salvador); MichelleWalz (CC BY 2.0). Video: Nayib Bukele on X. Map data © OpenStreetMap contributors.
+#Haiti #ElSalvador #Bukele
+```
+**Facebook (Reel, Haiti Brief):**
+```
+Bukele named the three Salvadoran soldiers killed in Haiti and announced a $1 million fund for their families: $200,000 each now, and a monthly income after that.
+#Haiti #ElSalvador #Bukele
+```
+**Tags:**
+```
+Bukele soldiers Haiti, Salvadoran soldiers killed Haiti, Bukele fund families, El Salvador troops Haiti, Haiti news, Haiti Brief
 ```
