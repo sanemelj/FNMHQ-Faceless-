@@ -5,7 +5,8 @@ Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. Plan konplè ap vini nan kous
 | Lè (ET) | Kòd | Kisa | Eta |
 |---|---|---|---|
 | 9:00 AM | hb-S37 | "Bukele Sends New Armored Vehicles to His Troops in Haiti" | ✅ PARE |
-| 3:00 PM | hb-S38 | 🌍 "Russian Strike Kills at Least 11 in Apartment Building North of Kyiv" | ✅ PARE |
+| 3:00 PM | **hb-S40** | 🌍 "Ukraine Says Its Sea Drones Sank a Russian Warship in Libya" | ✅ PARE — **RANPLASE hb-S38** (pi gwo nouvèl mond jodi a) |
+| (rezèv) | hb-S38 | 🌍 "Russian Strike Kills at Least 11…" | ⏸️ PA POSTE jodi a |
 | 6:00 PM | hb-L14 | "Haiti's Gang Offensive Widens: Martissant, Tabarre, Cité Soleil — What We Know" (long-form 3:53) | ✅ PARE (3:53) |
 | 9:00 PM | hb-S39 | "Bukele Names the 3 Soldiers Killed in Haiti, Announces $1 Million for Their Families" | ✅ PARE |
 
@@ -41,7 +42,35 @@ Bukele Haiti, Bukele armored vehicles, El Salvador troops Haiti, Salvadoran sold
 
 ---
 
-## 3:00 PM ET · LENDI 23 NOV · SHORT hb-S38 (🌍 MOND) · 0:40 · "Russian Strike Kills at Least 11 in Apartment Building North of Kyiv"
+## 3:00 PM ET · LENDI 23 NOV · SHORT hb-S40 (🌍 MOND) · 0:44 · "Ukraine Says Its Sea Drones Sank a Russian Warship in Libya"
+**Estati:** ✅ PARE · ranplase hb-S38 nan plas mond 3 PM (Zelensky anonse l jodi a; 34+ sous: AP, BBC, ABC, Time, Al Jazeera) · 1080×1920 · kat OSM + foto FILE Merkury 2022 (mil.ru, CC BY 4.0) + videyo FILE dwòn Sea Baby 2024 (SBU, CC BY 4.0) + foto Benghazi (CC BY-SA 4.0) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: pa genyen. Stutter check pase. Si 3 PM pase deja lè w wè sa, poste l pi vit posib, men pa pi ta pase 5 PM (pou kenbe distans ak hb-L14 6 PM).
+- Video: `haiti-brief/2026-11-23/HaitiBrief_Short_40_Nov_23.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-23/HaitiBrief_Short_40_Nov_23.mp4
+- Kòmantè pin: `Sources: AP, ABC News, TIME, Middle East Eye (Nov. 23, 2026). Ukraine's claims have not been independently verified. File images: Merkury in July 2022 (Mil.ru, CC BY 4.0); Sea Baby drone, 2024 (SBU, CC BY 4.0) — not from this attack.`
+
+**Tit:**
+```
+Ukraine Says Its Sea Drones Sank a Russian Warship in Libya #Shorts
+```
+**Deskripsyon:**
+```
+Ukrainian President Volodymyr Zelensky says seven Ukrainian-made naval drones hit the Russian corvette Merkury on Sunday, Nov. 22, at the naval base in Benghazi, Libya — about 2,400 km from the front line in Ukraine. Satellite images published by outlets appear to show the ship capsized in port; Libyan military officials told the AP it was severely damaged and that a fire broke out at the base. Ukraine says it also hit a Russian cargo ship, the Angara, which it accuses of carrying weapons. These claims have not been independently verified. The Kremlin says it has "taken note" of Zelensky's statement, and the UN mission in Libya is calling for an immediate, independent investigation.
+
+Sources: AP; ABC News; TIME; Middle East Eye. File images (not from this attack): the Merkury in St. Petersburg, July 2022 — Mil.ru, CC BY 4.0; Sea Baby naval drone, 2024 — Security Service of Ukraine, CC BY 4.0; Benghazi — Mo ElFaty, CC BY-SA 4.0. Map data © OpenStreetMap contributors.
+#Ukraine #Libya #WorldNews
+```
+**Facebook (Reel, Haiti Brief):**
+```
+Ukraine says its sea drones sank a Russian warship at a naval base in Benghazi, Libya. The claims have not been independently verified.
+#Ukraine #Libya #WorldNews
+```
+**Tags:**
+```
+Ukraine, Russia, Libya, Benghazi, Merkury corvette, sea drones, Russia Ukraine war, world news, Haiti Brief
+```
+
+---
+
+## (REZÈV — PA POSTE JODI A) · SHORT hb-S38 (🌍 MOND) · 0:40 · "Russian Strike Kills at Least 11 in Apartment Building North of Kyiv"
 **Estati:** ✅ PARE · premye Short mond nan nouvo fòma a · 1080×1920 · kat Dymer (OSM) + videyo achiv ofisyèl Ikrèn (FILE, CC BY 4.0: DSNS Kyiv 13 nov + Ministè Enteryè 28 out) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: pa genyen (pa gen long-form mond ankò). Stutter check pase.
 - Video: `haiti-brief/2026-11-23/HaitiBrief_Short_38_Nov_23.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-23/HaitiBrief_Short_38_Nov_23.mp4
 - Kòmantè pin: `Sources: AFP (via France 24), AP, Al Jazeera, Kyiv Regional Military Administration, State Emergency Service of Ukraine (Nov. 22–23, 2026). The toll may rise. Archive video: State Emergency Service of Ukraine and Ministry of Internal Affairs of Ukraine, CC BY 4.0 (FILE, not from Dymer).`
