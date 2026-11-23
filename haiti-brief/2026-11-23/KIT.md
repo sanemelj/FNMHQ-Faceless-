@@ -6,7 +6,7 @@ Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. Plan konplè ap vini nan kous
 |---|---|---|---|
 | 9:00 AM | hb-S37 | "Bukele Sends New Armored Vehicles to His Troops in Haiti" | ✅ PARE |
 | 3:00 PM | hb-S38 | 🌍 "Russian Strike Kills at Least 11 in Apartment Building North of Kyiv" | ✅ PARE |
-| 6:00 PM | hb-L14 | long-form: ofansiv wikenn nan kont gang yo (Martissant + FRG/GSF) | 🛠️ bezwen A1–A5 (L1) anvan 3:30 PM |
+| 6:00 PM | hb-L14 | "Haiti's Gang Offensive Widens: Martissant, Tabarre, Cité Soleil — What We Know" (long-form ~4:00) | 🛠️ tout pare, sèl A1–A5 (L1) ki manke — anvan 3:30 PM |
 | 9:00 PM | hb-S39 | "Bukele Names the 3 Soldiers Killed in Haiti, Announces $1 Million for Their Families" | ✅ PARE |
 
 ---
@@ -65,6 +65,39 @@ A Russian strike killed at least 11 people in an apartment building in Dymer, no
 **Tags:**
 ```
 Ukraine, Russia Ukraine war, Dymer strike, Kyiv, Russian drone strike, world news, Haiti Brief
+```
+
+---
+
+## 6:00 PM ET · LENDI 23 NOV · LONG-FORM hb-L14 · ~4:00 · "Haiti's Gang Offensive Widens: Martissant, Tabarre, Cité Soleil — What We Know"
+**Estati:** 🛠️ Narasyon, montaj, stutter check (0 vrè flag), thumbnail PARE. **Sèl sa k manke: A1–A5 Kai (rad L1)** — `anchor/2026-11-23_offensive_long/DIALOGUE.md`, anvan **3:30 PM ET**. Si youn pa rive, m ap fini videyo a san li.
+· 1920×1080 · **Altered content: Yes** (avata) · Thumbnail: `haiti-brief/2026-11-23/HaitiBrief_Thumb_L14_A.jpg` · End screen: Subscribe + hb-L13 (zYRVgMKBmaM).
+- Video: `haiti-brief/2026-11-23/HaitiBrief_LongForm_L14_Nov_23.mp4` (ap vini lè A1–A5 rive)
+- Kòmantè pin: `Sources: Haitian National Police (PNH/DICOP) via Juno7, Le Nouvelliste, France 24 and EFE; Juno7 and Vant Bèf Info (Nov. 22); the Gang Suppression Force via El Diario de Hoy (Nov. 22); RNDDH via RHINEWS; Rezo Nòdwès; AP. All tolls are from the police or the force and have not been independently verified.`
+
+**Tit:**
+```
+Haiti's Gang Offensive Widens: Martissant, Tabarre, Cité Soleil — What We Know
+```
+**Deskripsyon:**
+```
+Over four days, Haiti's police and the UN-backed Gang Suppression Force pushed into gang areas across Port-au-Prince. Police say 54 suspected gang members were killed in Martissant on Thursday and Friday, Nov. 19–20, in an operation with a government task force that uses explosive drones and includes the private company Vectus Global. Police said Salvadoran troops did not take part.
+
+On Sunday, Nov. 22, a new operation began before dawn in Gran Ravin and Ti Bwa, against the gangs of Ti Lapli and Krisla; police have not published an official toll. The Gang Suppression Force also announced operations in Tabarre (at least 6 suspected gang members killed, 5 rifles seized, per the force), Cité Soleil (1 killed, 1 wounded, a gun and a grenade seized) and north of Gros-Morne.
+
+What is still unclear: all tolls come from the police or the force and have not been independently verified; the RNDDH says at least 100 suspected gang members have been killed since the operations stepped up; Haitian media report that gang leader Mikanò may have left Wharf Jérémie, which has not been officially confirmed. Social media claims that other gang leaders fled the country have not been confirmed.
+
+Chapters:
+(Claude ap mete yo apre montaj final la)
+
+One month of El Salvador's troops in Haiti: https://youtu.be/zYRVgMKBmaM
+
+Sources: Haitian National Police (PNH/DICOP); Juno7; Le Nouvelliste; France 24; EFE; Vant Bèf Info; Gang Suppression Force via El Diario de Hoy; RNDDH via RHINEWS; Rezo Nòdwès; AP. Video: Haitian National Police (file, Nov. 19); Nayib Bukele on X (archive). Photos: MichelleWalz (CC BY 2.0); Kitanago (CC BY-SA 4.0). Map data © OpenStreetMap contributors.
+#Haiti #HaitiNews #Martissant
+```
+**Tags:**
+```
+Haiti gangs, Martissant operation, Tabarre, Cité Soleil, Gang Suppression Force, Haiti police, Ti Lapli, Haiti news, Haiti Brief
 ```
 
 ---
