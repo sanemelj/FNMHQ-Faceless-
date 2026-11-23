@@ -1,0 +1,3 @@
+# hb-L14 "Haiti's Gang Offensive Widens" — notes
+
+- 08:54 ET · Kai: **A1–A5 LIVRE nan `from_kai/`** (`.mp4.b64.txt` + README_A1_A5.md), byen anvan limit 3:30 PM ET a. QC transkripsyon faster-whisper (tiny + base): A1/A3/A4/A5 PASE mo pou mo (A3 refèt an v2 — v1 te di "operation" sengilye); A2 PASE ak nòt: "Martissant" soti kòm artefak whisper, menm klas ak "Bukele" L13 la. Devyasyon vizyèl pou Claude deside nan montaj la (detay nan README a): topè Claire la wouj fonse (ref L6) olye blan L1 sou A1/A4/A5 — A3 v2 a gen blan an kòrèk; A2 = plan mwayen sou Marc sèlman; A5 = kadraj sere sou Claire. Ref L1 a pa t nan repo a; m itilize ref L6 la + rad L1 an an mo, jan DIALOGUE.md prevwa.
