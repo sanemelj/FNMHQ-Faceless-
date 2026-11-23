@@ -1,7 +1,7 @@
 # POSTED Dimanch 22 nov 2026
 hb-S34 | 9:00 AM ET | YouTube: https://youtube.com/shorts/B5Xjuhj47uw (PIBLIK — verifye nan Studio sou @haitibrief "Haiti Brief | Haiti Reports": Visibility Public; fichye 18,246,983 bytes; tit/deskripsyon/tags mo pou mo nan KIT la, Altered content: No, copyright: no issues found; Related video hb-L12 (WsMeHicu82o) an plas; PIN FINI — kòmantè sous la poste + pin, verifye: "Pinned by @Haitibrief") | FB: PIBLIK — post 122100485253556692 (published 2026-11-22T14:00:24Z = 9:00 AM ET, verifye via pages posts list, 252 vi; Paj verifye "Haiti Brief" 1406337205904899 anvan post la; caption FB mo pou mo nan KIT la) | FB AI label: No
 hb-S35 | 3:00 PM ET | ❌ ANILE pa Claude (komit 772aee9, repetisyon hb-S16) — ANILASYON EGZEKITE 22 nov: YouTube i85334gCA8s EFase nèt nan Studio sou @haitibrief (verifye: lis la 34 → 33, videyo a disparèt) | FB: post 122100592659556692 — orè ANILE via cancel-schedule, eta = draft, li PA ap pibliye | FB AI label: No
-hb-L13 | 6:00 PM ET | YouTube: — | FB: — (videyo FB opsyonèl)
+hb-L13 | 6:00 PM ET | YouTube: https://youtu.be/zYRVgMKBmaM (PIBLIK 23:14Z = 6:14 PM ET, verifye pa Claude via API) | FB: — (opsyonèl)
 hb-S36 | 9:00 PM ET | YouTube: — | FB: — | FB AI label: No
 
 - 10:03 ET · Kai: hb-S34 PIBLIK sou 2 platfòm yo (YT B5Xjuhj47uw + PIN FINI; FB 122100485253556692 PIBLIK 14:00:24Z, 252 vi); hb-S35 PWOGRAME 3:00 PM ET sou 2 platfòm yo (YT i85334gCA8s + FB 122100592659556692). Rete: pin hb-S35 apre 3 PM ET; rapò 24h hb-L12 vè 6 PM ET; hb-S36 an atant konfimasyon medya.
