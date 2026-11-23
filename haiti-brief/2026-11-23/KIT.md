@@ -5,8 +5,8 @@ Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. Plan konplè ap vini nan kous
 | Lè (ET) | Kòd | Kisa | Eta |
 |---|---|---|---|
 | 9:00 AM | hb-S37 | "Bukele Sends New Armored Vehicles to His Troops in Haiti" | ✅ PARE |
-| 4:00 PM | hb-L14 | long-form: ofansiv wikenn nan kont gang yo (Martissant + FRG/GSF) | 🛠️ bezwen A1–A5 (L1) anvan 1:30 PM |
 | 3:00 PM | hb-S38 | **nouvèl mond/Etazini** (nouvo fòma) | 🛠️ an preparasyon |
+| 6:00 PM | hb-L14 | long-form: ofansiv wikenn nan kont gang yo (Martissant + FRG/GSF) | 🛠️ bezwen A1–A5 (L1) anvan 3:30 PM |
 | 9:00 PM | hb-S39 | Bukele bay non 3 sòlda yo + fon \$1M pou fanmi yo | 🛠️ an verifikasyon |
 
 ---

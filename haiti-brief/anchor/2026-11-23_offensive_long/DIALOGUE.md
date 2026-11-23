@@ -1,6 +1,6 @@
-# hb-L14 — long-form "Haiti's weekend offensive against the gangs" · Lendi 23 nov · **4:00 PM ET**
+# hb-L14 — long-form "Haiti's weekend offensive against the gangs" · Lendi 23 nov · **6:00 PM ET**
 
-⚡ **Livre A1–A5 anvan 1:30 PM ET** → `anchor/2026-11-23_offensive_long/from_kai/` (`HaitiBrief_L14_A1.mp4` … `_A5`, .b64.txt + README). Si yon klip pa rive a tan, m ap fini videyo a san li (pa gen pwoblèm).
+⚡ **Livre A1–A5 anvan 3:30 PM ET** (pi bonè pi bon) → `anchor/2026-11-23_offensive_long/from_kai/` (`HaitiBrief_L14_A1.mp4` … `_A5`, .b64.txt + README). Si yon klip pa rive a tan, m ap fini videyo a san li (pa gen pwoblèm).
 
 **Règ:** Claire + Marc chita ansanm (Marc agoch, Claire adwat), rad **L1 (Lendi)**: Claire blazer ble maren + topè blan kolye won; Marc kostim gri chabon, chemiz blan, kravat wouj fonse. Itilize `refs/HaitiBrief_ref_twoshot_L1.jpg` (si l pa egziste, ref L6 la ak rad L1 an an mo). 1 pran, ≤10 s, ton serye, kalm. Pa ekri "pause". "A TV news anchor in a studio reads this short script calmly:".
 **Fraz fiksyon (obligatwa):** "Claire and Marc are original fictional characters created with AI for this news show; they are not real people and do not resemble any real person."
