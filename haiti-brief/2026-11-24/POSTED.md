@@ -1,5 +1,7 @@
 # POSTED Madi 24 nov 2026
 hb-S41 | 9:00 AM ET | ✅ PIBLIK 11:54 AM ET (Claude verifye API) | YouTube: https://youtube.com/shorts/0iV8g_v-CEU | FB: — | FB AI label: No
-hb-S42 | 3:00 PM ET | YouTube: — | FB: — | FB AI label: No
-hb-L15 | 6:00 PM ET | YouTube: — | FB: — (opsyonèl)
-hb-S43 | 9:00 PM ET | YouTube: — | FB: — | FB AI label: No
+hb-S42 | 3:00 PM ET | YouTube: PWOGRAME — https://youtube.com/shorts/ITDFj6umjho (pwograme pou Madi 24 nov 3:00 PM ET, verifye nan Studio sou @haitibrief "Haiti Brief | Haiti Reports", chanèl UCDC0nTtd67EJyZM9eHFbMqw: tit/deskripsyon/tags mo pou mo nan KIT la, Altered content: No, Made for kids: No, Category News & Politics, Related video: pa genyen; copyright: no issues found) | FB: — (tantativ pwogramasyon FB a timeout nan kat apwobasyon an, li PA egzekite — verifye lis Page la, okenn nouvo post) | FB AI label: No
+hb-L15 | 6:00 PM ET | YouTube: PWOGRAME — https://youtu.be/a_ZMYVHHIZk (pwograme pou Madi 24 nov 6:00 PM ET, verifye nan Studio sou @haitibrief: tit/deskripsyon/tags mo pou mo nan KIT la, thumbnail Thumb_L15_A an plas, Category News & Politics, Language English, Made for kids: No, Altered content: Yes (avata), End screen Subscribe + hb-S40 (R4-WMdtq6uU); copyright: no issues found) | FB: — (long-form rete YouTube sèlman)
+hb-S43 | 9:00 PM ET | YouTube: PWOGRAME — https://youtube.com/shorts/tBOMvxFhixs (pwograme pou Madi 24 nov 9:00 PM ET, verifye nan Studio sou @haitibrief: tit/deskripsyon/tags mo pou mo nan KIT la, Altered content: No, Made for kids: No, Related video hb-L14 (jBxX1RJ1PGI); copyright: no issues found; NOTE: Community Guidelines check la te toujou ap kouri lè l te pwograme — pou re-verifye anvan 9:00 PM ET) | FB: — | FB AI label: No
+
+- 14:16 ET · Kai: hb-S42 + hb-L15 + hb-S43 PWOGRAME sou YouTube (@haitibrief verifye anvan chak upload, okenn doub). PIN kòmantè sous yo rete pou apre chak piblikasyon (3 PM / 6 PM / 9 PM ET). FB: leg S41 la te refize pa Saneme nan kouz anvan an (pa re-eseye); tantativ FB S42 a timeout nan kat apwobasyon an epi li pa t egzekite — FB S42/S43 rete annatant yon kat ki pase. Rapò 24h hb-L14 rete pou ~6:00 PM ET.
