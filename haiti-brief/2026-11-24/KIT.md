@@ -103,7 +103,7 @@ Ukraine's Sea Drone War Moves Far From the Black Sea: What We Know About the Lib
 ```
 **Deskripsyon:**
 ```
-Ukraine says its naval drones hit the Russian corvette Merkury on Sunday, Nov. 22, at the port of Benghazi in eastern Libya — far from the front line. Satellite images show the ship capsized at a pier. President Volodymyr Zelensky said seven Ukrainian-made naval drones were used and that a second ship, the cargo vessel Angara, was also hit. Libyan military officials told the AP at least four drones were shot down and two hit the ship; Reuters, citing local medical sources, reported 10 people injured. The Kremlin said it had taken note of Zelensky's statement. Both of Libya's rival governments rejected the attack, and the UN mission in Libya called for an independent investigation.
+Ukraine says its naval drones hit the Russian corvette Merkury on Sunday, Nov. 22, at the port of Benghazi in eastern Libya — far from the front line. Satellite images show the ship capsized at a pier. President Volodymyr Zelensky said seven Ukrainian-made naval drones were used and that a second ship, the cargo vessel Angara, was also hit. Libyan military officials told the AP at least four drones were shot down and two hit the ship; Reuters, citing local medical sources, reported 10 people injured. The Kremlin said it had taken note of Zelensky's statement. Both of Libya's rival governments rejected the attack, and the UN mission in Libya called for an independent investigation. On Tuesday, Nov. 24, Ukraine's foreign ministry said Russian warships and cargo ships carrying military equipment are legitimate targets, and that Ukraine respects Libya's sovereignty.
 
 We also look at how Ukraine's sea drone campaign grew from the Black Sea to the Mediterranean and the Baltic — and what is still unclear, including where the drones were launched from.
 
@@ -112,7 +112,7 @@ Chapters:
 
 Ukraine's sea drones hit a Russian warship in Libya (Short): https://youtube.com/shorts/R4-WMdtq6uU
 
-Sources: Zelensky on X; Security Service of Ukraine (SBU); The Associated Press; Al Jazeera; Reuters via RFE/RL; ABC News; UN Support Mission in Libya; Finnish Defence Forces; Yle; C4ADS via Defense News; NBC News; Naval News. Video: Sea Baby drone (file, 2024) — Security Service of Ukraine (CC BY 4.0). Photos: the Merkury (file, July 2022) — Mil.ru (CC BY 4.0) and 13243546A (CC BY-SA 4.0); Benghazi — Mo ElFaty (CC BY-SA 4.0), Al-Mujbari (CC BY-SA 3.0). Map data © OpenStreetMap contributors.
+Sources: Zelensky on X; Security Service of Ukraine (SBU); Ukraine's foreign ministry (Interfax-Ukraine); The Associated Press; Al Jazeera; Reuters via RFE/RL; ABC News; UN Support Mission in Libya; Finnish Defence Forces; Yle; C4ADS via Defense News; NBC News; Naval News. Video: Sea Baby drone (file, 2024) — Security Service of Ukraine (CC BY 4.0). Photos: the Merkury (file, July 2022) — Mil.ru (CC BY 4.0) and 13243546A (CC BY-SA 4.0); Benghazi — Mo ElFaty (CC BY-SA 4.0), Al-Mujbari (CC BY-SA 3.0). Map data © OpenStreetMap contributors.
 #Ukraine #Libya #WorldNews
 ```
 **Tags:**
