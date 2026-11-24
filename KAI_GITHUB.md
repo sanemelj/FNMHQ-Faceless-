@@ -1,3 +1,5 @@
+# ⛔ FNMHQ KANPE (Saneme, 23 nov 2026): pa jenere klip, pa poste nouvo kontni FNMHQ. Haiti Brief kontinye.
+
 # Kai — travay ak GitHub lè Artifact la tonbe (règ Saneme, 11 nov 2026)
 
 GitHub se kopi ofisyèl la. Artifact (Command Center) la ka tonbe; GitHub pa bezwen li pou mache.

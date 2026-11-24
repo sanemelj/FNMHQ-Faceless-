@@ -1,3 +1,5 @@
+# ⛔ FNMHQ KANPE — Saneme, 23 nov 2026 21:15 CT: "Kanpe pwojè sa." Pa pwodui, pa ekri liy, pa mande klip Kai. Sèlman si Saneme di rekòmanse.
+
 # Claude — FNMHQ half-hour check protocol (Sam, Nov 17 2026: work 24/7 without Sam, Haiti Brief model)
 
 Every wake (:12 and :42, 6:12 AM–11:42 PM CT):
