@@ -7,7 +7,7 @@ Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. Fòma nouvèl jeneral (mwatye
 | 9:00 AM | hb-S41 | "US Lawmakers Say Trump Administration Is Failing to Sanction Haiti's Gang Backers" | ✅ PARE |
 | 3:00 PM | hb-S42 | 🌍 "Trump Tells Federal Prosecutors to Seek the Death Penalty in More Cases" | ✅ PARE |
 | 6:00 PM | hb-L15 | 🌍 "Ukraine's Sea Drone War Moves Far From the Black Sea" (long-form ~4:00) | 🛠️ narasyon + montaj ap fèt; bezwen A1–A5 (L2) anvan 3:30 PM |
-| 9:00 PM | hb-S43 | (ap vini) | 🛠️ |
+| 9:00 PM | hb-S43 | "Côte d'Ivoire to Send 812 Soldiers to Haiti's Anti-Gang Force, Ivorian Media Report" | ✅ PARE |
 
 ---
 ## 9:00 AM ET · MADI 24 NOV · SHORT hb-S41 (AYITI/WASHINGTON) · 0:44 · "US Lawmakers Say Trump Administration Is Failing to Sanction Haiti's Gang Backers"
@@ -61,6 +61,33 @@ President Trump signed a directive telling federal prosecutors to seek the death
 **Tags:**
 ```
 Trump, death penalty, Justice Department, federal executions, Gavin Newsom, US news, world news, Haiti Brief
+```
+
+---
+## 9:00 PM ET · MADI 24 NOV · SHORT hb-S43 (AYITI) · 0:40 · "Côte d'Ivoire to Send 812 Soldiers to Haiti's Anti-Gang Force, Ivorian Media Report"
+**Estati:** ✅ PARE · 1080×1920 · kat OSM + videyo PNH (FILE, 19 nov) + foto Pòtoprens (CC BY 2.0) + foto Kenscoff (CC BY-SA 4.0) · narasyon · **Altered content: No** · **FB AI label: No** · Related video: **hb-L14** (jBxX1RJ1PGI). Stutter check pase. ⚠️ Pa gen anons ofisyèl ankò — tit la ak tèks la di "Ivorian media report"; pa chanje sa.
+- Video: `haiti-brief/2026-11-24/HaitiBrief_Short_43_Nov_24.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-24/HaitiBrief_Short_43_Nov_24.mp4
+- Kòmantè pin: `Sources: KOACI (Nov. 14, 2026), Connection Ivoirienne (Nov. 16), Minute.bf, Rezo Nòdwès (Nov. 23). No official announcement from Côte d'Ivoire's government or the Gang Suppression Force so far.`
+
+**Tit:**
+```
+Côte d'Ivoire to Send 812 Soldiers to Haiti's Anti-Gang Force, Ivorian Media Report #Shorts
+```
+**Deskripsyon:**
+```
+Côte d'Ivoire is preparing to send 812 soldiers to join the Gang Suppression Force in Haiti for an initial six months, according to Ivorian media. The news site KOACI reported that an advance team of about 100, including the contingent's headquarters, was expected from Monday, Nov. 23, with the rest in early December. Ivorian media say the troops trained in Abidjan with support from France and UNITAR, a UN training agency. So far there has been no official announcement from Côte d'Ivoire's government or from the force.
+
+Sources: KOACI; Connection Ivoirienne; Minute.bf; Rezo Nòdwès. Video: Haitian National Police (file, Nov. 19). Photos: Port-au-Prince — MichelleWalz (CC BY 2.0); Kenscoff — Beasteder.ht (CC BY-SA 4.0). Map data © OpenStreetMap contributors.
+#Haiti #HaitiNews #CoteDIvoire
+```
+**Facebook (Reel, Haiti Brief):**
+```
+Ivorian media report that Côte d'Ivoire will send 812 soldiers to join the force fighting Haiti's gangs. No official announcement yet.
+#Haiti #HaitiNews #CoteDIvoire
+```
+**Tags:**
+```
+Haiti, Côte d'Ivoire, Ivory Coast, Gang Suppression Force, Haiti gangs, Haiti news, Haiti Brief
 ```
 
 ---
