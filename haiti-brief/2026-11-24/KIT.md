@@ -6,7 +6,7 @@ Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. Fòma nouvèl jeneral (mwatye
 |---|---|---|---|
 | 9:00 AM | hb-S41 | "US Lawmakers Say Trump Administration Is Failing to Sanction Haiti's Gang Backers" | ✅ PARE |
 | 3:00 PM | hb-S42 | 🌍 "Trump Tells Federal Prosecutors to Seek the Death Penalty in More Cases" | ✅ PARE |
-| 6:00 PM | hb-L15 | 🌍 "Ukraine's Sea Drone War Moves Far From the Black Sea" (long-form ~4:00) | 🛠️ narasyon + montaj ap fèt; bezwen A1–A5 (L2) anvan 3:30 PM |
+| 6:00 PM | hb-L15 | 🌍 "Ukraine's Sea Drone War Moves Far From the Black Sea" (long-form 4:03) | ✅ PARE |
 | 9:00 PM | hb-S43 | "Côte d'Ivoire to Send 812 Soldiers to Haiti's Anti-Gang Force, Ivorian Media Report" | ✅ PARE |
 
 ---
@@ -91,10 +91,10 @@ Haiti, Côte d'Ivoire, Ivory Coast, Gang Suppression Force, Haiti gangs, Haiti n
 ```
 
 ---
-## 6:00 PM ET · MADI 24 NOV · LONG-FORM hb-L15 (🌍 MOND) · ~4:00 · "Ukraine's Sea Drone War Moves Far From the Black Sea"
-**Estati:** 🛠️ Narasyon + montaj + thumbnail PARE (preview san avata 3:19). **Sèl sa k manke: A1–A5 Kai (rad L2)** — `anchor/2026-11-24_seadrones_long/DIALOGUE.md`, anvan **3:30 PM ET**. Si youn pa rive, m ap fini videyo a san li.
+## 6:00 PM ET · MADI 24 NOV · LONG-FORM hb-L15 (🌍 MOND) · 4:03 · "Ukraine's Sea Drone War Moves Far From the Black Sea"
+**Estati:** ✅ PARE · 4:03 · A1–A5 Kai (QC pase, rad L2) + narasyon + kat OSM + videyo SBU (FILE) + foto (FILE) · stutter check final pase · thumbnail PARE.
 · 1920×1080 · **Altered content: Yes** (avata) · Thumbnail: `haiti-brief/2026-11-24/HaitiBrief_Thumb_L15_A.jpg` · End screen: Subscribe + hb-S40 (R4-WMdtq6uU).
-- Video: `haiti-brief/2026-11-24/HaitiBrief_LongForm_L15_Nov_24.mp4` (ap vini lè A1–A5 rive)
+- Video: `haiti-brief/2026-11-24/HaitiBrief_LongForm_L15_Nov_24.mp4` (40 MB, 4:03)
 - Kòmantè pin: `Sources: Zelensky on X and the SBU (Nov. 23, 2026); AP; Al Jazeera; Reuters via RFE/RL; ABC News; UNSMIL; Finnish Defence Forces and Yle; C4ADS via Defense News; NBC News; Naval News. Ukraine's claims have not been independently verified. File images are labelled on screen.`
 
 **Tit:**
@@ -108,7 +108,10 @@ Ukraine says its naval drones hit the Russian corvette Merkury on Sunday, Nov. 2
 We also look at how Ukraine's sea drone campaign grew from the Black Sea to the Mediterranean and the Baltic — and what is still unclear, including where the drones were launched from.
 
 Chapters:
-(Claude ap mete yo apre montaj final la)
+0:00 What we know
+0:39 Benghazi
+1:42 Far from the Black Sea
+2:51 What is still unclear
 
 Ukraine's sea drones hit a Russian warship in Libya (Short): https://youtube.com/shorts/R4-WMdtq6uU
 
