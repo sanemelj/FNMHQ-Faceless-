@@ -91,3 +91,33 @@ Haiti, Côte d'Ivoire, Ivory Coast, Gang Suppression Force, Haiti gangs, Haiti n
 ```
 
 ---
+## 6:00 PM ET · MADI 24 NOV · LONG-FORM hb-L15 (🌍 MOND) · ~4:00 · "Ukraine's Sea Drone War Moves Far From the Black Sea"
+**Estati:** 🛠️ Narasyon + montaj + thumbnail PARE (preview san avata 3:19). **Sèl sa k manke: A1–A5 Kai (rad L2)** — `anchor/2026-11-24_seadrones_long/DIALOGUE.md`, anvan **3:30 PM ET**. Si youn pa rive, m ap fini videyo a san li.
+· 1920×1080 · **Altered content: Yes** (avata) · Thumbnail: `haiti-brief/2026-11-24/HaitiBrief_Thumb_L15_A.jpg` · End screen: Subscribe + hb-S40 (R4-WMdtq6uU).
+- Video: `haiti-brief/2026-11-24/HaitiBrief_LongForm_L15_Nov_24.mp4` (ap vini lè A1–A5 rive)
+- Kòmantè pin: `Sources: Zelensky on X and the SBU (Nov. 23, 2026); AP; Al Jazeera; Reuters via RFE/RL; ABC News; UNSMIL; Finnish Defence Forces and Yle; C4ADS via Defense News; NBC News; Naval News. Ukraine's claims have not been independently verified. File images are labelled on screen.`
+
+**Tit:**
+```
+Ukraine's Sea Drone War Moves Far From the Black Sea: What We Know About the Libya Strike
+```
+**Deskripsyon:**
+```
+Ukraine says its naval drones hit the Russian corvette Merkury on Sunday, Nov. 22, at the port of Benghazi in eastern Libya — far from the front line. Satellite images show the ship capsized at a pier. President Volodymyr Zelensky said seven Ukrainian-made naval drones were used and that a second ship, the cargo vessel Angara, was also hit. Libyan military officials told the AP at least four drones were shot down and two hit the ship; Reuters, citing local medical sources, reported 10 people injured. The Kremlin said it had taken note of Zelensky's statement. Both of Libya's rival governments rejected the attack, and the UN mission in Libya called for an independent investigation.
+
+We also look at how Ukraine's sea drone campaign grew from the Black Sea to the Mediterranean and the Baltic — and what is still unclear, including where the drones were launched from.
+
+Chapters:
+(Claude ap mete yo apre montaj final la)
+
+Ukraine's sea drones hit a Russian warship in Libya (Short): https://youtube.com/shorts/R4-WMdtq6uU
+
+Sources: Zelensky on X; Security Service of Ukraine (SBU); The Associated Press; Al Jazeera; Reuters via RFE/RL; ABC News; UN Support Mission in Libya; Finnish Defence Forces; Yle; C4ADS via Defense News; NBC News; Naval News. Video: Sea Baby drone (file, 2024) — Security Service of Ukraine (CC BY 4.0). Photos: the Merkury (file, July 2022) — Mil.ru (CC BY 4.0) and 13243546A (CC BY-SA 4.0); Benghazi — Mo ElFaty (CC BY-SA 4.0), Al-Mujbari (CC BY-SA 3.0). Map data © OpenStreetMap contributors.
+#Ukraine #Libya #WorldNews
+```
+**Tags:**
+```
+Ukraine, Russia, Libya, Benghazi, Merkury, sea drones, naval drones, Black Sea, Russia Ukraine war, world news, Haiti Brief
+```
+
+---
