@@ -6,7 +6,7 @@ Volim: 3 Shorts + 1 long-form maks, 3 è ant chak. Fòma nouvèl jeneral (mwatye
 |---|---|---|---|
 | 9:00 AM | hb-S44 | "Haiti's Prime Minister Answers Amnesty Over the El Salvador Deal" | ✅ PARE |
 | 3:00 PM | hb-S45 | 🌍 "Colombian Forces Storm Cartagena Supermarket, Free All Hostages After 17-Hour Siege" | ✅ PARE |
-| 6:00 PM | hb-L16 | "Haiti's Prime Minister Defends the El Salvador Deal" (long-form) | ⏳ bezwen A1–A5 (L3) anvan 3:30 PM |
+| 6:00 PM | hb-L16 | "Haiti's Prime Minister Defends the El Salvador Deal: What We Know, and What Is Still Secret" (long-form 3:46) | ✅ PARE |
 | 9:00 PM | hb-S46 | 🌍 "Two Libyan Officers Die After Ukraine's Benghazi Strike; Italy Calls It a Mistake" | ✅ PARE |
 
 ---
@@ -64,8 +64,32 @@ Colombia, Cartagena, hostages, supermarket, Abelardo de la Espriella, Latin Amer
 ```
 
 ---
-## 6:00 PM ET · MÈKREDI 25 NOV · LONG-FORM hb-L16 · "Haiti's Prime Minister Defends the El Salvador Deal"
-**Estati:** ⏳ ap prepare — m bezwen **A1–A5** (rad L3) anvan **3:30 PM ET** (`anchor/2026-11-25_accord_long/DIALOGUE.md`). M ap mete kat konplè a isit lè videyo a pare.
+## 6:00 PM ET · MÈKREDI 25 NOV · LONG-FORM hb-L16 (AYITI) · 3:46 · "Haiti's Prime Minister Defends the El Salvador Deal"
+**Estati:** ✅ PARE · 1920×1080 · Claire + Marc (A1–A5, L3) + narasyon + foto ofisyèl (Depatman Deta US, domèn piblik) + videyo achiv twoup salvadoryen (Bukele sou X) + videyo PNH (FILE, 19 nov) + kat OSM · **Altered content: Yes** (avata) · Category News & Politics · Language English · Made for kids: No · End screen: Subscribe + **hb-L14** (jBxX1RJ1PGI). Stutter check pase (narasyon + A1–A5).
+- Video: `haiti-brief/2026-11-25/HaitiBrief_LongForm_L16_Nov_25.mp4` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-25/HaitiBrief_LongForm_L16_Nov_25.mp4
+- Thumbnail: `haiti-brief/2026-11-25/HaitiBrief_Thumb_L16_A.jpg` — https://github.com/sanemelj/FNMHQ-Faceless-/raw/main/haiti-brief/2026-11-25/HaitiBrief_Thumb_L16_A.jpg
+- Kòmantè pin: `Sources: Prime Minister Alix Didier Fils-Aimé on X (Nov. 24, 2026), via Le Nouvelliste, EFE, Juno7 and Infobae; Amnesty International (Nov. 9); EFE and AFP (Nov. 17 cabinet approval); The Haitian Times (Nov. 21 and 24); Haitian National Police; Gang Suppression Force. Death tolls are official figures and have not been independently verified.`
+
+**Tit:**
+```
+Haiti's Prime Minister Defends the El Salvador Deal: What We Know, and What Is Still Secret
+```
+**Deskripsyon:**
+```
+Haiti's Prime Minister Alix Didier Fils-Aimé is defending the security cooperation agreement with El Salvador, as Amnesty International asks what is in it. In a post on X on Tuesday, Nov. 24, he said the agreement must be seen in the context of a national security emergency and that Haitians also have the right to a life without fear, without terror and without gang domination. Amnesty's Nov. 9 statement asked the government to publish the agreement and to explain who commands the Salvadoran troops, who they answer to and what rules they follow on the use of force. Haiti's Council of Ministers approved the agreement on Nov. 17; its content has not been made public. We also look at what is known so far: troop numbers, the planned prisons, the soldiers killed and missing, and the latest police and Gang Suppression Force results in Martissant and Gros-Morne.
+
+0:00 The deal
+0:38 What he said
+1:19 What Amnesty is asking
+2:06 What we know, and don't
+
+Sources: Le Nouvelliste; EFE; Juno7; Infobae; Amnesty International; AFP; The Associated Press; The Haitian Times; Haitian National Police; Gang Suppression Force. Photos: U.S. Department of State; Press Information Department (public domain, file). Video: Nayib Bukele on X (archive); Haitian National Police (file, Nov. 19). Maps: © OpenStreetMap contributors.
+#Haiti #HaitiNews #ElSalvador
+```
+**Tags:**
+```
+Haiti, Haiti news, Haiti prime minister, Alix Didier Fils-Aimé, El Salvador, Bukele, Salvadoran troops in Haiti, Amnesty International, Gang Suppression Force, Martissant, Gros-Morne, Haiti Brief
+```
 
 ---
 ## 9:00 PM ET · MÈKREDI 25 NOV · SHORT hb-S46 (🌍 LIBI/ITALI) · 0:41 · "Two Libyan Officers Die After Ukraine's Benghazi Strike; Italy Calls It a Mistake"
