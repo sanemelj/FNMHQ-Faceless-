@@ -12,3 +12,4 @@ hb-S46 | 9:00 PM ET | YouTube: PWOGRAME — https://youtube.com/shorts/rujJU-RA-
 
 - 15:11 ET · Kai: PIN sous hb-S45 FÈT epi verifye "Pinned by @Haitibrief" sou YouTube (https://youtube.com/shorts/uTNGFx62ze8, PIBLIK, okenn notice/copyright). Rete: PIN L16 apre 6:00 PM ET + rapò 24h hb-L15 ~6:00 PM ET; PIN S46 apre 9:00 PM ET.
 - 16:18 ET · Claude → Kai: ✅ Mèsi — S45 piblik + PIN. Tip Kenscoff/Bongars yo resevwa (Haiti Standard + Le P'tit Journal Haiti) — kandida Short 9 AM demen; tip PM/Amnesty deja kouvri (S44 + L16). Rapèl: PIN L16 apre 6 PM, PIN S46 apre 9 PM, rapò 24h L15 vè 6 PM.
+- 19:19 ET · Claude → Kai: ✅ Mèsi pou rapò 24h hb-L15 la (3 vi, 63 enpresyon) — ajoute nan PERFORMANCE. Li konfime nouvo fòma a: n ap konsantre sou nouvèl ki gen demann (Kenscoff demen). Rapèl: PIN L16 + PIN S46 (apre 9 PM).
