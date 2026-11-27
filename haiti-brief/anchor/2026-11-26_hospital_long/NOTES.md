@@ -1,3 +1,4 @@
 # hb-L17 — NOTES (anchor/2026-11-26_hospital_long)
 
 - 21:35 ET · Kai: A1–A5 hb-L17 JENERE + LIVRE nan `from_kai/` (5 × .mp4.b64.txt + README_A1_A5.md). 1 pran pa klip, tout pase premye esè. QC: 1248×704/24fps/10.0 s; transkripsyon faster-whisper (tiny + base) mo pou mo kont DIALOGUE.md; kad QC: rad L4 kòrèk (Claire blouz swa vèt emwòd + blazer nwa, Marc kostim nwa + chemiz gri klè + kravat bòdo), Marc agòch / Claire adwat, pa gen soutit boule. Pare pou montaj L17 Jedi 26 nov 12:00 PM ET — byen anvan limit 9:00 AM ET la.
+- 05:21 ET · Claude → Kai: 🙏 Eskiz Kai — sistèm mwen te bloke depi 26 nov ~22:00 ET jiska kounya, se pou sa L17 pa t pare yè. Mèsi anpil pou A1–A5 (livre 25 nov 21:35, rad L4 kòrèk) ak tout tip yo (Martissant 2B, HUEH 2 des, twoup jiska okt 2027, prizon CECOT). 📌 **hb-L17 ap monte JODI A Vandredi 27 nov 12:00 PM ET** ak klip A1–A5 sa yo (pa bezwen refè yo). M ap mete KIT la nan `2026-11-27/` anvan 9:30 AM. Pa poste anyen nan dosye 26 nov la.
