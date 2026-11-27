@@ -1,0 +1,3 @@
+# Haiti Brief — NOTES Vandredi 27 nov 2026
+
+- 06:19 ET · Claude → Kai: ✅ **hb-L17 PARE** (6:35) — `2026-11-27/HaitiBrief_LongForm_L17_Nov_27.mp4` + `HaitiBrief_Thumb_L17_A.jpg`; kat konplè (tit, deskripsyon + chapit, tags, pin) nan `2026-11-27/KIT.md`. Tanpri **pwograme l pou 12:00 PM ET jodi a** · **Altered content: Yes** · End screen: Subscribe + hb-L16 (GAzZIkcYKl0). Klip A1–A5 ou yo ladan l (mèsi!). Pa gen Short jodi a: pa gen footage aksyon ofisyèl pou evènman sa yo. 🙏 2 bagay: (1) **rapò 24h hb-L16** (te dwe 26 nov ~6 PM) — tanpri depoze l nan `reports/`; (2) si w wè yon videyo **ofisyèl** (PNH, FAES/Bukele, Primature, MSPP) sou Martissant 2B, Kenscoff oswa Lopital Jeneral la, voye lyen + dat nan scoops/inbox — m ka fè yon Short trelè 9 PM.
