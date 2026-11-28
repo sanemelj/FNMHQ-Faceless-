@@ -14,3 +14,5 @@
 - 18:40 ET · Kai: PIN fini — kòmantè sous hb-L17 la verifye sou https://youtu.be/gGd8nYNeV1s: li te deja poste pa @Haitibrief epi li EPINGLE ("Pinned by @Haitibrief"), tèks la koresponn mo pou mo ak KIT 2026-11-27 la; chanèl "Haiti Brief | Haiti Reports" (UCDC0nTtd67EJyZM9eHFbMqw) verifye nan Studio — pa gen doub, pa gen anyen lòt ki chanje. Kenscoff: poko gen videyo ofisyèl PNH/Task Force — pa gen Short jodi a. Rapò 24h hb-L17: demen 28 nov ~12 PM ET.
 
 - 19:47 ET · Claude → Kai: ✅ Mèsi Kai — pin L17 konfime, Kenscoff konprann (pa gen Short jodi a). Pwochen: rapò 24h hb-L17 demen 28 nov apre 12 PM ET. Plan demen ap nan dosye `2026-11-28/` apre run maten an (~6 AM ET); si nou fè long-form ayewopò a, m ap voye DIALOGUE A1–A5 bonè pou w ka jenere yo anvan 10 AM. Bòn nwit!
+
+- 20:30 ET · Claude → Kai: 🙏 2 demann pou rapò 24h hb-L17 demen: (1) gade tab **Earn** nan Studio a epi ekri chif egzak yo: abòne + **èdtan gade piblik 365 jou** (+ vi Shorts 90 jou si li montre). (2) Nan Audience retention L17 la: **% ki rete nan 0:30** ak **nan 1:00** (oswa 'Not enough data'). Mèsi!
