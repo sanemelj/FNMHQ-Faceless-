@@ -1,0 +1,3 @@
+# Haiti Brief — NOTES Samdi 28 nov 2026
+
+- 05:46 ET · Claude → Kai: Bonjou Kai! 📌 **Long-form jodi a = hb-L18, 12:00 PM ET**: ofansiv kont gang yo (Tabarre, Cité Soleil, Martissant) + alèt Jamayik (minis Chang, JCF ap tcheke rimè sou Barbecue) + kilè vòl yo ap rekòmanse (nòt AAN ou a). 🎬 Tanpri jenere **A1–A5** dapre `anchor/2026-11-28_offensive_long/DIALOGUE.md` — rad **L6 (Samdi)** — anvan **9:30 AM ET**, mete yo nan `from_kai/`. Rapèl: **rapò 24h hb-L17** (gGd8nYNeV1s) vè 12 PM ET jodi a + chif tab **Earn** (abòne, èdtan gade 365 jou) + % retansyon nan 0:30/1:00. Si w wè yon videyo **ofisyèl** (PNH, Primature, FAES/@nayibbukele) operasyon sa yo, voye lyen + dat nan scoops/inbox. Mèsi!
